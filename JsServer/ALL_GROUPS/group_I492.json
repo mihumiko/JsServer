@@ -1,0 +1,264 @@
+{
+    "Number": "I492",
+    "IdGroup": "2366",
+    "Days": {
+        "Day": {
+            "Title": "Понедельник",
+            "GroupLessons": {
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Понедельник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "9:00 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек ПРОЕКТИРОВ. РЭС"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "672"
+                            },
+                            "ShortName": {
+                                "ShortName": "Безруков А.В."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "444; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Понедельник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "9:00 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек ПРОЕКТИРОВ. РЭС"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "672"
+                            },
+                            "ShortName": {
+                                "ShortName": "Безруков А.В."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "455; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Понедельник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "10:50 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек ПРОЕКТИРОВ. РЭС"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "672"
+                            },
+                            "ShortName": {
+                                "ShortName": "Безруков А.В."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "425; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Понедельник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "10:50 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ПРОЕКТИРОВ. РЭС"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "672"
+                            },
+                            "ShortName": {
+                                "ShortName": "Безруков А.В."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "425; "
+                    }
+                }
+            }
+        },
+        "Day": {
+            "Title": "Вторник",
+            "GroupLessons": {
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Вторник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "16:45 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр НАУЧ-ИССЛ. РАБОТА"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1581"
+                            },
+                            "ShortName": {
+                                "ShortName": "Лукичев В.Ю."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "487; "
+                    }
+                }
+            }
+        },
+        "Day": {
+            "Title": "Среда",
+            "GroupLessons": {
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Среда"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "9:00 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лаб ПРОЕКТИРОВ. РЭС"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "672"
+                            },
+                            "ShortName": {
+                                "ShortName": "Безруков А.В."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "428; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Среда"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "10:50 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек ОСН.ТЕОР.КОД."
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1297"
+                            },
+                            "ShortName": {
+                                "ShortName": "Стукалова А.С."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "436; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Среда"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "10:50 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек ОСН.ТЕОР.КОД."
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1297"
+                            },
+                            "ShortName": {
+                                "ShortName": "Стукалова А.С."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "436; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Среда"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "12:40 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ОСН.ТЕОР.КОД."
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1297"
+                            },
+                            "ShortName": {
+                                "ShortName": "Стукалова А.С."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "423а; "
+                    }
+                }
+            }
+        }
+    }
+}

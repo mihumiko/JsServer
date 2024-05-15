@@ -1,0 +1,966 @@
+{
+    "Number": "A501C",
+    "IdGroup": "2491",
+    "Days": {
+        "Day": {
+            "Title": "Понедельник",
+            "GroupLessons": {
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Понедельник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "9:00 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр УНИРС"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2102"
+                            },
+                            "ShortName": {
+                                "ShortName": "Махонин И.О."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "КАБ.10; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Понедельник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "10:50 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ОЦ.СОСТ.И ПАР.ЛА"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1541"
+                            },
+                            "ShortName": {
+                                "ShortName": "Алексеева К.С."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "КАБ.10; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Понедельник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "10:50 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ПРОГР.ОБЕС.СРВ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1952"
+                            },
+                            "ShortName": {
+                                "ShortName": "Костин И.Д."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "277; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Понедельник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "12:40 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек МЕТ. УПР.ЛА  И КА"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "433"
+                            },
+                            "ShortName": {
+                                "ShortName": "Толпегин О.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "КАБ.10; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Понедельник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "12:40 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек МЕТ. УПР.ЛА  И КА"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "433"
+                            },
+                            "ShortName": {
+                                "ShortName": "Толпегин О.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "КАБ.10; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Понедельник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "14:55 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек ОЦ.СОСТ.И ПАР.ЛА"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1541"
+                            },
+                            "ShortName": {
+                                "ShortName": "Алексеева К.С."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "КАБ.10; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Понедельник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "14:55 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек ОЦ.СОСТ.И ПАР.ЛА"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1541"
+                            },
+                            "ShortName": {
+                                "ShortName": "Алексеева К.С."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "КАБ.2; "
+                    }
+                }
+            }
+        },
+        "Day": {
+            "Title": "Вторник",
+            "GroupLessons": {
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Вторник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "10:50 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лаб УСТР.И ФУНКЦ.КА"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2165"
+                            },
+                            "ShortName": {
+                                "ShortName": "Дидковский Д.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "КТ; СК ИСС; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Вторник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "10:50 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ТАУ ДИСК. СИСТ. ЛА"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1105"
+                            },
+                            "ShortName": {
+                                "ShortName": "Курилова Е.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "277; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Вторник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "12:40 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек УСТР.И ФУНКЦ.КА"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2165"
+                            },
+                            "ShortName": {
+                                "ShortName": "Дидковский Д.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "КТ; СК ИСС; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Вторник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "12:40 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек УСТР.И ФУНКЦ.КА"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2165"
+                            },
+                            "ShortName": {
+                                "ShortName": "Дидковский Д.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "КТ; СК ИСС; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Вторник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "14:55 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек ПРОГР.ОБЕС.СРВ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "139"
+                            },
+                            "ShortName": {
+                                "ShortName": "Романов С.Л."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "346; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Вторник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "14:55 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек ПРОГР.ОБЕС.СРВ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "139"
+                            },
+                            "ShortName": {
+                                "ShortName": "Романов С.Л."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "259; "
+                    }
+                }
+            }
+        },
+        "Day": {
+            "Title": "Среда",
+            "GroupLessons": {
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Среда"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "9:00 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ДОП. ПОДГОТОВКА"
+                    },
+                    "Classroom": {}
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Среда"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "9:00 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ДОП. ПОДГОТОВКА"
+                    },
+                    "Classroom": {}
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Среда"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "10:50 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ДОП. ПОДГОТОВКА"
+                    },
+                    "Classroom": {}
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Среда"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "10:50 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ДОП. ПОДГОТОВКА"
+                    },
+                    "Classroom": {}
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Среда"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "12:40 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ДОП. ПОДГОТОВКА"
+                    },
+                    "Classroom": {}
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Среда"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "12:40 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ДОП. ПОДГОТОВКА"
+                    },
+                    "Classroom": {}
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Среда"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "14:55 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ДОП. ПОДГОТОВКА"
+                    },
+                    "Classroom": {}
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Среда"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "14:55 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ДОП. ПОДГОТОВКА"
+                    },
+                    "Classroom": {}
+                }
+            }
+        },
+        "Day": {
+            "Title": "Четверг",
+            "GroupLessons": {
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Четверг"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "9:00 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр УНИРС"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2102"
+                            },
+                            "ShortName": {
+                                "ShortName": "Махонин И.О."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "КАБ.2; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Четверг"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "9:00 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр УНИРС"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2102"
+                            },
+                            "ShortName": {
+                                "ShortName": "Махонин И.О."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "КАБ.2; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Четверг"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "10:50 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр МЕТ. УПР.ЛА  И КА"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1611"
+                            },
+                            "ShortName": {
+                                "ShortName": "Сизова А.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "ВЦ 282; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Четверг"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "10:50 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ТЕОР.ПОЛЕТА КА"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1611"
+                            },
+                            "ShortName": {
+                                "ShortName": "Сизова А.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "ВЦ 282; "
+                    }
+                }
+            }
+        },
+        "Day": {
+            "Title": "Пятница",
+            "GroupLessons": {
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Пятница"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "10:50 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек ТЕОР.ПОЛЕТА КА"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1611"
+                            },
+                            "ShortName": {
+                                "ShortName": "Сизова А.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "КАБ.2; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Пятница"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "10:50 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек ТЕОР.ПОЛЕТА КА"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1611"
+                            },
+                            "ShortName": {
+                                "ShortName": "Сизова А.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "КАБ.2; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Пятница"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "12:40 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр СТОХ.МОД.БАЛ.БПЛА"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1411"
+                            },
+                            "ShortName": {
+                                "ShortName": "Лемешонок Т.Ю."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "ВЦ 284; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Пятница"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "12:40 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр СТОХ.МОД.БАЛ.БПЛА"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1411"
+                            },
+                            "ShortName": {
+                                "ShortName": "Лемешонок Т.Ю."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "ВЦ 284; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Пятница"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "14:55 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек СТОХ.МОД.БАЛ.БПЛА"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1411"
+                            },
+                            "ShortName": {
+                                "ShortName": "Лемешонок Т.Ю."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "КАБ.2; "
+                    }
+                }
+            }
+        },
+        "Day": {
+            "Title": "Суббота",
+            "GroupLessons": {
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Суббота"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "9:00 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек ТАУ ДИСК. СИСТ. ЛА"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "432"
+                            },
+                            "ShortName": {
+                                "ShortName": "Петрова И.Л."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "КАБ.2; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Суббота"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "9:00 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек ТАУ ДИСК. СИСТ. ЛА"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "432"
+                            },
+                            "ShortName": {
+                                "ShortName": "Петрова И.Л."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "КАБ.2; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Суббота"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "10:50 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ЭКСПЕРИМ.БАЛЛИСТ."
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1498"
+                            },
+                            "ShortName": {
+                                "ShortName": "Теляков Р.Ф."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "КАБ.2; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Суббота"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "10:50 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ЭКСПЕРИМ.БАЛЛИСТ."
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1498"
+                            },
+                            "ShortName": {
+                                "ShortName": "Теляков Р.Ф."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "КАБ.2; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Суббота"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "12:40 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ИНФ.БЕЗОПАСНОСТЬ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1832"
+                            },
+                            "ShortName": {
+                                "ShortName": "Рютин Б.В."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "КАБ.10; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Суббота"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "12:40 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ИНФ.БЕЗОПАСНОСТЬ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1832"
+                            },
+                            "ShortName": {
+                                "ShortName": "Рютин Б.В."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "КАБ.10; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Суббота"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "14:55 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ИНФ.БЕЗОПАСНОСТЬ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1832"
+                            },
+                            "ShortName": {
+                                "ShortName": "Рютин Б.В."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "КАБ.2; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Суббота"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "14:55 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек ЭКСПЕРИМ.БАЛЛИСТ."
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1498"
+                            },
+                            "ShortName": {
+                                "ShortName": "Теляков Р.Ф."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "КАБ.2; "
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,426 @@
+{
+    "Number": "KPR701",
+    "IdGroup": "2884",
+    "Days": {
+        "Day": {
+            "Title": "Понедельник",
+            "GroupLessons": {
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Понедельник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "12:40 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ЧТ.ЛИТ.НА РУС.ЯЗ."
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1721"
+                            },
+                            "ShortName": {
+                                "ShortName": "Невзорова Н.Ф."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "411*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Понедельник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "12:40 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ЧТ.ЛИТ.НА РУС.ЯЗ."
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1721"
+                            },
+                            "ShortName": {
+                                "ShortName": "Невзорова Н.Ф."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "411*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Понедельник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "14:55 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек ДИСКУРС"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1416"
+                            },
+                            "ShortName": {
+                                "ShortName": "Канатаев Д.В."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "411*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Понедельник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "14:55 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек НАУЧ. ИССЛ. РАБ."
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1416"
+                            },
+                            "ShortName": {
+                                "ShortName": "Канатаев Д.В."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "411*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Понедельник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "16:45 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ДИСКУРС"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1416"
+                            },
+                            "ShortName": {
+                                "ShortName": "Канатаев Д.В."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "411*; "
+                    }
+                }
+            }
+        },
+        "Day": {
+            "Title": "Среда",
+            "GroupLessons": {
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Среда"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "9:00 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ПРАКТ.КУРС РУС.ЯЗ."
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1482"
+                            },
+                            "ShortName": {
+                                "ShortName": "Тимофеева  С.П."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "326*а; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Среда"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "9:00 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ПРАКТ.КУРС РУС.ЯЗ."
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1482"
+                            },
+                            "ShortName": {
+                                "ShortName": "Тимофеева  С.П."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "326*а; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Среда"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "10:50 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ПЕРЕВОД АНГЛ.ЯЗ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1569"
+                            },
+                            "ShortName": {
+                                "ShortName": "Аксенова Д.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "326*а; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Среда"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "10:50 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ПЕРЕВОД АНГЛ.ЯЗ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1569"
+                            },
+                            "ShortName": {
+                                "ShortName": "Аксенова Д.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "326*а; "
+                    }
+                }
+            }
+        },
+        "Day": {
+            "Title": "Четверг",
+            "GroupLessons": {
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Четверг"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "10:50 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр РАЗГОВОР.ПРАКТ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1482"
+                            },
+                            "ShortName": {
+                                "ShortName": "Тимофеева  С.П."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "326*а; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Четверг"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "10:50 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр РАЗГОВОР.ПРАКТ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1482"
+                            },
+                            "ShortName": {
+                                "ShortName": "Тимофеева  С.П."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "326*а; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Четверг"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "12:40 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ПРАКТ.КУРС РУС.ЯЗ."
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1482"
+                            },
+                            "ShortName": {
+                                "ShortName": "Тимофеева  С.П."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "326*а; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Четверг"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "12:40 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ПРАКТ.КУРС РУС.ЯЗ."
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1482"
+                            },
+                            "ShortName": {
+                                "ShortName": "Тимофеева  С.П."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "326*а; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Четверг"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "14:55 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ПЕРЕВОД АНГЛ.ЯЗ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1569"
+                            },
+                            "ShortName": {
+                                "ShortName": "Аксенова Д.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "326*а; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Четверг"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "14:55 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ПЕРЕВОД АНГЛ.ЯЗ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1569"
+                            },
+                            "ShortName": {
+                                "ShortName": "Аксенова Д.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "326*а; "
+                    }
+                }
+            }
+        }
+    }
+}

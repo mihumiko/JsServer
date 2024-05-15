@@ -1,0 +1,469 @@
+{
+    "Number": "VR122B",
+    "IdGroup": "2828",
+    "Days": {
+        "Day": {
+            "Title": "Понедельник",
+            "GroupLessons": {
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Понедельник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "18:30 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек СОЦИОЛОГИЯ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1608"
+                            },
+                            "ShortName": {
+                                "ShortName": "Клюев А.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "507*а; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Понедельник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "18:30 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр МАРКЕТИНГ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2197"
+                            },
+                            "ShortName": {
+                                "ShortName": "Лученкова Т.С."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "425*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Понедельник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "20:05 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр СОЦИОЛОГИЯ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1608"
+                            },
+                            "ShortName": {
+                                "ShortName": "Клюев А.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "507*а; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Понедельник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "20:05 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ТЕОР.МЕНЕДЖ."
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2155"
+                            },
+                            "ShortName": {
+                                "ShortName": "Зареева Т.В."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "425*; "
+                    }
+                }
+            }
+        },
+        "Day": {
+            "Title": "Вторник",
+            "GroupLessons": {
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Вторник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "18:30 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек МАРКЕТИНГ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2086"
+                            },
+                            "ShortName": {
+                                "ShortName": "Сталькина У.М."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "325*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Вторник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "20:05 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек ТЕОР.МЕНЕДЖ."
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1728"
+                            },
+                            "ShortName": {
+                                "ShortName": "Фомина А.П."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "425*; "
+                    }
+                }
+            }
+        },
+        "Day": {
+            "Title": "Среда",
+            "GroupLessons": {
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Среда"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "18:30 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек ЭКОНОМ.ТРУДА"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "872"
+                            },
+                            "ShortName": {
+                                "ShortName": "Вольф Е.В."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "403*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Среда"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "18:30 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек ОСН.СИСТ.АНАЛИЗА"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "792"
+                            },
+                            "ShortName": {
+                                "ShortName": "Таничев А.В."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "403*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Среда"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "20:05 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ЭКОНОМ.ТРУДА"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "872"
+                            },
+                            "ShortName": {
+                                "ShortName": "Вольф Е.В."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "432*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Среда"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "20:05 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ОСН.СИСТ.АНАЛИЗА"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "792"
+                            },
+                            "ShortName": {
+                                "ShortName": "Таничев А.В."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "432*; "
+                    }
+                }
+            }
+        },
+        "Day": {
+            "Title": "Четверг",
+            "GroupLessons": {
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Четверг"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "18:30 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ОСНОВЫ ПРАВА"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1565"
+                            },
+                            "ShortName": {
+                                "ShortName": "Хвостов А.Б."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "403*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Четверг"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "18:30 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ПРЕДПРИНИМ.ПРАВО"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1565"
+                            },
+                            "ShortName": {
+                                "ShortName": "Хвостов А.Б."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "413*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Четверг"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "20:05 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек ОСНОВЫ ПРАВА"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1565"
+                            },
+                            "ShortName": {
+                                "ShortName": "Хвостов А.Б."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "403*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Четверг"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "20:05 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек ПРЕДПРИНИМ.ПРАВО"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1565"
+                            },
+                            "ShortName": {
+                                "ShortName": "Хвостов А.Б."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "413*; "
+                    }
+                }
+            }
+        },
+        "Day": {
+            "Title": "Пятница",
+            "GroupLessons": {
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Пятница"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "18:30 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ЭК ПО ФК И СПОРТУ"
+                    },
+                    "Classroom": {}
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Пятница"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "18:30 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ЭК ПО ФК И СПОРТУ"
+                    },
+                    "Classroom": {}
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Пятница"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "20:05 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ЭК ПО ФК И СПОРТУ"
+                    },
+                    "Classroom": {}
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Пятница"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "20:05 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ЭК ПО ФК И СПОРТУ"
+                    },
+                    "Classroom": {}
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,782 @@
+{
+    "Number": "R113C",
+    "IdGroup": "2674",
+    "Days": {
+        "Day": {
+            "Title": "Понедельник",
+            "GroupLessons": {
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Понедельник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "10:50 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр СОЦИАЛЬНАЯ ПСИХОЛ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2208"
+                            },
+                            "ShortName": {
+                                "ShortName": "Берзина О.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "425*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Понедельник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "12:40 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр МЕТОД.И ОРГ. ПЕРС."
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2196"
+                            },
+                            "ShortName": {
+                                "ShortName": "Войко У.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "425*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Понедельник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "12:40 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр МЕТОД.И ОРГ. ПЕРС."
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2196"
+                            },
+                            "ShortName": {
+                                "ShortName": "Войко У.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "425*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Понедельник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "14:55 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ПСИХОЛ. ОБЩЕНИЯ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2196"
+                            },
+                            "ShortName": {
+                                "ShortName": "Войко У.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "420*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Понедельник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "14:55 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ПСИХОЛ. ОБЩЕНИЯ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2196"
+                            },
+                            "ShortName": {
+                                "ShortName": "Войко У.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "413*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Понедельник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "16:45 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр БЖД"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2067"
+                            },
+                            "ShortName": {
+                                "ShortName": "Храпко Н.Н."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "384а; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Понедельник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "18:30 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лаб БЖД"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2235"
+                            },
+                            "ShortName": {
+                                "ShortName": "Гордеев А.Н."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "384б; "
+                    }
+                }
+            }
+        },
+        "Day": {
+            "Title": "Вторник",
+            "GroupLessons": {
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Вторник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "12:40 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек ПСИХОЛ. ОБЩЕНИЯ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1945"
+                            },
+                            "ShortName": {
+                                "ShortName": "Карпенко Д.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "405*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Вторник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "14:55 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек СОЦИАЛЬНАЯ ПСИХОЛ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1602"
+                            },
+                            "ShortName": {
+                                "ShortName": "Болотова О.В."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "425*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Вторник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "14:55 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек СОЦИАЛЬНАЯ ПСИХОЛ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1602"
+                            },
+                            "ShortName": {
+                                "ShortName": "Болотова О.В."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "430*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Вторник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "16:45 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек ДОКУМ-Е УПР.ДЕЯТ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1430"
+                            },
+                            "ShortName": {
+                                "ShortName": "Баленко А.С."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "405*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Вторник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "16:45 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек ДОКУМ-Е УПР.ДЕЯТ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1430"
+                            },
+                            "ShortName": {
+                                "ShortName": "Баленко А.С."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "405*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Вторник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "18:30 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ДОКУМ-Е УПР.ДЕЯТ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1430"
+                            },
+                            "ShortName": {
+                                "ShortName": "Баленко А.С."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "530*; "
+                    }
+                }
+            }
+        },
+        "Day": {
+            "Title": "Среда",
+            "GroupLessons": {
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Среда"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "12:40 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ПСИХОЛОГИЯ СТРЕССА"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1944"
+                            },
+                            "ShortName": {
+                                "ShortName": "Селиверстова Н.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "434*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Среда"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "12:40 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ПСИХОЛОГИЯ СТРЕССА"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1944"
+                            },
+                            "ShortName": {
+                                "ShortName": "Селиверстова Н.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "432*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Среда"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "14:55 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек КОГНИТИВНАЯ ПСИХОЛОГ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1944"
+                            },
+                            "ShortName": {
+                                "ShortName": "Селиверстова Н.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "325*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Среда"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "14:55 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек КОГНИТИВНАЯ ПСИХОЛОГ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1944"
+                            },
+                            "ShortName": {
+                                "ShortName": "Селиверстова Н.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "325*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Среда"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "16:45 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек ПСИХОЛОГИЯ СТРЕССА"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1944"
+                            },
+                            "ShortName": {
+                                "ShortName": "Селиверстова Н.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "434*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Среда"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "16:45 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек ПСИХОЛОГИЯ СТРЕССА"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1944"
+                            },
+                            "ShortName": {
+                                "ShortName": "Селиверстова Н.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "434*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Среда"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "18:30 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр МОТИВ. СОЦ.ПОВЕДЕНИЯ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2196"
+                            },
+                            "ShortName": {
+                                "ShortName": "Войко У.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "432*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Среда"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "18:30 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр МОТИВ. СОЦ.ПОВЕДЕНИЯ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2196"
+                            },
+                            "ShortName": {
+                                "ShortName": "Войко У.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "432*; "
+                    }
+                }
+            }
+        },
+        "Day": {
+            "Title": "Пятница",
+            "GroupLessons": {
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Пятница"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "10:50 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр КОГНИТИВНАЯ ПСИХОЛОГ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1944"
+                            },
+                            "ShortName": {
+                                "ShortName": "Селиверстова Н.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "425*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Пятница"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "12:40 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек БЖД"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "354"
+                            },
+                            "ShortName": {
+                                "ShortName": "Буторина М.В."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "318; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Пятница"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "12:40 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек БЖД"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "354"
+                            },
+                            "ShortName": {
+                                "ShortName": "Буторина М.В."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "318; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Пятница"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "14:55 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек МОТИВ. СОЦ.ПОВЕДЕНИЯ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1945"
+                            },
+                            "ShortName": {
+                                "ShortName": "Карпенко Д.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "425*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Пятница"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "14:55 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек МОТИВ. СОЦ.ПОВЕДЕНИЯ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1945"
+                            },
+                            "ShortName": {
+                                "ShortName": "Карпенко Д.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "403*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Пятница"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "16:45 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр СОЦИАЛЬНАЯ ПСИХОЛ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2208"
+                            },
+                            "ShortName": {
+                                "ShortName": "Берзина О.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "420*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Пятница"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "16:45 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек МЕТОД.И ОРГ. ПЕРС."
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1945"
+                            },
+                            "ShortName": {
+                                "ShortName": "Карпенко Д.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "404*; "
+                    }
+                }
+            }
+        }
+    }
+}

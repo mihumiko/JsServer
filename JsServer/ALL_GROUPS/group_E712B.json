@@ -1,0 +1,593 @@
+{
+    "Number": "E712B",
+    "IdGroup": "2649",
+    "Days": {
+        "Day": {
+            "Title": "Понедельник",
+            "GroupLessons": {
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Понедельник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "10:50 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лаб ДЕТАЛИ МАШИН"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1715"
+                            },
+                            "ShortName": {
+                                "ShortName": "Кротов Ю.В."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "452*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Понедельник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "10:50 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лаб ДЕТАЛИ МАШИН"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1715"
+                            },
+                            "ShortName": {
+                                "ShortName": "Кротов Ю.В."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "452*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Понедельник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "12:40 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек МЕТ-РЕЖ. СТАНКИ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "1413"
+                            },
+                            "ShortName": {
+                                "ShortName": "Александров  А.С."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "202*а(К.кл); "
+                    }
+                }
+            }
+        },
+        "Day": {
+            "Title": "Вторник",
+            "GroupLessons": {
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Вторник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "10:50 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр СТРОИТ.МЕХ.МАШ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "576"
+                            },
+                            "ShortName": {
+                                "ShortName": "Титух И.Н."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "453*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Вторник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "12:40 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр СТРОИТ.МЕХ.МАШ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "576"
+                            },
+                            "ShortName": {
+                                "ShortName": "Титух И.Н."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "102*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Вторник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "12:40 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр СТРОИТ.МЕХ.МАШ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "576"
+                            },
+                            "ShortName": {
+                                "ShortName": "Титух И.Н."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "102*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Вторник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "14:55 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр УПРАВЛЕНИЕ В ТС"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2088"
+                            },
+                            "ShortName": {
+                                "ShortName": "Борисов С.В."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "Лаб. 250; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Вторник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "14:55 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр УПРАВЛЕНИЕ В ТС"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2088"
+                            },
+                            "ShortName": {
+                                "ShortName": "Борисов С.В."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "Лаб. 250; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Вторник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "16:45 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек УПРАВЛЕНИЕ В ТС"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2088"
+                            },
+                            "ShortName": {
+                                "ShortName": "Борисов С.В."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "Лаб. 250; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Вторник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "16:45 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек УПРАВЛЕНИЕ В ТС"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2088"
+                            },
+                            "ShortName": {
+                                "ShortName": "Борисов С.В."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "Лаб. 250; "
+                    }
+                }
+            }
+        },
+        "Day": {
+            "Title": "Среда",
+            "GroupLessons": {
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Среда"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "14:55 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек ЭФФЕКТ И НАДЕЖ СТС"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "50"
+                            },
+                            "ShortName": {
+                                "ShortName": "Любимов И.В."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "КАБ.Е1; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Среда"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "14:55 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек ЭФФЕКТ И НАДЕЖ СТС"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "50"
+                            },
+                            "ShortName": {
+                                "ShortName": "Любимов И.В."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "КАБ.Е1; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Среда"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "16:45 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек МИКРОЭЛ. СИСТ."
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2214"
+                            },
+                            "ShortName": {
+                                "ShortName": "Курицын А.Н."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "440; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Среда"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "16:45 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лаб МИКРОЭЛ. СИСТ."
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2214"
+                            },
+                            "ShortName": {
+                                "ShortName": "Курицын А.Н."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "114; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Среда"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "18:30 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр МИКРОЭЛ. СИСТ."
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2214"
+                            },
+                            "ShortName": {
+                                "ShortName": "Курицын А.Н."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "440; "
+                    }
+                }
+            }
+        },
+        "Day": {
+            "Title": "Пятница",
+            "GroupLessons": {
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Пятница"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "10:50 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек СТРОИТ.МЕХ.МАШ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "576"
+                            },
+                            "ShortName": {
+                                "ShortName": "Титух И.Н."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "492; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Пятница"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "12:40 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лаб ЭФФЕКТ И НАДЕЖ СТС"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2021"
+                            },
+                            "ShortName": {
+                                "ShortName": "Мелехин А.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "КАБ.Е1; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Пятница"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "14:55 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ЭФФЕКТ И НАДЕЖ СТС"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2021"
+                            },
+                            "ShortName": {
+                                "ShortName": "Мелехин А.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "КАБ.Е1; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Пятница"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "14:55 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ЭФФЕКТ И НАДЕЖ СТС"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2021"
+                            },
+                            "ShortName": {
+                                "ShortName": "Мелехин А.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "КАБ.Е1; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Пятница"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "16:45 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ДЕТАЛИ МАШИН"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2040"
+                            },
+                            "ShortName": {
+                                "ShortName": "Ли В.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "452*; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Пятница"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "16:45 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ДЕТАЛИ МАШИН"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2040"
+                            },
+                            "ShortName": {
+                                "ShortName": "Ли В.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "452*; "
+                    }
+                }
+            }
+        }
+    }
+}

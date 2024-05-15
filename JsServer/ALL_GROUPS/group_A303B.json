@@ -1,0 +1,259 @@
+{
+    "Number": "A303B",
+    "IdGroup": "2488",
+    "Days": {
+        "Day": {
+            "Title": "Понедельник",
+            "GroupLessons": {
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Понедельник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "12:40 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек ПРЕОБР.ИЗМ.СИГН"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2165"
+                            },
+                            "ShortName": {
+                                "ShortName": "Дидковский Д.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "НТУ; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Понедельник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "14:55 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ПРЕОБР.ИЗМ.СИГН"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2165"
+                            },
+                            "ShortName": {
+                                "ShortName": "Дидковский Д.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "СКМ1; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Понедельник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "14:55 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр ПРЕОБР.ИЗМ.СИГН"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2165"
+                            },
+                            "ShortName": {
+                                "ShortName": "Дидковский Д.А."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "СКМ1; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Понедельник"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "16:45 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек ЭНЕРГОСИСТЕМЫ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2064"
+                            },
+                            "ShortName": {
+                                "ShortName": "Куклин Д.И."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "СК ИСС; "
+                    }
+                }
+            }
+        },
+        "Day": {
+            "Title": "Четверг",
+            "GroupLessons": {
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Четверг"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "12:40 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лаб ЭНЕРГОСИСТЕМЫ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2064"
+                            },
+                            "ShortName": {
+                                "ShortName": "Куклин Д.И."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "390; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Четверг"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "12:40 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лаб ЭНЕРГОСИСТЕМЫ"
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "2064"
+                            },
+                            "ShortName": {
+                                "ShortName": "Куклин Д.И."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "390; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Четверг"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "14:55 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр СИСТ. АВТ. УПРАВ. ДВИЖ."
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "226"
+                            },
+                            "ShortName": {
+                                "ShortName": "Матвеев Н.К."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "НТУ; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Четверг"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "2"
+                    },
+                    "Time": {
+                        "Time": "14:55 Четная"
+                    },
+                    "Discipline": {
+                        "Discipline": "пр СИСТ. АВТ. УПРАВ. ДВИЖ."
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "226"
+                            },
+                            "ShortName": {
+                                "ShortName": "Матвеев Н.К."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "НТУ; "
+                    }
+                },
+                "Lesson": {
+                    "DayTitle": {
+                        "DayTitle": "Четверг"
+                    },
+                    "WeekCode": {
+                        "WeekCode": "1"
+                    },
+                    "Time": {
+                        "Time": "16:45 Нечетная"
+                    },
+                    "Discipline": {
+                        "Discipline": "лек СИСТ. АВТ. УПРАВ. ДВИЖ."
+                    },
+                    "Lecturers": {
+                        "Lecturer": {
+                            "IdLecturer": {
+                                "IdLecturer": "226"
+                            },
+                            "ShortName": {
+                                "ShortName": "Матвеев Н.К."
+                            }
+                        }
+                    },
+                    "Classroom": {
+                        "Classroom": "НТУ; "
+                    }
+                }
+            }
+        }
+    }
+}
