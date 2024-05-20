@@ -1,0 +1,242 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ИСТОРИЯ",
+        "classroom": "420*; ",
+        "lecturer": "Савинов М.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ИСТОРИЯ",
+        "classroom": "404*; ",
+        "lecturer": "Савинов М.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ИСТОРИЯ",
+        "classroom": "402*; ",
+        "lecturer": "Савинов М.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ПОНЯТ.АПП.МАТЕМ.",
+        "classroom": "420*; ",
+        "lecturer": "Коротков Н.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр Р.ЯЗ. И КУЛ.РЕЧИ",
+        "classroom": "314*; ",
+        "lecturer": "Градовцева Е.К."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
+        "classroom": "256*; ",
+        "lecturer": "Мамаев И.Д."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
+        "classroom": "219*а; ",
+        "lecturer": "Мамаев И.Д."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
+        "classroom": "404*; ",
+        "lecturer": "Насс О.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
+        "classroom": "325*; ",
+        "lecturer": "Насс О.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "лек ПОНЯТ.АПП.МАТЕМ.",
+        "classroom": "214*; ",
+        "lecturer": "Коротков Н.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ФОНЕТИКА",
+        "classroom": "313*; ",
+        "lecturer": "Курочкина Н.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ФОНЕТИКА",
+        "classroom": "313*; ",
+        "lecturer": "Курочкина Н.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ФИЛОСОФИЯ",
+        "classroom": "422*; ",
+        "lecturer": "Лысенко Е.М."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ОСН.ПЕРВ.ИН.ЯЗ.",
+        "classroom": "326* Я; ",
+        "lecturer": "Абсалямова И.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "лек ЗАРУБЕЖН. ЛИТ-РА",
+        "classroom": "317*; ",
+        "lecturer": "Тимофеева  С.П."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "лек ФИЛОСОФИЯ",
+        "classroom": "402*; ",
+        "lecturer": "Лысенко Е.М."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ОСН. 2-ГО ИЯ",
+        "classroom": "326* Я; ",
+        "lecturer": "Навагина В.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ОСН. 2-ГО ИЯ",
+        "classroom": "326* Я; ",
+        "lecturer": "Навагина В.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ОСН. 2-ГО ИЯ",
+        "classroom": "153*; ",
+        "lecturer": "Навагина В.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ОСН. 2-ГО ИЯ",
+        "classroom": "153*; ",
+        "lecturer": "Навагина В.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ОСН.ПЕРВ.ИН.ЯЗ.",
+        "classroom": "153*; ",
+        "lecturer": "Абсалямова И.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ОСН.ПЕРВ.ИН.ЯЗ.",
+        "classroom": "153*; ",
+        "lecturer": "Абсалямова И.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек Р.ЯЗ. И КУЛ.РЕЧИ",
+        "classroom": "317*; ",
+        "lecturer": "Градовцева Е.К."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ЗАРУБЕЖН. ЛИТ-РА",
+        "classroom": "318*; ",
+        "lecturer": "Тимофеева  С.П."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ОСН.ПЕРВ.ИН.ЯЗ.",
+        "classroom": "318*; ",
+        "lecturer": "Абсалямова И.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ОСН.ПЕРВ.ИН.ЯЗ.",
+        "classroom": "318*; ",
+        "lecturer": "Абсалямова И.А."
+    }
+]

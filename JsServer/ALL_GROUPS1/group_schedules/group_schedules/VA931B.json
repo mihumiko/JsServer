@@ -1,0 +1,146 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "пр ВЫСШ. МАТЕМАТ",
+        "classroom": "213*; ",
+        "lecturer": "Пономарев  С.Ю."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "18:30 Четная",
+        "discipline": "пр ВЫСШ. МАТЕМАТ",
+        "classroom": "213*; ",
+        "lecturer": "Пономарев  С.Ю."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "20:05 Нечетная",
+        "discipline": "лек ВЫСШ. МАТЕМАТ",
+        "classroom": "213*; ",
+        "lecturer": "Пономарев  С.Ю."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "20:05 Четная",
+        "discipline": "лек ФИЗИКА",
+        "classroom": "338г*; ",
+        "lecturer": "Комарова О.С."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "лек ИСТОРИЯ",
+        "classroom": "422*; ",
+        "lecturer": "Попова В.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "20:05 Нечетная",
+        "discipline": "пр ИСТОРИЯ",
+        "classroom": "507*а; ",
+        "lecturer": "Попова В.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "лек ХИМИЯ",
+        "classroom": "558*; ",
+        "lecturer": "Лебедев В.Н."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "18:30 Четная",
+        "discipline": "лаб ХИМИЯ",
+        "classroom": "558*; ",
+        "lecturer": "Лебедев В.Н."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "20:05 Нечетная",
+        "discipline": "лаб ФИЗИКА",
+        "classroom": "323*; ",
+        "lecturer": "Белова Д.Д."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "20:05 Четная",
+        "discipline": "пр ФИЗИКА",
+        "classroom": "328*; ",
+        "lecturer": "Белова Д.Д."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "306*; ",
+        "lecturer": "Крамарова С.Г."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "18:30 Четная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "306*; ",
+        "lecturer": "Крамарова С.Г."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "20:05 Нечетная",
+        "discipline": "пр ФИЛОСОФИЯ",
+        "classroom": "507*а; ",
+        "lecturer": "Клюев А.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "20:05 Четная",
+        "discipline": "лек ФИЛОСОФИЯ",
+        "classroom": "507*а; ",
+        "lecturer": "Клюев А.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "лек НАЧЕРТАТ. ГЕОМ",
+        "classroom": "505*; ",
+        "lecturer": "Солодухин Е.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "18:30 Четная",
+        "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
+        "classroom": "256*; ",
+        "lecturer": "Григорьева Т.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "20:05 Нечетная",
+        "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
+        "classroom": "325*; ",
+        "lecturer": "Григорьева Т.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "20:05 Четная",
+        "discipline": "пр НАЧЕРТАТ. ГЕОМ",
+        "classroom": "503*; ",
+        "lecturer": "Солодухин Е.А."
+    }
+]

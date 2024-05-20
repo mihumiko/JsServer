@@ -1,0 +1,282 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр КОМП. ПР. И МОД",
+        "classroom": "423; ",
+        "lecturer": "Макеев И.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр КОМП. ПР. И МОД",
+        "classroom": "423; ",
+        "lecturer": "Макеев И.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ЦИФР.ОБРАБ.СИГН",
+        "classroom": "425; ",
+        "lecturer": "Трилис А.В."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ЦИФР.ОБРАБ.СИГН",
+        "classroom": "425; ",
+        "lecturer": "Трилис А.В."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ТЕОР.ОСН. РЭБ",
+        "classroom": "450; ",
+        "lecturer": "Смирнов В.В."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ТЕОР.ОСН. РЭБ",
+        "classroom": "445; ",
+        "lecturer": "Смирнов В.В."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек КОМП. ПР. И МОД",
+        "classroom": "492; ",
+        "lecturer": "Петров Ю.В."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лек ТЕОР.ОСН. РЭБ",
+        "classroom": "492; ",
+        "lecturer": "Смирнов В.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ПРОЕКТИРОВ. ЦУ",
+        "classroom": "477; ",
+        "lecturer": "Чебачев В.О."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ПРОЕКТИРОВ. ЦУ",
+        "classroom": "492; ",
+        "lecturer": "Чебачев В.О."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек ЦИФР.ОБРАБ.СИГН",
+        "classroom": "316; ",
+        "lecturer": "Безруков А.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лек ЦИФР.ОБРАБ.СИГН",
+        "classroom": "316; ",
+        "lecturer": "Безруков А.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "пр РС ПЕРЕДАЧИ ИНФ",
+        "classroom": "313а; ",
+        "lecturer": "Верещагин А.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "18:30 Четная",
+        "discipline": "лаб РС ПЕРЕДАЧИ ИНФ",
+        "classroom": "423; ",
+        "lecturer": "Верещагин А.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ПРОЕКТИРОВ. ЦУ",
+        "classroom": "434; ",
+        "lecturer": "Чебачев В.О."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ТЕОР.ОСН. РЭБ",
+        "classroom": "431; ",
+        "lecturer": "Смирнов В.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек РАДИОЛОК. СИСТ",
+        "classroom": "324; ",
+        "lecturer": "Синицын В.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лек РАДИОЛОК. СИСТ",
+        "classroom": "324; ",
+        "lecturer": "Синицын В.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "лек РС ПЕРЕДАЧИ ИНФ",
+        "classroom": "310; ",
+        "lecturer": "Верещагин А.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "18:30 Четная",
+        "discipline": "лек РС ПЕРЕДАЧИ ИНФ",
+        "classroom": "310; ",
+        "lecturer": "Верещагин А.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр НАДЕЖ. Р/С",
+        "classroom": "436; ",
+        "lecturer": "Крылова М.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек НАДЕЖ. Р/С",
+        "classroom": "492; ",
+        "lecturer": "Крылова М.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек НАДЕЖ. Р/С",
+        "classroom": "445; ",
+        "lecturer": "Крылова М.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр КОМП. ПР. И МОД",
+        "classroom": "423; ",
+        "lecturer": "Макеев И.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лек РАДИОЛОК. СИСТ",
+        "classroom": "436; ",
+        "lecturer": "Синицын В.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "лаб РАДИОЛОК. СИСТ",
+        "classroom": "436; ",
+        "lecturer": "Синицын В.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "18:30 Четная",
+        "discipline": "пр РАДИОЛОК. СИСТ",
+        "classroom": "436; ",
+        "lecturer": "Синицын В.А."
+    }
+]

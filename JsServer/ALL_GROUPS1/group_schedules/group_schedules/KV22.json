@@ -1,0 +1,250 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ВОЕННАЯ ИСТОРИЯ",
+        "classroom": null,
+        "lecturer": "Подсобляев Е.Ф."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр БСФ",
+        "classroom": null,
+        "lecturer": "Шаронов А.В."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ОСНОВЫ ТАКТИКИ ВМФ",
+        "classroom": null,
+        "lecturer": "Лазукин П.Л."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ОСНОВЫ ТАКТИКИ ВМФ",
+        "classroom": null,
+        "lecturer": "Лазукин П.Л."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ПРАВОВЕДЕНИЕ",
+        "classroom": "490; ",
+        "lecturer": "Степанова О.Ю."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лаб ФИЗИКА",
+        "classroom": "322*; ",
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ФИЗИКА",
+        "classroom": "328*; ",
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "306*; ",
+        "lecturer": "Канатаев Д.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "306*; ",
+        "lecturer": "Канатаев Д.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ФИЗИКА",
+        "classroom": "331*; ",
+        "lecturer": "Ляхович Д.Н."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ФИЗИКА",
+        "classroom": "331*; ",
+        "lecturer": "Ляхович Д.Н."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ЭЛ-ТЕХ И ЭЛЕКТР",
+        "classroom": "420*; ",
+        "lecturer": "Оробинский А.М."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ЭЛ-ТЕХ И ЭЛЕКТР",
+        "classroom": "420*; ",
+        "lecturer": "Оробинский А.М."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек ОСН.СИСТ.АНАЛ.",
+        "classroom": "313а; ",
+        "lecturer": "Афанасьев А.С."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ОСН.СИСТ.АНАЛ.",
+        "classroom": "ВЦ КЕ1; ",
+        "lecturer": "Афанасьев А.С."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "лаб ЭЛ-ТЕХ И ЭЛЕКТР",
+        "classroom": "356*; 360*; ",
+        "lecturer": "Оробинский А.М."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ЭЛ-ТЕХ И ЭЛЕКТР",
+        "classroom": "366*; ",
+        "lecturer": "Оробинский А.М."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ЭЛ-ТЕХ И ЭЛЕКТР",
+        "classroom": "366*; ",
+        "lecturer": "Оробинский А.М."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ВЫСШ. МАТЕМАТ",
+        "classroom": "490; ",
+        "lecturer": "Барт Е.Л."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ВЫСШ. МАТЕМАТ",
+        "classroom": "490; ",
+        "lecturer": "Барт Е.Л."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ТЕОР. МЕХАНИКА",
+        "classroom": "490; ",
+        "lecturer": "Митряева О.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ТЕОР. МЕХАНИКА",
+        "classroom": "490; ",
+        "lecturer": "Митряева О.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ТЕОР. МЕХАНИКА",
+        "classroom": "445; ",
+        "lecturer": "Митряева О.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ТЕОР. МЕХАНИКА",
+        "classroom": "445; ",
+        "lecturer": "Митряева О.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ВЫСШ. МАТЕМАТ",
+        "classroom": "477; ",
+        "lecturer": "Марданов А.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ВЫСШ. МАТЕМАТ",
+        "classroom": "477; ",
+        "lecturer": "Марданов А.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лек ПРАВОВЕДЕНИЕ",
+        "classroom": "492; ",
+        "lecturer": "Степанова О.Ю."
+    }
+]

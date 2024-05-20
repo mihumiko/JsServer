@@ -1,0 +1,250 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр СТРУК.И ОРГ.ДАНН",
+        "classroom": "218*; ",
+        "lecturer": "Гладевич А.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ФИЛОСОФИЯ",
+        "classroom": "418*; ",
+        "lecturer": "Клюев А.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ИСТОРИЯ",
+        "classroom": "448; ",
+        "lecturer": "Охочинский Д.М."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ИСТОРИЯ",
+        "classroom": "418*; ",
+        "lecturer": "Охочинский Д.М."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр Д.МАТ.И МАТ.ЛОГ",
+        "classroom": "448; ",
+        "lecturer": "Мартынова Т.Е."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр Д.МАТ.И МАТ.ЛОГ",
+        "classroom": "448; ",
+        "lecturer": "Мартынова Т.Е."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "418*; ",
+        "lecturer": "Невзорова Н.Ф."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "418*; ",
+        "lecturer": "Невзорова Н.Ф."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ИСТОРИЯ",
+        "classroom": "401*; ",
+        "lecturer": "Егоренкова О.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ИСТОРИЯ",
+        "classroom": "526*; ",
+        "lecturer": "Егоренкова О.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
+        "classroom": "218*; ",
+        "lecturer": "Гладевич А.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
+        "classroom": "218*; ",
+        "lecturer": "Гладевич А.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек СТРУК.И ОРГ.ДАНН",
+        "classroom": "310; ",
+        "lecturer": "Палехова О.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек СТРУК.И ОРГ.ДАНН",
+        "classroom": "310; ",
+        "lecturer": "Палехова О.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ФИЗИКА",
+        "classroom": "331*; ",
+        "lecturer": "Мозговая В.Г."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ФИЗИКА",
+        "classroom": "331*; ",
+        "lecturer": "Мозговая В.Г."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лаб ФИЗИКА",
+        "classroom": "323*; ",
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ФИЗИКА",
+        "classroom": "434*; ",
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ФИЛОСОФИЯ",
+        "classroom": "401*; ",
+        "lecturer": "Лысенко Е.М."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
+        "classroom": "315; ",
+        "lecturer": "Вальштейн К.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
+        "classroom": "315; ",
+        "lecturer": "Вальштейн К.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек Д.МАТ.И МАТ.ЛОГ",
+        "classroom": "450; ",
+        "lecturer": "Гришина О.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек Д.МАТ.И МАТ.ЛОГ",
+        "classroom": "450; ",
+        "lecturer": "Гришина О.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ВЫСШ. МАТЕМАТ",
+        "classroom": "450; ",
+        "lecturer": "Пономарев  С.Ю."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ВЫСШ. МАТЕМАТ",
+        "classroom": "450; ",
+        "lecturer": "Пономарев  С.Ю."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ВЫСШ. МАТЕМАТ",
+        "classroom": "420*; ",
+        "lecturer": "Исакова Е.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ВЫСШ. МАТЕМАТ",
+        "classroom": "420*; ",
+        "lecturer": "Исакова Е.А."
+    }
+]

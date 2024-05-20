@@ -1,0 +1,306 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ИН.ЯЗ.",
+        "classroom": "469*; ",
+        "lecturer": "Расчупкина Н.С."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ИН.ЯЗ.",
+        "classroom": "469*; ",
+        "lecturer": "Расчупкина Н.С."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лаб ИНФОРМАТИКА",
+        "classroom": "468*; ",
+        "lecturer": "Старостин И.Д."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лаб ИНФОРМАТИКА",
+        "classroom": "468*; ",
+        "lecturer": "Старостин И.Д."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ЛИТ-РА",
+        "classroom": "429*; ",
+        "lecturer": "Лучко Ю.М."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ЛИТ-РА",
+        "classroom": "459*; ",
+        "lecturer": "Лучко Ю.М."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек ФИЗИКА",
+        "classroom": "459*; ",
+        "lecturer": "Косякина Н.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лек ФИЗИКА",
+        "classroom": "459*; ",
+        "lecturer": "Косякина Н.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ОБЖ",
+        "classroom": "468*; ",
+        "lecturer": "Расчупкина Т.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ИСТОРИЯ",
+        "classroom": "459*; ",
+        "lecturer": "Сарычев Н.Д."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ИСТОРИЯ",
+        "classroom": "459*; ",
+        "lecturer": "Сарычев Н.Д."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ФИЗ.КУЛЬТ.",
+        "classroom": null,
+        "lecturer": "Кобелева С.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ФИЗ.КУЛЬТ.",
+        "classroom": null,
+        "lecturer": "Кобелева С.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ФИЗИКА",
+        "classroom": "467*; ",
+        "lecturer": "Косякина Н.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ФИЗИКА",
+        "classroom": "467*; ",
+        "lecturer": "Косякина Н.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр МАТЕМАТИКА",
+        "classroom": "430*; ",
+        "lecturer": "Косякина Н.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр МАТЕМАТИКА",
+        "classroom": "430*; ",
+        "lecturer": "Косякина Н.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек МАТЕМАТИКА",
+        "classroom": "459*; ",
+        "lecturer": "Косякина Н.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек МАТЕМАТИКА",
+        "classroom": "459*; ",
+        "lecturer": "Косякина Н.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ХИМИЯ",
+        "classroom": "470*; ",
+        "lecturer": "Фатина А.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ОБЖ",
+        "classroom": "459*; ",
+        "lecturer": "Расчупкина Т.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "лек ИНФОРМАТИКА",
+        "classroom": "459*; ",
+        "lecturer": "Старостин И.Д."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "лек ИНФОРМАТИКА",
+        "classroom": "459*; ",
+        "lecturer": "Старостин И.Д."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр РУСС.ЯЗ.",
+        "classroom": "467*; ",
+        "lecturer": "Лучко Ю.М."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр РУСС.ЯЗ.",
+        "classroom": "467*; ",
+        "lecturer": "Лучко Ю.М."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ИН.ЯЗ.",
+        "classroom": "469*; ",
+        "lecturer": "Расчупкина Н.С."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ЛИТ-РА",
+        "classroom": "467*; ",
+        "lecturer": "Лучко Ю.М."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ФИЗ.КУЛЬТ.",
+        "classroom": null,
+        "lecturer": "Кобелева С.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ФИЗ.КУЛЬТ.",
+        "classroom": null,
+        "lecturer": "Кобелева С.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "лек МАТЕМАТИКА",
+        "classroom": "459*; ",
+        "lecturer": "Косякина Н.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек РУСС.ЯЗ.",
+        "classroom": "459*; ",
+        "lecturer": "Лучко Ю.М."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек РУСС.ЯЗ.",
+        "classroom": "459*; ",
+        "lecturer": "Лучко Ю.М."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ХИМИЯ",
+        "classroom": "459*; ",
+        "lecturer": "Фатина А.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ХИМИЯ",
+        "classroom": "459*; ",
+        "lecturer": "Фатина А.А."
+    },
+    {
+        "day": "Суббота",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ИСТОРИЯ",
+        "classroom": "469*; ",
+        "lecturer": "Сарычев Н.Д."
+    },
+    {
+        "day": "Суббота",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ИСТОРИЯ",
+        "classroom": "469*; ",
+        "lecturer": "Сарычев Н.Д."
+    },
+    {
+        "day": "Суббота",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ГЕОГРАФИЯ",
+        "classroom": "467*; ",
+        "lecturer": "Казанина А.М."
+    },
+    {
+        "day": "Суббота",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ГЕОГРАФИЯ",
+        "classroom": "459*; ",
+        "lecturer": "Казанина А.М."
+    }
+]

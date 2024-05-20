@@ -1,0 +1,306 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "лек УСТР.ФОРМ.СИГН",
+        "classroom": "316; ",
+        "lecturer": "Кочин Л.Б."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "лек УСТР.ФОРМ.СИГН",
+        "classroom": "316; ",
+        "lecturer": "Кочин Л.Б."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лаб РАД-АВТОМАТИКА",
+        "classroom": "278; ",
+        "lecturer": "Курилова Е.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр УСТР.ФОРМ.СИГН",
+        "classroom": "434; ",
+        "lecturer": "Кочин Л.Б."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек МЕТР,СТ.И УПР.КАЧ",
+        "classroom": "372; ",
+        "lecturer": "Каламитцев А.О."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек МЕТР,СТ.И УПР.КАЧ",
+        "classroom": "372; ",
+        "lecturer": "Каламитцев А.О."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ИЗМ.ИНФ.СИСТЕМЫ",
+        "classroom": "425; ",
+        "lecturer": "Певишев С.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр МЕТР,СТ.И УПР.КАЧ",
+        "classroom": "к.Н2-4; ",
+        "lecturer": "Кедрова Е.И."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "лек БЖД",
+        "classroom": "313а; ",
+        "lecturer": "Буторина М.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "лек БЖД",
+        "classroom": "313а; ",
+        "lecturer": "Буторина М.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек МИКРОПР. УСТР-ВА",
+        "classroom": "315; ",
+        "lecturer": "Сотникова Н.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек МИКРОПР. УСТР-ВА",
+        "classroom": "315; ",
+        "lecturer": "Сотникова Н.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр МИКРОПР. УСТР-ВА",
+        "classroom": "423; ",
+        "lecturer": "Сотникова Н.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр МИКРОПР. УСТР-ВА",
+        "classroom": "423; ",
+        "lecturer": "Сотникова Н.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр БЖД",
+        "classroom": "444; ",
+        "lecturer": "Храмов А.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лаб УСТР.СВЧ И АНТ",
+        "classroom": "428; ",
+        "lecturer": "Флёров А.Н."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "лаб БЖД",
+        "classroom": "384б; ",
+        "lecturer": "Васильева В.К."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек УСТР.СВЧ И АНТ",
+        "classroom": "316; ",
+        "lecturer": "Флёрова А.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек УСТР.СВЧ И АНТ",
+        "classroom": "316; ",
+        "lecturer": "Флёрова А.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр УСТР.СВЧ И АНТ",
+        "classroom": "434; ",
+        "lecturer": "Флёрова А.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр УСТР.СВЧ И АНТ",
+        "classroom": "434; ",
+        "lecturer": "Флёрова А.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр РАД-АВТОМАТИКА",
+        "classroom": "259; ",
+        "lecturer": "Черкасов О.Ф."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр МАТ.СТАТИСТ.И СП",
+        "classroom": "446; ",
+        "lecturer": "Пономарев  С.Ю."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "лаб ИЗМ.ИНФ.СИСТЕМЫ",
+        "classroom": "430; ",
+        "lecturer": "Колачев И.О."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек МАТ.СТАТИСТ.И СП",
+        "classroom": "477; ",
+        "lecturer": "Тарасов А.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек МАТ.СТАТИСТ.И СП",
+        "classroom": "477; ",
+        "lecturer": "Тарасов А.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ИЗМ.ИНФ.СИСТЕМЫ",
+        "classroom": "316; ",
+        "lecturer": "Певишев С.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ИЗМ.ИНФ.СИСТЕМЫ",
+        "classroom": "316; ",
+        "lecturer": "Певишев С.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек РАД-АВТОМАТИКА",
+        "classroom": "259; ",
+        "lecturer": "Черкасов О.Ф."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек РАД-АВТОМАТИКА",
+        "classroom": "259; ",
+        "lecturer": "Черкасов О.Ф."
+    }
+]

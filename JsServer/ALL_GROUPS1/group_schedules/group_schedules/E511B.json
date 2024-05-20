@@ -1,0 +1,290 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек ПНЕВМОГИДР.СИС.",
+        "classroom": "486; ",
+        "lecturer": "Петров С.К."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек ПНЕВМОГИДР.СИС.",
+        "classroom": "487; ",
+        "lecturer": "Петров С.К."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр УР-Я МАТ.ФИЗИКИ",
+        "classroom": "ВЦ 283; ",
+        "lecturer": "Лебедев М.О."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр УР-Я МАТ.ФИЗИКИ",
+        "classroom": "ВЦ 283; ",
+        "lecturer": "Лебедев М.О."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек УР-Я МАТ.ФИЗИКИ",
+        "classroom": "453*; ",
+        "lecturer": "Лебедев М.О."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек УР-Я МАТ.ФИЗИКИ",
+        "classroom": "453*; ",
+        "lecturer": "Лебедев М.О."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ОСН.ВИБРОАКУСТ",
+        "classroom": "ВЦ 283; ",
+        "lecturer": "Упоров П.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ОСН.ВИБРОАКУСТ",
+        "classroom": "ВЦ 283; ",
+        "lecturer": "Упоров П.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "лек ТЕОР.УПР.ПЛАСТИЧН.И ПОЛЗУЧ.",
+        "classroom": "498; ",
+        "lecturer": "Маламанов С.Ю."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек ОСН.ВИБРОАКУСТ",
+        "classroom": "486; ",
+        "lecturer": "Кирпичников В.Ю."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек ОСН.ВИБРОАКУСТ",
+        "classroom": "486; ",
+        "lecturer": "Кирпичников В.Ю."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ДЕТАЛИ МАШИН",
+        "classroom": "460*; ",
+        "lecturer": "Кротов Ю.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ДЕТАЛИ МАШИН",
+        "classroom": "460*; ",
+        "lecturer": "Кротов Ю.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ПНЕВМОГИДР.СИС.",
+        "classroom": "487; ",
+        "lecturer": "Петров С.К."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек Ц.ТЕХ-И В АК.РАСЧ",
+        "classroom": "484; ",
+        "lecturer": "Матвеев П.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ТЕОР.УПР.ПЛАСТИЧН.И ПОЛЗУЧ.",
+        "classroom": "460*; ",
+        "lecturer": "Маламанов С.Ю."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ТЕОР.УПР.ПЛАСТИЧН.И ПОЛЗУЧ.",
+        "classroom": "460*; ",
+        "lecturer": "Маламанов С.Ю."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "пр УСТОЙЧИВОСТЬ МС",
+        "classroom": "ВЦ 283; ",
+        "lecturer": "Филин А.Г."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "18:30 Четная",
+        "discipline": "лек УСТОЙЧИВОСТЬ МС",
+        "classroom": "460*; ",
+        "lecturer": "Филин А.Г."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "20:05 Нечетная",
+        "discipline": "лаб УСТОЙЧИВОСТЬ МС",
+        "classroom": "ВЦ 281; ",
+        "lecturer": "Филин А.Г."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек СТРОИТ.МЕХ.МАШ",
+        "classroom": "492; ",
+        "lecturer": "Титух И.Н."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр СТРОИТ.МЕХ.МАШ",
+        "classroom": "102*; ",
+        "lecturer": "Титух И.Н."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лаб СТРОИТ.МЕХ.МАШ",
+        "classroom": "ВЦ 281; ",
+        "lecturer": "Титух И.Н."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лаб СТРОИТ.МЕХ.МАШ",
+        "classroom": "ВЦ 281; ",
+        "lecturer": "Титух И.Н."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр Ц.ТЕХ-И В АК.РАСЧ",
+        "classroom": "ВЦ 283; ",
+        "lecturer": "Матвеев П.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр Ц.ТЕХ-И В АК.РАСЧ",
+        "classroom": "ВЦ 283; ",
+        "lecturer": "Матвеев П.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр Ц.ТЕХ-И В АК.РАСЧ",
+        "classroom": "ВЦ 283; ",
+        "lecturer": "Матвеев П.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ПНЕВМОГИДР.СИС.",
+        "classroom": "448; ",
+        "lecturer": "Петров С.К."
+    }
+]

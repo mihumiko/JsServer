@@ -1,0 +1,274 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр МАТ. МЕТОДЫ В ПСИХ",
+        "classroom": "ВЦ 371; ",
+        "lecturer": "Соловьева Н.Л."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр МАТ. МЕТОДЫ В ПСИХ",
+        "classroom": "ВЦ 371; ",
+        "lecturer": "Соловьева Н.Л."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
+        "classroom": "ВЦ 280; ВЦ 282; ",
+        "lecturer": "Садырова А.К."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
+        "classroom": "ВЦ 280; ВЦ 282; ",
+        "lecturer": "Садырова А.К."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "403*; ",
+        "lecturer": "Крамарова С.Г."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "403*; ",
+        "lecturer": "Крамарова С.Г."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ОСНОВЫ PR-ТЕХНОЛОГИЙ",
+        "classroom": "418*; ",
+        "lecturer": "Яковлева О.А,"
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр АНАТОМ. И ФИЗ. ЦНС",
+        "classroom": "486; ",
+        "lecturer": "Храмов А.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек МАТ. МЕТОДЫ В ПСИХ",
+        "classroom": "401*; ",
+        "lecturer": "Соловьева Н.Л."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ПСИХ. МАСС. ПОВЕД",
+        "classroom": "403*; ",
+        "lecturer": "Форостянный Н.С."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек АНАТОМ. И ФИЗ. ЦНС",
+        "classroom": "450; ",
+        "lecturer": "Храмов А.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "лек Р.ЯЗ. И КУЛ.РЕЧИ",
+        "classroom": "526*; ",
+        "lecturer": "Градовцева Е.К."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек ИСТОРИЯ",
+        "classroom": "401*; ",
+        "lecturer": "Алексеева С.И."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек ИСТОРИЯ",
+        "classroom": "401*; ",
+        "lecturer": "Алексеева С.И."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ИСТОРИЯ",
+        "classroom": "418*; ",
+        "lecturer": "Алексеева С.И."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ФИЛОСОФИЯ",
+        "classroom": "526*; ",
+        "lecturer": "Лысенко Е.М."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ОСНОВЫ ПРАВА",
+        "classroom": "401*; ",
+        "lecturer": "Хвостов А.Б."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ФИЛОСОФИЯ",
+        "classroom": "404*; ",
+        "lecturer": "Лысенко Е.М."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ОБЩ. ПСИХОЛОГИЯ",
+        "classroom": "404*; ",
+        "lecturer": "Карпенко Д.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ОБЩ. ПСИХОЛОГИЯ",
+        "classroom": "418*; ",
+        "lecturer": "Карпенко Д.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ОСНОВЫ PR-ТЕХНОЛОГИЙ",
+        "classroom": "526*; ",
+        "lecturer": "Черкасова Е.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр Р.ЯЗ. И КУЛ.РЕЧИ",
+        "classroom": "326* Я; ",
+        "lecturer": "Градовцева Е.К."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ОСНОВЫ ПРАВА",
+        "classroom": "418*; ",
+        "lecturer": "Хвостов А.Б."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ПСИХ. МАСС. ПОВЕД",
+        "classroom": "403*; ",
+        "lecturer": "Миловзорова М.Н."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек ОБЩ. ПСИХОЛОГИЯ",
+        "classroom": "526*; ",
+        "lecturer": "Карпенко Д.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "326* Я; ",
+        "lecturer": "Крамарова С.Г."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
+        "classroom": "314; ",
+        "lecturer": "Насс О.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
+        "classroom": "314; ",
+        "lecturer": "Насс О.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лаб ОБЩ. ПСИХОЛОГИЯ",
+        "classroom": "530*; ",
+        "lecturer": "Болотова О.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лаб ОБЩ. ПСИХОЛОГИЯ",
+        "classroom": "530*; ",
+        "lecturer": "Болотова О.В."
+    }
+]

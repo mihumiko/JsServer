@@ -1,0 +1,122 @@
+[
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "лек ВЫСШ. МАТЕМАТ",
+        "classroom": "474; ",
+        "lecturer": "Брацлавский А.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "18:30 Четная",
+        "discipline": "лек ВЫСШ. МАТЕМАТ",
+        "classroom": "474; ",
+        "lecturer": "Брацлавский А.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "20:05 Нечетная",
+        "discipline": "пр ВЫСШ. МАТЕМАТ",
+        "classroom": "487; ",
+        "lecturer": "Рыбенко Е.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "20:05 Четная",
+        "discipline": "пр ВЫСШ. МАТЕМАТ",
+        "classroom": "487; ",
+        "lecturer": "Рыбенко Е.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "лек ФИЗИКА",
+        "classroom": "328*; ",
+        "lecturer": "Виноградский Д.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "18:30 Четная",
+        "discipline": "лек ИНФ: ОСН.ПРОГР",
+        "classroom": "252*; ",
+        "lecturer": "Ильина О.Н."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "20:05 Нечетная",
+        "discipline": "пр ФИЗИКА",
+        "classroom": "328*; ",
+        "lecturer": "Виноградский Д.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "20:05 Четная",
+        "discipline": "лаб ФИЗИКА",
+        "classroom": "323*; ",
+        "lecturer": "Виноградский Д.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "лек ИСТОРИЯ",
+        "classroom": "420*; ",
+        "lecturer": "Попова В.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "18:30 Четная",
+        "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
+        "classroom": "218*; ",
+        "lecturer": "Землянская Е.Р."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "20:05 Нечетная",
+        "discipline": "пр ИСТОРИЯ",
+        "classroom": "422*; ",
+        "lecturer": "Попова В.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "20:05 Четная",
+        "discipline": "пр ИНФ: ОСН.ПРОГР",
+        "classroom": "218*; ",
+        "lecturer": "Землянская Е.Р."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
+        "classroom": "252*; ",
+        "lecturer": "Ильина О.Н."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "20:05 Нечетная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "306*; ",
+        "lecturer": "Мартынова А.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "20:05 Четная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "306*; ",
+        "lecturer": "Мартынова А.А."
+    }
+]

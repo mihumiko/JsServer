@@ -1,0 +1,114 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ЗАЩ.В ЧРЕЗВ. СИТ",
+        "classroom": "460*; ",
+        "lecturer": "Храмов А.В."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ЗАЩ.В ЧРЕЗВ. СИТ",
+        "classroom": "404*; ",
+        "lecturer": "Храмов А.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр УПР.ПРОЕКТАМИ",
+        "classroom": "526*; ",
+        "lecturer": "Стешин А.И."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек УПР.ПРОЕКТАМИ",
+        "classroom": "526*; ",
+        "lecturer": "Стешин А.И."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лаб ЧРПЗМ",
+        "classroom": "411*; ",
+        "lecturer": "Брытков Е.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр CAD/CAE ТЕХНОЛОГИИ",
+        "classroom": "411*; ",
+        "lecturer": "Брытков Е.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр CAD/CAE ТЕХНОЛОГИИ",
+        "classroom": "411*; ",
+        "lecturer": "Брытков Е.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "530*; ",
+        "lecturer": "Мигунова О.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "530*; ",
+        "lecturer": "Мигунова О.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек ЗАЩ.В ЧРЕЗВ. СИТ",
+        "classroom": "413*; ",
+        "lecturer": "Храмов А.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ИСТ,ФИЛ.И МЕТ.НАУК",
+        "classroom": "526*; ",
+        "lecturer": "Канатаев Д.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ИСТ,ФИЛ.И МЕТ.НАУК",
+        "classroom": "526*; ",
+        "lecturer": "Канатаев Д.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лаб ЧРПЗМ",
+        "classroom": "411*; ",
+        "lecturer": "Брытков Е.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лаб ЧРПЗМ",
+        "classroom": "411*; ",
+        "lecturer": "Брытков Е.В."
+    }
+]

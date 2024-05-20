@@ -1,0 +1,138 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек СИСТЕМЫ  ТПП",
+        "classroom": "СК М2-1; ",
+        "lecturer": "Краснов В.И."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек ЭНЕРГОСИСТЕМЫ",
+        "classroom": "СК ИСС; ",
+        "lecturer": "Куклин Д.И."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "лаб ЭНЕРГОСИСТЕМЫ",
+        "classroom": "390; ",
+        "lecturer": "Куклин Д.И."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "18:30 Четная",
+        "discipline": "лаб ЭНЕРГОСИСТЕМЫ",
+        "classroom": "390; ",
+        "lecturer": "Куклин Д.И."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек КОНСТРУИРОВ. КА",
+        "classroom": "СК ИСС; ",
+        "lecturer": "Евстафьев В.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр КОНСТРУИРОВ. КА",
+        "classroom": "СК ИСС; ",
+        "lecturer": "Евстафьев В.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр СИСТЕМЫ  ТПП",
+        "classroom": "СК М2-1; ",
+        "lecturer": "Краснов В.И."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр СИСТЕМЫ  ТПП",
+        "classroom": "СК М2-1; ",
+        "lecturer": "Краснов В.И."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "пр КОНСТРУИРОВ. КА",
+        "classroom": "ВЦ А3; ",
+        "lecturer": "Бокучава П.Н."
+    }
+]

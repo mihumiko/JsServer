@@ -1,0 +1,242 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ВЫСШ. МАТЕМАТ",
+        "classroom": "213*; ",
+        "lecturer": "Вандеев В.П."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ВЫСШ. МАТЕМАТ",
+        "classroom": "213*; ",
+        "lecturer": "Вандеев В.П."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "308*; ",
+        "lecturer": "Паньшина А.И."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "308*; ",
+        "lecturer": "Паньшина А.И."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр СОПР.МАТЕРИАЛОВ",
+        "classroom": "456*; ",
+        "lecturer": "Брытков Е.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр УЧ. ПРАКТ.",
+        "classroom": "478; ",
+        "lecturer": "Киреев О.Л."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр УЧ. ПРАКТ.",
+        "classroom": "478; ",
+        "lecturer": "Киреев О.Л."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ОСН.СИСТ.АНАЛ.",
+        "classroom": "Мкаб.Е1; ",
+        "lecturer": "Мелехин А.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ПРОМ.БЕЗ-ТЬ.ПП",
+        "classroom": "484; ",
+        "lecturer": "Васильев А.П."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ОСН.СИСТ.АНАЛ.",
+        "classroom": "310; ",
+        "lecturer": "Афанасьев А.С."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ПРОМ.БЕЗ-ТЬ.ПП",
+        "classroom": "484; ",
+        "lecturer": "Петров С.К."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек ВЫСШ. МАТЕМАТ",
+        "classroom": "316; ",
+        "lecturer": "Забалканская Л.Э."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лек ВЫСШ. МАТЕМАТ",
+        "classroom": "316; ",
+        "lecturer": "Забалканская Л.Э."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек СОПР.МАТЕРИАЛОВ",
+        "classroom": "429*; ",
+        "lecturer": "Санников В.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек СОПР.МАТЕРИАЛОВ",
+        "classroom": "429*; ",
+        "lecturer": "Санников В.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ТЕОР. МЕХ. И МАШ",
+        "classroom": "268*(фесто); ",
+        "lecturer": "Попов В.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ТЕОР. МЕХ. И МАШ",
+        "classroom": "268*(фесто); ",
+        "lecturer": "Попов В.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ТЕОР. МЕХ. И МАШ",
+        "classroom": "373*; ",
+        "lecturer": "Попов В.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лаб ТЕОР. МЕХ. И МАШ",
+        "classroom": "372*; ",
+        "lecturer": "Попов В.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ЭКОНОМИКА",
+        "classroom": "432*; ",
+        "lecturer": "Катаев С.Е."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ЭКОНОМИКА",
+        "classroom": "440*; ",
+        "lecturer": "Катаев С.Е."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ЭКОНОМИКА",
+        "classroom": "440*; ",
+        "lecturer": "Катаев С.Е."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ТЕОР. МЕХАНИКА",
+        "classroom": "493; ",
+        "lecturer": "Зимин Б.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ТЕОР. МЕХАНИКА",
+        "classroom": "493; ",
+        "lecturer": "Зимин Б.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ТЕОР. МЕХАНИКА",
+        "classroom": "498; ",
+        "lecturer": "Зимин Б.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ТЕОР. МЕХАНИКА",
+        "classroom": "498; ",
+        "lecturer": "Зимин Б.А."
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ИНФ-КОМ.УПР.КОМП-СЫ",
+        "classroom": "115; ",
+        "lecturer": "Карпов С.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ИНФ-КОМ.УПР.КОМП-СЫ",
+        "classroom": "115; ",
+        "lecturer": "Карпов С.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр МЕХАТРОНИКА",
+        "classroom": "115; ",
+        "lecturer": "Карпов С.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр МЕХАТРОНИКА",
+        "classroom": "115; ",
+        "lecturer": "Карпов С.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек ПРОЕКТ.И МОД.ЭМС",
+        "classroom": "115; ",
+        "lecturer": "Смирнов А.П."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек ПРОЕКТ.И МОД.ЭМС",
+        "classroom": "115; ",
+        "lecturer": "Смирнов А.П."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ПРОЕКТ.И МОД.ЭМС",
+        "classroom": "251; ",
+        "lecturer": "Романов И.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лаб ПРОЕКТ.И МОД.ЭМС",
+        "classroom": "114; ",
+        "lecturer": "Романов И.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек МЕХАТРОНИКА",
+        "classroom": "115; ",
+        "lecturer": "Карпов С.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек МЕХАТРОНИКА",
+        "classroom": "115; ",
+        "lecturer": "Карпов С.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек ПР. И МОДЕЛ. РЭС",
+        "classroom": "251; ",
+        "lecturer": "Гурьев А.И."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лек ПР. И МОДЕЛ. РЭС",
+        "classroom": "251; ",
+        "lecturer": "Гурьев А.И."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек ФИЗ.ОСН.БЛ.ЛОК",
+        "classroom": "Лаб. 250; ",
+        "lecturer": "Митюшов А.И."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ФИЗ.ОСН.БЛ.ЛОК",
+        "classroom": "115; ",
+        "lecturer": "Митюшов А.И."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ФИЗ.ОСН.БЛ.ЛОК",
+        "classroom": "115; ",
+        "lecturer": "Митюшов А.И."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ТАУ",
+        "classroom": "251; ",
+        "lecturer": "Романов И.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ТАУ",
+        "classroom": "251; ",
+        "lecturer": "Романов И.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек ТАУ",
+        "classroom": "251; ",
+        "lecturer": "Романов И.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лек ТАУ",
+        "classroom": "251; ",
+        "lecturer": "Романов И.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек ИНФ-КОМ.УПР.КОМП-СЫ",
+        "classroom": "115; ",
+        "lecturer": "Карпов С.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек ИНФ-КОМ.УПР.КОМП-СЫ",
+        "classroom": "115; ",
+        "lecturer": "Карпов С.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лаб ФИЗ.ОСН.БЛ.ЛОК",
+        "classroom": "251; ",
+        "lecturer": "Перов Л.Д."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лаб МЕХАТРОНИКА",
+        "classroom": "Лаб. 323; ",
+        "lecturer": "Карпов С.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ПР. И МОДЕЛ. РЭС",
+        "classroom": "Лаб. 250; ",
+        "lecturer": "Гурьев А.И."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ПРОГР.И ОСН.АЛГ",
+        "classroom": "Лаб. 323; ",
+        "lecturer": "Чич С.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ПРОГР.И ОСН.АЛГ",
+        "classroom": "Лаб. 323; ",
+        "lecturer": "Чич С.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ПРОГР.И ОСН.АЛГ",
+        "classroom": "251; ",
+        "lecturer": "Чич С.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ПРОГР.И ОСН.АЛГ",
+        "classroom": "251; ",
+        "lecturer": "Чич С.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ИНФ-КОМ.УПР.КОМП-СЫ",
+        "classroom": "115; ",
+        "lecturer": "Карпов С.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лаб ПР. И МОДЕЛ. РЭС",
+        "classroom": "Лаб. 323; ",
+        "lecturer": "Крылов  В.А."
+    }
+]

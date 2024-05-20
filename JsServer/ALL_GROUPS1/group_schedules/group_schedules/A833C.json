@@ -1,0 +1,258 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ПРАВОВЕДЕНИЕ",
+        "classroom": "497; ",
+        "lecturer": "Дмитриева А.П."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ИСТОРИЯ",
+        "classroom": "488; ",
+        "lecturer": "Николаева О.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лаб ЭКОЛОГИЯ",
+        "classroom": "384а; ",
+        "lecturer": "Ломовцева С.Д."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лаб ХИМИЯ",
+        "classroom": "557*; ",
+        "lecturer": "Барунин А.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лаб ХИМИЯ",
+        "classroom": "557*; ",
+        "lecturer": "Барунин А.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ФИЛОСОФИЯ",
+        "classroom": "422*; ",
+        "lecturer": "Вересова А.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ХИМИЯ",
+        "classroom": "404*; ",
+        "lecturer": "Фатина А.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек ЭКОЛОГИЯ",
+        "classroom": "492; ",
+        "lecturer": "Тюрина Н.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек ФИЛОСОФИЯ",
+        "classroom": "492; ",
+        "lecturer": "Куракина Е.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ФИЗИКА",
+        "classroom": "327*; ",
+        "lecturer": "Иванова Н.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ФИЗИКА",
+        "classroom": "327*; ",
+        "lecturer": "Иванова Н.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ИНЖ.И КОМП. ГРАФ",
+        "classroom": "505*; ",
+        "lecturer": "Абросимов С.Н."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ИНЖ.И КОМП. ГРАФ",
+        "classroom": "505*; ",
+        "lecturer": "Абросимов С.Н."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ВЫСШ. МАТЕМАТ",
+        "classroom": "448; ",
+        "lecturer": "Локачева Ю.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ВЫСШ. МАТЕМАТ",
+        "classroom": "448; ",
+        "lecturer": "Локачева Ю.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
+        "classroom": "252*; ",
+        "lecturer": "Григорьева Т.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
+        "classroom": "252*; ",
+        "lecturer": "Григорьева Т.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "308*; ",
+        "lecturer": "Николаева О.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "308*; ",
+        "lecturer": "Николаева О.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ПРАВОВЕДЕНИЕ",
+        "classroom": "443; ",
+        "lecturer": "Диденко Л.Г."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "лек ВЫСШ. МАТЕМАТ",
+        "classroom": "420*; ",
+        "lecturer": "Чернусь П.П."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "лек ВЫСШ. МАТЕМАТ",
+        "classroom": "420*; ",
+        "lecturer": "Чернусь П.П."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек ИСТОРИЯ",
+        "classroom": "402*; ",
+        "lecturer": "Николаева О.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек ИСТОРИЯ",
+        "classroom": "402*; ",
+        "lecturer": "Николаева О.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
+        "classroom": "256*; ",
+        "lecturer": "Григорьева Т.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
+        "classroom": "256*; ",
+        "lecturer": "Григорьева Т.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лаб ФИЗИКА",
+        "classroom": "323*; ",
+        "lecturer": null
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ФИЗИКА",
+        "classroom": "434*; ",
+        "lecturer": null
+    }
+]

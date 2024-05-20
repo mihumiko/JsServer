@@ -1,0 +1,242 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ВЫСШ. МАТЕМАТ",
+        "classroom": "219*; ",
+        "lecturer": "Волченкова Н.М."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ВЫСШ. МАТЕМАТ",
+        "classroom": "219*; ",
+        "lecturer": "Волченкова Н.М."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ЭКОНОМИКА",
+        "classroom": "401*; ",
+        "lecturer": "Становая А.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ЭКОНОМИКА",
+        "classroom": "401*; ",
+        "lecturer": "Становая А.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ФИЗИКА",
+        "classroom": "331*; ",
+        "lecturer": "Арешкин А.Г."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ФИЗИКА",
+        "classroom": "331*; ",
+        "lecturer": "Арешкин А.Г."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ВЫЧ. МАТЕМАТИКА",
+        "classroom": "219*; ",
+        "lecturer": "Шаповалов Е.В."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ВЫЧ. МАТЕМАТИКА",
+        "classroom": "219*; ",
+        "lecturer": "Шаповалов Е.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек ОСН.СИСТ.АН.",
+        "classroom": "324; ",
+        "lecturer": "Борейшо А.С."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек ВЫЧ. МАТЕМАТИКА",
+        "classroom": "450; ",
+        "lecturer": "Леонтьев В.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ОСН.СИСТ.АН.",
+        "classroom": "325а; ",
+        "lecturer": "Губарев А.Д."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр МЕТР,СТ.И УПР.КАЧ",
+        "classroom": "к.Н2-4; ",
+        "lecturer": "Кедрова Е.И."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ЭКОНОМИКА",
+        "classroom": "413*; ",
+        "lecturer": "Становая А.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ФИЗИКА",
+        "classroom": "328*; ",
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "309*; ",
+        "lecturer": "Халезова А.И."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "309*; ",
+        "lecturer": "Халезова А.И."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек ЭЛЕКТРОНИКА",
+        "classroom": "310; ",
+        "lecturer": "Сотникова Н.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек ЭЛЕКТРОНИКА",
+        "classroom": "310; ",
+        "lecturer": "Сотникова Н.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лаб ЭЛЕКТРОНИКА",
+        "classroom": "430; ",
+        "lecturer": "Пушнякова Е.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ОБЩ.ТЕОР.ИЗМЕР",
+        "classroom": "490; ",
+        "lecturer": "Иванова О.Ю."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек ОБЩ.ТЕОР.ИЗМЕР",
+        "classroom": "372; ",
+        "lecturer": "Иванова О.Ю."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек МЕТР,СТ.И УПР.КАЧ",
+        "classroom": "372; ",
+        "lecturer": "Каламитцев А.О."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек МЕТР,СТ.И УПР.КАЧ",
+        "classroom": "372; ",
+        "lecturer": "Каламитцев А.О."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ВЫСШ. МАТЕМАТ",
+        "classroom": "450; ",
+        "lecturer": "Волченкова Н.М."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ВЫСШ. МАТЕМАТ",
+        "classroom": "450; ",
+        "lecturer": "Волченкова Н.М."
+    },
+    {
+        "day": "Суббота",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "лаб ФИЗИКА",
+        "classroom": "322*; ",
+        "lecturer": null
+    }
+]

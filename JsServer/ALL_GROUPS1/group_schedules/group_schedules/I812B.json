@@ -1,0 +1,306 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек ТАУ",
+        "classroom": "270*(фесто); ",
+        "lecturer": "Жуков Ю.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек ТАУ",
+        "classroom": "270*(фесто); ",
+        "lecturer": "Жуков Ю.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек МЕХАН. РОБОТОВ",
+        "classroom": "155*; ",
+        "lecturer": "Жуков Ю.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ОСН.ТЕХ.МАШ. И ПР.",
+        "classroom": "490; ",
+        "lecturer": "Колыванов А.Ю."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ДМ И ОСН. КОНСТР",
+        "classroom": "155*; ",
+        "lecturer": "Осипов В.И."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ДМ И ОСН. КОНСТР",
+        "classroom": "155*; ",
+        "lecturer": "Осипов В.И."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр КОНС.ТЕХН ПРАКТ.",
+        "classroom": "532*; ",
+        "lecturer": "Колыванов А.Ю."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр КОНС.ТЕХН ПРАКТ.",
+        "classroom": "532*; ",
+        "lecturer": "Колыванов А.Ю."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ПРИВОДЫ МИРТУ",
+        "classroom": "268*(фесто); ",
+        "lecturer": "Мельников Р.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ИНФ.БЕЗ. ЗАЩ.ИНФ",
+        "classroom": "267*(К.кл); ",
+        "lecturer": "Яковенко Н.Г."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ИНФ.БЕЗ. ЗАЩ.ИНФ",
+        "classroom": "155*; ",
+        "lecturer": "Яковенко Н.Г."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лаб БЖД",
+        "classroom": "384б; ",
+        "lecturer": "Храпко Н.Н."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ДМ И ОСН. КОНСТР",
+        "classroom": "373*; ",
+        "lecturer": "Осипов В.И."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ДМ И ОСН. КОНСТР",
+        "classroom": "373*; ",
+        "lecturer": "Осипов В.И."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр БЖД",
+        "classroom": "486; ",
+        "lecturer": "Кудаев А.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "лаб ОСН.ТЕХ.МАШ. И ПР.",
+        "classroom": "352; ",
+        "lecturer": "Колыванов А.Ю."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр МЕХАН. РОБОТОВ",
+        "classroom": "371*; ",
+        "lecturer": "Жуков Ю.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр МЕХАН. РОБОТОВ",
+        "classroom": "371*; ",
+        "lecturer": "Жуков Ю.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ТАУ",
+        "classroom": "267*(К.кл); ",
+        "lecturer": "Коробова И.Л."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ТАУ",
+        "classroom": "267*(К.кл); ",
+        "lecturer": "Коробова И.Л."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ОСН.ТЕХ.МАШ. И ПР.",
+        "classroom": "372; ",
+        "lecturer": "Кочетков  А.Н."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ОСН.ТЕХ.МАШ. И ПР.",
+        "classroom": "332; ",
+        "lecturer": "Кочетков  А.Н."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ПРИВОДЫ МИРТУ",
+        "classroom": "270*(фесто); ",
+        "lecturer": "Мельников Р.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ПРИВОДЫ МИРТУ",
+        "classroom": "270*(фесто); ",
+        "lecturer": "Мельников Р.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр СИЛ.ЭЛЕКТР.УСТР.",
+        "classroom": "267*(К.кл); ",
+        "lecturer": "Гончаров В.О."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "лаб ПРИВОДЫ МИРТУ",
+        "classroom": "268*(фесто); ",
+        "lecturer": "Ельчинский В.С."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек БЖД",
+        "classroom": "315; ",
+        "lecturer": "Кудаев А.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек БЖД",
+        "classroom": "315; ",
+        "lecturer": "Кудаев А.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек СИЛ.ЭЛЕКТР.УСТР.",
+        "classroom": "155*; ",
+        "lecturer": "Слободзян Н.С."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек СИЛ.ЭЛЕКТР.УСТР.",
+        "classroom": "155*; ",
+        "lecturer": "Слободзян Н.С."
+    }
+]

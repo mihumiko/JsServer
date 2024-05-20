@@ -1,0 +1,274 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек ДЕТАЛИ МАШИН",
+        "classroom": "460*; ",
+        "lecturer": "Ли В.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек ДЕТАЛИ МАШИН",
+        "classroom": "460*; ",
+        "lecturer": "Ли В.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ГИДРОСИСТ.И МАШ",
+        "classroom": "375; ",
+        "lecturer": "Андреев О.В."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ГИДРОСИСТ.И МАШ",
+        "classroom": "375; ",
+        "lecturer": "Андреев О.В."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лаб ГИДРОСИСТ.И МАШ",
+        "classroom": "110; ",
+        "lecturer": "Андреев О.В."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лаб СВАРКА",
+        "classroom": "лаб сварка; ",
+        "lecturer": "Андрюшкин А.Ю."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лаб БЖД",
+        "classroom": "384б; ",
+        "lecturer": "Васильев В.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лек СВАРКА",
+        "classroom": "474; ",
+        "lecturer": "Андрюшкин А.Ю."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр БЖД",
+        "classroom": "484; ",
+        "lecturer": "Васильева В.К."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лаб ДЕТАЛИ МАШИН",
+        "classroom": "452*; ",
+        "lecturer": "Беляев А.Н."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек МЕХ.ЖИДК.И ГАЗА",
+        "classroom": "445; ",
+        "lecturer": "Шалимов В.П."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек МЕХ.ЖИДК.И ГАЗА",
+        "classroom": "477; ",
+        "lecturer": "Шалимов В.П."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лаб МЕХ.ЖИДК.И ГАЗА",
+        "classroom": "лаб г/дин; ",
+        "lecturer": "Шалимов В.П."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лаб МЕХ.ЖИДК.И ГАЗА",
+        "classroom": "лаб г/дин; ",
+        "lecturer": "Шалимов В.П."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек БЖД",
+        "classroom": "374; ",
+        "lecturer": "Васильев В.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лек БЖД",
+        "classroom": "313а; ",
+        "lecturer": "Васильев В.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек ОБР.МЕТ.ДАВЛ-ЕМ",
+        "classroom": "319; ",
+        "lecturer": "Расулов З.Н."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лаб ОСН.ПР-Я Р И РКК",
+        "classroom": "СК А4; ",
+        "lecturer": "Дудин С.М."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лаб ОБР.МЕТ.ДАВЛ-ЕМ",
+        "classroom": "108; ",
+        "lecturer": "Расулов З.Н."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ОСН.ПР-Я Р И РКК",
+        "classroom": "СК А4; ",
+        "lecturer": "Иванов П.К."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ОСН.ПР-Я Р И РКК",
+        "classroom": "СК А4; ",
+        "lecturer": "Иванов П.К."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лаб ТЕХНОЛОГИЯ ПР-ВА",
+        "classroom": "СК М2-1; ",
+        "lecturer": "Краснов В.И."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ТЕХНОЛОГИЯ ПР-ВА",
+        "classroom": "СК М2-1; ",
+        "lecturer": "Краснов В.И."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ТЕХНОЛОГИЯ ПР-ВА",
+        "classroom": "СК М2-1; ",
+        "lecturer": "Краснов В.И."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ПРОГ. В ML",
+        "classroom": "СК А4; ",
+        "lecturer": "Гагарский С.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ПРОГ. В ML",
+        "classroom": "СК А4; ",
+        "lecturer": "Гагарский С.В."
+    }
+]

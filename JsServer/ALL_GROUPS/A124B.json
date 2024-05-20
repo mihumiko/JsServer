@@ -1,0 +1,242 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "312*; ",
+        "lecturer": "Швед Д.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "312*; ",
+        "lecturer": "Швед Д.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр СОПР.МАТЕРИАЛОВ",
+        "classroom": "453*; ",
+        "lecturer": "Санников В.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр МЕТР.И ОСН.ВЗАИМ",
+        "classroom": "201*; ",
+        "lecturer": "Голикова В.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ВЫСШ. МАТЕМАТ",
+        "classroom": "376; ",
+        "lecturer": "Забалканская Л.Э."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ВЫСШ. МАТЕМАТ",
+        "classroom": "376; ",
+        "lecturer": "Забалканская Л.Э."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "лек ТЕХН.КОНСТР.МАТ",
+        "classroom": "474; ",
+        "lecturer": "Кочетков  А.Н."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "лек ТЕХН.КОНСТР.МАТ",
+        "classroom": "474; ",
+        "lecturer": "Кочетков  А.Н."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ОСН.СИСТ.АНАЛИЗА",
+        "classroom": "КАБ.10; ",
+        "lecturer": "Кириллов А.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ТЕХН.КОНСТР.МАТ",
+        "classroom": "475; ",
+        "lecturer": "Кочетков  А.Н."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ВЫСШ. МАТЕМАТ",
+        "classroom": "316; ",
+        "lecturer": "Семенова А.Н."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ВЫСШ. МАТЕМАТ",
+        "classroom": "316; ",
+        "lecturer": "Семенова А.Н."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек СОПР.МАТЕРИАЛОВ",
+        "classroom": "493; ",
+        "lecturer": "Санников В.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек СОПР.МАТЕРИАЛОВ",
+        "classroom": "493; ",
+        "lecturer": "Санников В.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек ОСН.СИСТ.АНАЛИЗА",
+        "classroom": "493; ",
+        "lecturer": "Кулаков А.Ю."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ТЕРМОДИНАМИКА",
+        "classroom": "СК2а; ",
+        "lecturer": "Ценёва С.Н."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лаб ТЕРМОДИНАМИКА",
+        "classroom": "ТМП-3; ТМП-4; ТМП-6; ",
+        "lecturer": "Ценёва С.Н."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек ФИЗИКА",
+        "classroom": "327*; ",
+        "lecturer": "Ляхович Д.Н."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лек ФИЗИКА",
+        "classroom": "327*; ",
+        "lecturer": "Ляхович Д.Н."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек МЕТР.И ОСН.ВЗАИМ",
+        "classroom": "493; ",
+        "lecturer": "Кочеткова Т.П."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек МЕТР.И ОСН.ВЗАИМ",
+        "classroom": "493; ",
+        "lecturer": "Кочеткова Т.П."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ТЕРМОДИНАМИКА",
+        "classroom": "443; ",
+        "lecturer": "Киршина А.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ТЕРМОДИНАМИКА",
+        "classroom": "443; ",
+        "lecturer": "Киршина А.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ЦИФ.ТЕХ.ОТР.ПРОМ.",
+        "classroom": "316; ",
+        "lecturer": "Жарова С.С."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ЦИФ.ТЕХ.ОТР.ПРОМ.",
+        "classroom": "316; ",
+        "lecturer": "Жарова С.С."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ЦИФ.ТЕХ.ОТР.ПРОМ.",
+        "classroom": "256*; ",
+        "lecturer": "Баулин Д.А."
+    }
+]

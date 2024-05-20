@@ -1,0 +1,306 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек ТЕОРИЯ РД",
+        "classroom": "ТМП-2; ",
+        "lecturer": "Левихин А.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек ТЕОРИЯ РД",
+        "classroom": "ТМП-2; ",
+        "lecturer": "Левихин А.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ТЕОРИЯ ЛМ",
+        "classroom": "445; ",
+        "lecturer": "Рудяк М.Е."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ДЕТАЛИ МАШИН",
+        "classroom": "460*; ",
+        "lecturer": "Ли В.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ДЕТАЛИ МАШИН",
+        "classroom": "452*; ",
+        "lecturer": "Беляев А.Н."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ДЕТАЛИ МАШИН",
+        "classroom": "452*; ",
+        "lecturer": "Беляев А.Н."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ОСН. МЕН. И МАРК",
+        "classroom": "314; ",
+        "lecturer": "Кондратьев Сергей А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ТЕОРИЯ РД",
+        "classroom": "СК2а; ",
+        "lecturer": "Левихин А.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек СРЕДСТВА ИНЖ.РАСЧ.",
+        "classroom": "ТМП-2; ",
+        "lecturer": "Гашевский Е.М."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ОСН. МЕН. И МАРК",
+        "classroom": "488; ",
+        "lecturer": "Кондратьев Сергей А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек ТЕОРИЯ ЛМ",
+        "classroom": "СК2а; ",
+        "lecturer": "Рудяк М.Е."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лек ТЕОРИЯ ЛМ",
+        "classroom": "СК2а; ",
+        "lecturer": "Рудяк М.Е."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "пр ТЕОРИЯ ЛМ",
+        "classroom": "СК2а; ",
+        "lecturer": "Рудяк М.Е."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "18:30 Четная",
+        "discipline": "пр ТЕОРИЯ ЛМ",
+        "classroom": "СК2а; ",
+        "lecturer": "Рудяк М.Е."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр СРЕДСТВА ИНЖ.РАСЧ.",
+        "classroom": "ауд.БК Климов; ",
+        "lecturer": "Гашевский Е.М."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр СРЕДСТВА ИНЖ.РАСЧ.",
+        "classroom": "ауд.БК Климов; ",
+        "lecturer": "Гашевский Е.М."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ЭКОЛ.ПЕРСП.ДВИГ",
+        "classroom": "ТМП-2; ",
+        "lecturer": "Ценёва С.Н."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ЭКОЛ.ПЕРСП.ДВИГ",
+        "classroom": "ТМП-2; ",
+        "lecturer": "Ценёва С.Н."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ТЕОРИЯ РД",
+        "classroom": "ТМП-2; ",
+        "lecturer": "Левихин А.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ТЕОРИЯ РД",
+        "classroom": "ТМП-2; ",
+        "lecturer": "Левихин А.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек ГИДРАВЛИКА",
+        "classroom": "375; ",
+        "lecturer": "Андреев О.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ЭН.АСП.ТЕПЛ.МАШ",
+        "classroom": "СК2а; ",
+        "lecturer": "Гашевский Е.М."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ГИДРАВЛИКА",
+        "classroom": "110; ",
+        "lecturer": "Андреев О.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ГИДРАВЛИКА",
+        "classroom": "110; ",
+        "lecturer": "Андреев О.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек ЭН.АСП.ТЕПЛ.МАШ",
+        "classroom": "ТМП-2; ",
+        "lecturer": "Пинчук В.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лек ЭН.АСП.ТЕПЛ.МАШ",
+        "classroom": "ТМП-2; ",
+        "lecturer": "Пинчук В.А."
+    },
+    {
+        "day": "Суббота",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ХИМ.ТЕРМОДИНАМ",
+        "classroom": "ТМП-2; ",
+        "lecturer": "Боряев А.А."
+    },
+    {
+        "day": "Суббота",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ХИМ.ТЕРМОДИНАМ",
+        "classroom": "ТМП-2; ",
+        "lecturer": "Боряев А.А."
+    },
+    {
+        "day": "Суббота",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек ХИМ.ТЕРМОДИНАМ",
+        "classroom": "ТМП-2; ",
+        "lecturer": "Боряев А.А."
+    },
+    {
+        "day": "Суббота",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек ХИМ.ТЕРМОДИНАМ",
+        "classroom": "ТМП-2; ",
+        "lecturer": "Боряев А.А."
+    }
+]

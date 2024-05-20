@@ -1,0 +1,218 @@
+[
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ТОЭ",
+        "classroom": "360*; ",
+        "lecturer": "Усольцев А.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ТОЭ",
+        "classroom": "360*; ",
+        "lecturer": "Усольцев А.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ТОЭ",
+        "classroom": "404*; ",
+        "lecturer": "Усольцев А.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ТОЭ",
+        "classroom": "420*; ",
+        "lecturer": "Усольцев А.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "309*; ",
+        "lecturer": "Невзорова Н.Ф."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "309*; ",
+        "lecturer": "Невзорова Н.Ф."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ВЫСШ. МАТЕМАТ",
+        "classroom": "376; ",
+        "lecturer": "Шаповалов Е.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ВЫСШ. МАТЕМАТ",
+        "classroom": "497; ",
+        "lecturer": "Шаповалов Е.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ОСН.СИСТ.АНАЛ.",
+        "classroom": "Мкаб.Е1; ",
+        "lecturer": "Мелехин А.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лаб ТОЭ",
+        "classroom": "356*; 357*; ",
+        "lecturer": "Усольцев А.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ОСН.СИСТ.АНАЛ.",
+        "classroom": "310; ",
+        "lecturer": "Афанасьев А.С."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр СИСТЕМНОЕ ПО",
+        "classroom": "216*; ",
+        "lecturer": "Белов А.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек ВЫСШ. МАТЕМАТ",
+        "classroom": "316; ",
+        "lecturer": "Забалканская Л.Э."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лек ВЫСШ. МАТЕМАТ",
+        "classroom": "316; ",
+        "lecturer": "Забалканская Л.Э."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ФИЗ.ОСН.МИКРОЭЛ",
+        "classroom": "324; ",
+        "lecturer": "Стукалова А.С."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ФИЗ.ОСН.МИКРОЭЛ",
+        "classroom": "324; ",
+        "lecturer": "Стукалова А.С."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лаб ФИЗ.ОСН.МИКРОЭЛ",
+        "classroom": "430; ",
+        "lecturer": "Смирнов А.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек ФИЗИКА",
+        "classroom": "325*; ",
+        "lecturer": "Князева Т.Н."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек ФИЗИКА",
+        "classroom": "325*; ",
+        "lecturer": "Князева Т.Н."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек СИСТЕМНОЕ ПО",
+        "classroom": "313а; ",
+        "lecturer": "Верхолат А.М."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек СИСТЕМНОЕ ПО",
+        "classroom": "313а; ",
+        "lecturer": "Верхолат А.М."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ПРАВОВЕДЕНИЕ",
+        "classroom": "448; ",
+        "lecturer": "Гельдибаев М.Х."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ПРАВОВЕДЕНИЕ",
+        "classroom": "492; ",
+        "lecturer": "Гельдибаев М.Х."
+    }
+]

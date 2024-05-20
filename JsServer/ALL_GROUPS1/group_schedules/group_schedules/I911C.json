@@ -1,0 +1,314 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "лаб БЖД",
+        "classroom": "384б; ",
+        "lecturer": "Васильева В.К."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек БЖД",
+        "classroom": "313; ",
+        "lecturer": "Кудаев А.В."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек БЖД",
+        "classroom": "310; ",
+        "lecturer": "Кудаев А.В."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек АРХ.ЭВМ И СИСТЕМ",
+        "classroom": "315; ",
+        "lecturer": "Мишина О.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек АРХ.ЭВМ И СИСТЕМ",
+        "classroom": "315; ",
+        "lecturer": "Мишина О.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ПР. ГИД.АЭРОДИН",
+        "classroom": "374; ",
+        "lecturer": "Шалимов В.П."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ПР. ГИД.АЭРОДИН",
+        "classroom": "493; ",
+        "lecturer": "Шалимов В.П."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр БЖД",
+        "classroom": "484; ",
+        "lecturer": "Фиев К.П."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лаб ТЕОР.УПРАВЛЕНИЯ",
+        "classroom": "274; ",
+        "lecturer": "Шевчик А.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лаб АРХ.ЭВМ И СИСТЕМ",
+        "classroom": "274; ",
+        "lecturer": "Мишина О.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лаб АРХ.ЭВМ И СИСТЕМ",
+        "classroom": "274; ",
+        "lecturer": "Мишина О.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ВАРИАЦ.ИСЧИСЛЕН",
+        "classroom": "448; ",
+        "lecturer": "Солдаткин А.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ВАРИАЦ.ИСЧИСЛЕН",
+        "classroom": "448; ",
+        "lecturer": "Солдаткин А.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "лаб ПР. ГИД.АЭРОДИН",
+        "classroom": "лаб г/дин; ",
+        "lecturer": "Горохова П.Д."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "18:30 Четная",
+        "discipline": "лаб ПР. ГИД.АЭРОДИН",
+        "classroom": "лаб г/дин; ",
+        "lecturer": "Горохова П.Д."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр СХЕМОТЕХНИКА",
+        "classroom": "346; ",
+        "lecturer": "Ершов С.О."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр МЕХАНИКА ПОЛЕТА",
+        "classroom": "346; ",
+        "lecturer": "Готин С.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек СХЕМОТЕХНИКА",
+        "classroom": "315; ",
+        "lecturer": "Ершов С.О."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек СХЕМОТЕХНИКА",
+        "classroom": "315; ",
+        "lecturer": "Ершов С.О."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр АПП-ИНФ.ОБЕСП.МС",
+        "classroom": "346; ",
+        "lecturer": "Лосев С.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр АПП-ИНФ.ОБЕСП.МС",
+        "classroom": "346; ",
+        "lecturer": "Лосев С.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр МАТ.СТАТИСТ.И СП",
+        "classroom": "ВЦ 373; ",
+        "lecturer": "Гришина О.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр МАТ.СТАТИСТ.И СП",
+        "classroom": "ВЦ 373; ",
+        "lecturer": "Гришина О.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "лек МЕХАНИКА ПОЛЕТА",
+        "classroom": "259; ",
+        "lecturer": "Готин С.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "лек МЕХАНИКА ПОЛЕТА",
+        "classroom": "259; ",
+        "lecturer": "Готин С.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ТЕОР.УПРАВЛЕНИЯ",
+        "classroom": "346; ",
+        "lecturer": "Емельянов В.Ю."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ТЕОР.УПРАВЛЕНИЯ",
+        "classroom": "346; ",
+        "lecturer": "Емельянов В.Ю."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ТЕОР.УПРАВЛЕНИЯ",
+        "classroom": "315; ",
+        "lecturer": "Емельянов В.Ю."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ТЕОР.УПРАВЛЕНИЯ",
+        "classroom": "315; ",
+        "lecturer": "Емельянов В.Ю."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек МАТ.СТАТИСТ.И СП",
+        "classroom": "451; ",
+        "lecturer": "Гришина О.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ВАРИАЦ.ИСЧИСЛЕН",
+        "classroom": "451; ",
+        "lecturer": "Солдаткин А.В."
+    }
+]

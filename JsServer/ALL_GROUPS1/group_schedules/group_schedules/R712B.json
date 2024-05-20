@@ -1,0 +1,242 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр П. К. 1 ИН. ЯЗ.",
+        "classroom": "316*; ",
+        "lecturer": "Швед Д.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр П. К. 1 ИН. ЯЗ.",
+        "classroom": "316*; ",
+        "lecturer": "Швед Д.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек БАЗЫ ДАННЫХ",
+        "classroom": "313а; ",
+        "lecturer": "Ярошевская Е.Ю."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр СТИЛИСТИКА",
+        "classroom": "306*; ",
+        "lecturer": "Абиева Н.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр П.К. 2 И.Я.",
+        "classroom": "306*; ",
+        "lecturer": "Краснова Н.В."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр П.К. 2 И.Я.",
+        "classroom": "306*; ",
+        "lecturer": "Краснова Н.В."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр БАЗЫ ДАННЫХ",
+        "classroom": "ВЦ 285; ",
+        "lecturer": "Ярошевская Е.Ю."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр БАЗЫ ДАННЫХ",
+        "classroom": "ВЦ 285; ",
+        "lecturer": "Ярошевская Е.Ю."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр БЖД",
+        "classroom": "486; ",
+        "lecturer": "Шабарова А.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "лаб БЖД",
+        "classroom": "384б; ",
+        "lecturer": "Шабарова А.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек БЖД",
+        "classroom": "310; ",
+        "lecturer": "Буторина М.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек БЖД",
+        "classroom": "310; ",
+        "lecturer": "Буторина М.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр РАЗГОВОР.ПРАКТ",
+        "classroom": "311*; ",
+        "lecturer": "Ержемская М.Г."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр РАЗГОВОР.ПРАКТ",
+        "classroom": "311*; ",
+        "lecturer": "Ержемская М.Г."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр П.К. 2 И.Я.",
+        "classroom": "316*; ",
+        "lecturer": "Краснова Н.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр П.К. 2 И.Я.",
+        "classroom": "316*; ",
+        "lecturer": "Краснова Н.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ФИЛ.АН. ТЕКСТА",
+        "classroom": "306*; ",
+        "lecturer": "Матюшина Е.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ФИЛ.АН. ТЕКСТА",
+        "classroom": "306*; ",
+        "lecturer": "Матюшина Е.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек СЕМИОТИКА",
+        "classroom": "314*; ",
+        "lecturer": "Николаева О.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр СЕМИОТИКА",
+        "classroom": "306*; ",
+        "lecturer": "Николаева О.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ФИЛ.АН. ТЕКСТА",
+        "classroom": "306*; ",
+        "lecturer": "Матюшина Е.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр МЕЖКУЛЬТ.КОММУН.",
+        "classroom": "318*; ",
+        "lecturer": "Царегородцев Р.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек МЕЖКУЛЬТ.КОММУН.",
+        "classroom": "401*; ",
+        "lecturer": "Царегородцев Р.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек МЕЖКУЛЬТ.КОММУН.",
+        "classroom": "437*; ",
+        "lecturer": "Царегородцев Р.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек СТИЛИСТИКА",
+        "classroom": "313*; ",
+        "lecturer": "Абиева Н.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек СТИЛИСТИКА",
+        "classroom": "314*; ",
+        "lecturer": "Абиева Н.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр П. К. 1 ИН. ЯЗ.",
+        "classroom": "312*; ",
+        "lecturer": "Швед Д.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр П. К. 1 ИН. ЯЗ.",
+        "classroom": "312*; ",
+        "lecturer": "Швед Д.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр П. К. 1 ИН. ЯЗ.",
+        "classroom": "306*; ",
+        "lecturer": "Швед Д.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр П. К. 1 ИН. ЯЗ.",
+        "classroom": "306*; ",
+        "lecturer": "Швед Д.А."
+    }
+]

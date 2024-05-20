@@ -1,0 +1,242 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ФИЗ.ОСН.МИКРОЭЛ",
+        "classroom": "324; ",
+        "lecturer": "Новиков А.В."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ФИЗ.ОСН.МИКРОЭЛ",
+        "classroom": "324; ",
+        "lecturer": "Новиков А.В."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ТОЭ",
+        "classroom": "443; ",
+        "lecturer": "Лойко А.В."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ТОЭ",
+        "classroom": "443; ",
+        "lecturer": "Лойко А.В."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ВЫСШ. МАТЕМАТ",
+        "classroom": "376; ",
+        "lecturer": "Пономарев  С.Ю."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ВЫСШ. МАТЕМАТ",
+        "classroom": "376; ",
+        "lecturer": "Пономарев  С.Ю."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лаб ТОЭ",
+        "classroom": "356*; 366*; ",
+        "lecturer": "Лойко А.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ПРАВОВЕДЕНИЕ",
+        "classroom": "451; ",
+        "lecturer": "Диденко Л.Г."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ОСН.СИСТ.АН.",
+        "classroom": "316; ",
+        "lecturer": "Воробьева Е.Е."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "312*; ",
+        "lecturer": "Мамаев И.Д."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "312*; ",
+        "lecturer": "Мамаев И.Д."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр КОМП.ПРАКТИКУМ",
+        "classroom": "256*; ",
+        "lecturer": "Мажайцев Е.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр КОМП.ПРАКТИКУМ",
+        "classroom": "256*; ",
+        "lecturer": "Мажайцев Е.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр КОМП.ПРАКТИКУМ",
+        "classroom": "256*; ",
+        "lecturer": "Мажайцев Е.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр СИСТЕМНОЕ ПО",
+        "classroom": "218*; ",
+        "lecturer": "Устиновский Г.С."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лаб ФИЗ.ОСН.МИКРОЭЛ",
+        "classroom": "430; ",
+        "lecturer": "Новиков А.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ОСН.СИСТ.АН.",
+        "classroom": "346; ",
+        "lecturer": "Воробьева Е.Е."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек СИСТЕМНОЕ ПО",
+        "classroom": "310; ",
+        "lecturer": "Верхолат А.М."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек СИСТЕМНОЕ ПО",
+        "classroom": "310; ",
+        "lecturer": "Верхолат А.М."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ПРАВОВЕДЕНИЕ",
+        "classroom": "492; ",
+        "lecturer": "Моисеенко М.И."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек ФИЗИКА",
+        "classroom": "429*; ",
+        "lecturer": "Котова Л.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек ФИЗИКА",
+        "classroom": "429*; ",
+        "lecturer": "Котова Л.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ВЫСШ. МАТЕМАТ",
+        "classroom": "429*; ",
+        "lecturer": "Марданов А.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ВЫСШ. МАТЕМАТ",
+        "classroom": "429*; ",
+        "lecturer": "Марданов А.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ТОЭ",
+        "classroom": "404*; ",
+        "lecturer": "Лойко А.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ТОЭ",
+        "classroom": "360*; ",
+        "lecturer": "Лойко А.В."
+    }
+]

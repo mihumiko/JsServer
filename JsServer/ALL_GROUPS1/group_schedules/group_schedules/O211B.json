@@ -1,0 +1,266 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ЭЛ-РАД-ИЗМЕРЕН",
+        "classroom": "436; ",
+        "lecturer": "Певишев С.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ЭЛ-РАД-ИЗМЕРЕН",
+        "classroom": "436; ",
+        "lecturer": "Певишев С.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ЗАЩ.ИНТЕЛ.СОБСТ",
+        "classroom": "332; ",
+        "lecturer": "Каламитцев А.О."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лаб ЭЛ-РАД-ИЗМЕРЕН",
+        "classroom": "425; ",
+        "lecturer": "Певишев С.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ФИЗ.ОСН.ИЗМЕР.",
+        "classroom": "332; ",
+        "lecturer": "Юлиш В.И."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ФИЗ.ОСН.ИЗМЕР.",
+        "classroom": "332; ",
+        "lecturer": "Юлиш В.И."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ОБЕСП.КАЧЕСТВА",
+        "classroom": "352; ",
+        "lecturer": "Кудрявцев А.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ОБЕСП.КАЧЕСТВА",
+        "classroom": "352; ",
+        "lecturer": "Кудрявцев А.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек КИПР ПРИБ.И УСТ",
+        "classroom": "332; ",
+        "lecturer": "Жаркой М.Ф."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек КИПР ПРИБ.И УСТ",
+        "classroom": "332; ",
+        "lecturer": "Жаркой М.Ф."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек ФИЗ.ОСН.ИЗМЕР.",
+        "classroom": "372; ",
+        "lecturer": "Юлиш В.И."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лек ФИЗ.ОСН.ИЗМЕР.",
+        "classroom": "372; ",
+        "lecturer": "Юлиш В.И."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "лек АСТПП И САПР-Т",
+        "classroom": "332; ",
+        "lecturer": "Винник С.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "18:30 Четная",
+        "discipline": "лаб ФИЗ.ОСН.ИЗМЕР.",
+        "classroom": "лаб к.Н2-2; ",
+        "lecturer": "Юлиш В.И."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр АСТПП И САПР-Т",
+        "classroom": "352; ",
+        "lecturer": "Стрельцов В.Г."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр АСТПП И САПР-Т",
+        "classroom": "352; ",
+        "lecturer": "Стрельцов В.Г."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ОСН.ТЕХН.ПР-СТР",
+        "classroom": "372; ",
+        "lecturer": "Колыванов А.Ю."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ОСН.ТЕХН.ПР-СТР",
+        "classroom": "372; ",
+        "lecturer": "Колыванов А.Ю."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек ОСН.ТЕХН.ПР-СТР",
+        "classroom": "332; ",
+        "lecturer": "Матвеев П.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лек ОСН.ТЕХН.ПР-СТР",
+        "classroom": "332; ",
+        "lecturer": "Матвеев П.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр КИПР ПРИБ.И УСТ",
+        "classroom": "352; ",
+        "lecturer": "Колыванов А.Ю."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ОБЕСП.КАЧЕСТВА",
+        "classroom": "372; ",
+        "lecturer": "Кудрявцев А.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ОБЕСП.КАЧЕСТВА",
+        "classroom": "372; ",
+        "lecturer": "Кудрявцев А.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ЗАЩ.ИНТЕЛ.СОБСТ",
+        "classroom": "448; ",
+        "lecturer": "Каламитцев А.О."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ЗАЩ.ИНТЕЛ.СОБСТ",
+        "classroom": "488; ",
+        "lecturer": "Каламитцев А.О."
+    }
+]

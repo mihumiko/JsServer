@@ -1,0 +1,290 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "лек БЖД",
+        "classroom": "310; ",
+        "lecturer": "Кудаев А.В."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "лек БЖД",
+        "classroom": "310; ",
+        "lecturer": "Кудаев А.В."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек МЕХАНИКА КМ",
+        "classroom": "СК М2-2; ",
+        "lecturer": "Нилов А.С."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек МЕХАНИКА КМ",
+        "classroom": "СК М2-2; ",
+        "lecturer": "Нилов А.С."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр МЕХАНИКА КМ",
+        "classroom": "СК М2-2; ",
+        "lecturer": "Нилов А.С."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр МЕХАНИКА КМ",
+        "classroom": "СК М2-2; ",
+        "lecturer": "Нилов А.С."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр БЖД",
+        "classroom": "484; ",
+        "lecturer": "Дмитриева А.П."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ТЕХ-Я ПР-ВА ИЗ КМ",
+        "classroom": "СК М2-2; ",
+        "lecturer": "Нилов А.С."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр СИСТЕМЫ  ТПП",
+        "classroom": "475; ",
+        "lecturer": "Ленина В.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр СИСТЕМЫ  ТПП",
+        "classroom": "475; ",
+        "lecturer": "Ленина В.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек СИСТЕМЫ  ТПП",
+        "classroom": "475; ",
+        "lecturer": "Ленина В.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек СИСТЕМЫ  ТПП",
+        "classroom": "475; ",
+        "lecturer": "Ленина В.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек МЕХ/ФИЗ-ТЕХ ОБР.КМ",
+        "classroom": "475; ",
+        "lecturer": "Андрюшкин А.Ю."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лек МЕХ/ФИЗ-ТЕХ ОБР.КМ",
+        "classroom": "475; ",
+        "lecturer": "Андрюшкин А.Ю."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "пр СВАРКА И РОД.ПРОЦ.",
+        "classroom": "лаб сварка; ",
+        "lecturer": "Андрюшкин А.Ю."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "18:30 Четная",
+        "discipline": "пр СВАРКА И РОД.ПРОЦ.",
+        "classroom": "лаб сварка; ",
+        "lecturer": "Андрюшкин А.Ю."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ТЕХ-Я ПР-ВА ИЗ КМ",
+        "classroom": "СК М2-2; ",
+        "lecturer": "Нилов А.С."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ТЕХ-Я ПР-ВА ИЗ КМ",
+        "classroom": "СК М2-2; ",
+        "lecturer": "Нилов А.С."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ТЕХ-Я ПР-ВА ИЗ КМ",
+        "classroom": "СК М2-2; ",
+        "lecturer": "Нилов А.С."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ТЕХ-Я ПР-ВА ИЗ КМ",
+        "classroom": "СК М2-2; ",
+        "lecturer": "Нилов А.С."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек СИСТЕМЫ  ТПП",
+        "classroom": "475; ",
+        "lecturer": "Ленина В.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лаб БЖД",
+        "classroom": "384б; ",
+        "lecturer": "Васильева В.К."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек ОСН.МЕНЕДЖМЕНТ",
+        "classroom": "420*; ",
+        "lecturer": "Иванов К.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ОСН.МЕНЕДЖМЕНТ",
+        "classroom": "418*; ",
+        "lecturer": "Иванов К.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр МЕХ/ФИЗ-ТЕХ ОБР.КМ",
+        "classroom": "474; ",
+        "lecturer": "Андрюшкин А.Ю."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр МЕХ/ФИЗ-ТЕХ ОБР.КМ",
+        "classroom": "474; ",
+        "lecturer": "Андрюшкин А.Ю."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек СВАРКА И РОД.ПРОЦ.",
+        "classroom": "474; ",
+        "lecturer": "Андрюшкин А.Ю."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лек СВАРКА И РОД.ПРОЦ.",
+        "classroom": "474; ",
+        "lecturer": "Андрюшкин А.Ю."
+    }
+]

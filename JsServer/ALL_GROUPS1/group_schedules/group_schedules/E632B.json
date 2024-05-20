@@ -1,0 +1,266 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек ВЫСШ. МАТЕМАТ",
+        "classroom": "450; ",
+        "lecturer": "Свентицкая В.Е."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек ВЫСШ. МАТЕМАТ",
+        "classroom": "450; ",
+        "lecturer": "Свентицкая В.Е."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
+        "classroom": "314; ",
+        "lecturer": "Макаренко А.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
+        "classroom": "314; ",
+        "lecturer": "Макаренко А.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
+        "classroom": "ВЦ 284; ",
+        "lecturer": "Макаренко А.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
+        "classroom": "ВЦ 284; ",
+        "lecturer": "Макаренко А.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ПРАВОВЕДЕНИЕ",
+        "classroom": "487; ",
+        "lecturer": "Диденко Л.Г."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лаб МАТЕРИАЛОВ-Е И ТКМ",
+        "classroom": "473; ",
+        "lecturer": "Воробьева Г.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек МАТЕРИАЛОВ-Е И ТКМ",
+        "classroom": "474; ",
+        "lecturer": "Воробьева Г.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек МАТЕРИАЛОВ-Е И ТКМ",
+        "classroom": "474; ",
+        "lecturer": "Воробьева Г.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ИСТОРИЯ",
+        "classroom": "331*; ",
+        "lecturer": "Никитин А.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ИСТОРИЯ",
+        "classroom": "331*; ",
+        "lecturer": "Никитин А.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек ЭКОНОМИКА",
+        "classroom": "418*; ",
+        "lecturer": "Григорьев М.Н."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лек ЭКОНОМИКА",
+        "classroom": "418*; ",
+        "lecturer": "Григорьев М.Н."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек ФИЗИКА",
+        "classroom": "327*; ",
+        "lecturer": "Лентовский В.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек ФИЗИКА",
+        "classroom": "327*; ",
+        "lecturer": "Лентовский В.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ФИЗИКА",
+        "classroom": "328*; ",
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лаб ФИЗИКА",
+        "classroom": "323*; ",
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ПСИХ-Я.ПРОФ.ДЕЯ-НИ",
+        "classroom": "487; ",
+        "lecturer": "Кондратьев Сергей А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ЭКОНОМИКА",
+        "classroom": "498; ",
+        "lecturer": "Ващенко А.Н."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ПСИХ-Я.ПРОФ.ДЕЯ-НИ",
+        "classroom": "316; ",
+        "lecturer": "Кондратьев Сергей А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ПСИХ-Я.ПРОФ.ДЕЯ-НИ",
+        "classroom": "316; ",
+        "lecturer": "Кондратьев Сергей А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек ПРАВОВЕДЕНИЕ",
+        "classroom": "443; ",
+        "lecturer": "Моисеенко М.И."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ВЫСШ. МАТЕМАТ",
+        "classroom": "214*; ",
+        "lecturer": "Волченкова Н.М."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ВЫСШ. МАТЕМАТ",
+        "classroom": "214*; ",
+        "lecturer": "Волченкова Н.М."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ИСТОРИЯ",
+        "classroom": "418*; ",
+        "lecturer": "Никитин А.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ИСТОРИЯ",
+        "classroom": "418*; ",
+        "lecturer": "Никитин А.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "308*; ",
+        "lecturer": "Мартынова А.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "308*; ",
+        "lecturer": "Мартынова А.А."
+    }
+]

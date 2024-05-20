@@ -1,0 +1,218 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "лек МАТ.СТАТИСТ.И СП",
+        "classroom": "455; ",
+        "lecturer": "Тарасова Н.В."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр МАТ.СТАТИСТ.И СП",
+        "classroom": "445; ",
+        "lecturer": "Гришина О.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр МАТ.СТАТИСТ.И СП",
+        "classroom": "490; ",
+        "lecturer": "Гришина О.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ПРЕДСТ.ЗНАН.В ИС",
+        "classroom": "274; ",
+        "lecturer": "Мариев И.П."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ПРЕДСТ.ЗНАН.В ИС",
+        "classroom": "274; ",
+        "lecturer": "Мариев И.П."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лаб ТЕОР.УПРАВЛЕНИЯ",
+        "classroom": "277; ",
+        "lecturer": "Шевчик А.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лаб БЖД",
+        "classroom": "384б; ",
+        "lecturer": "Васильева В.К."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ТЕОР.УПРАВЛЕНИЯ",
+        "classroom": "315; ",
+        "lecturer": "Митин Ф.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ТЕОР.УПРАВЛЕНИЯ",
+        "classroom": "315; ",
+        "lecturer": "Митин Ф.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек БЖД",
+        "classroom": "314; ",
+        "lecturer": "Кудаев А.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек БЖД",
+        "classroom": "314; ",
+        "lecturer": "Кудаев А.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек ПРЕДСТ.ЗНАН.В ИС",
+        "classroom": "259; ",
+        "lecturer": "Толмачев С.Г."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лек ПРЕДСТ.ЗНАН.В ИС",
+        "classroom": "259; ",
+        "lecturer": "Толмачев С.Г."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "пр БАЗЫ ДАННЫХ",
+        "classroom": "278; ",
+        "lecturer": "Смирнов Н.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек МИКРОПРОЦ.СР-ВА",
+        "classroom": "259; ",
+        "lecturer": "Куликов Д.Б."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр МИКРОПРОЦ.СР-ВА",
+        "classroom": "346; ",
+        "lecturer": "Куликов Д.Б."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр БАЗЫ ДАННЫХ",
+        "classroom": "274; ",
+        "lecturer": "Смирнов Н.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек БАЗЫ ДАННЫХ",
+        "classroom": "259; ",
+        "lecturer": "Смирнов Н.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лек БАЗЫ ДАННЫХ",
+        "classroom": "259; ",
+        "lecturer": "Смирнов Н.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "лек ТИ И КОДИРОВАНИЕ",
+        "classroom": "313а; ",
+        "lecturer": "Александров А.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "18:30 Четная",
+        "discipline": "пр ТИ И КОДИРОВАНИЕ",
+        "classroom": "346; ",
+        "lecturer": "Александров А.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр БЖД",
+        "classroom": "484; ",
+        "lecturer": "Тюрина Н.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ТЕОР.УПРАВЛЕНИЯ",
+        "classroom": "346; ",
+        "lecturer": "Емельянов В.Ю."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ТЕОР.УПРАВЛЕНИЯ",
+        "classroom": "346; ",
+        "lecturer": "Емельянов В.Ю."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "лек СХЕМОТЕХНИКА",
+        "classroom": "315; ",
+        "lecturer": "Ершов С.О."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "лек СХЕМОТЕХНИКА",
+        "classroom": "315; ",
+        "lecturer": "Ершов С.О."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр СХЕМОТЕХНИКА",
+        "classroom": "259; ",
+        "lecturer": "Ершов С.О."
+    }
+]

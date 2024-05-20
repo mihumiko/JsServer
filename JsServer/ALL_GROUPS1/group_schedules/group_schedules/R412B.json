@@ -1,0 +1,226 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр НИР (ПЕРВИЧ.НАВЫКИ)",
+        "classroom": "440*; ",
+        "lecturer": "Сорокина Е.В."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ОРГ.ПР-ВА НА ПР.",
+        "classroom": "497; ",
+        "lecturer": "Уманец С.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лаб БЖД",
+        "classroom": "384б; ",
+        "lecturer": "Фиев К.П."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "18:30 Четная",
+        "discipline": "пр БЖД",
+        "classroom": "498; ",
+        "lecturer": "Фиев К.П."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ЦЕНОВАЯ ПОЛ-КА",
+        "classroom": "455; ",
+        "lecturer": "Черненко В.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ЦЕНОВАЯ ПОЛ-КА",
+        "classroom": "497; ",
+        "lecturer": "Черненко В.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр СТРАХОВАНИЕ",
+        "classroom": "432*; ",
+        "lecturer": "Венедиктова С.К."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр СТРАХОВАНИЕ",
+        "classroom": "440*; ",
+        "lecturer": "Венедиктова С.К."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "лек ОСН.БУХ.УЧ. И АУДИТА",
+        "classroom": "402*; ",
+        "lecturer": "Катаев С.Е."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "18:30 Четная",
+        "discipline": "пр СТРАХОВАНИЕ",
+        "classroom": "430*; ",
+        "lecturer": "Венедиктова С.К."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр СТРАХОВАНИЕ",
+        "classroom": "313; ",
+        "lecturer": "Венедиктова С.К."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ПРОГНОЗ. С-ЭК ПРОЦ.",
+        "classroom": "402*; ",
+        "lecturer": "Шиндина Ю.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ПРОГНОЗ. С-ЭК ПРОЦ.",
+        "classroom": "436*; ",
+        "lecturer": "Шиндина Ю.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ЦЕНОВАЯ ПОЛ-КА",
+        "classroom": "318; ",
+        "lecturer": "Черненко В.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ЦЕНОВАЯ ПОЛ-КА",
+        "classroom": "313; ",
+        "lecturer": "Черненко В.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ОСН.БУХ.УЧ. И АУДИТА",
+        "classroom": "530*; ",
+        "lecturer": "Катаев С.Е."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ОСН.БУХ.УЧ. И АУДИТА",
+        "classroom": "530*; ",
+        "lecturer": "Катаев С.Е."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ГОС.БЮДЖЕТ",
+        "classroom": "437*; ",
+        "lecturer": "Черненко В.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ГОС.БЮДЖЕТ",
+        "classroom": "404*; ",
+        "lecturer": "Черненко В.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ПРОГНОЗ. С-ЭК ПРОЦ.",
+        "classroom": "437*; ",
+        "lecturer": "Шиндина Ю.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ПРОГНОЗ. С-ЭК ПРОЦ.",
+        "classroom": "404*; ",
+        "lecturer": "Шиндина Ю.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек БЖД",
+        "classroom": "310; ",
+        "lecturer": "Тюрина Н.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек БЖД",
+        "classroom": "310; ",
+        "lecturer": "Тюрина Н.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ОРГ.ПР-ВА НА ПР.",
+        "classroom": "433*; ",
+        "lecturer": "Уманец С.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ОРГ.ПР-ВА НА ПР.",
+        "classroom": "404*; ",
+        "lecturer": "Уманец С.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лек ГОС.БЮДЖЕТ",
+        "classroom": "402*; ",
+        "lecturer": "Черненко В.А."
+    }
+]

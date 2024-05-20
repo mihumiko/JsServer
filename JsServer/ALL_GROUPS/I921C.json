@@ -1,0 +1,250 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "лаб ФИЗ.ОСН.МИКРОЭЛ",
+        "classroom": "430; ",
+        "lecturer": "Крылова М.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ОБЩ.ТЕОР.ИЗМЕР",
+        "classroom": "332; ",
+        "lecturer": "Левицкий М.В."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек ОБЩ.ТЕОР.ИЗМЕР",
+        "classroom": "372; ",
+        "lecturer": "Левицкий М.В."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ВЫСШ. МАТЕМАТ",
+        "classroom": "450; ",
+        "lecturer": "Исакова Е.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ВЫСШ. МАТЕМАТ",
+        "classroom": "450; ",
+        "lecturer": "Исакова Е.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лаб ФИЗИКА",
+        "classroom": "322*; ",
+        "lecturer": null
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ФИЗИКА",
+        "classroom": "338г*; ",
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек ТЕОР. МЕХАНИКА",
+        "classroom": "313а; ",
+        "lecturer": "Керестень И.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек ТЕОР. МЕХАНИКА",
+        "classroom": "313а; ",
+        "lecturer": "Керестень И.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ФИЗ.ОСН.МИКРОЭЛ",
+        "classroom": "310; ",
+        "lecturer": "Ярыгин Д.М."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ФИЗ.ОСН.МИКРОЭЛ",
+        "classroom": "310; ",
+        "lecturer": "Ярыгин Д.М."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ЭЛ-ТЕХ И ЭЛЕКТР",
+        "classroom": "325*; ",
+        "lecturer": "Гурьев А.И."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ЭЛ-ТЕХ И ЭЛЕКТР",
+        "classroom": "401*; ",
+        "lecturer": "Гурьев А.И."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр КОМП.ПРАКТИКУМ",
+        "classroom": "274; ",
+        "lecturer": "Воробьева Е.Е."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр КОМП.ПРАКТИКУМ",
+        "classroom": "274; ",
+        "lecturer": "Воробьева Е.Е."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ОСН.СИСТ.АН.",
+        "classroom": "259; ",
+        "lecturer": "Петрунин А.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ОСН.СИСТ.АН.",
+        "classroom": "376; ",
+        "lecturer": "Петрунин А.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "310*; ",
+        "lecturer": "Паньшина А.И."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "310*; ",
+        "lecturer": "Паньшина А.И."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "лек ФИЗИКА",
+        "classroom": "327*; ",
+        "lecturer": "Иванова Н.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "лек ФИЗИКА",
+        "classroom": "327*; ",
+        "lecturer": "Иванова Н.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ВЫСШ. МАТЕМАТ",
+        "classroom": "497; ",
+        "lecturer": "Пономарев  С.Ю."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ВЫСШ. МАТЕМАТ",
+        "classroom": "497; ",
+        "lecturer": "Пономарев  С.Ю."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ТЕОР. МЕХАНИКА",
+        "classroom": "444; ",
+        "lecturer": "Керестень И.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ТЕОР. МЕХАНИКА",
+        "classroom": "446; ",
+        "lecturer": "Керестень И.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ЭЛ-ТЕХ И ЭЛЕКТР",
+        "classroom": "403*; ",
+        "lecturer": "Гурьев А.И."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лаб ЭЛ-ТЕХ И ЭЛЕКТР",
+        "classroom": "360*; ",
+        "lecturer": "Гурьев А.И."
+    }
+]

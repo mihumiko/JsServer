@@ -1,0 +1,266 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "лек АВТОМ.И РЕГУЛИР",
+        "classroom": "325; ",
+        "lecturer": "Русина А.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "лек АВТОМ.И РЕГУЛИР",
+        "classroom": "325; ",
+        "lecturer": "Русина А.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр САПР В МАШИН.",
+        "classroom": "320; ",
+        "lecturer": "Афанасьев А.С."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр САПР В МАШИН.",
+        "classroom": "320; ",
+        "lecturer": "Афанасьев А.С."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "лек ДВИГ.ДВУХСР.АПП",
+        "classroom": "ТМП-2; ",
+        "lecturer": "Савченко Г.Б."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек САПР В МАШИН.",
+        "classroom": "477; ",
+        "lecturer": "Афанасьев А.С."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ПР.И КОНСТР.ЖРД",
+        "classroom": "ТМП-2; ",
+        "lecturer": "Киршина А.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ЭЛЕКТРОРАКЕТ.ДВ.КА",
+        "classroom": "СК ИСС; ",
+        "lecturer": "Будный Н.Л."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ЭЛЕКТРОРАКЕТ.ДВ.КА",
+        "classroom": "СК ИСС; ",
+        "lecturer": "Будный Н.Л."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ПРОЕКТ.ЭЛ. ИЗ КМ",
+        "classroom": "ТМП-2; ",
+        "lecturer": "Лихачев А.Н."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ПРОЕКТ.ЭЛ. ИЗ КМ",
+        "classroom": "ТМП-2; ",
+        "lecturer": "Лихачев А.Н."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр АВТОМ.И РЕГУЛИР",
+        "classroom": "ауд.БК Климов; ",
+        "lecturer": "Никитенко А.Б."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ДВИГ.ДВУХСР.АПП",
+        "classroom": "ТМП-2; ",
+        "lecturer": "Савченко Г.Б."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ПРОЕКТИР. С ПРИМ.CAD",
+        "classroom": "ауд.БК Климов; ",
+        "lecturer": "Побелянский А.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ПРОЕКТИР. С ПРИМ.CAD",
+        "classroom": "ауд.БК Климов; ",
+        "lecturer": "Побелянский А.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "пр ПРОЕКТ.КАМЕР РД",
+        "classroom": "СК2а; ",
+        "lecturer": "Левихин А.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "18:30 Четная",
+        "discipline": "пр ПРОЕКТ.КАМЕР РД",
+        "classroom": "СК2а; ",
+        "lecturer": "Левихин А.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ПРОЕКТ.ЭЛ. ИЗ КМ",
+        "classroom": "СК2а; ",
+        "lecturer": "Лихачев А.Н."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек ОСН.УСТР-ВА ПУ",
+        "classroom": "375; ",
+        "lecturer": "Иванов П.К."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ПР.И КОНСТР.ЖРД",
+        "classroom": "СК2а; ",
+        "lecturer": "Киршина А.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ПРОЕКТИР. С ПРИМ.CAD",
+        "classroom": "ауд.БК Климов; ",
+        "lecturer": "Побелянский А.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ПРОЕКТИР. С ПРИМ.CAD",
+        "classroom": "ауд.БК Климов; ",
+        "lecturer": "Побелянский А.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ОСН.УСТР-ВА ПУ",
+        "classroom": "САПР; ",
+        "lecturer": "Иванов П.К."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ОСН.УСТР-ВА ПУ",
+        "classroom": "САПР; ",
+        "lecturer": "Иванов П.К."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ПРОЕКТ.ЭЛ. ИЗ КМ",
+        "classroom": "СК2а; ",
+        "lecturer": "Лихачев А.Н."
+    }
+]

@@ -1,0 +1,154 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек СИСТ. ПРОЕКТИР",
+        "classroom": "КАБ.Е1; ",
+        "lecturer": "Вященко Ю.Л."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр МЕТ. НАУЧ. ИССЛЕД",
+        "classroom": "401*; ",
+        "lecturer": "Дрозд А.Л."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек МЕТ. НАУЧ. ИССЛЕД",
+        "classroom": "526*; ",
+        "lecturer": "Дрозд А.Л."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек МСП CAD/CAM/CAE",
+        "classroom": "202*а(К.кл); ",
+        "lecturer": "Александров  А.С."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр СИСТ. ПРОЕКТИР",
+        "classroom": "КАБ.Е1; ",
+        "lecturer": "Вященко Ю.Л."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр СИСТ. ПРОЕКТИР",
+        "classroom": "КАБ.Е1; ",
+        "lecturer": "Вященко Ю.Л."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "лек ВЫСШ. МАТ. В НИ",
+        "classroom": "450; ",
+        "lecturer": "Павлов Ю.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "18:30 Четная",
+        "discipline": "лек ВЫСШ. МАТ. В НИ",
+        "classroom": "450; ",
+        "lecturer": "Павлов Ю.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "304*; ",
+        "lecturer": "Швед Д.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "304*; ",
+        "lecturer": "Швед Д.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "пр МСП CAD/CAM/CAE",
+        "classroom": "202*а(К.кл); ",
+        "lecturer": "Александров  А.С."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "18:30 Четная",
+        "discipline": "пр МСП CAD/CAM/CAE",
+        "classroom": "202*а(К.кл); ",
+        "lecturer": "Александров  А.С."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ВЫСШ. МАТ. В НИ",
+        "classroom": "444; ",
+        "lecturer": "Солдаткин А.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "лек УПР.ПРОЕКТАМИ",
+        "classroom": "331*; ",
+        "lecturer": "Алёшкин Н.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "20:05 Нечетная",
+        "discipline": "пр УПР.ПРОЕКТАМИ",
+        "classroom": "331*; ",
+        "lecturer": "Алёшкин Н.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек ПРОЕКТ. ТЕРМ. МАШ.",
+        "classroom": "КАБ.Е1; ",
+        "lecturer": "Цепелев В.С."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр НАУЧ.ИССЛ.РАБ.",
+        "classroom": "ВЦ КЕ1; ",
+        "lecturer": "Егоров  В.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "пр ПРОЕКТ. ТЕРМ. МАШ.",
+        "classroom": "ВЦ КЕ1; ",
+        "lecturer": "Цепелев В.С."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "18:30 Четная",
+        "discipline": "пр ПРОЕКТ. ТЕРМ. МАШ.",
+        "classroom": "ВЦ КЕ1; ",
+        "lecturer": "Цепелев В.С."
+    }
+]

@@ -1,0 +1,258 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ИСТОРИЯ",
+        "classroom": "430*; ",
+        "lecturer": "Меркулова А.Э."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ИСТОРИЯ",
+        "classroom": "430*; ",
+        "lecturer": "Меркулова А.Э."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ПСИХ-Я.ПРОФ.ДЕЯ-НИ",
+        "classroom": "498; ",
+        "lecturer": "Кондратьев Сергей А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ЭКОНОМИКА",
+        "classroom": "498; ",
+        "lecturer": "Ващенко А.Н."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
+        "classroom": "314; ",
+        "lecturer": "Удовиченко А.С."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
+        "classroom": "314; ",
+        "lecturer": "Удовиченко А.С."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "лаб ФИЗИКА",
+        "classroom": "323*; ",
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек ПСИХ-Я.ПРОФ.ДЕЯ-НИ",
+        "classroom": "437*; ",
+        "lecturer": "Кондратьев Сергей А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек ПСИХ-Я.ПРОФ.ДЕЯ-НИ",
+        "classroom": "437*; ",
+        "lecturer": "Кондратьев Сергей А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ФИЗИКА",
+        "classroom": "331*; ",
+        "lecturer": "Кулинкин А.Б."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ФИЗИКА",
+        "classroom": "331*; ",
+        "lecturer": "Кулинкин А.Б."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ЭКОНОМИКА",
+        "classroom": "429*; ",
+        "lecturer": "Григорьев М.Н."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ЭКОНОМИКА",
+        "classroom": "429*; ",
+        "lecturer": "Григорьев М.Н."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ФИЗИКА",
+        "classroom": "434*; ",
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ИСТОРИЯ",
+        "classroom": "401*; ",
+        "lecturer": "Егоренкова О.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ИСТОРИЯ",
+        "classroom": "401*; ",
+        "lecturer": "Егоренкова О.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ВЫСШ. МАТЕМАТ",
+        "classroom": "451; ",
+        "lecturer": "Винник П.М."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ВЫСШ. МАТЕМАТ",
+        "classroom": "451; ",
+        "lecturer": "Винник П.М."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ВЫСШ. МАТЕМАТ",
+        "classroom": "448; ",
+        "lecturer": "Щеглова А.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ВЫСШ. МАТЕМАТ",
+        "classroom": "448; ",
+        "lecturer": "Щеглова А.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ИНЖ.И КОМП. ГРАФ",
+        "classroom": "505*; ",
+        "lecturer": "Абросимов С.Н."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ИНЖ.И КОМП. ГРАФ",
+        "classroom": "505*; ",
+        "lecturer": "Абросимов С.Н."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек ФИЛОСОФИЯ",
+        "classroom": "401*; ",
+        "lecturer": "Хомелев Г.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ФИЛОСОФИЯ",
+        "classroom": "422*; ",
+        "lecturer": "Хомелев Г.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
+        "classroom": "ВЦ 282; ",
+        "lecturer": "Удовиченко А.С."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
+        "classroom": "ВЦ 282; ",
+        "lecturer": "Удовиченко А.С."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "308*; ",
+        "lecturer": "Панкратова С.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "308*; ",
+        "lecturer": "Панкратова С.А."
+    }
+]

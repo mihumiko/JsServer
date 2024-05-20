@@ -1,0 +1,266 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек ТЕХН.ПР-ВА ВЫСТР",
+        "classroom": "319; ",
+        "lecturer": "Костюк Е.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лек ТЕХН.ПР-ВА ВЫСТР",
+        "classroom": "319; ",
+        "lecturer": "Костюк Е.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "пр ЧИСЛ.МЕТ.РЕШ.ПМ",
+        "classroom": "ВЦ 371; ",
+        "lecturer": "Сидоренко Т.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "18:30 Четная",
+        "discipline": "пр ЧИСЛ.МЕТ.РЕШ.ПМ",
+        "classroom": "ВЦ 371; ",
+        "lecturer": "Сидоренко Т.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лаб ТЕХ.ОБ.ПРОИЗВ.ПАТР",
+        "classroom": "108; ",
+        "lecturer": "Афимьин Г.О."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ОСН.ТЕПЛОТЕХНИК",
+        "classroom": "ТТЛ; ",
+        "lecturer": "Герлиман Е.М."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лаб ОСН.ТЕПЛОТЕХНИК",
+        "classroom": "ТТЛ; ",
+        "lecturer": "Герлиман Е.М."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "лаб ТЕХН.ПР-ВА ВЫСТР",
+        "classroom": "319; ",
+        "lecturer": "Денисова М.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "18:30 Четная",
+        "discipline": "пр ТЕХН.ПР-ВА ВЫСТР",
+        "classroom": "319; ",
+        "lecturer": "Денисова М.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр КОМП. КОНСТРУИР",
+        "classroom": "320; ",
+        "lecturer": "Олехвер А.И."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек МЕТ.ИСПЫТ. СП",
+        "classroom": "310; ",
+        "lecturer": "Москвин С.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек МЕТ.ИСПЫТ. СП",
+        "classroom": "315; ",
+        "lecturer": "Москвин С.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр КОМП. КОНСТРУИР",
+        "classroom": "320; ",
+        "lecturer": "Олехвер А.И."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ОСН.ТЕПЛОТЕХНИК",
+        "classroom": "438; ",
+        "lecturer": "Герлиман Е.М."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр Т.ОСН.ПР-ВА ВЫСТ",
+        "classroom": "319; ",
+        "lecturer": "Ремшев Е.Ю."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр Т.ОСН.ПР-ВА ВЫСТ",
+        "classroom": "319; ",
+        "lecturer": "Ремшев Е.Ю."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "лек ОСН.ПРОЕКТ.СП",
+        "classroom": "243; ",
+        "lecturer": "Кравцов В.О."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лаб ОСН.ПРОЕКТ.СП",
+        "classroom": "БЦ; ",
+        "lecturer": "Кравцов В.О."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лаб ОСН.ПРОЕКТ.СП",
+        "classroom": "БЦ; ",
+        "lecturer": "Кравцов В.О."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ТЕХ.ОБ.ПРОИЗВ.ПАТР",
+        "classroom": "319; ",
+        "lecturer": "Лобов В.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ТЕХ.ОБ.ПРОИЗВ.ПАТР",
+        "classroom": "319; ",
+        "lecturer": "Лобов В.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек Т.ОБР.МЕТ.ДАВЛЕН",
+        "classroom": "319; ",
+        "lecturer": "Фанифатов А.О."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек Т.ОСН.ПР-ВА ВЫСТ",
+        "classroom": "319; ",
+        "lecturer": "Ремшев Е.Ю."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ПЛАН. И ОБР.РЕЗ.ЭКСП.",
+        "classroom": "319; ",
+        "lecturer": "Жукова А.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ПЛАН. И ОБР.РЕЗ.ЭКСП.",
+        "classroom": "319; ",
+        "lecturer": "Жукова А.В."
+    }
+]

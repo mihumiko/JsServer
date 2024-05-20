@@ -1,0 +1,314 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лаб ГИДРАВЛИКА",
+        "classroom": "110; ",
+        "lecturer": "Андреев О.В."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лаб ГИДРАВЛИКА",
+        "classroom": "110; ",
+        "lecturer": "Андреев О.В."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лаб АЭРОГИДР-ГАЗ-ДИН",
+        "classroom": "лаб г/дин; ",
+        "lecturer": "Лаптинская М.М."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лаб АЭРОГИДР-ГАЗ-ДИН",
+        "classroom": "лаб г/дин; ",
+        "lecturer": "Лаптинская М.М."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек АЭРОГИДР-ГАЗ-ДИН",
+        "classroom": "438; ",
+        "lecturer": "Мальков В.М."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек АЭРОГИДР-ГАЗ-ДИН",
+        "classroom": "438; ",
+        "lecturer": "Мальков В.М."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек ПЕРСП.ТЕХН.В ЭНЕРГЕТ.",
+        "classroom": "ТМП-2; ",
+        "lecturer": "Василевский Д.О."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лек ПЕРСП.ТЕХН.В ЭНЕРГЕТ.",
+        "classroom": "ТМП-2; ",
+        "lecturer": "Василевский Д.О."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "лек БЖД",
+        "classroom": "484; ",
+        "lecturer": "Кудаев А.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "лек БЖД",
+        "classroom": "486; ",
+        "lecturer": "Кудаев А.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек САПР В МАШИН.",
+        "classroom": "ВЦ 285; ",
+        "lecturer": "Афанасьев А.С."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр БЖД",
+        "classroom": "486; ",
+        "lecturer": "Храмов А.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр САПР В МАШИН.",
+        "classroom": "320; ",
+        "lecturer": "Афанасьев А.С."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр САПР В МАШИН.",
+        "classroom": "320; ",
+        "lecturer": "Афанасьев А.С."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лаб ТП В МАШИНОСТР",
+        "classroom": "202*; ",
+        "lecturer": "Серов С.Л."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ТП В МАШИНОСТР",
+        "classroom": "СК3; ",
+        "lecturer": "Портнов С.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лаб ТП В МАШИНОСТР",
+        "classroom": "202*; ",
+        "lecturer": "Серов С.Л."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек ГИДРАВЛИКА",
+        "classroom": "375; ",
+        "lecturer": "Андреев О.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ТЕОР.И ПР.ЛОПАТ.МАШ",
+        "classroom": "ТМП-2; ",
+        "lecturer": "Кузьмин Г.Н."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "лек ТЕОР.И ПР.ЛОПАТ.МАШ",
+        "classroom": "ТМП-2; ",
+        "lecturer": "Кузьмин Г.Н."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "18:30 Четная",
+        "discipline": "лек ТЕОР.И ПР.ЛОПАТ.МАШ",
+        "classroom": "ТМП-2; ",
+        "lecturer": "Кузьмин Г.Н."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "20:05 Нечетная",
+        "discipline": "пр ТЕОР.И ПР.ЛОПАТ.МАШ",
+        "classroom": "ТМП-2; ",
+        "lecturer": "Кузьмин Г.Н."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "20:05 Четная",
+        "discipline": "пр ТЕОР.И ПР.ЛОПАТ.МАШ",
+        "classroom": "ТМП-2; ",
+        "lecturer": "Кузьмин Г.Н."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ЭНЕРГ.УСТАН.И ОБЪЕКТЫ",
+        "classroom": "ТМП-2; ",
+        "lecturer": "Гашевский Е.М."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "лаб БЖД",
+        "classroom": "384б; ",
+        "lecturer": "Тюрина Н.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лаб АЭРОГИДР-ГАЗ-ДИН",
+        "classroom": "лаб г/дин; ",
+        "lecturer": "Лаптинская М.М."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лаб АЭРОГИДР-ГАЗ-ДИН",
+        "classroom": "лаб г/дин; ",
+        "lecturer": "Лаптинская М.М."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ЭНЕРГ.УСТАН.И ОБЪЕКТЫ",
+        "classroom": "ТМП-2; ",
+        "lecturer": "Пинчук В.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ЭНЕРГ.УСТАН.И ОБЪЕКТЫ",
+        "classroom": "ТМП-2; ",
+        "lecturer": "Пинчук В.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ПЕРСП.ТЕХН.В ЭНЕРГЕТ.",
+        "classroom": "СК2; ",
+        "lecturer": "Никитенко А.Б."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ПЕРСП.ТЕХН.В ЭНЕРГЕТ.",
+        "classroom": "СК2; ",
+        "lecturer": "Никитенко А.Б."
+    }
+]

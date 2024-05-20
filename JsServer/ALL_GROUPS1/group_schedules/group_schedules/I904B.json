@@ -1,0 +1,226 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ПРОЕКТИРОВ. ИС",
+        "classroom": "277; ",
+        "lecturer": "Смирнов Н.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ПРОЕКТИРОВ. ИС",
+        "classroom": "318; ",
+        "lecturer": "Смирнов Н.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ПРОЕКТИРОВ. ИС",
+        "classroom": "ВЦ 371; ",
+        "lecturer": "Смирнов Н.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лек НАДЕЖН. ИС",
+        "classroom": "374; ",
+        "lecturer": "Артюхова М.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ПРОГР.ОБЕС.СРВ",
+        "classroom": "278; ",
+        "lecturer": "Костин И.Д."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ПРОГР.ОБЕС.СРВ",
+        "classroom": "278; ",
+        "lecturer": "Костин И.Д."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лаб ОСН. ИСК. ИНТЕЛЛ",
+        "classroom": "278; ",
+        "lecturer": "Куликов Д.Б."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лаб ОСН. ИСК. ИНТЕЛЛ",
+        "classroom": "278; ",
+        "lecturer": "Куликов Д.Б."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ИНФ. ТЕХНОЛОГИИ",
+        "classroom": "443; ",
+        "lecturer": "Федоров С.Ф."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ИНФ. ТЕХНОЛОГИИ",
+        "classroom": "451; ",
+        "lecturer": "Федоров С.Ф."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек ОСН. ИСК. ИНТЕЛЛ",
+        "classroom": "310; ",
+        "lecturer": "Толмачев С.Г."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лек ОСН. ИСК. ИНТЕЛЛ",
+        "classroom": "310; ",
+        "lecturer": "Толмачев С.Г."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "лек ПРОГР.ОБЕС.СРВ",
+        "classroom": "315; ",
+        "lecturer": "Карасев А.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "18:30 Четная",
+        "discipline": "лек ПРОГР.ОБЕС.СРВ",
+        "classroom": "315; ",
+        "lecturer": "Карасев А.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр НИР",
+        "classroom": "278; ",
+        "lecturer": "Курилова Е.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр НИР",
+        "classroom": "274; ",
+        "lecturer": "Курилова Е.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр НАДЕЖН. ИС",
+        "classroom": "274; ",
+        "lecturer": "Артюхова М.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр НАДЕЖН. ИС",
+        "classroom": "274; ",
+        "lecturer": "Артюхова М.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "пр ИНФ. ТЕХНОЛОГИИ",
+        "classroom": "259; ",
+        "lecturer": "Федоров С.Ф."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "18:30 Четная",
+        "discipline": "пр ИНФ. ТЕХНОЛОГИИ",
+        "classroom": "259; ",
+        "lecturer": "Федоров С.Ф."
+    }
+]

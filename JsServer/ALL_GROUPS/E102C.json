@@ -1,0 +1,266 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лаб ТЕХН.ПР-ВА СПАРО",
+        "classroom": "Лаб.Е2-1; ",
+        "lecturer": "Мартынович В.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лаб ТЕХН.ПР-ВА СПАРО",
+        "classroom": "Лаб.Е2-1; ",
+        "lecturer": "Мартынович В.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ПРИБОРНЫЕ УСТР",
+        "classroom": "СК-14; ",
+        "lecturer": "Грецова Е.Б."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ПРИБОРНЫЕ УСТР",
+        "classroom": "СК-14; ",
+        "lecturer": "Грецова Е.Б."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лаб ПРИБОРНЫЕ УСТР",
+        "classroom": "СК-14; ",
+        "lecturer": "Перов Л.Д."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лаб ПРИБОРНЫЕ УСТР",
+        "classroom": "СК-14; ",
+        "lecturer": "Перов Л.Д."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ИТ В НАУКЕ И ТЕХ",
+        "classroom": "Мкаб.Е1; ",
+        "lecturer": "Новиков И.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ИТ В НАУКЕ И ТЕХ",
+        "classroom": "Мкаб.Е1; ",
+        "lecturer": "Новиков И.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек СТВОЛЫ И НАПР.УС",
+        "classroom": "313а; ",
+        "lecturer": "Зайцев А.С."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек СТВОЛЫ И НАПР.УС",
+        "classroom": "313а; ",
+        "lecturer": "Зайцев А.С."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лаб ФО УСТ.И ФУН.СПО",
+        "classroom": "СК1; ",
+        "lecturer": "Маилян Г.Э."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лаб ФО УСТ.И ФУН.СПО",
+        "classroom": "ВЦ КЕ1; ",
+        "lecturer": "Маилян Г.Э."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек ЭФФ. И НАДЕЖН",
+        "classroom": "455; ",
+        "lecturer": "Любимов И.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лек ЭФФ. И НАДЕЖН",
+        "classroom": "455; ",
+        "lecturer": "Любимов И.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "лек ТЕХН.ПР-ВА СПАРО",
+        "classroom": "СК3; ",
+        "lecturer": "Федосов А.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек ФО УСТ.И ФУН.СПО",
+        "classroom": "313; ",
+        "lecturer": "Кудрявцев С.И."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ДЕТАЛИ МАШИН",
+        "classroom": "452*; ",
+        "lecturer": "Ли В.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лаб СТВОЛЫ И НАПР.УС",
+        "classroom": "ВЦ КЕ1; ",
+        "lecturer": "Егоров  В.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лаб ДЕТАЛИ МАШИН",
+        "classroom": "452*; ",
+        "lecturer": "Ли В.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ИТ В НАУКЕ И ТЕХ",
+        "classroom": "ВЦ КЕ1; ",
+        "lecturer": "Новиков И.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "лек ДЕТАЛИ МАШИН",
+        "classroom": "460*; ",
+        "lecturer": "Кротов Ю.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "лек ДЕТАЛИ МАШИН",
+        "classroom": "460*; ",
+        "lecturer": "Кротов Ю.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ЭФФ. И НАДЕЖН",
+        "classroom": "КАБ.Е1; ",
+        "lecturer": "Мелехин А.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек ИТ В НАУКЕ И ТЕХ",
+        "classroom": "313; ",
+        "lecturer": "Новиков И.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек СТВОЛЫ И НАПР.УС",
+        "classroom": "477; ",
+        "lecturer": "Зайцев А.С."
+    }
+]

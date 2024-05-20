@@ -1,0 +1,250 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек ОСНОВЫ PR-ТЕХНОЛОГИЙ",
+        "classroom": "436*; ",
+        "lecturer": "Крехалева О.С."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек МАКРОЭКОНОМИКА",
+        "classroom": "405*; ",
+        "lecturer": "Лукичев П.М."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек МАКРОЭКОНОМИКА",
+        "classroom": "405*; ",
+        "lecturer": "Лукичев П.М."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
+        "classroom": "252*; ",
+        "lecturer": "Насс О.В."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
+        "classroom": "252*; ",
+        "lecturer": "Насс О.В."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек ДЕЛ.КОММУНИК.",
+        "classroom": "433*; ",
+        "lecturer": "Щёголев Е.Н."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ОСНОВЫ ПРАВА",
+        "classroom": "413*; ",
+        "lecturer": "Хвостов А.Б."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ДЕЛ.КОММУНИК.",
+        "classroom": "425*; ",
+        "lecturer": "Сухова А.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "309*; ",
+        "lecturer": "Невзорова Н.Ф."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "309*; ",
+        "lecturer": "Невзорова Н.Ф."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "лек ИСТОРИЯ",
+        "classroom": "487; ",
+        "lecturer": "Алексеева С.И."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "лек ИСТОРИЯ",
+        "classroom": "487; ",
+        "lecturer": "Алексеева С.И."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек МАТЕМАТИКА 2",
+        "classroom": "477; ",
+        "lecturer": "Кудашов В.Н."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек МАТЕМАТИКА 2",
+        "classroom": "477; ",
+        "lecturer": "Кудашов В.Н."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ОСН РОС ГОС",
+        "classroom": "456; ",
+        "lecturer": "Канатаев Д.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ОСН РОС ГОС",
+        "classroom": "456; ",
+        "lecturer": "Канатаев Д.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
+        "classroom": "ВЦ 373; ",
+        "lecturer": "Насс О.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
+        "classroom": "ВЦ 373; ",
+        "lecturer": "Насс О.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "312*; ",
+        "lecturer": "Невзорова Н.Ф."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "313*; ",
+        "lecturer": "Невзорова Н.Ф."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ОСНОВЫ ПРАВА",
+        "classroom": "430*; ",
+        "lecturer": "Хвостов А.Б."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ИСТОРИЯ",
+        "classroom": "430*; ",
+        "lecturer": "Рязанов Д.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр МАТЕМАТИКА 2",
+        "classroom": "434*; ",
+        "lecturer": "Исакова Е.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр МАТЕМАТИКА 2",
+        "classroom": "420*; ",
+        "lecturer": "Исакова Е.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр МАКРОЭКОНОМИКА",
+        "classroom": "432*; ",
+        "lecturer": "Форостянный Н.С."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ОСН РОС ГОС",
+        "classroom": "404*; ",
+        "lecturer": "Канатаев Д.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ОСНОВЫ PR-ТЕХНОЛОГИЙ",
+        "classroom": "432*; ",
+        "lecturer": "Костюченко К.А."
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "лек ВЫСШ. МАТЕМАТ",
+        "classroom": "451; ",
+        "lecturer": "Александрова Е.Б."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "лек ВЫСШ. МАТЕМАТ",
+        "classroom": "451; ",
+        "lecturer": "Александрова Е.Б."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "310*; ",
+        "lecturer": "Николаева О.В."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ИН. ЯЗ.",
+        "classroom": "310*; ",
+        "lecturer": "Николаева О.В."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек СИСТЕМНОЕ ПО",
+        "classroom": "316; ",
+        "lecturer": "Верхолат А.М."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек СИСТЕМНОЕ ПО",
+        "classroom": "316; ",
+        "lecturer": "Верхолат А.М."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ВЫСШ. МАТЕМАТ",
+        "classroom": "497; ",
+        "lecturer": "Солдаткин А.В."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ВЫСШ. МАТЕМАТ",
+        "classroom": "456; ",
+        "lecturer": "Солдаткин А.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "лек ПРАВОВЕДЕНИЕ",
+        "classroom": "443; ",
+        "lecturer": "Лебедев Г.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лаб ТОЭ",
+        "classroom": "356*; 366*; ",
+        "lecturer": "Образцов А.Н."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ПРАВОВЕДЕНИЕ",
+        "classroom": "484; ",
+        "lecturer": "Лебедев Г.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр КОМП.ПРАКТИКУМ",
+        "classroom": "278; ",
+        "lecturer": "Кострыгин Д.Г."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лаб ФИЗ.ОСН.МИКРОЭЛ",
+        "classroom": "430; ",
+        "lecturer": "Смагин  О.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ФИЗ.ОСН.МИКРОЭЛ",
+        "classroom": "324; ",
+        "lecturer": "Смагин  О.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ФИЗ.ОСН.МИКРОЭЛ",
+        "classroom": "324; ",
+        "lecturer": "Смагин  О.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ТОЭ",
+        "classroom": "429*; ",
+        "lecturer": "Образцов А.Н."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ТОЭ",
+        "classroom": "450; ",
+        "lecturer": "Образцов А.Н."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "лек ФИЗИКА",
+        "classroom": "325*; ",
+        "lecturer": "Лентовский В.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "лек ФИЗИКА",
+        "classroom": "325*; ",
+        "lecturer": "Лентовский В.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ТОЭ",
+        "classroom": "376; ",
+        "lecturer": "Образцов А.Н."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ТОЭ",
+        "classroom": "376; ",
+        "lecturer": "Образцов А.Н."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр КОМП.ПРАКТИКУМ",
+        "classroom": "ВЦ 371; ",
+        "lecturer": "Кострыгин Д.Г."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр КОМП.ПРАКТИКУМ",
+        "classroom": "ВЦ 371; ",
+        "lecturer": "Кострыгин Д.Г."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ОСН.СИСТ.АН.",
+        "classroom": "374; ",
+        "lecturer": "Петрунин А.В."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр СИСТЕМНОЕ ПО",
+        "classroom": "258*; ",
+        "lecturer": "Устиновский Г.С."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ОСН.СИСТ.АН.",
+        "classroom": "376; ",
+        "lecturer": "Петрунин А.В."
+    }
+]

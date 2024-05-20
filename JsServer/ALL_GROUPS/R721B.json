@@ -1,0 +1,242 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ИНОСТР.ЯЗЫК-II",
+        "classroom": "318*; ",
+        "lecturer": "Патракова О.Н."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ИНОСТР.ЯЗЫК-II",
+        "classroom": "318*; ",
+        "lecturer": "Патракова О.Н."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ГРАММ. ИН. ЯЗЫКА",
+        "classroom": "312*; ",
+        "lecturer": "Дунаевская М.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ГРАММ. ИН. ЯЗЫКА",
+        "classroom": "312*; ",
+        "lecturer": "Дунаевская М.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ЛАТИНСКИЙ ЯЗЫК",
+        "classroom": "311*; ",
+        "lecturer": "Иголкина А.Г."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ЛАТИНСКИЙ ЯЗЫК",
+        "classroom": "311*; ",
+        "lecturer": "Иголкина А.Г."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек ОСН.СИСТ.АНАЛИЗА",
+        "classroom": "526*; ",
+        "lecturer": "Чернусь Петр П."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ЛЕКСИКОЛОГИЯ",
+        "classroom": "326*а; ",
+        "lecturer": "Родионова Е.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ЛЕКСИКОЛОГИЯ",
+        "classroom": "326*а; ",
+        "lecturer": "Родионова Е.В."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр П. К. 1 ИН. ЯЗ.",
+        "classroom": "313*; ",
+        "lecturer": "Алексеева Т.Н."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр П. К. 1 ИН. ЯЗ.",
+        "classroom": "313*; ",
+        "lecturer": "Алексеева Т.Н."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ОСН.КОР.И РЕД.ТЕК.",
+        "classroom": "326*а; ",
+        "lecturer": "Аладышкина Л.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек РОСС.ЛИТЕРАТУРА",
+        "classroom": "326*а; ",
+        "lecturer": "Аладышкина Л.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек РОСС.ЛИТЕРАТУРА",
+        "classroom": "326*а; ",
+        "lecturer": "Аладышкина Л.В."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ИНОСТР.ЯЗЫК-II",
+        "classroom": "318*; ",
+        "lecturer": "Патракова О.Н."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ИНОСТР.ЯЗЫК-II",
+        "classroom": "318*; ",
+        "lecturer": "Патракова О.Н."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр РОСС.ЛИТЕРАТУРА",
+        "classroom": "318*; ",
+        "lecturer": "Аладышкина Л.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр РОСС.ЛИТЕРАТУРА",
+        "classroom": "318*; ",
+        "lecturer": "Аладышкина Л.В."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ЭК ПО ФК И СПОРТУ",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр МАТЕМ.СТАТИСТ.",
+        "classroom": "488; ",
+        "lecturer": "Тарасов А.А."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр МАТЕМ.СТАТИСТ.",
+        "classroom": "456; ",
+        "lecturer": "Тарасов А.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр П. К. 1 ИН. ЯЗ.",
+        "classroom": "312*; ",
+        "lecturer": "Алексеева Т.Н."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр П. К. 1 ИН. ЯЗ.",
+        "classroom": "313*; ",
+        "lecturer": "Алексеева Т.Н."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ОСН.КОР.И РЕД.ТЕК.",
+        "classroom": "314*; ",
+        "lecturer": "Алексеева И.Н."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ОСН.СИСТ.АНАЛИЗА",
+        "classroom": "413*; ",
+        "lecturer": "Чернусь П.П."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр П. К. 1 ИН. ЯЗ.",
+        "classroom": "318*; ",
+        "lecturer": "Алексеева Т.Н."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр П. К. 1 ИН. ЯЗ.",
+        "classroom": "316*; ",
+        "lecturer": "Алексеева Т.Н."
+    }
+]

@@ -1,0 +1,186 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ТЕОР.ПРИН.РЕШЕН",
+        "classroom": "ВЦ 281; ",
+        "lecturer": "Бурунова В.Ю."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лаб ДВИГАТЕЛИ ЛА",
+        "classroom": "СК2; ",
+        "lecturer": "Михайлов К.Н."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ТЕОР. КОНСТР.",
+        "classroom": "334; ",
+        "lecturer": "Сятчихин А.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ТЕОР. КОНСТР.",
+        "classroom": "334; ",
+        "lecturer": "Сятчихин А.А."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр СИНТЕЗ РАК. СИСТ",
+        "classroom": "ВЦ 283; ",
+        "lecturer": "Федоров  А.М."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр СИНТЕЗ РАК. СИСТ",
+        "classroom": "ВЦ 283; ",
+        "lecturer": "Федоров  А.М."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ДВИГАТЕЛИ ЛА",
+        "classroom": "СК2; ",
+        "lecturer": "Кудров А.Н."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ТЕОР. КОНСТР.",
+        "classroom": "318; ",
+        "lecturer": "Сятчихин А.А."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек СИНТЕЗ РАК. СИСТ",
+        "classroom": "374; ",
+        "lecturer": "Федоров  А.М."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ТП БРАВ ВМФ",
+        "classroom": null,
+        "lecturer": "Валов В.Ю."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ТП БРАВ ВМФ",
+        "classroom": null,
+        "lecturer": "Валов В.Ю."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "лек ЭКСП. БРАВ ВМФ",
+        "classroom": null,
+        "lecturer": "Валов В.Ю."
+    },
+    {
+        "day": "Среда",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "лек ТП БРАВ ВМФ",
+        "classroom": null,
+        "lecturer": "Валов В.Ю."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ЭКСП. БРАВ ВМФ",
+        "classroom": null,
+        "lecturer": "Валов В.Ю."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек СИСТ. И АГРЕГ.",
+        "classroom": "313а; ",
+        "lecturer": "Охочинский М.Н."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ТЕХНОЛОГИЯ ПР-ВА",
+        "classroom": "474; ",
+        "lecturer": "Галинская О.О."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "лек ТЕХНОЛОГИЯ ПР-ВА",
+        "classroom": "474; ",
+        "lecturer": "Галинская О.О."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ТЕХНОЛОГИЯ ПР-ВА",
+        "classroom": "СК М2-2; ",
+        "lecturer": "Галинская О.О."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "лаб ТЕХНОЛОГИЯ ПР-ВА",
+        "classroom": "СК М2-2; ",
+        "lecturer": "Галинская О.О."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек ТЕОР.ПРИН.РЕШЕН",
+        "classroom": "344; ",
+        "lecturer": "Гусева В.Н."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек ТЕОР.ПРИН.РЕШЕН",
+        "classroom": "344; ",
+        "lecturer": "Гусева В.Н."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр СИСТ. И АГРЕГ.",
+        "classroom": "ВЦ 281; ",
+        "lecturer": "Падалка М.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр СИСТ. И АГРЕГ.",
+        "classroom": "ВЦ 281; ",
+        "lecturer": "Падалка М.А."
+    }
+]

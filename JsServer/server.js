@@ -46,7 +46,8 @@ app.post('/group_number', (req, res) => {
     const body = req.body;
     const number = body.group;
 
-    const path = `./ALL_GROUPS/${ number }.json`;
+    const path = `./ALL_GROUPS/${number}.json`;
+    console.log(path);
 
     let data = fs.readFileSync(path, 'utf8');
 
@@ -68,28 +69,25 @@ app.post('/edit', (req, res) => {
     console.log(body);
 });
 
+//login
 app.post('/login', (req, res) => {
 
     const path = 'Users.json';
 
-
-
     const data = fs.readFileSync(path, 'utf8');
     const users = JSON.parse(data);
 
-    const { username, password } = req.body;
-    console.log(username, password);
-    const user = users.find(u => u.login === username && u.password === password);
+    const { name, password } = req.body;
+    console.log(name, password);
+    const user = users.find(u => u.login === name && u.password === password);
 
     if (!user) {
         return res.status(401).json({ message: 'Invalid username or password' });
     }
 
-    const token = jwt.sign({ username }, tokenKey, { expiresIn: tokenExpiredTime });
-
+    const token = jwt.sign({ name }, tokenKey, { expiresIn: tokenExpiredTime });
 
     res.status(200).json({ token });
-
 });
 
 function translateGroup(value) {
@@ -106,7 +104,7 @@ function translateGroup(value) {
     };
     let a = Object.keys(translate);
 
-    return [...value.slice(6)]
+    return [...value]
         .map((v) => (a.includes(v) ? translate[v] : v))
         .join('');
 }

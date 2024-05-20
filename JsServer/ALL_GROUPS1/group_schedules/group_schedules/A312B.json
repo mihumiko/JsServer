@@ -1,0 +1,202 @@
+[
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "лек БЖД",
+        "classroom": "374; ",
+        "lecturer": "Тюрина Н.В."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "лек БЖД",
+        "classroom": "374; ",
+        "lecturer": "Тюрина Н.В."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр О.ТЕОР.ПОЛЕТА КА",
+        "classroom": "ВЦМ1; НТУ; ",
+        "lecturer": "Матвеев Н.К."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр О.ТЕОР.ПОЛЕТА КА",
+        "classroom": "ВЦМ1; НТУ; ",
+        "lecturer": "Матвеев Н.К."
+    },
+    {
+        "day": "Понедельник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "лек О.ТЕОР.ПОЛЕТА КА",
+        "classroom": "НТУ; ",
+        "lecturer": "Матвеев Н.К."
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "9:00 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "9:00 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "10:50 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "10:50 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Вторник",
+        "week_code": "2",
+        "time": "14:55 Четная",
+        "discipline": "пр ДОП. ПОДГОТОВКА",
+        "classroom": null,
+        "lecturer": null
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лек УСТР.АГР.СИСТ.КА",
+        "classroom": "СК ИСС; ",
+        "lecturer": "Семенов А.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "лаб УСТР.АГР.СИСТ.КА",
+        "classroom": "КТ; СК ИСС; ",
+        "lecturer": "Семенов А.А."
+    },
+    {
+        "day": "Среда",
+        "week_code": "1",
+        "time": "20:05 Нечетная",
+        "discipline": "лек ТЕОРИЯ САУ",
+        "classroom": "492; ",
+        "lecturer": "Феоктистов А.И."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "лек ВНУТРИКАМ. ПРОЦ.ДУ",
+        "classroom": "ВЦ А3; ",
+        "lecturer": "Будный Н.Л."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "пр ВНУТРИКАМ. ПРОЦ.ДУ",
+        "classroom": "СК ИСС; ",
+        "lecturer": "Будный Н.Л."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "16:45 Четная",
+        "discipline": "пр ВНУТРИКАМ. ПРОЦ.ДУ",
+        "classroom": "СК ИСС; ",
+        "lecturer": "Будный Н.Л."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "1",
+        "time": "18:30 Нечетная",
+        "discipline": "пр ТЕОРИЯ САУ",
+        "classroom": "КАБ.10; ",
+        "lecturer": "Феоктистов А.И."
+    },
+    {
+        "day": "Четверг",
+        "week_code": "2",
+        "time": "18:30 Четная",
+        "discipline": "пр ТЕОРИЯ САУ",
+        "classroom": "КАБ.10; ",
+        "lecturer": "Феоктистов А.И."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "12:40 Нечетная",
+        "discipline": "лек НАДЕЖНОСТЬ",
+        "classroom": "СКМ1; ",
+        "lecturer": "Бабук В.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "2",
+        "time": "12:40 Четная",
+        "discipline": "пр НАДЕЖНОСТЬ",
+        "classroom": "СКМ1; ",
+        "lecturer": "Бабук В.А."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "14:55 Нечетная",
+        "discipline": "пр БЖД",
+        "classroom": "484; ",
+        "lecturer": "Фиев К.П."
+    },
+    {
+        "day": "Пятница",
+        "week_code": "1",
+        "time": "16:45 Нечетная",
+        "discipline": "лаб БЖД",
+        "classroom": "384б; ",
+        "lecturer": "Фиев К.П."
+    }
+]
