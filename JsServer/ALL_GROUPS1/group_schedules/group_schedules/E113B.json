@@ -1,223 +1,223 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ТЕХН.ПР-ВА СПАРО",
         "classroom": "СК3; ",
         "lecturer": "Федосов А.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ТЕХН.ПР-ВА СПАРО",
         "classroom": "СК3; ",
         "lecturer": "Федосов А.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр УСТР И ДЕЙСТВИЕ МУ",
         "classroom": "СК1; ",
         "lecturer": "Маилян Г.Э."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лаб УСТР И ДЕЙСТВИЕ МУ",
         "classroom": "СК1; ",
         "lecturer": "Маилян Г.Э."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лаб УСТР И ДЕЙСТВИЕ МУ",
         "classroom": "СК1; ",
         "lecturer": "Маилян Г.Э."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лаб УСТР И ДЕЙСТВИЕ МУ",
         "classroom": "СК1; ",
         "lecturer": "Маилян Г.Э."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр НАПРАВЛ. УСТР. МУ",
         "classroom": "ВЦ КЕ1; ",
         "lecturer": "Егоров  В.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр НАПРАВЛ. УСТР. МУ",
         "classroom": "ВЦ КЕ1; ",
         "lecturer": "Егоров  В.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек УСТР И ДЕЙСТВИЕ МУ",
         "classroom": "СК1; ",
         "lecturer": "Егоров  В.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лаб НАПРАВЛ. УСТР. МУ",
         "classroom": "ВЦ КЕ1; ",
         "lecturer": "Егоров  В.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лаб ТЕХН.ПР-ВА СПАРО",
         "classroom": "Лаб.Е2-1; ",
         "lecturer": "Кононов К.И."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лаб ТЕХН.ПР-ВА СПАРО",
         "classroom": "Лаб.Е2-1; ",
         "lecturer": "Кононов К.И."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ДМ И ОСН. КОНСТР",
         "classroom": "452*; ",
         "lecturer": "Ли В.А."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лаб ДМ И ОСН. КОНСТР",
         "classroom": "452*; ",
         "lecturer": "Ли В.А."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ДМ И ОСН. КОНСТР",
         "classroom": "460*; ",
         "lecturer": "Ли В.А."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек ДМ И ОСН. КОНСТР",
         "classroom": "460*; ",
         "lecturer": "Ли В.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ЭФФЕКТ И НАДЕЖ СТС",
         "classroom": "КАБ.Е1; ",
         "lecturer": "Мелехин А.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек НАПРАВЛ. УСТР. МУ",
         "classroom": "Мкаб.Е1; ",
         "lecturer": "Зайцев А.С."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек НАПРАВЛ. УСТР. МУ",
         "classroom": "Мкаб.Е1; ",
         "lecturer": "Зайцев А.С."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ЭФФЕКТ И НАДЕЖ СТС",
         "classroom": "КАБ.Е1; ",
         "lecturer": "Любимов И.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек ЭФФЕКТ И НАДЕЖ СТС",
         "classroom": "КАБ.Е1; ",
         "lecturer": "Любимов И.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лек УР-Я МАТ.ФИЗИКИ",
         "classroom": "102*; ",
         "lecturer": "Маламанов С.Ю."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр УР-Я МАТ.ФИЗИКИ",
         "classroom": "456*; ",
         "lecturer": "Маламанов С.Ю."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр УР-Я МАТ.ФИЗИКИ",
         "classroom": "456*; ",
         "lecturer": "Маламанов С.Ю."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр КОМП.МОДЕЛ.",
         "classroom": "ВЦ КЕ1; ",
         "lecturer": "Егоров  В.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр КОМП.МОДЕЛ.",
         "classroom": "ВЦ КЕ1; ",
         "lecturer": "Егоров  В.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек КОМП.МОДЕЛ.",
         "classroom": "ВЦ КЕ1; ",
         "lecturer": "Егоров  В.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек КОМП.МОДЕЛ.",
         "classroom": "ВЦ КЕ1; ",

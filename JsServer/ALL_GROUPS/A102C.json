@@ -1,287 +1,287 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ОЦЕНК.СОСТ.ЛА",
         "classroom": "ВЦ 281; ",
         "lecturer": "Зыков С.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ОЦЕНК.СОСТ.ЛА",
         "classroom": "ВЦ 283; ",
         "lecturer": "Зыков С.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ТЕХ. ИСК. ИНТЕЛЛ.",
         "classroom": "ВЦ 284; ",
         "lecturer": "Маслов А.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ТЕХ. ИСК. ИНТЕЛЛ.",
         "classroom": "ВЦ 284; ",
         "lecturer": "Маслов А.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ПРОЕКТ.МОДЕЛ.",
         "classroom": "СК21Б; ",
         "lecturer": "Федоров  А.М."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ПРОЕКТ.МОДЕЛ.",
         "classroom": "СК21Б; ",
         "lecturer": "Федоров  А.М."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр МЕТ.ОПТИМ.УПР-Я",
         "classroom": "КАБ.10; ",
         "lecturer": "Лемешонок Т.Ю."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "лек ОЦЕНК.СОСТ.ЛА",
         "classroom": "334; ",
         "lecturer": "Бородавкин В.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек МЕТ.ОПТИМ.УПР-Я",
         "classroom": "КАБ.2; ",
         "lecturer": "Лемешонок Т.Ю."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек МЕТ.ОПТИМ.УПР-Я",
         "classroom": "КАБ.2; ",
         "lecturer": "Лемешонок Т.Ю."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ТЕХ. ИСК. ИНТЕЛЛ.",
         "classroom": "344; ",
         "lecturer": "Маслов А.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ТЕХ. ИСК. ИНТЕЛЛ.",
         "classroom": "344; ",
         "lecturer": "Маслов А.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ТЕОР.ПРИН.РЕШЕН",
         "classroom": "ВЦ 281; ",
         "lecturer": "Бурунова В.Ю."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек МАРКЕТИНГ РК УСЛУГ",
         "classroom": "СК21а; ",
         "lecturer": "Чириков С.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр МЕТ.ИССЛ.ЭФФ.ОТС",
         "classroom": "ВЦ 281; ",
         "lecturer": "Афанасьев К.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр МЕТ.ИССЛ.ЭФФ.ОТС",
         "classroom": "ВЦ 284; ",
         "lecturer": "Афанасьев К.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек МЕТ.ИССЛ.ЭФФ.ОТС",
         "classroom": "СК21а; ",
         "lecturer": "Афанасьев К.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек МЕТ.ИССЛ.ЭФФ.ОТС",
         "classroom": "СК21а; ",
         "lecturer": "Афанасьев К.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "лек ИСПЫТАНИЯ РС",
         "classroom": "101; ",
         "lecturer": "Нестеров С.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "лек ИСПЫТАНИЯ РС",
         "classroom": "101; ",
         "lecturer": "Нестеров С.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лек ПРОЕКТ.МОДЕЛ.",
         "classroom": "СК21а; ",
         "lecturer": "Федоров  А.М."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр МАРКЕТИНГ РК УСЛУГ",
         "classroom": "СК21а; ",
         "lecturer": "Чириков С.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ПРОЕКТ.МОДЕЛ.",
         "classroom": "СК21а; ",
         "lecturer": "Федоров  А.М."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ПРОЕКТ.МОДЕЛ.",
         "classroom": "СК21а; ",
         "lecturer": "Федоров  А.М."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ТЕОР.ПРИН.РЕШЕН",
         "classroom": "344; ",
         "lecturer": "Гусева В.Н."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ТЕОР.ПРИН.РЕШЕН",
         "classroom": "344; ",
         "lecturer": "Гусева В.Н."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ИСПЫТАНИЯ РС",
         "classroom": "101; ",
         "lecturer": "Нестеров С.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ИСПЫТАНИЯ РС",
         "classroom": "101; ",

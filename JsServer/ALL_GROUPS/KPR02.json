@@ -1,79 +1,79 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лек ПО МИРТС",
         "classroom": "411*; ",
         "lecturer": "Чернусь П.П."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "лек ПО МИРТС",
         "classroom": "411*; ",
         "lecturer": "Чернусь П.П."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ПО МИРТС",
         "classroom": "411*; ",
         "lecturer": "Чернусь П.П."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ПО МИРТС",
         "classroom": "411*; ",
         "lecturer": "Чернусь П.П."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ПР.ГМ.И МАШ.ГИДР.",
         "classroom": "152*; ",
         "lecturer": "Воротынцев Б.Н."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ПР.ГМ.И МАШ.ГИДР.",
         "classroom": "152*; ",
         "lecturer": "Воротынцев Б.Н."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "лек ПРОЕКТИРОВ. МС",
         "classroom": "411*; ",
         "lecturer": "Чернусь П.П."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лаб ПРОЕКТИРОВ. МС",
         "classroom": "411*; ",
         "lecturer": "Чернусь П.П."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лаб ПРОЕКТИРОВ. МС",
         "classroom": "411*; ",
         "lecturer": "Чернусь П.П."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ПР.ГМ.И МАШ.ГИДР.",
         "classroom": "270*(фесто); ",

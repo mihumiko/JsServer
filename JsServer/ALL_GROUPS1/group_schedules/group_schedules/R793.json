@@ -1,135 +1,135 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр ИНСТР.ПЕРЕВОДЧИКА",
         "classroom": "318*; ",
         "lecturer": "Мамаев И.Д."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр ИНСТР.ПЕРЕВОДЧИКА",
         "classroom": "318*; ",
         "lecturer": "Мамаев И.Д."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "пр КОММ.ЛИНГВИСТИК",
         "classroom": "308*; ",
         "lecturer": "Твердохлебов С.Г."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек КОММ.ЛИНГВИСТИК",
         "classroom": "326*а; ",
         "lecturer": "Твердохлебов С.Г."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр ПЕРЕВОД 2 И. Я.",
         "classroom": "316*; ",
         "lecturer": "Батина А.П."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр ПЕРЕВОД 2 И. Я.",
         "classroom": "316*; ",
         "lecturer": "Батина А.П."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ПЕРЕВОД 2 И. Я.",
         "classroom": "326* Я; ",
         "lecturer": "Батина А.П."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ПЕРЕВОД 2 И. Я.",
         "classroom": "422*; ",
         "lecturer": "Батина А.П."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ИНСТР.ПЕРЕВОДЧИКА",
         "classroom": "404*; ",
         "lecturer": "Мамаев И.Д."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр ТЕХ.ПОДДЕРЖКА ПЕРЕВ",
         "classroom": "326* Я; ",
         "lecturer": "Абиева Н.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр ТЕХ.ПОДДЕРЖКА ПЕРЕВ",
         "classroom": "317*; ",
         "lecturer": "Абиева Н.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "пр ПЕРЕВОД 2 И. Я.",
         "classroom": "309*; ",
         "lecturer": "Батина А.П."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр ПЕРЕВОД 2 И. Я.",
         "classroom": "309*; ",
         "lecturer": "Батина А.П."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр ТЕХ.ПОДДЕРЖКА ПЕРЕВ",
         "classroom": "316*; ",
         "lecturer": "Абиева Н.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр ТЕХ.ПОДДЕРЖКА ПЕРЕВ",
         "classroom": "316*; ",
         "lecturer": "Абиева Н.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "пр ТЕХ.ПОДДЕРЖКА ПЕРЕВ",
         "classroom": "310*; ",
         "lecturer": "Абиева Н.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр ТЕХ.ПОДДЕРЖКА ПЕРЕВ",
         "classroom": "310*; ",

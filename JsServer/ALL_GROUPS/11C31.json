@@ -1,287 +1,287 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ТОиП ПРОИЗВ. ЭУиС",
         "classroom": "532*; ",
         "lecturer": "Савельев Е.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ТОиП ПРОИЗВ. ЭУиС",
         "classroom": "532*; ",
         "lecturer": "Савельев Е.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр К-Т ПРОЕКТ. ПП",
         "classroom": "532*; ",
         "lecturer": "Савельев Е.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр К-Т ПРОЕКТ. ПП",
         "classroom": "532*; ",
         "lecturer": "Савельев Е.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ТЕХН. И ОБОР. ПРОИЗВ. ИЭТ",
         "classroom": "532*; ",
         "lecturer": "Савельев Е.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ТЕХН. И ОБОР. ПРОИЗВ. ИЭТ",
         "classroom": "532*; ",
         "lecturer": "Савельев Е.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ТОиП ПРОИЗВ. ЭУиС",
         "classroom": "470*; ",
         "lecturer": "Савельев Е.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ТОиП ПРОИЗВ. ЭУиС",
         "classroom": "470*; ",
         "lecturer": "Савельев Е.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лек ПСИХОЛОГИЯ ОБЩЕНИЯ",
         "classroom": "459*; ",
         "lecturer": "Берзина О.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "лек ПСИХОЛОГИЯ ОБЩЕНИЯ",
         "classroom": "459*; ",
         "lecturer": "Берзина О.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ПСИХОЛОГИЯ ОБЩЕНИЯ",
         "classroom": "467*; ",
         "lecturer": "Берзина О.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ПСИХОЛОГИЯ ОБЩЕНИЯ",
         "classroom": "467*; ",
         "lecturer": "Берзина О.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ФИЗ.КУЛЬТ.",
         "classroom": null,
         "lecturer": "Кобелева С.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ФИЗ.КУЛЬТ.",
         "classroom": null,
         "lecturer": "Кобелева С.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ИТ в ПД",
         "classroom": "468*; ",
         "lecturer": "Старостин И.Д."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ИТ в ПД",
         "classroom": "468*; ",
         "lecturer": "Старостин И.Д."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ИТ в ПД",
         "classroom": "470*; ",
         "lecturer": "Старостин И.Д."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ИТ в ПД",
         "classroom": "467*; ",
         "lecturer": "Старостин И.Д."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ТОиП ПРОИЗВ. ЭУиС",
         "classroom": "532*; ",
         "lecturer": "Савельев Е.А."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ТОиП ПРОИЗВ. ЭУиС",
         "classroom": "532*; ",
         "lecturer": "Савельев Е.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ФИЗ.КУЛЬТ.",
         "classroom": null,
         "lecturer": "Кобелева С.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ФИЗ.КУЛЬТ.",
         "classroom": null,
         "lecturer": "Кобелева С.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ТЕХН. И ОБОР. ПРОИЗВ. ИЭТ",
         "classroom": "470*; ",
         "lecturer": "Савельев Е.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ТЕХН. И ОБОР. ПРОИЗВ. ИЭТ",
         "classroom": "470*; ",
         "lecturer": "Савельев Е.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ПРОЕКТ. И АН. ЭЛ. СХЕМ",
         "classroom": "470*; ",
         "lecturer": "Савельев Е.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек ПРОЕКТ. И АН. ЭЛ. СХЕМ",
         "classroom": "470*; ",
         "lecturer": "Савельев Е.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр ПРОЕКТ. И АН. ЭЛ. СХЕМ",
         "classroom": "470*; ",
         "lecturer": "Савельев Е.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр ПРОЕКТ. И АН. ЭЛ. СХЕМ",
         "classroom": "470*; ",
         "lecturer": "Савельев Е.А."
     },
     {
-        "day": "Суббота",
-        "week_code": "1",
+        "day": 6,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лек БЖД",
         "classroom": "526*; ",
         "lecturer": "Логвинова А.А."
     },
     {
-        "day": "Суббота",
-        "week_code": "2",
+        "day": 6,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "лек К-Т ПРОЕКТ. ПП",
         "classroom": "532*; ",
         "lecturer": "Савельев Е.А."
     },
     {
-        "day": "Суббота",
-        "week_code": "1",
+        "day": 6,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр БЖД",
         "classroom": "470*; ",
         "lecturer": "Логвинова А.А."
     },
     {
-        "day": "Суббота",
-        "week_code": "2",
+        "day": 6,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр БЖД",
         "classroom": "470*; ",
         "lecturer": "Логвинова А.А."
     },
     {
-        "day": "Суббота",
-        "week_code": "1",
+        "day": 6,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ИН.ЯЗ. в ПД",
         "classroom": "467*; ",
         "lecturer": "Зубарева Г.С."
     },
     {
-        "day": "Суббота",
-        "week_code": "2",
+        "day": 6,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ИН.ЯЗ. в ПД",
         "classroom": "470*; ",
         "lecturer": "Зубарева Г.С."
     },
     {
-        "day": "Суббота",
-        "week_code": "1",
+        "day": 6,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ИН.ЯЗ. в ПД",
         "classroom": "467*; ",
         "lecturer": "Зубарева Г.С."
     },
     {
-        "day": "Суббота",
-        "week_code": "2",
+        "day": 6,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ИН.ЯЗ. в ПД",
         "classroom": "467*; ",

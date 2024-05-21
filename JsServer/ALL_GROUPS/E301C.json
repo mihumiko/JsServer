@@ -1,303 +1,303 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр МЕТ.ИСПЫТ. СП",
         "classroom": "СК11; ",
         "lecturer": "Зиборов И.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр МЕТ.ИСПЫТ. СП",
         "classroom": "СК11; ",
         "lecturer": "Зиборов И.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек МЕТ.ИСПЫТ. СП",
         "classroom": "СК11; ",
         "lecturer": "Зиборов И.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек МЕТ.ИСПЫТ. СП",
         "classroom": "СК11; ",
         "lecturer": "Зиборов И.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ВЫСОКОТОЧ. ОРУЖ.",
         "classroom": "СК11; ",
         "lecturer": "Чубасов В.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек ВЫСОКОТОЧ. ОРУЖ.",
         "classroom": "СК11; ",
         "lecturer": "Чубасов В.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лаб ВЫСОКОТОЧ. ОРУЖ.",
         "classroom": "СК11; ",
         "lecturer": "Чубасов В.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лаб ФИЗ.ВЗР.И УДАРА",
         "classroom": "БЦ; ",
         "lecturer": "Кравцов В.О."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ЭКСП.ГАЗОДИНАМ",
         "classroom": "243; ",
         "lecturer": "Михайлов Н.П."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ЭКСП.ГАЗОДИНАМ",
         "classroom": "243; ",
         "lecturer": "Михайлов Н.П."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лаб КОНСТР.ИДЕЙСТВ.БП",
         "classroom": "243; ",
         "lecturer": "Дороничев Д.М."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лаб КОНСТР.ИДЕЙСТВ.БП",
         "classroom": "243; ",
         "lecturer": "Дороничев Д.М."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лаб ОСН.БАЛ.И АЭРОД.СП",
         "classroom": "БЦ; ",
         "lecturer": "Кэрт Б.Э."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лаб ОСН.БАЛ.И АЭРОД.СП",
         "classroom": "БЦ; ",
         "lecturer": "Кэрт Б.Э."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек ОСН.БАЛ.И АЭРОД.СП",
         "classroom": "СК11; ",
         "lecturer": "Кэрт Б.Э."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек ОСН.БАЛ.И АЭРОД.СП",
         "classroom": "СК11; ",
         "lecturer": "Кэрт Б.Э."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лаб ТЕХН. ПР. СП И БП",
         "classroom": "Лаб.Е2-1; ",
         "lecturer": "Серов С.Л."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ФИЗ.ВЗР.И УДАРА",
         "classroom": "ВЦ 285; ",
         "lecturer": "Кравцов В.О."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ФИЗ.ВЗР.И УДАРА",
         "classroom": "243; ",
         "lecturer": "Михайлов Н.П."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек ФИЗ.ВЗР.И УДАРА",
         "classroom": "243; ",
         "lecturer": "Михайлов Н.П."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек ОСН.ПРОЕКТ.СП",
         "classroom": "243; ",
         "lecturer": "Кравцов В.О."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек ОСН.ПРОЕКТ.СП",
         "classroom": "243; ",
         "lecturer": "Кравцов В.О."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лаб ОСН.ПРОЕКТ.СП",
         "classroom": "БЦ; ",
         "lecturer": "Дороничев Д.М."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "лаб ОСН.ПРОЕКТ.СП",
         "classroom": "БЦ; ",
         "lecturer": "Дороничев Д.М."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек КОНСТР.ИДЕЙСТВ.БП",
         "classroom": "СК11; ",
         "lecturer": "Знаменский Е.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек КОНСТР.ИДЕЙСТВ.БП",
         "classroom": "СК11; ",
         "lecturer": "Знаменский Е.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лаб ЭКСП.ГАЗОДИНАМ",
         "classroom": "БЦ; ",
         "lecturer": "Панченко А.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лаб ЭКСП.ГАЗОДИНАМ",
         "classroom": "БЦ; ",
         "lecturer": "Панченко А.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ТЕХН. ПР. СП И БП",
         "classroom": "СК3; ",
         "lecturer": "Петров  В.М."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек ТЕХН. ПР. СП И БП",
         "classroom": "СК3; ",

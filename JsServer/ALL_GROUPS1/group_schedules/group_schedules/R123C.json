@@ -1,263 +1,263 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ПСИХ.ОБЕСП.СЛ.ДЕЯТ",
         "classroom": "ГПС МЧС; ",
         "lecturer": "Плотникова Е.М."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ПСИХ.ОБЕСП.СЛ.ДЕЯТ",
         "classroom": "ГПС МЧС; ",
         "lecturer": "Плотникова Е.М."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ПСИХ.ОБЕСП.СЛ.ДЕЯТ",
         "classroom": "ГПС МЧС; ",
         "lecturer": "Плотникова Е.М."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ПСИХ.ОБЕСП.СЛ.ДЕЯТ",
         "classroom": "ГПС МЧС; ",
         "lecturer": "Плотникова Е.М."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лаб ОБЩ. ПСИХОЛОГИЯ",
         "classroom": "ВЦ 373; ",
         "lecturer": "Болотова О.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лаб ОБЩ. ПСИХОЛОГИЯ",
         "classroom": "ВЦ 373; ",
         "lecturer": "Болотова О.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ВОЗРАСТ,ПСИХОЛОГИЯ",
         "classroom": "403*; ",
         "lecturer": "Болотова О.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ВОЗРАСТ,ПСИХОЛОГИЯ",
         "classroom": "403*; ",
         "lecturer": "Болотова О.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лаб ОБЩ. ПСИХОЛОГИЯ",
         "classroom": "530*; ",
         "lecturer": "Болотова О.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лаб ОБЩ. ПСИХОЛОГИЯ",
         "classroom": "530*; ",
         "lecturer": "Болотова О.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ОСН.СИСТ.АНАЛИЗА",
         "classroom": "455; ",
         "lecturer": "Чернусь Петр П."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ОСН.СИСТ.АНАЛИЗА",
         "classroom": "493; ",
         "lecturer": "Чернусь Петр П."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек СОЦИОЛОГИЯ",
         "classroom": "401*; ",
         "lecturer": "Клюев А.А."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр СОЦИОЛОГИЯ",
         "classroom": "403*; ",
         "lecturer": "Клюев А.А."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр ОБЩ. ПСИХОЛОГИЯ",
         "classroom": "418*; ",
         "lecturer": "Берзина О.А."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр ОБЩ. ПСИХОЛОГИЯ",
         "classroom": "418*; ",
         "lecturer": "Берзина О.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ЭКОНОМ.ТРУДА",
         "classroom": "418*; ",
         "lecturer": "Вольф Е.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ЭКОНОМ.ТРУДА",
         "classroom": "440*; ",
         "lecturer": "Вольф Е.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ЭКОНОМ.ТРУДА",
         "classroom": "440*; ",
         "lecturer": "Вольф Е.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лаб ОБЩ.ПСИХ.ПРАКТИКУМ.",
         "classroom": "530*; ",
         "lecturer": "Марневская И.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лаб ОБЩ.ПСИХ.ПРАКТИКУМ.",
         "classroom": "530*; ",
         "lecturer": "Марневская И.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр МАРКЕТИНГ",
         "classroom": "413*; ",
         "lecturer": "Сталькина У.М."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ОБЩ. ПСИХОЛОГИЯ",
         "classroom": "403*; ",
         "lecturer": "Болотова О.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ВОЗРАСТ,ПСИХОЛОГИЯ",
         "classroom": "418*; ",
         "lecturer": "Болотова О.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ВОЗРАСТ,ПСИХОЛОГИЯ",
         "classroom": "418*; ",
         "lecturer": "Болотова О.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лаб ОБЩ.ПСИХ.ПРАКТИКУМ.",
         "classroom": "530*; ",
         "lecturer": "Марневская И.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лаб ОБЩ.ПСИХ.ПРАКТИКУМ.",
         "classroom": "530*; ",
         "lecturer": "Марневская И.В."
     },
     {
-        "day": "Суббота",
-        "week_code": "1",
+        "day": 6,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр МАРКЕТИНГ",
         "classroom": "526*; ",
         "lecturer": "Сталькина У.М."
     },
     {
-        "day": "Суббота",
-        "week_code": "1",
+        "day": 6,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек МАРКЕТИНГ",
         "classroom": "401*; ",

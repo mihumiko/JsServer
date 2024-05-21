@@ -1,71 +1,71 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лек ПРОЕКТИРОВ. РЭС",
         "classroom": "444; ",
         "lecturer": "Безруков А.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "лек ПРОЕКТИРОВ. РЭС",
         "classroom": "455; ",
         "lecturer": "Безруков А.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ПРОЕКТИРОВ. РЭС",
         "classroom": "425; ",
         "lecturer": "Безруков А.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ПРОЕКТИРОВ. РЭС",
         "classroom": "425; ",
         "lecturer": "Безруков А.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр НАУЧ-ИССЛ. РАБОТА",
         "classroom": "487; ",
         "lecturer": "Лукичев В.Ю."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "лаб ПРОЕКТИРОВ. РЭС",
         "classroom": "428; ",
         "lecturer": "Безруков А.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ОСН.ТЕОР.КОД.",
         "classroom": "436; ",
         "lecturer": "Стукалова А.С."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ОСН.ТЕОР.КОД.",
         "classroom": "436; ",
         "lecturer": "Стукалова А.С."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ОСН.ТЕОР.КОД.",
         "classroom": "423а; ",

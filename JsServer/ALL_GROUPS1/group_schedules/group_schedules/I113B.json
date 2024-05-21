@@ -1,303 +1,303 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лек ТЕОР.СИГН.И СИС.",
         "classroom": "219а; ",
         "lecturer": "Петрова Ю.Ю."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "лек ТЕОР.СИГН.И СИС.",
         "classroom": "219а; ",
         "lecturer": "Петрова Ю.Ю."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек МЕТ.О-Ф.И ЛАЗ.ИЗМ.",
         "classroom": "324; ",
         "lecturer": "Погода А.П."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ОСН.КОНСТР.ОЭ ПРИБ.",
         "classroom": "324; ",
         "lecturer": "Швец А.С."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лаб ТЕОР.СИГН.И СИС.",
         "classroom": "219а; ",
         "lecturer": "Петрова Ю.Ю."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лаб ОСН.КОНСТР.ОЭ ПРИБ.",
         "classroom": "219а; ",
         "lecturer": "Швец А.С."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лаб ПРИКЛАДН.ОПТИКА",
         "classroom": "218; ",
         "lecturer": "Петрова Ю.Ю."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лаб ПРИКЛАДН.ОПТИКА",
         "classroom": "218; ",
         "lecturer": "Петрова Ю.Ю."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ТЕПЛОПЕРЕДАЧА",
         "classroom": "324; ",
         "lecturer": "Киселев И.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ТЕПЛОПЕРЕДАЧА",
         "classroom": "324; ",
         "lecturer": "Киселев И.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лаб МЕТ.О-Ф.И ЛАЗ.ИЗМ.",
         "classroom": "Корп. К; ",
         "lecturer": "Погода А.П."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лаб МЕТ.О-Ф.И ЛАЗ.ИЗМ.",
         "classroom": "Корп. К; ",
         "lecturer": "Погода А.П."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лаб ОПТ.СИС.ПЕР.ИНФ.",
         "classroom": "219а; ",
         "lecturer": "Ким А.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лаб ОСН.ЛАЗ.ТЕХНИКИ",
         "classroom": "Корп. К; ",
         "lecturer": "Попов  Е.Э."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лаб ОСН.КОНСТР.ОЭ ПРИБ.",
         "classroom": "219а; ",
         "lecturer": "Швец А.С."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ТЕПЛОПЕРЕДАЧА",
         "classroom": "219; ",
         "lecturer": "Киселев И.А."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ОСН.КОНСТР.ОЭ ПРИБ.",
         "classroom": "218; ",
         "lecturer": "Швец А.С."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лаб ТЕПЛОПЕРЕДАЧА",
         "classroom": "219а; ",
         "lecturer": "Киселев И.А."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лаб ОСНОВЫ ОПТИКИ",
         "classroom": "218 лаб.; ",
         "lecturer": "Петрова Ю.Ю."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр МЕТ.О-Ф.И ЛАЗ.ИЗМ.",
         "classroom": "219а; ",
         "lecturer": "Погода А.П."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ОСНОВЫ ОПТИКИ",
         "classroom": "324; ",
         "lecturer": "Коняев М.А."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек ОСНОВЫ ОПТИКИ",
         "classroom": "324; ",
         "lecturer": "Коняев М.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лек ОСН.ЛАЗ.ТЕХНИКИ",
         "classroom": "324; ",
         "lecturer": "Морозов А.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "лек ОСН.ЛАЗ.ТЕХНИКИ",
         "classroom": "324; ",
         "lecturer": "Морозов А.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ПРИКЛАДН.ОПТИКА",
         "classroom": "324; ",
         "lecturer": "Коняев М.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ПРИКЛАДН.ОПТИКА",
         "classroom": "324; ",
         "lecturer": "Коняев М.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ОПТ.СИС.ПЕР.ИНФ.",
         "classroom": "325а; ",
         "lecturer": "Терешенкова О.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ОСНОВЫ ОПТИКИ",
         "classroom": "219; ",
         "lecturer": "Файда Я.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ОПТ.СИС.ПЕР.ИНФ.",
         "classroom": "219а; ",
         "lecturer": "Ким А.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек ОПТ.СИС.ПЕР.ИНФ.",
         "classroom": "219а; ",

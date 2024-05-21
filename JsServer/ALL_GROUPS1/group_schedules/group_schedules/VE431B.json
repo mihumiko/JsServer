@@ -1,111 +1,111 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "пр ВЫСШ. МАТЕМАТ",
         "classroom": "213*; ",
         "lecturer": "Пономарев  С.Ю."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр ВЫСШ. МАТЕМАТ",
         "classroom": "213*; ",
         "lecturer": "Пономарев  С.Ю."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "20:05 Нечетная",
         "discipline": "лек ВЫСШ. МАТЕМАТ",
         "classroom": "213*; ",
         "lecturer": "Пономарев  С.Ю."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "20:05 Четная",
         "discipline": "пр НАЧЕРТАТ. ГЕОМ",
         "classroom": "503*; ",
         "lecturer": "Солодухин Е.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "лек ИСТОРИЯ",
         "classroom": "422*; ",
         "lecturer": "Попова В.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр ИСТОРИЯ",
         "classroom": "507*а; ",
         "lecturer": "Савинов М.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "20:05 Нечетная",
         "discipline": "пр ФИЗИКА",
         "classroom": "328*; ",
         "lecturer": "Виноградский Д.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "20:05 Четная",
         "discipline": "лаб ФИЗИКА",
         "classroom": "323*; ",
         "lecturer": "Виноградский Д.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "лек ФИЗИКА",
         "classroom": "328*; ",
         "lecturer": "Виноградский Д.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "20:05 Нечетная",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "304*; ",
         "lecturer": "Крамарова С.Г."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "20:05 Четная",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "304*; ",
         "lecturer": "Крамарова С.Г."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "лек НАЧЕРТАТ. ГЕОМ",
         "classroom": "505*; ",
         "lecturer": "Солодухин Е.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "20:05 Нечетная",
         "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "325*; ",
         "lecturer": "Григорьева Т.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "20:05 Четная",
         "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "256*; ",

@@ -1,207 +1,207 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек ТЕХНОЛ.ПР-ВА ПАТРОНОВ",
         "classroom": "320; ",
         "lecturer": "Костюк Е.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек ТЕХНОЛ.ПР-ВА ПАТРОНОВ",
         "classroom": "320; ",
         "lecturer": "Костюк Е.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "лек ОСНОВЫ ПР ШТАМПОВ",
         "classroom": "320; ",
         "lecturer": "Жуков С.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "лек ОСНОВЫ ПР ШТАМПОВ",
         "classroom": "320; ",
         "lecturer": "Жуков С.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "20:05 Нечетная",
         "discipline": "лек ЭФФ.И НАДЕЖ. СП",
         "classroom": "487; ",
         "lecturer": "Любарчук Ф.Н."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "20:05 Четная",
         "discipline": "лек ЭФФ.И НАДЕЖ. СП",
         "classroom": "487; ",
         "lecturer": "Любарчук Ф.Н."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр СПЕЦ.ОБОРУД",
         "classroom": "108; ",
         "lecturer": "Лобов В.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ПРОЕК.ВЫСТРЕЛОВ",
         "classroom": "102; ",
         "lecturer": "Фанифатов А.О."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек ЭКСП.БАЛЛИСТИКА",
         "classroom": "102; ",
         "lecturer": "Фанифатов А.О."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек СПЕЦ.ОБОРУД",
         "classroom": "108; ",
         "lecturer": "Лобов В.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек СПЕЦ.ОБОРУД",
         "classroom": "108; ",
         "lecturer": "Лобов В.А."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек МЕН. И МАРКЕТИНГ",
         "classroom": "420*; ",
         "lecturer": "Крехалева О.С."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек МЕН. И МАРКЕТИНГ",
         "classroom": "420*; ",
         "lecturer": "Крехалева О.С."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр МЕН. И МАРКЕТИНГ",
         "classroom": "422*; ",
         "lecturer": "Крехалева О.С."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ПРОЕК.ВЫСТРЕЛОВ",
         "classroom": "102; ",
         "lecturer": "Фанифатов А.О."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ПРОЕК.ВЫСТРЕЛОВ",
         "classroom": "102; ",
         "lecturer": "Фанифатов А.О."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ТЕХНОЛ.КОВКИ И ОШ",
         "classroom": "319; ",
         "lecturer": "Филин Д.С."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек ТЕХНОЛ.КОВКИ И ОШ",
         "classroom": "319; ",
         "lecturer": "Филин Д.С."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр ОРГ.ПР-ВА НА ПР.",
         "classroom": "445; ",
         "lecturer": "Уманец С.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр ОРГ.ПР-ВА НА ПР.",
         "classroom": "490; ",
         "lecturer": "Уманец С.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ОРГ.ПР-ВА НА ПР.",
         "classroom": "440*; ",
         "lecturer": "Уманец С.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ТЕХ. ПРОИЗ. ШТАМ.",
         "classroom": "102; ",
         "lecturer": "Силаев М.Ю."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ТЕХ. ПРОИЗ. ШТАМ.",
         "classroom": "102; ",
         "lecturer": "Силаев М.Ю."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр АВТОМ.ПР-ВО ПАТРОНОВ",
         "classroom": "478; ",
         "lecturer": "Василенко Д.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр АВТОМ.ПР-ВО ПАТРОНОВ",
         "classroom": "478; ",
         "lecturer": "Василенко Д.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лаб ТЕХНОЛ.КОВКИ И ОШ",
         "classroom": "108; ",

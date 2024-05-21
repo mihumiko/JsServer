@@ -1,295 +1,295 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ТЕОР. КОНСТР.",
         "classroom": "334; ",
         "lecturer": "Сятчихин А.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ТЕОР. КОНСТР.",
         "classroom": "334; ",
         "lecturer": "Сятчихин А.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ОСН.МАРКЕТ.ОПК",
         "classroom": "СК21а; ",
         "lecturer": "Чириков С.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ОСН.МАРКЕТ.ОПК",
         "classroom": "СК21а; ",
         "lecturer": "Чириков С.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ТЕПЛ.ЗАЩ.ЛА",
         "classroom": "310; ",
         "lecturer": "Колычев А.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек ТЕПЛ.ЗАЩ.ЛА",
         "classroom": "310; ",
         "lecturer": "Колычев А.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек ФИЗ. ОСН.ПУСКА",
         "classroom": "375; ",
         "lecturer": "Жеребин А.И."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек ФИЗ. ОСН.ПУСКА",
         "classroom": "375; ",
         "lecturer": "Жеребин А.И."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ТЕОР.ПРИН.РЕШЕН",
         "classroom": "ВЦ 281; ",
         "lecturer": "Бурунова В.Ю."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр СИСТ.ИСК.ИНТЕЛЛ",
         "classroom": "ВЦ 283; ",
         "lecturer": "Маслов А.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр СИНТЕЗ РАК. СИСТ",
         "classroom": "СК21Б; ",
         "lecturer": "Федоров  А.М."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр СИНТЕЗ РАК. СИСТ",
         "classroom": "СК21Б; ",
         "lecturer": "Федоров  А.М."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ТЕОР. КОНСТР.",
         "classroom": "318; ",
         "lecturer": "Сятчихин А.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ТЕОР.ПРИН.РЕШЕН",
         "classroom": "СК21а; ",
         "lecturer": "Гусева В.Н."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек СИНТЕЗ РАК. СИСТ",
         "classroom": "374; ",
         "lecturer": "Федоров  А.М."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр СИСТ. И АГРЕГ.",
         "classroom": "ВЦ 283; ",
         "lecturer": "Охочинский М.Н."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр СИСТ. И АГРЕГ.",
         "classroom": "ВЦ 283; ",
         "lecturer": "Охочинский М.Н."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек СИСТ. И АГРЕГ.",
         "classroom": "313а; ",
         "lecturer": "Охочинский М.Н."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ОСН.МАРКЕТ.ОПК",
         "classroom": "318; ",
         "lecturer": "Чириков С.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ТЕХНОЛОГИЯ ПР-ВА",
         "classroom": "474; ",
         "lecturer": "Галинская О.О."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек ТЕХНОЛОГИЯ ПР-ВА",
         "classroom": "474; ",
         "lecturer": "Галинская О.О."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр ФИЗ. ОСН.ПУСКА",
         "classroom": "ДК; ",
         "lecturer": "Жеребин А.И."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек ТЕОР.ПРИН.РЕШЕН",
         "classroom": "318; ",
         "lecturer": "Гусева В.Н."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ТЕХНОЛОГИЯ ПР-ВА",
         "classroom": "СК М2-2; ",
         "lecturer": "Галинская О.О."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лаб ТЕХНОЛОГИЯ ПР-ВА",
         "classroom": "СК М2-2; ",
         "lecturer": "Галинская О.О."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек СИСТ.ИСК.ИНТЕЛЛ",
         "classroom": "313а; ",
         "lecturer": "Маслов А.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек СИСТ.ИСК.ИНТЕЛЛ",
         "classroom": "313а; ",
         "lecturer": "Маслов А.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "пр ТЕПЛ.ЗАЩ.ЛА",
         "classroom": "ВЦ 281; ",
         "lecturer": "Колычев А.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр ТЕПЛ.ЗАЩ.ЛА",
         "classroom": "ВЦ 281; ",

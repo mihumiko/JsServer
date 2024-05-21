@@ -1,191 +1,191 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ТАУ",
         "classroom": "ВЦ 280; ",
         "lecturer": "Арипова О.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ТАУ",
         "classroom": "ВЦ 280; ",
         "lecturer": "Арипова О.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ТАУ",
         "classroom": "344; ",
         "lecturer": "Арипова О.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ТАУ",
         "classroom": "344; ",
         "lecturer": "Арипова О.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лаб УСТР.СВЧ И АНТ",
         "classroom": "428; ",
         "lecturer": "Флёров А.Н."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр УСТР.СВЧ И АНТ",
         "classroom": "423; ",
         "lecturer": "Флёрова А.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек УСТР.СВЧ И АНТ",
         "classroom": "434; ",
         "lecturer": "Флёрова А.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек УСТР.СВЧ И АНТ",
         "classroom": "434; ",
         "lecturer": "Флёрова А.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ВНЕШ. БАЛЛИСТИКА",
         "classroom": "ВЦ КЕ1; ",
         "lecturer": "Мешков С.А."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лек ВНЕШ. БАЛЛИСТИКА",
         "classroom": "КАБ.Е1; ",
         "lecturer": "Мешков С.А."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "лек ВНЕШ. БАЛЛИСТИКА",
         "classroom": "КАБ.Е1; ",
         "lecturer": "Мешков С.А."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лаб УСТР. И ФУНКЦ.ЛА",
         "classroom": "СК21; ",
         "lecturer": "Федоров  А.М."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лаб УСТР. И ФУНКЦ.ЛА",
         "classroom": "СК21; ",
         "lecturer": "Федоров  А.М."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек УСТР. И ФУНКЦ.ЛА",
         "classroom": "314; ",
         "lecturer": "Охочинский М.Н."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек УСТР. И ФУНКЦ.ЛА",
         "classroom": "314; ",
         "lecturer": "Охочинский М.Н."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ТП БРАВ ВМФ",
         "classroom": null,
         "lecturer": "Даниэль С.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ТП БРАВ ВМФ",
         "classroom": null,
         "lecturer": "Даниэль С.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ЭКСП. БРАВ ВМФ",
         "classroom": null,
         "lecturer": "Даниэль С.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ТП БРАВ ВМФ",
         "classroom": null,
         "lecturer": "Даниэль С.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ЭКСП. БРАВ ВМФ",
         "classroom": null,
         "lecturer": "Даниэль С.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ФО УСТ.И ФУН.СПО",
         "classroom": "313а; ",
         "lecturer": "Кудрявцев С.И."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек ФО УСТ.И ФУН.СПО",
         "classroom": "313а; ",
         "lecturer": "Кудрявцев С.И."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лаб ФО УСТ.И ФУН.СПО",
         "classroom": "СК1; ",
         "lecturer": "Новосельцев А.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лаб ФО УСТ.И ФУН.СПО",
         "classroom": "СК1; ",

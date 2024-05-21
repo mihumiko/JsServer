@@ -1,311 +1,311 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лаб КОНСТРУКЦ.ВЗРЫВ",
         "classroom": "СК-14; ",
         "lecturer": "Ялыч Е.С."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "лаб КОНСТРУКЦ.ВЗРЫВ",
         "classroom": "СК-14; ",
         "lecturer": "Ялыч Е.С."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ТЕОР. ЭНЕРГ. МАТ",
         "classroom": "243; ",
         "lecturer": "Генкин Ю.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ТЕОР. ЭНЕРГ. МАТ",
         "classroom": "243; ",
         "lecturer": "Генкин Ю.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лаб ТЕОР. ЭНЕРГ. МАТ",
         "classroom": "243; ",
         "lecturer": "Генкин Ю.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лаб ТЕОР. ЭНЕРГ. МАТ",
         "classroom": "243; ",
         "lecturer": "Генкин Ю.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ДЕТАЛИ МАШИН",
         "classroom": "456*; ",
         "lecturer": "Герасимов И.М."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лаб ДЕТАЛИ МАШИН",
         "classroom": "456*; ",
         "lecturer": "Герасимов И.М."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек КОНСТРУКЦ.ВЗРЫВ",
         "classroom": "СК-14; ",
         "lecturer": "Маслов Д.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек КОНСТРУКЦ.ВЗРЫВ",
         "classroom": "СК-14; ",
         "lecturer": "Маслов Д.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ТЕХ.СИСТ. ЗАЩИТЫ",
         "classroom": "СК11; ",
         "lecturer": "Москвин С.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ТЕХ.СИСТ. ЗАЩИТЫ",
         "classroom": "СК11; ",
         "lecturer": "Москвин С.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек ТЕХ.СИСТ. ЗАЩИТЫ",
         "classroom": "243; ",
         "lecturer": "Москвин С.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек ТЕХ.СИСТ. ЗАЩИТЫ",
         "classroom": "243; ",
         "lecturer": "Москвин С.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "лек КОНСТРУКЦИЯ АСП",
         "classroom": "СК11; ",
         "lecturer": "Москвин С.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лаб УСТР. БОЕПРИПАСОВ",
         "classroom": "СК11; ",
         "lecturer": "Панченко А.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лаб УСТР. БОЕПРИПАСОВ",
         "classroom": "СК11; ",
         "lecturer": "Панченко А.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ОСН.БАЛ.И АЭРОД.СП",
         "classroom": "СК11; ",
         "lecturer": "Павлов Я.О."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек ОСН.БАЛ.И АЭРОД.СП",
         "classroom": "СК11; ",
         "lecturer": "Павлов Я.О."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек УСТР. БОЕПРИПАСОВ",
         "classroom": "СК11; ",
         "lecturer": "Павлов Я.О."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек УСТР. БОЕПРИПАСОВ",
         "classroom": "СК11; ",
         "lecturer": "Павлов Я.О."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "пр ОСН.БАЛ.И АЭРОД.СП",
         "classroom": "БЦ; ",
         "lecturer": "Павлов Я.О."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр ОСН.БАЛ.И АЭРОД.СП",
         "classroom": "БЦ; ",
         "lecturer": "Павлов Я.О."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ДЕТАЛИ МАШИН",
         "classroom": "460*; ",
         "lecturer": "Кротов Ю.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ДЕТАЛИ МАШИН",
         "classroom": "460*; ",
         "lecturer": "Кротов Ю.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ЭКСПУАТ. И ИСПЫТ.",
         "classroom": "СК11; ",
         "lecturer": "Москвин С.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ЭКСПУАТ. И ИСПЫТ.",
         "classroom": "СК11; ",
         "lecturer": "Москвин С.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лаб ЭКСПУАТ. И ИСПЫТ.",
         "classroom": "СК11; ",
         "lecturer": "Москвин С.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лаб ЭКСПУАТ. И ИСПЫТ.",
         "classroom": "СК11; ",
         "lecturer": "Москвин С.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр КОНСТРУКЦИЯ АСП",
         "classroom": "СК11; ",
         "lecturer": "Москвин С.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр КОНСТРУКЦИЯ АСП",
         "classroom": "СК11; ",

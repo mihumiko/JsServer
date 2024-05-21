@@ -1,247 +1,247 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек СОПР.МАТЕРИАЛОВ",
         "classroom": "429*; ",
         "lecturer": "Красильников А.З."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек СОПР.МАТЕРИАЛОВ",
         "classroom": "429*; ",
         "lecturer": "Красильников А.З."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ФИЗИКА",
         "classroom": "331*; ",
         "lecturer": "Комарова О.С."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ФИЗИКА",
         "classroom": "331*; ",
         "lecturer": "Комарова О.С."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ТЕРМОДИНАМИКА",
         "classroom": "СК2а; ",
         "lecturer": "Дмитриев Д.К."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек ОСН.СИСТ.АНАЛИЗА",
         "classroom": "374; ",
         "lecturer": "Кулаков А.Ю."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр МЕТР.И ОСН.ВЗАИМ",
         "classroom": "201*; ",
         "lecturer": "Петров Ю.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ВЫСШ. МАТЕМАТ",
         "classroom": "477; ",
         "lecturer": "Матвеева Е.С."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ВЫСШ. МАТЕМАТ",
         "classroom": "490; ",
         "lecturer": "Матвеева Е.С."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ВЫСШ. МАТЕМАТ",
         "classroom": "450; ",
         "lecturer": "Александрова Е.Б."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ВЫСШ. МАТЕМАТ",
         "classroom": "450; ",
         "lecturer": "Александрова Е.Б."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "310*; ",
         "lecturer": "Седых Л.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "310*; ",
         "lecturer": "Седых Л.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ТЕОР. МЕХАНИКА",
         "classroom": "498; ",
         "lecturer": "Свентицкая В.Е."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ТЕОР. МЕХАНИКА",
         "classroom": "498; ",
         "lecturer": "Свентицкая В.Е."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ОСН.СИСТ.АНАЛИЗА",
         "classroom": "КАБ.10; ",
         "lecturer": "Кириллов А.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лаб ТЕРМОДИНАМИКА",
         "classroom": "ТМП-3; ТМП-4; ТМП-6; ",
         "lecturer": "Мустейкис А.И."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ТЕХН.КОНСТР.МАТ",
         "classroom": "474; ",
         "lecturer": "Кочетков  А.Н."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ТЕХН.КОНСТР.МАТ",
         "classroom": "474; ",
         "lecturer": "Кочетков  А.Н."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ТЕХН.КОНСТР.МАТ",
         "classroom": "475; ",
         "lecturer": "Кочетков  А.Н."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр СОПР.МАТЕРИАЛОВ",
         "classroom": "102*; ",
         "lecturer": "Красильников А.З."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лек ТЕОР. МЕХАНИКА",
         "classroom": "443; ",
         "lecturer": "Свентицкая В.Е."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "лек ТЕОР. МЕХАНИКА",
         "classroom": "443; ",
         "lecturer": "Свентицкая В.Е."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ТЕРМОДИНАМИКА",
         "classroom": "374; ",
         "lecturer": "Савченко Г.Б."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ТЕРМОДИНАМИКА",
         "classroom": "374; ",
         "lecturer": "Савченко Г.Б."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек МЕТР.И ОСН.ВЗАИМ",
         "classroom": "374; ",
         "lecturer": "Кочеткова Т.П."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек МЕТР.И ОСН.ВЗАИМ",
         "classroom": "374; ",

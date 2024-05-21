@@ -1,231 +1,231 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лаб ВИБР.ТЕХНОЛ.СИСТ",
         "classroom": "Лаб.Е2-1; ",
         "lecturer": "Кижняев Ю.И."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "лаб СБ,ИС,РЕМ.СПАРО",
         "classroom": "Лаб.Е2-1; ",
         "lecturer": "Серов С.Л."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ВИБР.ТЕХНОЛ.СИСТ",
         "classroom": "290; ",
         "lecturer": "Кижняев Ю.И."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ВИБР.ТЕХНОЛ.СИСТ",
         "classroom": "290; ",
         "lecturer": "Кижняев Ю.И."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лаб ГИДРОПНЕВМОАВТ",
         "classroom": "269*(фесто); ",
         "lecturer": "Морозов  М.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ВИБР.ТЕХНОЛ.СИСТ",
         "classroom": "СК3; ",
         "lecturer": "Кижняев Ю.И."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр СБ,ИС,РЕМ.СПАРО",
         "classroom": "112*; ",
         "lecturer": "Федосов А.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ГИДРОПНЕВМОАВТ",
         "classroom": "268*(фесто); ",
         "lecturer": "Морозов  М.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ГИДРОПНЕВМОАВТ",
         "classroom": "268*(фесто); ",
         "lecturer": "Морозов  М.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр КОМП.ПР.СП.ИНСТР.",
         "classroom": "202*а(К.кл); ",
         "lecturer": "Кононов К.И."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр КОМП.ПР.СП.ИНСТР.",
         "classroom": "202*а(К.кл); ",
         "lecturer": "Кононов К.И."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр СБ,ИС,РЕМ.СПАРО",
         "classroom": "112*; ",
         "lecturer": "Федосов А.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр СБ,ИС,РЕМ.СПАРО",
         "classroom": "112*; ",
         "lecturer": "Федосов А.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лек ТЕХН.ПР-ВА СПАРО",
         "classroom": "СК3; ",
         "lecturer": "Федосов А.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лаб ТЕХН.ПР-ВА СПАРО",
         "classroom": "Лаб.Е2-1; ",
         "lecturer": "Серов С.Л."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лаб ТЕХН.ПР-ВА СПАРО",
         "classroom": "Лаб.Е2-1; ",
         "lecturer": "Серов С.Л."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек СБ,ИС,РЕМ.СПАРО",
         "classroom": "СК3; ",
         "lecturer": "Федосов А.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр КОМП.ПР.СП.ИНСТР.",
         "classroom": "202*а(К.кл); ",
         "lecturer": "Кононов К.И."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр КОМП.ПР.СП.ИНСТР.",
         "classroom": "202*а(К.кл); ",
         "lecturer": "Кононов К.И."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ТЕХН.ПР-ВА СПАРО",
         "classroom": "СК3; ",
         "lecturer": "Федосов А.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ТЕХН.ПР-ВА СПАРО",
         "classroom": "СК3; ",

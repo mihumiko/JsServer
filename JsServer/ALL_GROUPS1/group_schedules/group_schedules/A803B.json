@@ -1,239 +1,239 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ТЕОР.И ПР.КАМ.СГОР.ГТУ",
         "classroom": "ТМП-3; ",
         "lecturer": "Побелянский А.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ТЕОР.И ПР.КАМ.СГОР.ГТУ",
         "classroom": "ТМП-3; ",
         "lecturer": "Побелянский А.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек НАДЕЖН.ТЕХН.СИСТ.",
         "classroom": "325; ",
         "lecturer": "Русина А.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек НАДЕЖН.ТЕХН.СИСТ.",
         "classroom": "325; ",
         "lecturer": "Русина А.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр НАДЕЖН.ТЕХН.СИСТ.",
         "classroom": "325; ",
         "lecturer": "Русина А.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ИСПЫТ.И ДИАГН.ГТУ",
         "classroom": "445; ",
         "lecturer": "Тарасов В.Н."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек ИСПЫТ.И ДИАГН.ГТУ",
         "classroom": "444; ",
         "lecturer": "Тарасов В.Н."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек ТЕОР.И ПР.КАМ.СГОР.ГТУ",
         "classroom": "498; ",
         "lecturer": "Юнаков Л.П."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек ТЕОР.И ПР.КАМ.СГОР.ГТУ",
         "classroom": "498; ",
         "lecturer": "Юнаков Л.П."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "пр ИСПЫТ.И ДИАГН.ГТУ",
         "classroom": "ТМП-2; ",
         "lecturer": "Каровецкий А.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр ТЕПЛООБМ.ОБОРУД.",
         "classroom": "ТМП-2; ",
         "lecturer": "Локтев Ю.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "20:05 Четная",
         "discipline": "лек ТЕПЛООБМ.ОБОРУД.",
         "classroom": "ТМП-2; ",
         "lecturer": "Локтева С.С."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лек АВТОМ.И РЕГ.ТЕПЛ.МАШ.",
         "classroom": "325; ",
         "lecturer": "Русина А.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "лек АВТОМ.И РЕГ.ТЕПЛ.МАШ.",
         "classroom": "325; ",
         "lecturer": "Русина А.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр АВТОМ.И РЕГ.ТЕПЛ.МАШ.",
         "classroom": "325; ",
         "lecturer": "Русина А.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ОСН.МЕНЕДЖМЕНТ",
         "classroom": "422*; ",
         "lecturer": "Иванова Т.Д."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ОСН.МЕНЕДЖМЕНТ",
         "classroom": "433*; ",
         "lecturer": "Иванова Т.Д."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ОСН. ММ ВТП В ГТУ",
         "classroom": "СК2а; ",
         "lecturer": "Мустейкис А.И."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр НАУЧ-ИСС. РАБ.",
         "classroom": "ТМП-3; ",
         "lecturer": "Ярошенко Н.Т."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр НАУЧ-ИСС. РАБ.",
         "classroom": "ТМП-3; ",
         "lecturer": "Ярошенко Н.Т."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ОСН. ММ ВТП В ГТУ",
         "classroom": "ауд.БК Климов; ",
         "lecturer": "Мустейкис А.И."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ОСН. ММ ВТП В ГТУ",
         "classroom": "ауд.БК Климов; ",

@@ -1,191 +1,191 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лаб ТЕОР. МЕХ. И МАШ",
         "classroom": "373*; ",
         "lecturer": "Кузьмин А.О."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ТЕОР. МЕХ. И МАШ",
         "classroom": "372*; ",
         "lecturer": "Кузьмин А.О."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ТЕОР. МЕХ. И МАШ",
         "classroom": "372*; ",
         "lecturer": "Кузьмин А.О."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ТЕОР. МЕХ. И МАШ",
         "classroom": "270*(фесто); ",
         "lecturer": "Кузьмин А.О."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лек ОСН.АВТОМ.ПРОЕКТ.",
         "classroom": "460*; ",
         "lecturer": "Кротов Ю.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лаб ЭКТР.И ГИДР.ПРИВ.",
         "classroom": "153*; ",
         "lecturer": "Воротынцев Б.Н."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лаб ЭКТР.И ГИДР.ПРИВ.",
         "classroom": "153*; ",
         "lecturer": "Воротынцев Б.Н."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ЭКТР.И ГИДР.ПРИВ.",
         "classroom": "156* (Maxon); ",
         "lecturer": "Воротынцев Б.Н."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ОСН.АВТОМ.ПРОЕКТ.",
         "classroom": "460*; ",
         "lecturer": "Кротов Ю.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ОСН.АВТОМ.ПРОЕКТ.",
         "classroom": "460*; ",
         "lecturer": "Кротов Ю.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек МЕН.И ИНЖ.КАЧ-ВА",
         "classroom": "526*; ",
         "lecturer": "Кедрова Е.И."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лаб МЕН.И ИНЖ.КАЧ-ВА",
         "classroom": "528*; ",
         "lecturer": "Кедрова Е.И."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лаб МЕН.И ИНЖ.КАЧ-ВА",
         "classroom": "528*; ",
         "lecturer": "Кедрова Е.И."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лаб МЕН.И ИНЖ.КАЧ-ВА",
         "classroom": "528*; ",
         "lecturer": "Кедрова Е.И."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лек МОДЕЛИР. СИСТЕМ",
         "classroom": "526*; ",
         "lecturer": "Мишина О.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "лек ЭМ И МЕХАТР.СИСТ",
         "classroom": "528*; ",
         "lecturer": "Чернусь Петр П."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лаб ЭМ И МЕХАТР.СИСТ",
         "classroom": "528*; ",
         "lecturer": "Чернусь Петр П."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лаб ЭМ И МЕХАТР.СИСТ",
         "classroom": "528*; ",
         "lecturer": "Чернусь Петр П."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр МОДЕЛИР. СИСТЕМ",
         "classroom": "528*; ",
         "lecturer": "Мишина О.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр МОДЕЛИР. СИСТЕМ",
         "classroom": "528*; ",
         "lecturer": "Мишина О.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ЦИФР.ОБРАБ.СИГН",
         "classroom": "528*; ",
         "lecturer": "Сотникова Н.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ЦИФР.ОБРАБ.СИГН",
         "classroom": "528*; ",
         "lecturer": "Сотникова Н.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ЦИФР.ОБРАБ.СИГН",
         "classroom": "528*; ",
         "lecturer": "Сотникова Н.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ЦИФР.ОБРАБ.СИГН",
         "classroom": "528*; ",

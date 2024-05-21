@@ -1,239 +1,239 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ПР.И МОД.ЭЛ. ВЗР.",
         "classroom": "440; ",
         "lecturer": "Ткаченко В.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек ПР.И МОД.ЭЛ. ВЗР.",
         "classroom": "440; ",
         "lecturer": "Ткаченко В.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лаб ПР.И МОД.ЭЛ. ВЗР.",
         "classroom": "Лаб. 323; 440; ",
         "lecturer": "Ткаченко В.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр ПР.И МОД.ЭЛ. ВЗР.",
         "classroom": "440; ",
         "lecturer": "Ткаченко В.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "пр ВМ. СИСТ. И СЕТИ",
         "classroom": "440; ",
         "lecturer": "Карпов С.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр ВМ. СИСТ. И СЕТИ",
         "classroom": "440; ",
         "lecturer": "Карпов С.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ЛС СПЕЦ. НАЗНАЧ",
         "classroom": "219а; ",
         "lecturer": "Губарев А.Д."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр ЛС СПЕЦ. НАЗНАЧ",
         "classroom": "219; ",
         "lecturer": "Губарев А.Д."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лаб ЛС СПЕЦ. НАЗНАЧ",
         "classroom": "219а; ",
         "lecturer": "Губарев А.Д."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "лек ПР.И М. Э-М. ВЗР.",
         "classroom": "440; ",
         "lecturer": "Тимербулатов Р.Р."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "лек ПР.И М. Э-М. ВЗР.",
         "classroom": "440; ",
         "lecturer": "Тимербулатов Р.Р."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "20:05 Нечетная",
         "discipline": "пр ПР.И М. Э-М. ВЗР.",
         "classroom": "440; ",
         "lecturer": "Тимербулатов Р.Р."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "20:05 Четная",
         "discipline": "лаб ПР.И М. Э-М. ВЗР.",
         "classroom": "114; 440; ",
         "lecturer": "Тимербулатов Р.Р."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ЭФФ.И НАДЕЖН",
         "classroom": "115; ",
         "lecturer": "Архипова И.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр СПУТН.НАВИГ.СИСТ.",
         "classroom": "440; ",
         "lecturer": "Иванцевич Н.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек СПУТН.НАВИГ.СИСТ.",
         "classroom": "440; ",
         "lecturer": "Иванцевич Н.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек СПУТН.НАВИГ.СИСТ.",
         "classroom": "440; ",
         "lecturer": "Иванцевич Н.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ВМ. СИСТ. И СЕТИ",
         "classroom": "Лаб. 323; ",
         "lecturer": "Карпов С.А."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ВМ. СИСТ. И СЕТИ",
         "classroom": "Лаб. 323; ",
         "lecturer": "Карпов С.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек МЭМС ВЗР.",
         "classroom": "Лаб. 323; ",
         "lecturer": "Курицын А.Н."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек МЭМС ВЗР.",
         "classroom": "Лаб. 250; ",
         "lecturer": "Курицын А.Н."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр МЭМС ВЗР.",
         "classroom": "115; ",
         "lecturer": "Курицын А.Н."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лаб МЭМС ВЗР.",
         "classroom": "114; ",
         "lecturer": "Курицын А.Н."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "лек МЕТ.ИСП.ВЗР.",
         "classroom": "440; ",
         "lecturer": "Жилин В.Н."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "лек МЕТ.ИСП.ВЗР.",
         "classroom": "440; ",
         "lecturer": "Жилин В.Н."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "20:05 Четная",
         "discipline": "пр МЕТ.ИСП.ВЗР.",
         "classroom": "115; ",
         "lecturer": "Жилин В.Н."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек ОСН.МЕНЕДЖМЕНТ",
         "classroom": "433*; ",
         "lecturer": "Иванов К.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр ОСН.МЕНЕДЖМЕНТ",
         "classroom": "404*; ",
         "lecturer": "Иванов К.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек ЭФФ.И НАДЕЖН",
         "classroom": "440; ",
         "lecturer": "Архипова И.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "лек ЭФФ.И НАДЕЖН",
         "classroom": "440; ",

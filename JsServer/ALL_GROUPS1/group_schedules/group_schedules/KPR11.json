@@ -1,175 +1,175 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ТЕОР. МЕХ. И МАШ",
         "classroom": "270*(фесто); ",
         "lecturer": "Кузьмин А.О."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лаб ТЕОР. МЕХ. И МАШ",
         "classroom": "372*; ",
         "lecturer": "Кузьмин А.О."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ТЕОР. МЕХ. И МАШ",
         "classroom": "373*; ",
         "lecturer": "Кузьмин А.О."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ТЕОР. МЕХ. И МАШ",
         "classroom": "373*; ",
         "lecturer": "Кузьмин А.О."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лек ОСН.АВТОМ.ПРОЕКТ.",
         "classroom": "460*; ",
         "lecturer": "Кротов Ю.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ОСН.АВТОМ.ПРОЕКТ.",
         "classroom": "460*; ",
         "lecturer": "Кротов Ю.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ОСН.АВТОМ.ПРОЕКТ.",
         "classroom": "460*; ",
         "lecturer": "Кротов Ю.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ТЕХНОЛ.ОСНАСТКА",
         "classroom": "411*; ",
         "lecturer": "Портнов С.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ТЕХНОЛ.ОСНАСТКА",
         "classroom": "411*; ",
         "lecturer": "Портнов С.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лаб ТЕХНОЛ.ОСНАСТКА",
         "classroom": "411*; ",
         "lecturer": "Портнов С.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "лаб МЕН.И ИНЖ.КАЧ-ВА",
         "classroom": "411*; ",
         "lecturer": "Кедрова Е.И."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лаб МЕН.И ИНЖ.КАЧ-ВА",
         "classroom": "411*; ",
         "lecturer": "Кедрова Е.И."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лаб МЕН.И ИНЖ.КАЧ-ВА",
         "classroom": "411*; ",
         "lecturer": "Кедрова Е.И."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек МЕН.И ИНЖ.КАЧ-ВА",
         "classroom": "526*; ",
         "lecturer": "Кедрова Е.И."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лек МОДЕЛИР. СИСТЕМ",
         "classroom": "526*; ",
         "lecturer": "Мишина О.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр МОДЕЛИР. СИСТЕМ",
         "classroom": "411*; ",
         "lecturer": "Мишина О.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр МОДЕЛИР. СИСТЕМ",
         "classroom": "411*; ",
         "lecturer": "Мишина О.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек МАТЕРИАЛОВ-Е И ТКМ",
         "classroom": "411*; ",
         "lecturer": "Андрюшкин А.Ю."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек МАТЕРИАЛОВ-Е И ТКМ",
         "classroom": "411*; ",
         "lecturer": "Андрюшкин А.Ю."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лаб МАТЕРИАЛОВ-Е И ТКМ",
         "classroom": "411*; ",
         "lecturer": "Андрюшкин А.Ю."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ПРАВОВЕДЕНИЕ",
         "classroom": "413*; ",
         "lecturer": "Дмитриева А.П."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ПРАВОВЕДЕНИЕ",
         "classroom": "413*; ",

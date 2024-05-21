@@ -1,239 +1,239 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр БАЗЫ ДАННЫХ",
         "classroom": "218*; ",
         "lecturer": "Мажайцев Е.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр БАЗЫ ДАННЫХ",
         "classroom": "218*; ",
         "lecturer": "Мажайцев Е.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр МЕТ.КРОСС.ТРАНСЛ.",
         "classroom": "258*; ",
         "lecturer": "Шимкун В.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр МЕТ.КРОСС.ТРАНСЛ.",
         "classroom": "258*; ",
         "lecturer": "Шимкун В.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек МИКРОПР. УСТР-ВА",
         "classroom": "324; ",
         "lecturer": "Сотникова Н.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек МИКРОПР. УСТР-ВА",
         "classroom": "324; ",
         "lecturer": "Сотникова Н.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лаб ИЗМ.ИНФ.СИСТЕМЫ",
         "classroom": "430; ",
         "lecturer": "Коноплёв Ю.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ИЗМ.ИНФ.СИСТЕМЫ",
         "classroom": "425; ",
         "lecturer": "Певишев С.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ТЕОР.УПРАВЛЕНИЯ",
         "classroom": "346; ",
         "lecturer": "Митин Ф.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ТЕОР.УПРАВЛЕНИЯ",
         "classroom": "315; ",
         "lecturer": "Митин Ф.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ТЕОР.УПРАВЛЕНИЯ",
         "classroom": "315; ",
         "lecturer": "Митин Ф.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек БЖД",
         "classroom": "314; ",
         "lecturer": "Кудаев А.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек БЖД",
         "classroom": "314; ",
         "lecturer": "Кудаев А.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек МЕТ.КРОСС.ТРАНСЛ.",
         "classroom": "313а; ",
         "lecturer": "Зимина Д.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лаб БЖД",
         "classroom": "384б; ",
         "lecturer": "Васильева В.К."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ПРЕДСТ.ЗНАН.В ИС",
         "classroom": "346; ",
         "lecturer": "Готин С.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ПРЕДСТ.ЗНАН.В ИС",
         "classroom": "346; ",
         "lecturer": "Готин С.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр МИКРОПР. УСТР-ВА",
         "classroom": "436; ",
         "lecturer": "Пономарев С.Д."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр МИКРОПР. УСТР-ВА",
         "classroom": "423; ",
         "lecturer": "Пономарев С.Д."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лаб ТЕОР.УПРАВЛЕНИЯ",
         "classroom": "277; ",
         "lecturer": "Кострыгин Д.Г."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр БЖД",
         "classroom": "484; ",
         "lecturer": "Кудаев А.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр УСТР.ФОРМ.СИГН",
         "classroom": "434; ",
         "lecturer": "Кочин Л.Б."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек УСТР.ФОРМ.СИГН",
         "classroom": "313а; ",
         "lecturer": "Кочин Л.Б."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек УСТР.ФОРМ.СИГН",
         "classroom": "434; ",
         "lecturer": "Кочин Л.Б."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек БАЗЫ ДАННЫХ",
         "classroom": "313а; ",
         "lecturer": "Верхолат А.М."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек БАЗЫ ДАННЫХ",
         "classroom": "313а; ",
         "lecturer": "Верхолат А.М."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ИЗМ.ИНФ.СИСТЕМЫ",
         "classroom": "434; ",
         "lecturer": "Певишев С.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ИЗМ.ИНФ.СИСТЕМЫ",
         "classroom": "434; ",
         "lecturer": "Певишев С.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ПРЕДСТ.ЗНАН.В ИС",
         "classroom": "274; ",
         "lecturer": "Рохлин Н.С."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ПРЕДСТ.ЗНАН.В ИС",
         "classroom": "274; ",

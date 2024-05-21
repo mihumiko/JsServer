@@ -1,167 +1,167 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лек ПРОЕКТИРОВ. РЭС",
         "classroom": "444; ",
         "lecturer": "Безруков А.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "лек ПРОЕКТИРОВ. РЭС",
         "classroom": "455; ",
         "lecturer": "Безруков А.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ПРОЕКТИРОВ. РЭС",
         "classroom": "425; ",
         "lecturer": "Безруков А.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ПРОЕКТИРОВ. РЭС",
         "classroom": "425; ",
         "lecturer": "Безруков А.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ЦИФРОВОЕ TV",
         "classroom": "428; ",
         "lecturer": "Кочин Л.Б."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек ЦИФРОВОЕ TV",
         "classroom": "423; ",
         "lecturer": "Кочин Л.Б."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр РАДИОЭЛЕКТР. ИС",
         "classroom": "434; ",
         "lecturer": "Трилис А.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр РАДИОЭЛЕКТР. ИС",
         "classroom": "434; ",
         "lecturer": "Трилис А.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лаб РАДИОЭЛЕКТР. ИС",
         "classroom": "434; ",
         "lecturer": "Трилис А.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лаб РАДИОЭЛЕКТР. ИС",
         "classroom": "428; ",
         "lecturer": "Трилис А.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек РАДИОЭЛЕКТР. ИС",
         "classroom": "425; ",
         "lecturer": "Трилис А.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ОСН.ТЕОР.КОД.",
         "classroom": "436; ",
         "lecturer": "Стукалова А.С."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ОСН.ТЕОР.КОД.",
         "classroom": "436; ",
         "lecturer": "Стукалова А.С."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ОСН.ТЕОР.КОД.",
         "classroom": "436; ",
         "lecturer": "Стукалова А.С."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек РАДИОЭЛ.СИСТ.КК",
         "classroom": "431; ",
         "lecturer": "Сырцев А.Н."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек РАДИОЭЛ.СИСТ.КК",
         "classroom": "431; ",
         "lecturer": "Сырцев А.Н."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр РАДИОЭЛ.СИСТ.КК",
         "classroom": "431; ",
         "lecturer": "Сырцев А.Н."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лаб РАДИОЭЛ.СИСТ.КК",
         "classroom": "431; ",
         "lecturer": "Сырцев А.Н."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "пр ЦИФРОВОЕ TV",
         "classroom": "430; ",
         "lecturer": "Кочин Л.Б."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр НАУЧ-ИССЛ. РАБОТА",
         "classroom": "423; ",
         "lecturer": "Лукичев В.Ю."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "20:05 Четная",
         "discipline": "лаб ПРОЕКТИРОВ. РЭС",
         "classroom": "436; ",

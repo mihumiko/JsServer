@@ -1,119 +1,119 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ЧТ.ЛИТ.НА РУС.ЯЗ.",
         "classroom": "411*; ",
         "lecturer": "Невзорова Н.Ф."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ЧТ.ЛИТ.НА РУС.ЯЗ.",
         "classroom": "411*; ",
         "lecturer": "Невзорова Н.Ф."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ДИСКУРС",
         "classroom": "411*; ",
         "lecturer": "Канатаев Д.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек НАУЧ. ИССЛ. РАБ.",
         "classroom": "411*; ",
         "lecturer": "Канатаев Д.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр ДИСКУРС",
         "classroom": "411*; ",
         "lecturer": "Канатаев Д.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ПРАКТ.КУРС РУС.ЯЗ.",
         "classroom": "326*а; ",
         "lecturer": "Тимофеева  С.П."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ПРАКТ.КУРС РУС.ЯЗ.",
         "classroom": "326*а; ",
         "lecturer": "Тимофеева  С.П."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ПЕРЕВОД АНГЛ.ЯЗ",
         "classroom": "326*а; ",
         "lecturer": "Аксенова Д.А."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ПЕРЕВОД АНГЛ.ЯЗ",
         "classroom": "326*а; ",
         "lecturer": "Аксенова Д.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр РАЗГОВОР.ПРАКТ",
         "classroom": "326*а; ",
         "lecturer": "Тимофеева  С.П."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр РАЗГОВОР.ПРАКТ",
         "classroom": "326*а; ",
         "lecturer": "Тимофеева  С.П."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ПРАКТ.КУРС РУС.ЯЗ.",
         "classroom": "326*а; ",
         "lecturer": "Тимофеева  С.П."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ПРАКТ.КУРС РУС.ЯЗ.",
         "classroom": "326*а; ",
         "lecturer": "Тимофеева  С.П."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ПЕРЕВОД АНГЛ.ЯЗ",
         "classroom": "326*а; ",
         "lecturer": "Аксенова Д.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ПЕРЕВОД АНГЛ.ЯЗ",
         "classroom": "326*а; ",

@@ -1,119 +1,119 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр МЕТ. НАУЧ. ИССЛЕД",
         "classroom": "401*; ",
         "lecturer": "Дрозд А.Л."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек МЕТ. НАУЧ. ИССЛЕД",
         "classroom": "526*; ",
         "lecturer": "Дрозд А.Л."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лаб СТАТИСТ. МЕХАН",
         "classroom": "ВЦ 371; ",
         "lecturer": "Туркина Н.Р."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр СТАТИСТ. МЕХАН",
         "classroom": "ВЦ 373; ",
         "lecturer": "Туркина Н.Р."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "лек ВЫСШ. МАТ. В НИ",
         "classroom": "450; ",
         "lecturer": "Павлов Ю.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "лек ВЫСШ. МАТ. В НИ",
         "classroom": "450; ",
         "lecturer": "Павлов Ю.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр ВЫСШ. МАТ. В НИ",
         "classroom": "444; ",
         "lecturer": "Солдаткин А.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек ЭКОНОМ. НИОКР",
         "classroom": "420*; ",
         "lecturer": "Григорьев М.Н."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "лек УПР.ПРОЕКТАМИ",
         "classroom": "331*; ",
         "lecturer": "Алёшкин Н.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр ЭКОНОМ. НИОКР",
         "classroom": "420*; ",
         "lecturer": "Григорьев М.Н."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "20:05 Нечетная",
         "discipline": "пр УПР.ПРОЕКТАМИ",
         "classroom": "331*; ",
         "lecturer": "Алёшкин Н.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр CAD/CAE ТЕХНОЛОГИИ",
         "classroom": "ВЦ 373; ",
         "lecturer": "Беляев А.Н."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр CAD/CAE ТЕХНОЛОГИИ",
         "classroom": "ВЦ 373; ",
         "lecturer": "Беляев А.Н."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "304*; ",
         "lecturer": "Логинова Н.К."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "304*; ",

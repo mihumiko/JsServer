@@ -1,231 +1,231 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лаб ПР.МЕХ.СПЛОШ.СР",
         "classroom": "БЦ; ",
         "lecturer": "Филимон С.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "лаб ПР.МЕХ.СПЛОШ.СР",
         "classroom": "БЦ; ",
         "lecturer": "Филимон С.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лаб САПР ГИУ",
         "classroom": "БЦ; ",
         "lecturer": "Никулин Е.Н."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лаб САПР ГИУ",
         "classroom": "БЦ; ",
         "lecturer": "Никулин Е.Н."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр СПЕЦ. ГЛ. МАТ.",
         "classroom": "243; ",
         "lecturer": "Панченко А.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр СПЕЦ. ГЛ. МАТ.",
         "classroom": "243; ",
         "lecturer": "Панченко А.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ПР.СНАР.УТИЛ БП",
         "classroom": "243; ",
         "lecturer": "Филимон С.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ЭКОНОМИКА. ПРОМ",
         "classroom": "440*; ",
         "lecturer": "Киселев Ю.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ЭКОНОМИКА. ПРОМ",
         "classroom": "440*; ",
         "lecturer": "Киселев Ю.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек ЭКОНОМИКА. ПРОМ",
         "classroom": "440*; ",
         "lecturer": "Киселев Ю.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр ПР.СНАР.УТИЛ БП",
         "classroom": "ВЦ 284; ",
         "lecturer": "Филимон С.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ИНФ. ТЕХ. ПРОЕКТ.",
         "classroom": "БЦ; ",
         "lecturer": "Михайлов В.А."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ИНФ. ТЕХ. ПРОЕКТ.",
         "classroom": "БЦ; ",
         "lecturer": "Михайлов В.А."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ПР.СНАР.УТИЛ БП",
         "classroom": "СК11; ",
         "lecturer": "Филимон С.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ПР.СНАР.УТИЛ БП",
         "classroom": "СК11; ",
         "lecturer": "Филимон С.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лаб СПЕЦ. ГЛ. МАТ.",
         "classroom": "БЦ; ",
         "lecturer": "Панченко А.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "лаб СПЕЦ. ГЛ. МАТ.",
         "classroom": "БЦ; ",
         "lecturer": "Панченко А.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ПР.МЕХ.СПЛОШ.СР",
         "classroom": "СК11; ",
         "lecturer": "Филимон С.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ПР.МЕХ.СПЛОШ.СР",
         "classroom": "СК11; ",
         "lecturer": "Филимон С.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек САПР ГИУ",
         "classroom": "243; ",
         "lecturer": "Никулин Е.Н."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек САПР ГИУ",
         "classroom": "243; ",
         "lecturer": "Никулин Е.Н."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лаб МАТЕМ.МОД. ВООРУЖ.",
         "classroom": "БЦ; ",
         "lecturer": "Кэрт Б.Э."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лаб МАТЕМ.МОД. ВООРУЖ.",
         "classroom": "БЦ; ",
         "lecturer": "Кэрт Б.Э."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек МАТЕМ.МОД. ВООРУЖ.",
         "classroom": "БЦ; ",
         "lecturer": "Кэрт Б.Э."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек МАТЕМ.МОД. ВООРУЖ.",
         "classroom": "БЦ; ",
         "lecturer": "Кэрт Б.Э."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек ОСН.МЕНЕДЖМЕНТ",
         "classroom": "433*; ",
         "lecturer": "Иванов К.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек ИНФ. ТЕХ. ПРОЕКТ.",
         "classroom": "БЦ; ",
         "lecturer": "Павлов Я.О."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек ИНФ. ТЕХ. ПРОЕКТ.",
         "classroom": "БЦ; ",
         "lecturer": "Павлов Я.О."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "пр ОСН.МЕНЕДЖМЕНТ",
         "classroom": "425*; ",

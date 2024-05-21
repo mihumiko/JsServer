@@ -50,7 +50,8 @@ app.post('/group_number', (req, res) => {
 
 	let data = fs.readFileSync(path, 'utf8');
 
-	res.json({ id: number, lessons: JSON.parse(data) });
+	//res.json(JSON.parse(data));
+	res.send({ id: number, lessons: JSON.parse(data) });
 });
 
 //edit

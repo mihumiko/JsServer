@@ -1,207 +1,207 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ОЦ.СОСТ.И ПАР.ЛА",
         "classroom": "КАБ.2; ",
         "lecturer": "Алексеева К.С."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ОЦ.СОСТ.И ПАР.ЛА",
         "classroom": "КАБ.2; ",
         "lecturer": "Алексеева К.С."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ОЦ.СОСТ.И ПАР.ЛА",
         "classroom": "КАБ.2; ",
         "lecturer": "Алексеева К.С."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек АДАПТИВНЫЕ САУ",
         "classroom": null,
         "lecturer": "Алексеева К.С."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр АДАПТИВНЫЕ САУ",
         "classroom": null,
         "lecturer": "Алексеева К.С."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ДИН.ДВИЖ. В КОСМ.",
         "classroom": "КАБ.10; ",
         "lecturer": "Сизова А.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ДИН.ДВИЖ. В КОСМ.",
         "classroom": "КАБ.10; ",
         "lecturer": "Сизова А.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ВЫСШ. МАТ. В НИ",
         "classroom": "450; ",
         "lecturer": "Солдаткин А.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек ВЫСШ. МАТ. В НИ",
         "classroom": "450; ",
         "lecturer": "Солдаткин А.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек МЕТ. НАУЧ. ИССЛЕД",
         "classroom": "429*; ",
         "lecturer": "Дрозд А.Л."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр ДИН.ДВИЖ. В КОСМ.",
         "classroom": "КАБ.2; ",
         "lecturer": "Сизова А.А."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "304*; ",
         "lecturer": "Швед Д.А."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "304*; ",
         "lecturer": "Швед Д.А."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "20:05 Четная",
         "discipline": "пр ВЫСШ. МАТ. В НИ",
         "classroom": "498; ",
         "lecturer": "Тарасова Н.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ТЕЧ.ГАЗА С ЧАСТИЦ.",
         "classroom": "439; ",
         "lecturer": "Овчинникова О.К."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек ТЕЧ.ГАЗА С ЧАСТИЦ.",
         "classroom": "439; ",
         "lecturer": "Овчинникова О.К."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр ТЕЧ.ГАЗА С ЧАСТИЦ.",
         "classroom": "439; ",
         "lecturer": "Овчинникова О.К."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр ТЕЧ.ГАЗА С ЧАСТИЦ.",
         "classroom": "439; ",
         "lecturer": "Овчинникова О.К."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "лек УПР.ПРОЕКТАМИ",
         "classroom": "331*; ",
         "lecturer": "Алёшкин Н.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр МЕТ. НАУЧ. ИССЛЕД",
         "classroom": "422*; ",
         "lecturer": "Дрозд А.Л."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "20:05 Нечетная",
         "discipline": "пр УПР.ПРОЕКТАМИ",
         "classroom": "331*; ",
         "lecturer": "Алёшкин Н.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лек МОДЕЛ.С ПРИМ.CAD",
         "classroom": "438; ",
         "lecturer": "Яковчук М.С."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр МОДЕЛ.С ПРИМ.CAD",
         "classroom": "439; ",
         "lecturer": "Яковчук М.С."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр МОДЕЛ.С ПРИМ.CAD",
         "classroom": "439; ",
         "lecturer": "Яковчук М.С."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "20:05 Нечетная",
         "discipline": "пр ВИЗУАЛИЗАЦИЯ ПО",
         "classroom": "КАБ.2; ",
         "lecturer": "Рютин Б.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "20:05 Четная",
         "discipline": "пр ВИЗУАЛИЗАЦИЯ ПО",
         "classroom": "КАБ.2; ",

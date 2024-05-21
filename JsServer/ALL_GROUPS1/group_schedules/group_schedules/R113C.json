@@ -1,223 +1,223 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр СОЦИАЛЬНАЯ ПСИХОЛ",
         "classroom": "425*; ",
         "lecturer": "Берзина О.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр МЕТОД.И ОРГ. ПЕРС.",
         "classroom": "425*; ",
         "lecturer": "Войко У.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр МЕТОД.И ОРГ. ПЕРС.",
         "classroom": "425*; ",
         "lecturer": "Войко У.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ПСИХОЛ. ОБЩЕНИЯ",
         "classroom": "420*; ",
         "lecturer": "Войко У.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ПСИХОЛ. ОБЩЕНИЯ",
         "classroom": "413*; ",
         "lecturer": "Войко У.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр БЖД",
         "classroom": "384а; ",
         "lecturer": "Храпко Н.Н."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "лаб БЖД",
         "classroom": "384б; ",
         "lecturer": "Гордеев А.Н."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ПСИХОЛ. ОБЩЕНИЯ",
         "classroom": "405*; ",
         "lecturer": "Карпенко Д.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек СОЦИАЛЬНАЯ ПСИХОЛ",
         "classroom": "425*; ",
         "lecturer": "Болотова О.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек СОЦИАЛЬНАЯ ПСИХОЛ",
         "classroom": "430*; ",
         "lecturer": "Болотова О.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек ДОКУМ-Е УПР.ДЕЯТ",
         "classroom": "405*; ",
         "lecturer": "Баленко А.С."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек ДОКУМ-Е УПР.ДЕЯТ",
         "classroom": "405*; ",
         "lecturer": "Баленко А.С."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр ДОКУМ-Е УПР.ДЕЯТ",
         "classroom": "530*; ",
         "lecturer": "Баленко А.С."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ПСИХОЛОГИЯ СТРЕССА",
         "classroom": "434*; ",
         "lecturer": "Селиверстова Н.А."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ПСИХОЛОГИЯ СТРЕССА",
         "classroom": "432*; ",
         "lecturer": "Селиверстова Н.А."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек КОГНИТИВНАЯ ПСИХОЛОГ",
         "classroom": "325*; ",
         "lecturer": "Селиверстова Н.А."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек КОГНИТИВНАЯ ПСИХОЛОГ",
         "classroom": "325*; ",
         "lecturer": "Селиверстова Н.А."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек ПСИХОЛОГИЯ СТРЕССА",
         "classroom": "434*; ",
         "lecturer": "Селиверстова Н.А."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек ПСИХОЛОГИЯ СТРЕССА",
         "classroom": "434*; ",
         "lecturer": "Селиверстова Н.А."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "пр МОТИВ. СОЦ.ПОВЕДЕНИЯ",
         "classroom": "432*; ",
         "lecturer": "Войко У.А."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр МОТИВ. СОЦ.ПОВЕДЕНИЯ",
         "classroom": "432*; ",
         "lecturer": "Войко У.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр КОГНИТИВНАЯ ПСИХОЛОГ",
         "classroom": "425*; ",
         "lecturer": "Селиверстова Н.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек БЖД",
         "classroom": "318; ",
         "lecturer": "Буторина М.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек БЖД",
         "classroom": "318; ",
         "lecturer": "Буторина М.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек МОТИВ. СОЦ.ПОВЕДЕНИЯ",
         "classroom": "425*; ",
         "lecturer": "Карпенко Д.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек МОТИВ. СОЦ.ПОВЕДЕНИЯ",
         "classroom": "403*; ",
         "lecturer": "Карпенко Д.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр СОЦИАЛЬНАЯ ПСИХОЛ",
         "classroom": "420*; ",
         "lecturer": "Берзина О.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек МЕТОД.И ОРГ. ПЕРС.",
         "classroom": "404*; ",

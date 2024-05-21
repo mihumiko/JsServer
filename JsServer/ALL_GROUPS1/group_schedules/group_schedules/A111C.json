@@ -1,271 +1,271 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лаб УСТР. И ФУНКЦ.ЛА",
         "classroom": "СК21; ",
         "lecturer": "Федоров  А.М."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лаб УСТР. И ФУНКЦ.ЛА",
         "classroom": "СК21; ",
         "lecturer": "Федоров  А.М."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек МЕХ.ДЕФ.ТВ.ТЕЛА",
         "classroom": "318; ",
         "lecturer": "Харитонов А.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек МЕХ.ДЕФ.ТВ.ТЕЛА",
         "classroom": "313; ",
         "lecturer": "Харитонов А.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр МЕХ.ДЕФ.ТВ.ТЕЛА",
         "classroom": "ВЦ 281; ",
         "lecturer": "Харитонов А.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр МЕХ.ДЕФ.ТВ.ТЕЛА",
         "classroom": "ВЦ 281; ",
         "lecturer": "Харитонов А.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лаб ОБР. ДАВЛЕНИЕМ",
         "classroom": "319; ",
         "lecturer": "Расулов З.Н."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ОБР. ДАВЛЕНИЕМ",
         "classroom": "310; ",
         "lecturer": "Расулов З.Н."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ОБРАБ. РЕЗАНИЕМ",
         "classroom": "СК3; ",
         "lecturer": "Иванов О.А."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек УСТР. И ФУНКЦ.ЛА",
         "classroom": "314; ",
         "lecturer": "Охочинский М.Н."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек УСТР. И ФУНКЦ.ЛА",
         "classroom": "314; ",
         "lecturer": "Охочинский М.Н."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек БЖД",
         "classroom": "313; ",
         "lecturer": "Куклин Д.А."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек БЖД",
         "classroom": "310; ",
         "lecturer": "Куклин Д.А."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лаб ОБРАБ. РЕЗАНИЕМ",
         "classroom": "202*; ",
         "lecturer": "Шония К.Н."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр МОД. СЛУЧ. ПРОЦ",
         "classroom": "ВЦ 281; ВЦ 283; ",
         "lecturer": "Савельев С.К."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр МОД. СЛУЧ. ПРОЦ",
         "classroom": "ВЦ 281; ВЦ 283; ",
         "lecturer": "Савельев С.К."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек МОД. СЛУЧ. ПРОЦ",
         "classroom": "313; ",
         "lecturer": "Савельев С.К."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек МОД. СЛУЧ. ПРОЦ",
         "classroom": "313; ",
         "lecturer": "Савельев С.К."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек ДВИГАТЕЛИ ЛА",
         "classroom": "374; ",
         "lecturer": "Мустейкис А.И."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек ДВИГАТЕЛИ ЛА",
         "classroom": "374; ",
         "lecturer": "Мустейкис А.И."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лек ДИНАМ.ПОЛЕТА ЛА",
         "classroom": "316; ",
         "lecturer": "Лемешонок Т.Ю."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "лек ДИНАМ.ПОЛЕТА ЛА",
         "classroom": "316; ",
         "lecturer": "Лемешонок Т.Ю."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ДИНАМ.ПОЛЕТА ЛА",
         "classroom": "ВЦ 373; ",
         "lecturer": "Лемешонок Т.Ю."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лаб БЖД",
         "classroom": "384б; ",
         "lecturer": "Фиев К.П."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лаб ДВИГАТЕЛИ ЛА",
         "classroom": "СК2; ",
         "lecturer": "Михайлов К.Н."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр БЖД",
         "classroom": "484; ",

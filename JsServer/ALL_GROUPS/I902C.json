@@ -1,231 +1,231 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ДЕЙСТВ.СР.ПОРАЖ.",
         "classroom": "СК21а; ",
         "lecturer": "Прядкин А.С."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ДЕЙСТВ.СР.ПОРАЖ.",
         "classroom": "СК21а; ",
         "lecturer": "Прядкин А.С."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек СЕТИ ЭВМ И Т-КОМ",
         "classroom": "346; ",
         "lecturer": "Мальцев С.Н."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек СЕТИ ЭВМ И Т-КОМ",
         "classroom": "346; ",
         "lecturer": "Мальцев С.Н."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "лаб ОСН.МОД.И ИСП.ПРИБ",
         "classroom": "277; ",
         "lecturer": "Александров А.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "лаб ОСН.МОД.И ИСП.ПРИБ",
         "classroom": "277; ",
         "lecturer": "Александров А.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ОСН.МОД.И ИСП.ПРИБ",
         "classroom": "346; ",
         "lecturer": "Королев С.Н."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ОСН.МОД.И ИСП.ПРИБ",
         "classroom": "259; ",
         "lecturer": "Королев С.Н."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "лек НАДЕЖН. ИС",
         "classroom": "259; ",
         "lecturer": "Артюхова М.А."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лаб СОВР.ТЕОР.УПР",
         "classroom": "277; ",
         "lecturer": "Попов А.М."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ДЕЙСТВ.СР.ПОРАЖ.",
         "classroom": "344; ",
         "lecturer": "Прядкин А.С."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек ДЕЙСТВ.СР.ПОРАЖ.",
         "classroom": "344; ",
         "lecturer": "Прядкин А.С."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек ОСН.МОД.И ИСП.ПРИБ",
         "classroom": "492; ",
         "lecturer": "Королев С.Н."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек ОСН.МОД.И ИСП.ПРИБ",
         "classroom": "346; ",
         "lecturer": "Королев С.Н."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "лаб СЕТИ ЭВМ И Т-КОМ",
         "classroom": "274; ",
         "lecturer": "Иванов К.С."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лаб СИСТ. УПР-Я ЛА",
         "classroom": "277; ",
         "lecturer": "Фадеева Ю.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр СИСТ. УПР-Я ЛА",
         "classroom": "346; ",
         "lecturer": "Фадеева Ю.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр НАДЕЖН. ИС",
         "classroom": "274; ",
         "lecturer": "Фадеева Ю.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр НАДЕЖН. ИС",
         "classroom": "274; ",
         "lecturer": "Фадеева Ю.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек НАВИГАЦ.СИСТ.ЛА",
         "classroom": "259; ",
         "lecturer": "Хамидуллин  В.К."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек НАВИГАЦ.СИСТ.ЛА",
         "classroom": "259; ",
         "lecturer": "Хамидуллин  В.К."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "лек СИСТ. УПР-Я ЛА",
         "classroom": "346; ",
         "lecturer": "Емельянов В.Ю."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "лек СИСТ. УПР-Я ЛА",
         "classroom": "346; ",
         "lecturer": "Емельянов В.Ю."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек СОВР.ТЕОР.УПР",
         "classroom": "346; ",
         "lecturer": "Попов А.М."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек СОВР.ТЕОР.УПР",
         "classroom": "259; ",
         "lecturer": "Попов А.М."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр СОВР.ТЕОР.УПР",
         "classroom": "445; ",
         "lecturer": "Попов А.М."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр СЕТИ ЭВМ И Т-КОМ",
         "classroom": "278; ",
         "lecturer": "Костин И.Д."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр НАВИГАЦ.СИСТ.ЛА",
         "classroom": "277; ",
         "lecturer": "Хамидуллин  В.К."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр НАВИГАЦ.СИСТ.ЛА",
         "classroom": "277; ",

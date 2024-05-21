@@ -1,191 +1,191 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ОСН.ТЕПЛОТЕХНИК",
         "classroom": "438; ",
         "lecturer": "Герлиман Е.М."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ОСН.ТЕПЛОТЕХНИК",
         "classroom": "438; ",
         "lecturer": "Герлиман Е.М."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек КУЗН.-ШТ. ОБОРУД",
         "classroom": "319; ",
         "lecturer": "Лобов В.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек КУЗН.-ШТ. ОБОРУД",
         "classroom": "319; ",
         "lecturer": "Лобов В.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ТЕХН.ЛИСТ.ШТАМП",
         "classroom": "319; ",
         "lecturer": "Олехвер А.И."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек ТЕХН.ЛИСТ.ШТАМП",
         "classroom": "319; ",
         "lecturer": "Олехвер А.И."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек ОСН. АВТ. ПРОЕКТ",
         "classroom": "102; ",
         "lecturer": "Фанифатов А.О."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр ТЕОР. ПЛАСТИЧН.",
         "classroom": "319; ",
         "lecturer": "Жукова А.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лаб ТЕХН.ЛИСТ.ШТАМП",
         "classroom": "108; ",
         "lecturer": "Фоменко И.Ю."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лаб ТЕХН.ЛИСТ.ШТАМП",
         "classroom": "108; ",
         "lecturer": "Фоменко И.Ю."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ДЕТАЛИ МАШИН",
         "classroom": "452*; ",
         "lecturer": "Беляев А.Н."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лаб ДЕТАЛИ МАШИН",
         "classroom": "452*; ",
         "lecturer": "Беляев А.Н."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек НАГРЕВ И НАГ.УСТ",
         "classroom": "478; ",
         "lecturer": "Киреев О.Л."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек НАГРЕВ И НАГ.УСТ",
         "classroom": "478; ",
         "lecturer": "Киреев О.Л."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр ОСН. АВТ. ПРОЕКТ",
         "classroom": "320; ",
         "lecturer": "Фролова Е.О."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр ОСН. АВТ. ПРОЕКТ",
         "classroom": "320; ",
         "lecturer": "Фролова Е.О."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ДЕТАЛИ МАШИН",
         "classroom": "460*; ",
         "lecturer": "Кротов Ю.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ДЕТАЛИ МАШИН",
         "classroom": "460*; ",
         "lecturer": "Кротов Ю.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лаб ОСН.ТЕПЛОТЕХНИК",
         "classroom": "ТТЛ; ",
         "lecturer": "Герлиман Е.М."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лаб ОСН.ТЕПЛОТЕХНИК",
         "classroom": "ТТЛ; ",
         "lecturer": "Герлиман Е.М."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек ТЕОР. ПЛАСТИЧН.",
         "classroom": "319; ",
         "lecturer": "Филин Д.С."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек ТЕОР. ПЛАСТИЧН.",
         "classroom": "319; ",
         "lecturer": "Филин Д.С."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "пр ИНЖЕНЕР.РАСЧЕТ.",
         "classroom": "320; ",
         "lecturer": "Соболев И.А."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр ИНЖЕНЕР.РАСЧЕТ.",
         "classroom": "320; ",

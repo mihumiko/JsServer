@@ -1,31 +1,31 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ОСН. МАРКЕТИНГА",
         "classroom": "403*; ",
         "lecturer": "Дьяконова Л.И."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр УНИРС",
         "classroom": "346; ",
         "lecturer": "Емельянов В.Ю."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр УНИРС",
         "classroom": "277; ",
         "lecturer": "Емельянов В.Ю."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек ОСН. МАРКЕТИНГА",
         "classroom": "402*; ",
