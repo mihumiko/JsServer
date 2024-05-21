@@ -1,14 +1,14 @@
 {
-  "name": "js-server",
-  "version": "0.0.0",
-  "description": "JsServer",
-  "main": "server.js",
-  "author": {
-    "name": ""
-  },
-  "devDependencies": {
-    "eslint": "^8.21.0"
-  },
-  "eslintConfig": {
-  }
+	"name": "js-server",
+	"version": "0.0.0",
+	"description": "JsServer",
+	"main": "server.js",
+	"author": {
+		"name": ""
+	},
+	"eslintConfig": {},
+	"dependencies": {
+		"express": "^4.19.2",
+		"jsonwebtoken": "^9.0.2"
+	}
 }
