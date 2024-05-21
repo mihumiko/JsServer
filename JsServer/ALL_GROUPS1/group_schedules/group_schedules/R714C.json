@@ -1,239 +1,239 @@
 [
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр РАЗГОВОР.ПРАКТ",
         "classroom": "309*; ",
         "lecturer": "Дунаевская М.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр РАЗГОВОР.ПРАКТ",
         "classroom": "309*; ",
         "lecturer": "Дунаевская М.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек БЖД",
         "classroom": "310; ",
         "lecturer": "Буторина М.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек БЖД",
         "classroom": "310; ",
         "lecturer": "Буторина М.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ФИЛ.АН. ТЕКСТА",
         "classroom": "314*; ",
         "lecturer": "Петрова И.О."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр МЕЖКУЛЬТ.КОММУН.",
         "classroom": "318*; ",
         "lecturer": "Царегородцев Р.А."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр К. Р. О. 1 И.Я.",
         "classroom": "316*; ",
         "lecturer": "Твердохлебов С.Г."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр К. Р. О. 1 И.Я.",
         "classroom": "314*; ",
         "lecturer": "Твердохлебов С.Г."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр П.К. 2 И.Я.",
         "classroom": "317*; ",
         "lecturer": "Гончарова В.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр П.К. 2 И.Я.",
         "classroom": "316*; ",
         "lecturer": "Гончарова В.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр РАЗГОВОР.ПРАКТ",
         "classroom": "313*; ",
         "lecturer": "Дунаевская М.А."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр РАЗГОВОР.ПРАКТ",
         "classroom": "313*; ",
         "lecturer": "Дунаевская М.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лаб БЖД",
         "classroom": "384б; ",
         "lecturer": "Шабарова А.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр БЖД",
         "classroom": "486; ",
         "lecturer": "Шабарова А.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек МЕЖКУЛЬТ.КОММУН.",
         "classroom": "401*; ",
         "lecturer": "Царегородцев Р.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек МЕЖКУЛЬТ.КОММУН.",
         "classroom": "437*; ",
         "lecturer": "Царегородцев Р.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр П.К. 2 И.Я.",
         "classroom": "314*; ",
         "lecturer": "Гончарова В.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр П.К. 2 И.Я.",
         "classroom": "316*; ",
         "lecturer": "Гончарова В.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр П.К. 2 И.Я.",
         "classroom": "313*; ",
         "lecturer": "Гончарова В.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр П.К. 2 И.Я.",
         "classroom": "312*; ",
         "lecturer": "Гончарова В.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр К. Р. О. 1 И.Я.",
         "classroom": "316*; ",
         "lecturer": "Твердохлебов С.Г."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр К. Р. О. 1 И.Я.",
         "classroom": "314*; ",
         "lecturer": "Твердохлебов С.Г."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ФИЛ.АН. ТЕКСТА",
         "classroom": "310*; ",
         "lecturer": "Петрова И.О."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ФИЛ.АН. ТЕКСТА",
         "classroom": "436*; ",
         "lecturer": "Петрова И.О."
     },
     {
-        "day": "Суббота",
-        "week_code": "1",
+        "day": 6,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ПЕР. 1-ГО ИН. ЯЗ.",
         "classroom": "308*; ",
         "lecturer": "Петрова И.О."
     },
     {
-        "day": "Суббота",
-        "week_code": "2",
+        "day": 6,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ПЕР. 1-ГО ИН. ЯЗ.",
         "classroom": "308*; ",
         "lecturer": "Петрова И.О."
     },
     {
-        "day": "Суббота",
-        "week_code": "1",
+        "day": 6,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ПЕР. 1-ГО ИН. ЯЗ.",
         "classroom": "308*; ",
         "lecturer": "Петрова И.О."
     },
     {
-        "day": "Суббота",
-        "week_code": "2",
+        "day": 6,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ПЕР. 1-ГО ИН. ЯЗ.",
         "classroom": "308*; ",
         "lecturer": "Петрова И.О."
     },
     {
-        "day": "Суббота",
-        "week_code": "1",
+        "day": 6,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ПЕР. 1-ГО ИН. ЯЗ.",
         "classroom": "308*; ",
         "lecturer": "Петрова И.О."
     },
     {
-        "day": "Суббота",
-        "week_code": "2",
+        "day": 6,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ПЕР. 1-ГО ИН. ЯЗ.",
         "classroom": "308*; ",

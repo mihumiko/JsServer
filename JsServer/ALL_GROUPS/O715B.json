@@ -1,255 +1,255 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лек БЖД",
         "classroom": "315; ",
         "lecturer": "Буторина М.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "лек БЖД",
         "classroom": "315; ",
         "lecturer": "Буторина М.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек БАЗЫ ДАННЫХ",
         "classroom": "314; ",
         "lecturer": "Верхолат А.М."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек БАЗЫ ДАННЫХ",
         "classroom": "314; ",
         "lecturer": "Верхолат А.М."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ПРЕДСТ.ЗНАН.В ИС",
         "classroom": "278; ",
         "lecturer": "Наурусова Г.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ПРЕДСТ.ЗНАН.В ИС",
         "classroom": "278; ",
         "lecturer": "Наурусова Г.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр БЖД",
         "classroom": "484; ",
         "lecturer": "Храпко Н.Н."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ОРГ.ПРАВ.ОБ.ИБ",
         "classroom": "216*; ",
         "lecturer": "Шимкун В.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр ОСН.МЕНЕДЖМЕНТ",
         "classroom": "425*; ",
         "lecturer": "Иванова Т.Д."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр ОСН.МЕНЕДЖМЕНТ",
         "classroom": "413*; ",
         "lecturer": "Иванова Т.Д."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "лек ОРГ.ПРАВ.ОБ.ИБ",
         "classroom": "401*; ",
         "lecturer": "Бескин Д.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр БАЗЫ ДАННЫХ",
         "classroom": "218*; ",
         "lecturer": "Заборовский И.С."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ОСН.ПАРАЛЛ.ВЫЧ",
         "classroom": "314; ",
         "lecturer": "Зимина Д.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ОСН.ПАРАЛЛ.ВЫЧ",
         "classroom": "314; ",
         "lecturer": "Зимина Д.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ОСН.МЕНЕДЖМЕНТ",
         "classroom": "433*; ",
         "lecturer": "Иванова Т.Д."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лаб БЖД",
         "classroom": "384б; ",
         "lecturer": "Храпко Н.Н."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ОСН.ПАРАЛЛ.ВЫЧ",
         "classroom": "258*; ",
         "lecturer": "Зимина Д.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр РАЗР.ПОЛЬЗ.ИНТ-Ф",
         "classroom": "256*; ",
         "lecturer": "Гладевич А.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ОСН.ПАРАЛЛ.ВЫЧ",
         "classroom": "219*а; ",
         "lecturer": "Зимина Д.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ОСН.ПАРАЛЛ.ВЫЧ",
         "classroom": "216*; ",
         "lecturer": "Зимина Д.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек РАЗР.ПОЛЬЗ.ИНТ-Ф",
         "classroom": "310; ",
         "lecturer": "Снижко Е.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек РАЗР.ПОЛЬЗ.ИНТ-Ф",
         "classroom": "310; ",
         "lecturer": "Снижко Е.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек ПРЕДСТ.ЗНАН.В ИС",
         "classroom": "401*; ",
         "lecturer": "Готин С.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек ПРЕДСТ.ЗНАН.В ИС",
         "classroom": "401*; ",

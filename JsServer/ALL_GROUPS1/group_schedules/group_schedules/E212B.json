@@ -1,191 +1,191 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лек РЕЖУЩИЙ ИНСТР-Т",
         "classroom": "СК3; ",
         "lecturer": "Серов С.Л."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ИНФ-СИСТ.ОБЕСП.",
         "classroom": "202*а(К.кл); ",
         "lecturer": "Александров  А.С."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ИНФ-СИСТ.ОБЕСП.",
         "classroom": "202*а(К.кл); ",
         "lecturer": "Александров  А.С."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ДМ И ОСН. КОНСТР",
         "classroom": "452*; ",
         "lecturer": "Лойко А.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лаб ДМ И ОСН. КОНСТР",
         "classroom": "452*; ",
         "lecturer": "Лойко А.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр РЕЖУЩИЙ ИНСТР-Т",
         "classroom": "203*; ",
         "lecturer": "Шония К.Н."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лаб РЕЖУЩИЙ ИНСТР-Т",
         "classroom": "202*; ",
         "lecturer": "Серов С.Л."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лаб РЕЖУЩИЙ ИНСТР-Т",
         "classroom": "202*; ",
         "lecturer": "Серов С.Л."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ГИДРАВЛИКА",
         "classroom": "152*; ",
         "lecturer": "Мельников Р.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ГИДРАВЛИКА",
         "classroom": "152*; ",
         "lecturer": "Мельников Р.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лаб МЕТ-РЕЖ. СТАНКИ",
         "classroom": "202*; ",
         "lecturer": "Шония К.Н."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек МЕТ-РЕЖ. СТАНКИ",
         "classroom": "СК3; ",
         "lecturer": "Портнов С.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ГИДРАВЛИКА",
         "classroom": "270*(фесто); ",
         "lecturer": "Мельников Р.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ДМ И ОСН. КОНСТР",
         "classroom": "460*; ",
         "lecturer": "Ли В.А."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек ДМ И ОСН. КОНСТР",
         "classroom": "460*; ",
         "lecturer": "Ли В.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ОСН.ТЕХНОЛ.МАШ-Я",
         "classroom": "290; ",
         "lecturer": "Немцев Б.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ОСН.ТЕХНОЛ.МАШ-Я",
         "classroom": "290; ",
         "lecturer": "Немцев Б.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр Н-И РАБ.",
         "classroom": "202*а(К.кл); ",
         "lecturer": "Меньшов А.Л."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр Н-И РАБ.",
         "classroom": "202*а(К.кл); ",
         "lecturer": "Меньшов А.Л."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек ОСН.ТЕХНОЛ.МАШ-Я",
         "classroom": "СК3; ",
         "lecturer": "Немцев Б.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ИНФ-СИСТ.ОБЕСП.",
         "classroom": "445; ",
         "lecturer": "Александров  А.С."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек СИСТ.ПРОЕКТ.",
         "classroom": "СК3; ",
         "lecturer": "Иванов О.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр СИСТ.ПРОЕКТ.",
         "classroom": "202*а(К.кл); ",
         "lecturer": "Александров  А.С."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр СИСТ.ПРОЕКТ.",
         "classroom": "202*а(К.кл); ",

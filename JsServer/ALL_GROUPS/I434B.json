@@ -1,255 +1,255 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек МАТЕРИАЛОВ-Е И ТКМ",
         "classroom": "474; ",
         "lecturer": "Воробьева Г.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек МАТЕРИАЛОВ-Е И ТКМ",
         "classroom": "474; ",
         "lecturer": "Воробьева Г.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "310; ",
         "lecturer": "Вальштейн К.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "310; ",
         "lecturer": "Вальштейн К.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр ИНЖ.И КОМП. ГРАФ",
         "classroom": "503*; ",
         "lecturer": "Ивкин С.П."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр ИНЖ.И КОМП. ГРАФ",
         "classroom": "503*; ",
         "lecturer": "Ивкин С.П."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ИСТОРИЯ",
         "classroom": "434*; ",
         "lecturer": "Савинов М.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ИСТОРИЯ",
         "classroom": "436*; ",
         "lecturer": "Савинов М.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ОСН РОС ГОС",
         "classroom": "436*; ",
         "lecturer": "Клюев А.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лаб МАТЕРИАЛОВ-Е И ТКМ",
         "classroom": "473; ",
         "lecturer": "Ленина В.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лаб ЭКОЛОГИЯ",
         "classroom": "384а; ",
         "lecturer": "Васильева В.К."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр КОНС.ТЕХН ПРАКТ.",
         "classroom": "532*; ",
         "lecturer": "Вечкилев В.А."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ФИЗИКА",
         "classroom": "328*; ",
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лаб ФИЗИКА",
         "classroom": "323*; ",
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек ЭКОЛОГИЯ",
         "classroom": "374; ",
         "lecturer": "Курченко П.С."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ВЫСШ. МАТЕМАТ",
         "classroom": "477; ",
         "lecturer": "Мартынова Т.Е."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ВЫСШ. МАТЕМАТ",
         "classroom": "492; ",
         "lecturer": "Мартынова Т.Е."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ФИЗИКА",
         "classroom": "325*; ",
         "lecturer": "Князева Т.Н."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ФИЗИКА",
         "classroom": "434*; ",
         "lecturer": "Князева Т.Н."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ВЫСШ. МАТЕМАТ",
         "classroom": "213*; ",
         "lecturer": "Васильева В.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ВЫСШ. МАТЕМАТ",
         "classroom": "213*; ",
         "lecturer": "Васильева В.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр ИСТОРИЯ",
         "classroom": "422*; ",
         "lecturer": "Савинов М.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "ВЦ 371; ",
         "lecturer": "Землянская Е.Р."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "ВЦ 371; ",
         "lecturer": "Землянская Е.Р."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ОСН РОС ГОС",
         "classroom": "448; ",
         "lecturer": "Касьянов Г.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ОСН РОС ГОС",
         "classroom": "488; ",
         "lecturer": "Касьянов Г.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "309*; ",
         "lecturer": "Булдакова Е.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "309*; ",

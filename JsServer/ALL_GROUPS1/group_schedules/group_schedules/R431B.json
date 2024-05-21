@@ -1,247 +1,247 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ОСНОВЫ PR-ТЕХНОЛОГИЙ",
         "classroom": "432*; ",
         "lecturer": "Яковлева О.А,"
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ОСНОВЫ ПРАВА",
         "classroom": "402*; ",
         "lecturer": "Черкасова Е.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ДЕЛ.КОММУНИК.",
         "classroom": "425*; ",
         "lecturer": "Сухова А.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ОСНОВЫ PR-ТЕХНОЛОГИЙ",
         "classroom": "440*; ",
         "lecturer": "Сорокина Е.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "309*; ",
         "lecturer": "Караваева А.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "309*; ",
         "lecturer": "Караваева А.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек МАКРОЭКОНОМИКА",
         "classroom": "436*; ",
         "lecturer": "Лукичев П.М."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек МАКРОЭКОНОМИКА",
         "classroom": "436*; ",
         "lecturer": "Лукичев П.М."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек МАТЕМАТИКА 2",
         "classroom": "420*; ",
         "lecturer": "Тарасов А.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек МАТЕМАТИКА 2",
         "classroom": "420*; ",
         "lecturer": "Тарасов А.А."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "ВЦ 373; ",
         "lecturer": "Потапов Е.С."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "ВЦ 373; ",
         "lecturer": "Потапов Е.С."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "313*; ",
         "lecturer": "Караваева А.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "313*; ",
         "lecturer": "Караваева А.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр МАКРОЭКОНОМИКА",
         "classroom": "432*; ",
         "lecturer": "Форостянный Н.С."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр МАТЕМАТИКА 2",
         "classroom": "487; ",
         "lecturer": "Мамаева К.С."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр МАТЕМАТИКА 2",
         "classroom": "507*а; ",
         "lecturer": "Мамаева К.С."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ИСТОРИЯ",
         "classroom": "456; ",
         "lecturer": "Алексеева С.И."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ОСНОВЫ ПРАВА",
         "classroom": "436*; ",
         "lecturer": "Черкасова Е.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "413*; ",
         "lecturer": "Насс О.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "413*; ",
         "lecturer": "Насс О.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек ОСН РОС ГОС",
         "classroom": "403*; ",
         "lecturer": "Хомелева Р.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ДЕЛ.КОММУНИК.",
         "classroom": "413*; ",
         "lecturer": "Щёголев Е.Н."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ИСТОРИЯ",
         "classroom": "402*; ",
         "lecturer": "Алексеева С.И."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек ИСТОРИЯ",
         "classroom": "402*; ",
         "lecturer": "Алексеева С.И."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр ОСН РОС ГОС",
         "classroom": "430*; ",
         "lecturer": "Касьянов Г.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр ОСН РОС ГОС",
         "classroom": "430*; ",

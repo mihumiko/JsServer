@@ -1,239 +1,239 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ЦИФ.ТЕХ.ОТР.ПРОМ.",
         "classroom": "313а; ",
         "lecturer": "Логунова Т.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек ЦИФ.ТЕХ.ОТР.ПРОМ.",
         "classroom": "313а; ",
         "lecturer": "Логунова Т.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "326* Я; ",
         "lecturer": "Лаптева А.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "326* Я; ",
         "lecturer": "Лаптева А.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ОСН.СИСТ.АН.",
         "classroom": "346; ",
         "lecturer": "Королев С.Н."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ОБЩ.ТЕОР.ИЗМЕР",
         "classroom": "456; ",
         "lecturer": "Левицкий М.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лаб ЭЛ-ТЕХ И ЭЛЕКТР",
         "classroom": "360*; ",
         "lecturer": "Лошицкий А.С."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр КОМП.ПРАКТИКУМ",
         "classroom": "267*(К.кл); ",
         "lecturer": "Надёжин М.И."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр КОМП.ПРАКТИКУМ",
         "classroom": "267*(К.кл); ",
         "lecturer": "Надёжин М.И."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ВЫСШ. МАТЕМАТ",
         "classroom": "213*; ",
         "lecturer": "Александрова Е.Б."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ВЫСШ. МАТЕМАТ",
         "classroom": "213*; ",
         "lecturer": "Александрова Е.Б."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ВЫСШ. МАТЕМАТ",
         "classroom": "213*; ",
         "lecturer": "Александрова Е.Б."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ВЫСШ. МАТЕМАТ",
         "classroom": "213*; ",
         "lecturer": "Александрова Е.Б."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ОБЩ.ТЕОР.ИЗМЕР",
         "classroom": "372; ",
         "lecturer": "Левицкий М.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лаб ФИЗ.ОСН.МИКРОЭЛ",
         "classroom": "430; ",
         "lecturer": "Смирнов А.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ЭЛ-ТЕХ И ЭЛЕКТР",
         "classroom": "331*; ",
         "lecturer": "Лошицкий А.С."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ЭЛ-ТЕХ И ЭЛЕКТР",
         "classroom": "331*; ",
         "lecturer": "Лошицкий А.С."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ФИЗ.ОСН.МИКРОЭЛ",
         "classroom": "324; ",
         "lecturer": "Стукалова А.С."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ФИЗ.ОСН.МИКРОЭЛ",
         "classroom": "324; ",
         "lecturer": "Стукалова А.С."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ЭЛ-ТЕХ И ЭЛЕКТР",
         "classroom": "497; ",
         "lecturer": "Лошицкий А.С."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ОСН.СИСТ.АН.",
         "classroom": "259; ",
         "lecturer": "Королев С.Н."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ФИЗИКА",
         "classroom": "434*; ",
         "lecturer": null
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ФИЗИКА",
         "classroom": "331*; ",
         "lecturer": "Арешкин А.Г."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек ФИЗИКА",
         "classroom": "331*; ",
         "lecturer": "Арешкин А.Г."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лаб ФИЗИКА",
         "classroom": "322*; ",
         "lecturer": null
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр ЦИФ.ТЕХ.ОТР.ПРОМ.",
         "classroom": "258*; ",

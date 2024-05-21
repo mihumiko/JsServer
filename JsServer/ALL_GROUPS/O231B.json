@@ -1,247 +1,247 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ФИЛОСОФИЯ",
         "classroom": "526*; ",
         "lecturer": "Хомелев Г.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ФИЗИКА",
         "classroom": "327*; ",
         "lecturer": "Бородина Е.Г."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек ФИЗИКА",
         "classroom": "327*; ",
         "lecturer": "Бородина Е.Г."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр ФИЛОСОФИЯ",
         "classroom": "430*; ",
         "lecturer": "Хомелев Г.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лек ЭКОЛОГИЯ",
         "classroom": "314; ",
         "lecturer": "Патрушева Т.Н."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "314; ",
         "lecturer": "Макаренко А.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "314; ",
         "lecturer": "Макаренко А.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ИСТОРИЯ",
         "classroom": "446; ",
         "lecturer": "Савинов М.А."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лек ВЫСШ. МАТЕМАТ",
         "classroom": "450; ",
         "lecturer": "Кудашов В.Н."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "лек ВЫСШ. МАТЕМАТ",
         "classroom": "443; ",
         "lecturer": "Кудашов В.Н."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ИСТОРИЯ",
         "classroom": "493; ",
         "lecturer": "Никитин А.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ИСТОРИЯ",
         "classroom": "493; ",
         "lecturer": "Никитин А.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек МАТЕРИАЛОВ-Е И ТКМ",
         "classroom": "474; ",
         "lecturer": "Преображенская М.А."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек МАТЕРИАЛОВ-Е И ТКМ",
         "classroom": "474; ",
         "lecturer": "Преображенская М.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ИНЖ.И КОМП. ГРАФ",
         "classroom": "505*; ",
         "lecturer": "Ракитская М.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ИНЖ.И КОМП. ГРАФ",
         "classroom": "505*; ",
         "lecturer": "Ракитская М.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лаб ЭКОЛОГИЯ",
         "classroom": "384а; ",
         "lecturer": "Ломовцева С.Д."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лаб МАТЕРИАЛОВ-Е И ТКМ",
         "classroom": "474а; ",
         "lecturer": "Преображенская М.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр ИСТОРИЯ",
         "classroom": "488; ",
         "lecturer": "Савинов М.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "ВЦ 280; ВЦ 282; ",
         "lecturer": "Садырова А.К."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "ВЦ 280; ВЦ 282; ",
         "lecturer": "Садырова А.К."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "326* Я; ",
         "lecturer": "Ержемская М.Г."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "326* Я; ",
         "lecturer": "Ержемская М.Г."
     },
     {
-        "day": "Суббота",
-        "week_code": "1",
+        "day": 6,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лаб ФИЗИКА",
         "classroom": "323*; ",
         "lecturer": null
     },
     {
-        "day": "Суббота",
-        "week_code": "1",
+        "day": 6,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ФИЗИКА",
         "classroom": "338г*; ",
         "lecturer": null
     },
     {
-        "day": "Суббота",
-        "week_code": "1",
+        "day": 6,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ВЫСШ. МАТЕМАТ",
         "classroom": "430*; ",
         "lecturer": "Рыбенко Е.А."
     },
     {
-        "day": "Суббота",
-        "week_code": "2",
+        "day": 6,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ВЫСШ. МАТЕМАТ",
         "classroom": "430*; ",

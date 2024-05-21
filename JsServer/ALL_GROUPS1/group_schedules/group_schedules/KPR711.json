@@ -1,231 +1,231 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ЧТ.ЛИТ.НА РУС.ЯЗ.",
         "classroom": "528*; ",
         "lecturer": "Невзорова Н.Ф."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ЧТ.ЛИТ.НА РУС.ЯЗ.",
         "classroom": "528*; ",
         "lecturer": "Невзорова Н.Ф."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр П.К. 2 И.Я.",
         "classroom": "528*; ",
         "lecturer": "Орлова Д.С."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр П.К. 2 И.Я.",
         "classroom": "528*; ",
         "lecturer": "Орлова Д.С."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ПРАКТ.КУРС РУС.ЯЗ.",
         "classroom": "528*; ",
         "lecturer": "Тимофеева  С.П."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ПРАКТ.КУРС РУС.ЯЗ.",
         "classroom": "528*; ",
         "lecturer": "Тимофеева  С.П."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек РОС. ЛИТ-РА",
         "classroom": "413*; ",
         "lecturer": "Тимофеева  С.П."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек РОС. ЛИТ-РА",
         "classroom": "413*; ",
         "lecturer": "Тимофеева  С.П."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр РОС. ЛИТ-РА",
         "classroom": "528*; ",
         "lecturer": "Тимофеева  С.П."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ИСТОРИЯ",
         "classroom": "528*; ",
         "lecturer": "Алексеева С.И."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр Р.ЯЗ. В СПЕЦ.ЦЕЛЯХ",
         "classroom": "317*; ",
         "lecturer": "Аксенова Д.А."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр Р.ЯЗ. В СПЕЦ.ЦЕЛЯХ",
         "classroom": "317*; ",
         "lecturer": "Аксенова Д.А."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек Р.ЯЗ. В СПЕЦ.ЦЕЛЯХ",
         "classroom": "411*; ",
         "lecturer": "Аксенова Д.А."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр БЖД",
         "classroom": "411*; ",
         "lecturer": "Кудаев А.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек БЖД",
         "classroom": "528*; ",
         "lecturer": "Кудаев А.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек БЖД",
         "classroom": "528*; ",
         "lecturer": "Кудаев А.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "лек ИСТОРИЯ ЭКОН",
         "classroom": "405*; ",
         "lecturer": "Шматко А.Д."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр ИСТОРИЯ ЭКОН",
         "classroom": "411*; ",
         "lecturer": "Шматко А.Д."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ПЕРЕВОД АНГЛ.ЯЗ",
         "classroom": "317*; ",
         "lecturer": "Орлова Д.С."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ПЕРЕВОД АНГЛ.ЯЗ",
         "classroom": "317*; ",
         "lecturer": "Орлова Д.С."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек МЕЖКУЛЬТ КОММ-Я",
         "classroom": "528*; ",
         "lecturer": "Царегородцев Р.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек МЕЖКУЛЬТ КОММ-Я",
         "classroom": "528*; ",
         "lecturer": "Царегородцев Р.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр МЕЖКУЛЬТ КОММ-Я",
         "classroom": "528*; ",
         "lecturer": "Царегородцев Р.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр П.К. 2 И.Я.",
         "classroom": "528*; ",
         "lecturer": "Орлова Д.С."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр П.К. 2 И.Я.",
         "classroom": "528*; ",
         "lecturer": "Орлова Д.С."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ИСТОРИЯ",
         "classroom": "411*; ",
         "lecturer": "Алексеева С.И."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ИСТОРИЯ",
         "classroom": "411*; ",
         "lecturer": "Алексеева С.И."
     },
     {
-        "day": "Суббота",
-        "week_code": "1",
+        "day": 6,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ПРАКТ.КУРС РУС.ЯЗ.",
         "classroom": "528*; ",
         "lecturer": "Тимофеева  С.П."
     },
     {
-        "day": "Суббота",
-        "week_code": "2",
+        "day": 6,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ПРАКТ.КУРС РУС.ЯЗ.",
         "classroom": "528*; ",

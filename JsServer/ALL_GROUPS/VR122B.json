@@ -1,143 +1,143 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "лек СОЦИОЛОГИЯ",
         "classroom": "507*а; ",
         "lecturer": "Клюев А.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр МАРКЕТИНГ",
         "classroom": "425*; ",
         "lecturer": "Лученкова Т.С."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "20:05 Нечетная",
         "discipline": "пр СОЦИОЛОГИЯ",
         "classroom": "507*а; ",
         "lecturer": "Клюев А.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "20:05 Четная",
         "discipline": "пр ТЕОР.МЕНЕДЖ.",
         "classroom": "425*; ",
         "lecturer": "Зареева Т.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "лек МАРКЕТИНГ",
         "classroom": "325*; ",
         "lecturer": "Сталькина У.М."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "20:05 Нечетная",
         "discipline": "лек ТЕОР.МЕНЕДЖ.",
         "classroom": "425*; ",
         "lecturer": "Фомина А.П."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "лек ЭКОНОМ.ТРУДА",
         "classroom": "403*; ",
         "lecturer": "Вольф Е.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "лек ОСН.СИСТ.АНАЛИЗА",
         "classroom": "403*; ",
         "lecturer": "Таничев А.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "20:05 Нечетная",
         "discipline": "пр ЭКОНОМ.ТРУДА",
         "classroom": "432*; ",
         "lecturer": "Вольф Е.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "20:05 Четная",
         "discipline": "пр ОСН.СИСТ.АНАЛИЗА",
         "classroom": "432*; ",
         "lecturer": "Таничев А.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "пр ОСНОВЫ ПРАВА",
         "classroom": "403*; ",
         "lecturer": "Хвостов А.Б."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр ПРЕДПРИНИМ.ПРАВО",
         "classroom": "413*; ",
         "lecturer": "Хвостов А.Б."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "20:05 Нечетная",
         "discipline": "лек ОСНОВЫ ПРАВА",
         "classroom": "403*; ",
         "lecturer": "Хвостов А.Б."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "20:05 Четная",
         "discipline": "лек ПРЕДПРИНИМ.ПРАВО",
         "classroom": "413*; ",
         "lecturer": "Хвостов А.Б."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "20:05 Нечетная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "20:05 Четная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,

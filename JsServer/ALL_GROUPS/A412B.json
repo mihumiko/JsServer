@@ -1,263 +1,263 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лек БЖД",
         "classroom": "374; ",
         "lecturer": "Тюрина Н.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "лек БЖД",
         "classroom": "374; ",
         "lecturer": "Тюрина Н.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ДЕТАЛИ МАШИН",
         "classroom": "460*; ",
         "lecturer": "Ли В.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ДЕТАЛИ МАШИН",
         "classroom": "460*; ",
         "lecturer": "Ли В.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ГИДРОСИСТ.И МАШ",
         "classroom": "375; ",
         "lecturer": "Андреев О.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ГИДРОСИСТ.И МАШ",
         "classroom": "375; ",
         "lecturer": "Андреев О.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лаб ЧИСЛ.МЕТ.ПРОЕКТ",
         "classroom": "ДК; ",
         "lecturer": "Синильщиков В.Б."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лаб ГИДРОСИСТ.И МАШ",
         "classroom": "110; ",
         "lecturer": "Андреев О.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лаб БЖД",
         "classroom": "384б; ",
         "lecturer": "Фиев К.П."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лаб ДЕТАЛИ МАШИН",
         "classroom": "452*; ",
         "lecturer": "Беляев А.Н."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лаб ОСН.ПР-Я Р И РКК",
         "classroom": "СК А4; САПР; ",
         "lecturer": "Жеребин А.И."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лаб ОСН.ПР-Я Р И РКК",
         "classroom": "СК А4; САПР; ",
         "lecturer": "Жеребин А.И."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр БЖД",
         "classroom": "484; ",
         "lecturer": "Васильева В.К."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ИНЖ. ПАКЕТЫ ПП",
         "classroom": "ВЦ 285; ",
         "lecturer": "Дудин С.М."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лаб ИНЖ. ПАКЕТЫ ПП",
         "classroom": "ВЦ 285; ",
         "lecturer": "Дудин С.М."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ОСН.ПР-Я Р И РКК",
         "classroom": "САПР; ",
         "lecturer": "Иванов П.К."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ОСН.ПР-Я Р И РКК",
         "classroom": "САПР; ",
         "lecturer": "Иванов П.К."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ЧИСЛ.МЕТ.ПРОЕКТ",
         "classroom": "375; ",
         "lecturer": "Мелихов К.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ЧИСЛ.МЕТ.ПРОЕКТ",
         "classroom": "375; ",
         "lecturer": "Мелихов К.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр ПРОГ. В ML",
         "classroom": "СК А4; ",
         "lecturer": "Гагарский С.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр ПРОГ. В ML",
         "classroom": "СК А4; ",
         "lecturer": "Гагарский С.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек МЕХ.ЖИДК.И ГАЗА",
         "classroom": "КАБ.10; ",
         "lecturer": "Шалимов В.П."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек МЕХ.ЖИДК.И ГАЗА",
         "classroom": "КАБ.10; ",
         "lecturer": "Шалимов В.П."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лаб МЕХ.ЖИДК.И ГАЗА",
         "classroom": "лаб г/дин; ",
         "lecturer": "Шалимов В.П."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лаб МЕХ.ЖИДК.И ГАЗА",
         "classroom": "лаб г/дин; ",

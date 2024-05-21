@@ -1,215 +1,215 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек КОНСТ. ИЗ КОМПОЗИТ. МАТ.",
         "classroom": "СК ИСС; ",
         "lecturer": "Евстафьев В.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек КОНСТ. ИЗ КОМПОЗИТ. МАТ.",
         "classroom": "ВЦ А3; ",
         "lecturer": "Бокучава П.Н."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лаб КОНСТ. ИЗ КОМПОЗИТ. МАТ.",
         "classroom": "ВЦ А3; ",
         "lecturer": "Бокучава П.Н."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "пр ОСН.УСТР-ВА ПУ",
         "classroom": "СК А4; ",
         "lecturer": "Красильников Р.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр ОСН.УСТР-ВА ПУ",
         "classroom": "СК А4; ",
         "lecturer": "Красильников Р.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "20:05 Четная",
         "discipline": "лек ОСН.УСТР-ВА ПУ",
         "classroom": "СК А4; ",
         "lecturer": "Красильников Р.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр СИНТЕЗ РАК. СИСТ",
         "classroom": "334; ",
         "lecturer": "Федоров  А.М."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр ОЦЕН. ЭФФ. ИЗД. РКТ",
         "classroom": "СК21а; ",
         "lecturer": "Афанасьев К.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр ОЦЕН. ЭФФ. ИЗД. РКТ",
         "classroom": "СК21а; ",
         "lecturer": "Афанасьев К.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "лек ОЦЕН. ЭФФ. ИЗД. РКТ",
         "classroom": "101; ",
         "lecturer": "Афанасьев К.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "лаб ОЦЕН. ЭФФ. ИЗД. РКТ",
         "classroom": "ВЦ 280; ",
         "lecturer": "Афанасьев К.А."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр СИНТЕЗ РАК. СИСТ",
         "classroom": "334; ",
         "lecturer": "Федоров  А.М."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр СИНТЕЗ РАК. СИСТ",
         "classroom": "334; ",
         "lecturer": "Федоров  А.М."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек СИНТЕЗ РАК. СИСТ",
         "classroom": "101; ",
         "lecturer": "Федоров  А.М."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек СИНТЕЗ РАК. СИСТ",
         "classroom": "СК21а; ",
         "lecturer": "Федоров  А.М."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек МЕН.РАЗР.И ИССЛ.",
         "classroom": "СК21а; ",
         "lecturer": "Чириков С.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр МЕН.РАЗР.И ИССЛ.",
         "classroom": "СК21а; ",
         "lecturer": "Чириков С.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр УНИРС",
         "classroom": "101; ",
         "lecturer": "Бурковецкий К.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр УНИРС",
         "classroom": "101; ",

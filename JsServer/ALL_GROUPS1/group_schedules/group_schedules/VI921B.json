@@ -1,127 +1,127 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "лек ЭКОЛОГИЯ",
         "classroom": "484; ",
         "lecturer": "Васильев В.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "лек ЭКОНОМИКА",
         "classroom": "422*; ",
         "lecturer": "Григорьев М.Н."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "20:05 Нечетная",
         "discipline": "лаб ЭКОЛОГИЯ",
         "classroom": "384а; ",
         "lecturer": "Васильев В.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "20:05 Четная",
         "discipline": "пр ЭКОНОМИКА",
         "classroom": "430*; ",
         "lecturer": "Григорьев М.Н."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "лек ВЫСШ. МАТЕМАТ",
         "classroom": "213*; ",
         "lecturer": "Тарасов А.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "20:05 Нечетная",
         "discipline": "пр ВЫСШ. МАТЕМАТ",
         "classroom": "213*; ",
         "lecturer": "Тарасов А.А."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "лек ТОЭ",
         "classroom": "360*; ",
         "lecturer": "Матвеев П.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "лек ТОЭ",
         "classroom": "360*; ",
         "lecturer": "Матвеев П.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "20:05 Нечетная",
         "discipline": "лаб ТОЭ",
         "classroom": "356*; ",
         "lecturer": "Лошицкий А.С."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "20:05 Четная",
         "discipline": "пр ТОЭ",
         "classroom": "360*; ",
         "lecturer": "Матвеев П.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "274; ",
         "lecturer": "Романов С.Л."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "274; ",
         "lecturer": "Романов С.Л."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "20:05 Нечетная",
         "discipline": "пр ВЫЧ. МАТЕМАТИКА",
         "classroom": "448; ",
         "lecturer": "Марданов А.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "20:05 Четная",
         "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "346; ",
         "lecturer": "Романов С.Л."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "326* Я; ",
         "lecturer": "Родионова Е.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "326* Я; ",

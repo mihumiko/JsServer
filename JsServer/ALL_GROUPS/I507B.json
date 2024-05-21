@@ -1,215 +1,215 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лаб МОД.СИСТ.ПР.ЗНАН",
         "classroom": "257*; ",
         "lecturer": "Жарова С.С."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек МОД. АН. ПР. ПО",
         "classroom": "252*; ",
         "lecturer": "Вальштейн К.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек МОД. АН. ПР. ПО",
         "classroom": "252*; ",
         "lecturer": "Вальштейн К.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "пр ЭКОН.ПРОГР.ИНЖ.",
         "classroom": "218*; ",
         "lecturer": "Арсеньев Б.П."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр ЭКОН.ПРОГР.ИНЖ.",
         "classroom": "257*; ",
         "lecturer": "Арсеньев Б.П."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "20:05 Нечетная",
         "discipline": "пр СЕТЕВЫЕ ТЕХНОЛ",
         "classroom": "218*; ",
         "lecturer": "Скобеев Ю.С."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "20:05 Четная",
         "discipline": "пр СЕТЕВЫЕ ТЕХНОЛ",
         "classroom": "256*; ",
         "lecturer": "Скобеев Ю.С."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лаб МОД.СИСТ.ПР.ЗНАН",
         "classroom": "216*; ",
         "lecturer": "Жарова С.С."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "пр МОД. АН. ПР. ПО",
         "classroom": "216*; ",
         "lecturer": "Гладевич А.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр МОД. АН. ПР. ПО",
         "classroom": "258*; ",
         "lecturer": "Гладевич А.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "20:05 Нечетная",
         "discipline": "пр ТЕХНОЛ.ПРАКТИКА",
         "classroom": "257*; ",
         "lecturer": "Щербакова Л.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "20:05 Четная",
         "discipline": "пр ТЕХНОЛ.ПРАКТИКА",
         "classroom": "257*; ",
         "lecturer": "Щербакова Л.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ЭКОН.ПРОГР.ИНЖ.",
         "classroom": "252*; ",
         "lecturer": "Арсеньев Б.П."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек СЕТЕВЫЕ ТЕХНОЛ",
         "classroom": "252*; ",
         "lecturer": "Князьков А.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "лек РАСП, РАЗВ, СОПР ПО",
         "classroom": "526*; ",
         "lecturer": "Дементьев И.И."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр РАСП, РАЗВ, СОПР ПО",
         "classroom": "257*; ",
         "lecturer": "Мажайцев Е.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр РАСП, РАЗВ, СОПР ПО",
         "classroom": "257*; ",
         "lecturer": "Мажайцев Е.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек МОД.СИСТ.ПР.ЗНАН",
         "classroom": "252*; ",
         "lecturer": "Вальштейн К.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек МОД.СИСТ.ПР.ЗНАН",
         "classroom": "252*; ",

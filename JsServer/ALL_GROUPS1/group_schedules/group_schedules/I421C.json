@@ -1,239 +1,239 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лаб ЭЛ-ТЕХ И ЭЛЕКТР",
         "classroom": "356*; 357*; ",
         "lecturer": "Баленко Н.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лаб ФИЗИКА",
         "classroom": "322*; ",
         "lecturer": null
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "326* Я; ",
         "lecturer": "Паньшина А.И."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "326* Я; ",
         "lecturer": "Паньшина А.И."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ФИЗИКА",
         "classroom": "338г*; ",
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр КОМП.ТЕХНОЛОГИИ",
         "classroom": "430; ",
         "lecturer": "Пушнякова Е.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр КОМП.ТЕХНОЛОГИИ",
         "classroom": "430; ",
         "lecturer": "Пушнякова Е.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек РТЦ И СИГНАЛЫ",
         "classroom": "315; ",
         "lecturer": "Рогожин В.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек РТЦ И СИГНАЛЫ",
         "classroom": "315; ",
         "lecturer": "Рогожин В.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек ВЫСШ. МАТЕМАТ",
         "classroom": "493; ",
         "lecturer": "Марданов А.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек ВЫСШ. МАТЕМАТ",
         "classroom": "493; ",
         "lecturer": "Марданов А.А."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лек ТЕРМОДИНАМИКА",
         "classroom": "324; ",
         "lecturer": "Савин А.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "лек ТЕРМОДИНАМИКА",
         "classroom": "324; ",
         "lecturer": "Савин А.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ТЕРМОДИНАМИКА",
         "classroom": "219; ",
         "lecturer": "Савин А.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ОСН.СИСТ.АНАЛИЗА",
         "classroom": "374; ",
         "lecturer": "Евсеев В.И."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр РТЦ И СИГНАЛЫ",
         "classroom": "430; ",
         "lecturer": "Ярыгин Д.М."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лаб ЭЛ. МИКРОЭЛ. ПРИБ",
         "classroom": "423а; ",
         "lecturer": "Колачев И.О."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ОСН.СИСТ.АНАЛИЗА",
         "classroom": "434; ",
         "lecturer": "Евсеев В.И."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ЭЛ. МИКРОЭЛ. ПРИБ",
         "classroom": "315; ",
         "lecturer": "Флёров А.Н."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ЭЛ. МИКРОЭЛ. ПРИБ",
         "classroom": "315; ",
         "lecturer": "Флёров А.Н."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ЭЛ-ТЕХ И ЭЛЕКТР",
         "classroom": "401*; ",
         "lecturer": "Баленко Н.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек ЭЛ-ТЕХ И ЭЛЕКТР",
         "classroom": "401*; ",
         "lecturer": "Баленко Н.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ВЫСШ. МАТЕМАТ",
         "classroom": "455; ",
         "lecturer": "Пономарев  С.Ю."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ВЫСШ. МАТЕМАТ",
         "classroom": "497; ",
         "lecturer": "Пономарев  С.Ю."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ФИЗИКА",
         "classroom": "331*; ",
         "lecturer": "Котова Л.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ФИЗИКА",
         "classroom": "331*; ",

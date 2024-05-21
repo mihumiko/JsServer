@@ -1,279 +1,279 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр АРТИЛЛ. ТЕХНИКА",
         "classroom": "СК1; ",
         "lecturer": "Мелехин А.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр Т.ОСН.РАДИОТЕХН",
         "classroom": "Лаб. 323; ",
         "lecturer": "Крылов  В.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек АРТИЛЛ. ТЕХНИКА",
         "classroom": "СК1; ",
         "lecturer": "Егоров  В.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек РАКЕТН. ТЕХНИКА",
         "classroom": "101; ",
         "lecturer": "Авферонок С.Э."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лаб РАКЕТН. ТЕХНИКА",
         "classroom": "СК21; ",
         "lecturer": "Авферонок С.Э."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр Т-ОСН. ВЗРЫВАТ",
         "classroom": "251; ",
         "lecturer": "Романов И.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр Т-ОСН. ВЗРЫВАТ",
         "classroom": "251; ",
         "lecturer": "Романов И.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек Т.ОСН.РАДИОТЕХН",
         "classroom": "Лаб. 323; ",
         "lecturer": "Крылов  В.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек Т.ОСН.РАДИОТЕХН",
         "classroom": "Лаб. 323; ",
         "lecturer": "Крылов  В.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "лаб Т.ОСН.РАДИОТЕХН",
         "classroom": "Лаб. 323; ",
         "lecturer": "Крылов  В.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "лаб Т.ОСН.РАДИОТЕХН",
         "classroom": "Лаб. 323; ",
         "lecturer": "Крылов  В.А."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ОСН.УПР.СРЕДСТВ",
         "classroom": "251; ",
         "lecturer": "Романов И.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ОСН.УПР.СРЕДСТВ",
         "classroom": "251; ",
         "lecturer": "Романов И.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лаб ФИЗ.ОСН.БЛ.ЛОК",
         "classroom": "251; ",
         "lecturer": "Перов Л.Д."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лаб ФИЗ.ОСН.БЛ.ЛОК",
         "classroom": "251; ",
         "lecturer": "Перов Л.Д."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лаб АНАЛ.КОНСТР.ВЗР.",
         "classroom": "СК-14; ",
         "lecturer": "Маслов Д.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лаб АНАЛ.КОНСТР.ВЗР.",
         "classroom": "СК-14; ",
         "lecturer": "Маслов Д.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек АНАЛ.КОНСТР.ВЗР.",
         "classroom": "СК-14; ",
         "lecturer": "Маслов Д.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек АНАЛ.КОНСТР.ВЗР.",
         "classroom": "СК-14; ",
         "lecturer": "Маслов Д.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ТЕОР.ВЗРЫВА",
         "classroom": "440; ",
         "lecturer": "Тоскин А.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ТЕОР.ВЗРЫВА",
         "classroom": "440; ",
         "lecturer": "Тоскин А.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ТЕОР.ВЗРЫВА",
         "classroom": "440; ",
         "lecturer": "Тоскин А.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ТЕОР.ВЗРЫВА",
         "classroom": "440; ",
         "lecturer": "Тоскин А.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек Т-ОСН. ВЗРЫВАТ",
         "classroom": "115; ",
         "lecturer": "Смирнов А.П."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек Т-ОСН. ВЗРЫВАТ",
         "classroom": "115; ",
         "lecturer": "Смирнов А.П."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лаб АНАЛ.КОНСТР.ВЗР.",
         "classroom": "СК-14; ",
         "lecturer": "Маслов Д.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лаб АНАЛ.КОНСТР.ВЗР.",
         "classroom": "СК-14; ",
         "lecturer": "Маслов Д.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ФИЗ.ОСН.БЛ.ЛОК",
         "classroom": "251; ",
         "lecturer": "Митюшов А.И."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ФИЗ.ОСН.БЛ.ЛОК",
         "classroom": "251; ",
         "lecturer": "Митюшов А.И."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ФИЗ.ОСН.БЛ.ЛОК",
         "classroom": "115; ",
         "lecturer": "Митюшов А.И."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ФИЗ.ОСН.БЛ.ЛОК",
         "classroom": "115; ",
         "lecturer": "Митюшов А.И."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ОСН.УПР.СРЕДСТВ",
         "classroom": "251; ",
         "lecturer": "Романов И.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ОСН.УПР.СРЕДСТВ",
         "classroom": "251; ",
         "lecturer": "Романов И.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лаб ОСН.УПР.СРЕДСТВ",
         "classroom": "251; ",
         "lecturer": "Романов И.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лаб ОСН.УПР.СРЕДСТВ",
         "classroom": "251; ",

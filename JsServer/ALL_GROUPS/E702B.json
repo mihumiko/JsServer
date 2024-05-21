@@ -1,167 +1,167 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр РАСЧЕТ СТАНКОВ",
         "classroom": "456*; ",
         "lecturer": "Герасимов И.М."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр РАСЧЕТ СТАНКОВ",
         "classroom": "456*; ",
         "lecturer": "Герасимов И.М."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "пр НАДЕЖНОСТЬ СИСТЕМ",
         "classroom": "456*; ",
         "lecturer": "Герасимов И.М."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр НАДЕЖНОСТЬ СИСТЕМ",
         "classroom": "456*; ",
         "lecturer": "Герасимов И.М."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр ОСН.ИНЖ.РЕШЕНИЙ",
         "classroom": "ВЦ КЕ1; ",
         "lecturer": "Новиков И.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр ОСН.ИНЖ.РЕШЕНИЙ",
         "classroom": "ВЦ КЕ1; ",
         "lecturer": "Новиков И.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "пр ПРАКТ.ВЫЧ.МЕХ.",
         "classroom": "ВЦ 282; ",
         "lecturer": "Шевчук Р.Э."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр ПРАКТ.ВЫЧ.МЕХ.",
         "classroom": "ВЦ 283; ",
         "lecturer": "Шевчук Р.Э."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "20:05 Четная",
         "discipline": "пр ПРАКТ.ВЫЧ.МЕХ.",
         "classroom": "ВЦ 281; ",
         "lecturer": "Шевчук Р.Э."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ОСН.ИНЖ.РЕШЕНИЙ",
         "classroom": "СК1; ",
         "lecturer": "Новиков И.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лаб ОСН.ИНЖ.РЕШЕНИЙ",
         "classroom": "Мкаб.Е1; ",
         "lecturer": "Новиков И.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр ПРОГР.СТАНК.С ЧПУ",
         "classroom": "202*а(К.кл); ",
         "lecturer": "Александров  А.С."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек ПРОГР.СТАНК.С ЧПУ",
         "classroom": "202*а(К.кл); ",

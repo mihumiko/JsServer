@@ -1,247 +1,247 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек Д.МАТ.И МАТ.ЛОГ",
         "classroom": "451; ",
         "lecturer": "Тарасова Н.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек Д.МАТ.И МАТ.ЛОГ",
         "classroom": "451; ",
         "lecturer": "Тарасова Н.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "315; ",
         "lecturer": "Вальштейн К.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "315; ",
         "lecturer": "Вальштейн К.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр ФИЛОСОФИЯ",
         "classroom": "446; ",
         "lecturer": "Лысенко Е.М."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "312*; ",
         "lecturer": "Абсалямова И.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "312*; ",
         "lecturer": "Абсалямова И.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр Д.МАТ.И МАТ.ЛОГ",
         "classroom": "497; ",
         "lecturer": "Мартынова Т.Е."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр Д.МАТ.И МАТ.ЛОГ",
         "classroom": "497; ",
         "lecturer": "Мартынова Т.Е."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "лек ФИЛОСОФИЯ",
         "classroom": "401*; ",
         "lecturer": "Лысенко Е.М."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ИСТОРИЯ",
         "classroom": "429*; ",
         "lecturer": "Курочкин С.С."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ИСТОРИЯ",
         "classroom": "429*; ",
         "lecturer": "Курочкин С.С."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "256*; ",
         "lecturer": "Землянская Е.Р."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "256*; ",
         "lecturer": "Землянская Е.Р."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ИСТОРИЯ",
         "classroom": "456; ",
         "lecturer": "Курочкин С.С."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ИСТОРИЯ",
         "classroom": "456; ",
         "lecturer": "Курочкин С.С."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ВЫСШ. МАТЕМАТ",
         "classroom": "456; ",
         "lecturer": "Еськова Е.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ВЫСШ. МАТЕМАТ",
         "classroom": "456; ",
         "lecturer": "Еськова Е.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ВЫСШ. МАТЕМАТ",
         "classroom": "451; ",
         "lecturer": "Пономарев  С.Ю."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ВЫСШ. МАТЕМАТ",
         "classroom": "451; ",
         "lecturer": "Пономарев  С.Ю."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек СТРУК.И ОРГ.ДАНН",
         "classroom": "314; ",
         "lecturer": "Палехова О.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек СТРУК.И ОРГ.ДАНН",
         "classroom": "314; ",
         "lecturer": "Палехова О.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ФИЗИКА",
         "classroom": "338г*; ",
         "lecturer": null
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек ФИЗИКА",
         "classroom": "331*; ",
         "lecturer": "Мозговая В.Г."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек ФИЗИКА",
         "classroom": "331*; ",
         "lecturer": "Мозговая В.Г."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "пр СТРУК.И ОРГ.ДАНН",
         "classroom": "258*; ",
         "lecturer": "Мажайцев Е.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "лаб ФИЗИКА",
         "classroom": "323*; ",

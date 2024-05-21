@@ -1,239 +1,239 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "лек СОЦИОЛОГИЯ",
         "classroom": "433*; ",
         "lecturer": "Клюев А.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ГОС.РЕГ.ЭКОН.",
         "classroom": "413*; ",
         "lecturer": "Молдован А.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ДОКУМ-Е УПР.ДЕЯТ",
         "classroom": "413*; ",
         "lecturer": "Баленко А.С."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ИНСТИТ.ЭКОНОМ.",
         "classroom": "402*; ",
         "lecturer": "Трунин В.И."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ГОС.РЕГ.ЭКОН.",
         "classroom": "432*; ",
         "lecturer": "Молдован А.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ОСН.СИСТ.АНАЛИЗА",
         "classroom": "413*; ",
         "lecturer": "Таничев А.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр ОСН.СИСТ.АНАЛИЗА",
         "classroom": "432*; ",
         "lecturer": "Таничев А.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр СОЦИОЛОГИЯ",
         "classroom": "455; ",
         "lecturer": "Клюев А.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ОРГ.ПРЕДПР. ДЕЯТ",
         "classroom": "403*; ",
         "lecturer": "Муравьев А.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ОРГ.ПРЕДПР. ДЕЯТ",
         "classroom": "432*; ",
         "lecturer": "Муравьев А.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ОСНОВЫ ЦИФР.ЭК",
         "classroom": "425*; ",
         "lecturer": "Ревис В.Е."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ТЕОР.МЕНЕДЖ.",
         "classroom": "425*; ",
         "lecturer": "Марневская И.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ЭКОНОМ.ТРУДА",
         "classroom": "436*; ",
         "lecturer": "Вольф Е.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ИНСТИТ.ЭКОНОМ.",
         "classroom": "404*; ",
         "lecturer": "Форостянный Н.С."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек ЭКОНОМ.ТРУДА",
         "classroom": "401*; ",
         "lecturer": "Вольф Е.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек ЭКОНОМ.ТРУДА",
         "classroom": "401*; ",
         "lecturer": "Вольф Е.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр МАРКЕТИНГ",
         "classroom": "432*; ",
         "lecturer": "Сталькина У.М."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр МАРКЕТИНГ",
         "classroom": "432*; ",
         "lecturer": "Сталькина У.М."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ОСНОВЫ ЦИФР.ЭК",
         "classroom": "432*; ",
         "lecturer": "Ревис В.Е."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек МАРКЕТИНГ",
         "classroom": "404*; ",
         "lecturer": "Сталькина У.М."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ДОКУМ-Е УПР.ДЕЯТ",
         "classroom": "436*; ",
         "lecturer": "Баленко А.С."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ДОКУМ-Е УПР.ДЕЯТ",
         "classroom": "404*; ",
         "lecturer": "Баленко А.С."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ТЕОР.МЕНЕДЖ.",
         "classroom": "436*; ",
         "lecturer": "Марусов Д.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ТЕОР.МЕНЕДЖ.",
         "classroom": "403*; ",
         "lecturer": "Марусов Д.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ОРГ.ПРЕДПР. ДЕЯТ",
         "classroom": "403*; ",
         "lecturer": "Муравьев А.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ОРГ.ПРЕДПР. ДЕЯТ",
         "classroom": "432*; ",

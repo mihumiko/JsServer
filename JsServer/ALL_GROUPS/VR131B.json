@@ -1,111 +1,111 @@
 [
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "ВЦ 281; ",
         "lecturer": "Удовиченко А.С."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "ВЦ 281; ",
         "lecturer": "Удовиченко А.С."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "20:05 Нечетная",
         "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "252*; ",
         "lecturer": "Удовиченко А.С."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "20:05 Четная",
         "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "252*; ",
         "lecturer": "Удовиченко А.С."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "лек МАТЕМАТИКА 2",
         "classroom": "434*; ",
         "lecturer": "Леонтьев В.А."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "лек КОРП.СОЦ.ОТВ.",
         "classroom": "425*; ",
         "lecturer": "Иванов К.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "20:05 Нечетная",
         "discipline": "пр МАТЕМАТИКА 2",
         "classroom": "219*; ",
         "lecturer": "Леонтьев В.А."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "20:05 Четная",
         "discipline": "пр КОРП.СОЦ.ОТВ.",
         "classroom": "425*; ",
         "lecturer": "Иванов К.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "пр МИКРОЭКОНОМИКА",
         "classroom": "413*; ",
         "lecturer": "Есипов А.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр ИСТОРИЯ",
         "classroom": "507*а; ",
         "lecturer": "Савинов М.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "20:05 Нечетная",
         "discipline": "лек МИКРОЭКОНОМИКА",
         "classroom": "413*; ",
         "lecturer": "Есипов А.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "20:05 Четная",
         "discipline": "лек ИСТОРИЯ",
         "classroom": "434*; ",
         "lecturer": "Попова В.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "304*; ",
         "lecturer": "Мартяхина Е.П."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "304*; ",

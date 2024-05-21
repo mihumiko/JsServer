@@ -1,143 +1,143 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ИСТ.И МЕТ.НАУКИ",
         "classroom": "413*; ",
         "lecturer": "Канатаев Д.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ИСТ.И МЕТ.НАУКИ",
         "classroom": "413*; ",
         "lecturer": "Канатаев Д.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр УПР.ПРОЕКТАМИ",
         "classroom": "405*; ",
         "lecturer": "Стешин А.И."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр УПР.ПРОЕКТАМИ",
         "classroom": "405*; ",
         "lecturer": "Стешин А.И."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр СТР.ПЛАН.МАРК.ДЕЯТ.",
         "classroom": "404*; ",
         "lecturer": "Шамина Л.К."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр СТР.ПЛАН.МАРК.ДЕЯТ.",
         "classroom": "411*; ",
         "lecturer": "Шамина Л.К."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр УПРАВ. РЕШЕНИЯ",
         "classroom": "405*; ",
         "lecturer": "Стешин А.И."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр УПРАВ. РЕШЕНИЯ",
         "classroom": "405*; ",
         "lecturer": "Стешин А.И."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек РЕГИОН.ЭКОНОМ.",
         "classroom": "413*; ",
         "lecturer": "Дьяконова Л.И."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек УПР.ПРОЕКТАМИ",
         "classroom": "405*; ",
         "lecturer": "Стешин А.И."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр РЕГИОН.ЭКОНОМ.",
         "classroom": "413*; ",
         "lecturer": "Дьяконова Л.И."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр РЕГИОН.ЭКОНОМ.",
         "classroom": "413*; ",
         "lecturer": "Дьяконова Л.И."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр ИН. ЯЗ",
         "classroom": "528*; ",
         "lecturer": "Невзорова Г.Д."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр ИН. ЯЗ",
         "classroom": "528*; ",
         "lecturer": "Невзорова Г.Д."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек МЕТ. ИССЛЕД. В МЕН.",
         "classroom": "411*; ",
         "lecturer": "Шамина Л.К."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр МЕТ. ИССЛЕД. В МЕН.",
         "classroom": "411*; ",
         "lecturer": "Шамина Л.К."
     },
     {
-        "day": "Суббота",
-        "week_code": "2",
+        "day": 6,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "лек ИННОВ. ОБР. ТЕХ.",
         "classroom": "405*; ",
         "lecturer": "Шматко А.Д."
     },
     {
-        "day": "Суббота",
-        "week_code": "2",
+        "day": 6,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ИННОВ. ОБР. ТЕХ.",
         "classroom": "405*; ",

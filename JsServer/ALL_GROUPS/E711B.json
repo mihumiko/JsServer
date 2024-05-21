@@ -1,255 +1,255 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр СТРОИТ.МЕХ.МАШ",
         "classroom": "ВЦ 285; ",
         "lecturer": "Титух И.Н."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр СТРОИТ.МЕХ.МАШ",
         "classroom": "102*; ",
         "lecturer": "Титух И.Н."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лаб СТАТИСТ. МЕХАН",
         "classroom": "ВЦ 285; ",
         "lecturer": "Туркина Н.Р."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лаб СТАТИСТ. МЕХАН",
         "classroom": "ВЦ 285; ",
         "lecturer": "Туркина Н.Р."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр СТАТИСТ. МЕХАН",
         "classroom": "102*; ",
         "lecturer": "Туркина Н.Р."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр СТАТИСТ. МЕХАН",
         "classroom": "102*; ",
         "lecturer": "Туркина Н.Р."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек СТАТИСТ. МЕХАН",
         "classroom": "102*; ",
         "lecturer": "Туркина Н.Р."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр УР-Я МАТ.ФИЗИКИ",
         "classroom": "ВЦ 281; ",
         "lecturer": "Лебедев М.О."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр УР-Я МАТ.ФИЗИКИ",
         "classroom": "ВЦ 281; ",
         "lecturer": "Лебедев М.О."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек УР-Я МАТ.ФИЗИКИ",
         "classroom": "490; ",
         "lecturer": "Лебедев М.О."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек УР-Я МАТ.ФИЗИКИ",
         "classroom": "490; ",
         "lecturer": "Лебедев М.О."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "пр УСТОЙЧИВОСТЬ МС",
         "classroom": "ВЦ 281; ",
         "lecturer": "Филин А.Г."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр УСТОЙЧИВОСТЬ МС",
         "classroom": "ВЦ 281; ",
         "lecturer": "Филин А.Г."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ОСН.ВЫЧ.ГД",
         "classroom": "456*; ",
         "lecturer": "Маламанов С.Ю."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ОСН.ВЫЧ.ГД",
         "classroom": "460*; ",
         "lecturer": "Маламанов С.Ю."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ОСН.ВЫЧ.ГД",
         "classroom": "460*; ",
         "lecturer": "Маламанов С.Ю."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр ДЕТАЛИ МАШИН",
         "classroom": "452*; ",
         "lecturer": "Беляев А.Н."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр ДЕТАЛИ МАШИН",
         "classroom": "452*; ",
         "lecturer": "Беляев А.Н."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "лек УСТОЙЧИВОСТЬ МС",
         "classroom": "460*; ",
         "lecturer": "Филин А.Г."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек СТРОИТ.МЕХ.МАШ",
         "classroom": "492; ",
         "lecturer": "Титух И.Н."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ТЕОР.УПРУГОСТИ",
         "classroom": "106*; ",
         "lecturer": "Крыжевич Г.Б."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ТЕОР.УПРУГОСТИ",
         "classroom": "ВЦ 285; ",
         "lecturer": "Крыжевич Г.Б."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ТЕОР.УПРУГОСТИ",
         "classroom": "ВЦ 285; ",
         "lecturer": "Крыжевич Г.Б."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лаб ТЕОР.УПРУГОСТИ",
         "classroom": "102*; ",

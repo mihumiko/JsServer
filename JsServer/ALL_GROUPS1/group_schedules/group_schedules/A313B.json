@@ -1,255 +1,255 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ТЕПЛОПЕРЕДАЧА",
         "classroom": "НТУ; ",
         "lecturer": "Низяев А.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек ТЕПЛОПЕРЕДАЧА",
         "classroom": "НТУ; ",
         "lecturer": "Низяев А.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр ТЕПЛОПЕРЕДАЧА",
         "classroom": "НТУ; ",
         "lecturer": "Низяев А.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр ТЕПЛОПЕРЕДАЧА",
         "classroom": "НТУ; ",
         "lecturer": "Низяев А.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "лек ИИТ ПРИ ИСП. ВТУ",
         "classroom": "НТУ; ",
         "lecturer": "Низяев А.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "лек ИИТ ПРИ ИСП. ВТУ",
         "classroom": "НТУ; ",
         "lecturer": "Низяев А.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр МЕТОД. КОНР. ПРИ ИСПЫТ. РКТ",
         "classroom": "ВЦ А3; ",
         "lecturer": "Будный Н.Л."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр МЕТОД. КОНР. ПРИ ИСПЫТ. РКТ",
         "classroom": "ВЦ А3; ",
         "lecturer": "Будный Н.Л."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ИИТ ПРИ ИСП. ВТУ",
         "classroom": "НТУ; ",
         "lecturer": "Низяев А.А."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ИИТ ПРИ ИСП. ВТУ",
         "classroom": "НТУ; ",
         "lecturer": "Низяев А.А."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ИИТ ПРИ ИСП. ВТУ",
         "classroom": "НТУ; ",
         "lecturer": "Низяев А.А."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лаб ИИТ ПРИ ИСП. ВТУ",
         "classroom": "НТУ; ",
         "lecturer": "Низяев А.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ПЛАН. И ОБРАБ. РЕЗ.",
         "classroom": "ВЦМ1; ",
         "lecturer": "Ходосов В.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ПО ИЗМЕРИТ.ПРОЦ",
         "classroom": "ВЦ А3; ",
         "lecturer": "Ходосов В.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ПО ИЗМЕРИТ.ПРОЦ",
         "classroom": "ВЦ А3; ",
         "lecturer": "Ходосов В.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ПЛАН. И ОБРАБ. РЕЗ.",
         "classroom": "ВЦМ1; ",
         "lecturer": "Ходосов В.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ПЛАН. И ОБРАБ. РЕЗ.",
         "classroom": "ВЦМ1; ",
         "lecturer": "Ходосов В.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ПО ИЗМЕРИТ.ПРОЦ",
         "classroom": "ВЦ А3; ",
         "lecturer": "Ходосов В.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ПО ИЗМЕРИТ.ПРОЦ",
         "classroom": "ВЦ А3; ",
         "lecturer": "Ходосов В.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек МЕТОД. КОНР. ПРИ ИСПЫТ. РКТ",
         "classroom": "СК ИСС; ",
         "lecturer": "Будный Н.Л."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек МЕТОД. КОНР. ПРИ ИСПЫТ. РКТ",
         "classroom": "СК ИСС; ",
         "lecturer": "Будный Н.Л."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лаб ИЗМ.ИНФ.СИСТЕМЫ",
         "classroom": "425; ",
         "lecturer": "Певишев С.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лаб ИЗМ.ИНФ.СИСТЕМЫ",
         "classroom": "425; ",
         "lecturer": "Певишев С.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек ИЗМ.ИНФ.СИСТЕМЫ",
         "classroom": "434; ",

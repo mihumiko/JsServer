@@ -1,287 +1,287 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лек ТЕОРИЯ ЛМ",
         "classroom": "СК2а; ",
         "lecturer": "Рудяк М.Е."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "лек ТЕОРИЯ ЛМ",
         "classroom": "СК2а; ",
         "lecturer": "Рудяк М.Е."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ТЕОРИЯ ЛМ",
         "classroom": "СК2а; ",
         "lecturer": "Рудяк М.Е."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ТЕОРИЯ ЛМ",
         "classroom": "СК2а; ",
         "lecturer": "Рудяк М.Е."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ТЕОР.И КОНСТР.ВРД",
         "classroom": "ТМП-2; ",
         "lecturer": "Юнаков Л.П."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ТЕОР.И КОНСТР.ВРД",
         "classroom": "ТМП-2; ",
         "lecturer": "Юнаков Л.П."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ТЕОР.И КОНСТР.ВРД",
         "classroom": "ТМП-2; ",
         "lecturer": "Юнаков Л.П."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ОСН. МЕН. И МАРК",
         "classroom": "314; ",
         "lecturer": "Кондратьев Сергей А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ОСН. МЕН. И МАРК",
         "classroom": "492; ",
         "lecturer": "Кондратьев Сергей А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек СРЕДСТВА ИНЖ.РАСЧ.",
         "classroom": "ТМП-2; ",
         "lecturer": "Гашевский Е.М."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр АЭРОГАЗОДИНАМ",
         "classroom": "446; ",
         "lecturer": "Чернышов М.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр СРЕДСТВА ИНЖ.РАСЧ.",
         "classroom": "ауд.БК Климов; ",
         "lecturer": "Гашевский Е.М."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр СРЕДСТВА ИНЖ.РАСЧ.",
         "classroom": "ауд.БК Климов; ",
         "lecturer": "Гашевский Е.М."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ТЕОР.И КОНСТР.ВРД",
         "classroom": "ТМП-2; ",
         "lecturer": "Юнаков Л.П."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ТЕОР.И КОНСТР.ВРД",
         "classroom": "ТМП-2; ",
         "lecturer": "Юнаков Л.П."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лаб АЭРОГАЗОДИНАМ",
         "classroom": "лаб г/дин; ",
         "lecturer": "Федосенко Н.Б."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лаб АЭРОГАЗОДИНАМ",
         "classroom": "лаб г/дин; ",
         "lecturer": "Федосенко Н.Б."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ДЕТАЛИ МАШИН",
         "classroom": "452*; ",
         "lecturer": "Беляев А.Н."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ДЕТАЛИ МАШИН",
         "classroom": "452*; ",
         "lecturer": "Беляев А.Н."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек ДЕТАЛИ МАШИН",
         "classroom": "460*; ",
         "lecturer": "Ли В.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек АЭРОГАЗОДИНАМ",
         "classroom": "438; ",
         "lecturer": "Чернышов М.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек АЭРОГАЗОДИНАМ",
         "classroom": "438; ",
         "lecturer": "Чернышов М.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр УНИРС",
         "classroom": "ТМП-2; ",
         "lecturer": "Саваровский А.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр УНИРС",
         "classroom": "ТМП-2; ",
         "lecturer": "Саваровский А.А."
     },
     {
-        "day": "Суббота",
-        "week_code": "1",
+        "day": 6,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ХИМ.ТЕРМОДИНАМ",
         "classroom": "ТМП-2; ",
         "lecturer": "Боряев А.А."
     },
     {
-        "day": "Суббота",
-        "week_code": "2",
+        "day": 6,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ХИМ.ТЕРМОДИНАМ",
         "classroom": "ТМП-2; ",
         "lecturer": "Боряев А.А."
     },
     {
-        "day": "Суббота",
-        "week_code": "1",
+        "day": 6,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ХИМ.ТЕРМОДИНАМ",
         "classroom": "ТМП-2; ",
         "lecturer": "Боряев А.А."
     },
     {
-        "day": "Суббота",
-        "week_code": "2",
+        "day": 6,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ХИМ.ТЕРМОДИНАМ",
         "classroom": "ТМП-2; ",

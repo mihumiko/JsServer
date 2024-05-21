@@ -1,151 +1,151 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр МАТЕРИАЛ. И ПОКРЫТ. КА",
         "classroom": "390; ",
         "lecturer": "Калягин Л.И."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек МАТЕРИАЛ. И ПОКРЫТ. КА",
         "classroom": "390; ",
         "lecturer": "Калягин Л.И."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек МАТЕРИАЛ. И ПОКРЫТ. КА",
         "classroom": "390; ",
         "lecturer": "Калягин Л.И."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек ПРОИЗВ-ВО  КА",
         "classroom": "СК М2-2; ",
         "lecturer": "Нилов А.С."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек КОНСТ. ИЗ КОМПОЗИТ. МАТ.",
         "classroom": "СК ИСС; ",
         "lecturer": "Евстафьев В.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр ПРОИЗВ-ВО  КА",
         "classroom": "СК М2-2; ",
         "lecturer": "Нилов А.С."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр ПРОИЗВ-ВО  КА",
         "classroom": "СК М2-2; ",
         "lecturer": "Нилов А.С."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ПЛАН. И ОБРАБ. РЕЗ.",
         "classroom": "ВЦМ1; ",
         "lecturer": "Ходосов В.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ПЛАН. И ОБРАБ. РЕЗ.",
         "classroom": "ВЦМ1; ",
         "lecturer": "Ходосов В.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ПЛАН. И ОБРАБ. РЕЗ.",
         "classroom": "ВЦМ1; ",
         "lecturer": "Ходосов В.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр КОНСТ. ИЗ КОМПОЗИТ. МАТ.",
         "classroom": "ВЦ А3; ",
         "lecturer": "Бокучава П.Н."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр КОНСТ. ИЗ КОМПОЗИТ. МАТ.",
         "classroom": "ВЦ А3; ",
         "lecturer": "Бокучава П.Н."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр НАДЕЖНОСТЬ ИЗДЕЛ. РКТ",
         "classroom": "НТУ; ",
         "lecturer": "Бабук В.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "лек НАДЕЖНОСТЬ ИЗДЕЛ. РКТ",
         "classroom": "СКМ1; ",
         "lecturer": "Бабук В.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр НАДЕЖНОСТЬ ИЗДЕЛ. РКТ",
         "classroom": "НТУ; ",
         "lecturer": "Бабук В.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "20:05 Нечетная",
         "discipline": "пр АВТОМАТ. РЕШ. ЗАДАЧ. СТРОИТ. МЕХ.",
         "classroom": "ВЦ А3; ",
         "lecturer": "Климкин В.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "20:05 Четная",
         "discipline": "пр АВТОМАТ. РЕШ. ЗАДАЧ. СТРОИТ. МЕХ.",
         "classroom": "ВЦ А3; ",
         "lecturer": "Климкин В.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр УНИРС",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр УНИРС",
         "classroom": null,

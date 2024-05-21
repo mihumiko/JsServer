@@ -1,239 +1,239 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр АВТ. УПРАВ. УЧЕТА",
         "classroom": "404*; ",
         "lecturer": "Форостянный Н.С."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр БИЗН.ПЛАНИР.",
         "classroom": "425*; ",
         "lecturer": "Лученкова Т.С."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр БИЗН.ПЛАНИР.",
         "classroom": "425*; ",
         "lecturer": "Лученкова Т.С."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "пр УПР.ЧЕЛ.РЕС.",
         "classroom": "530*; ",
         "lecturer": "Бурмакин В.М."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ОРГ.ПР-ВА НА ПР.",
         "classroom": "498; ",
         "lecturer": "Уманец С.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ОРГ.ПР-ВА НА ПР.",
         "classroom": "456; ",
         "lecturer": "Уманец С.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек УПР.ЧЕЛ.РЕС.",
         "classroom": "401*; ",
         "lecturer": "Дорофеева Л.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек УПР.ЧЕЛ.РЕС.",
         "classroom": "526*; ",
         "lecturer": "Дорофеева Л.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "лаб БЖД",
         "classroom": "384б; ",
         "lecturer": "Гордеев А.Н."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр БЖД",
         "classroom": "384а; ",
         "lecturer": "Храпко Н.Н."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр Е-ТЕХОЛОГ. В БИЗН.",
         "classroom": "530*; ",
         "lecturer": "Стешин В.А."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр Е-ТЕХОЛОГ. В БИЗН.",
         "classroom": "530*; ",
         "lecturer": "Стешин В.А."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ОСНОВЫ АНАЛИТИКИ",
         "classroom": "437*; ",
         "lecturer": "Щёголев Е.Н."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ОСНОВЫ АНАЛИТИКИ",
         "classroom": "433*; ",
         "lecturer": "Щёголев Е.Н."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр СТРАХОВАНИЕ",
         "classroom": "437*; ",
         "lecturer": "Венедиктова С.К."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек АВТ. УПРАВ. УЧЕТА",
         "classroom": "437*; ",
         "lecturer": "Гавриленко И.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек УЧ.И АН.(УПРАВ.УЧ.)",
         "classroom": "437*; ",
         "lecturer": "Гавриленко И.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек УЧ.И АН.(УПРАВ.УЧ.)",
         "classroom": "437*; ",
         "lecturer": "Гавриленко И.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек БИЗН.ПЛАНИР.",
         "classroom": "413*; ",
         "lecturer": "Семёнов В.П."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр МЕТ.ОПТ.В ЭКОНОМ",
         "classroom": "152*; ",
         "lecturer": "Лученкова Т.С."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек СТРАХОВАНИЕ",
         "classroom": "440*; ",
         "lecturer": "Венедиктова С.К."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек СТРАХОВАНИЕ",
         "classroom": "402*; ",
         "lecturer": "Венедиктова С.К."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек Е-ТЕХОЛОГ. В БИЗН.",
         "classroom": "402*; ",
         "lecturer": "Стешин В.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "пр ОСНОВЫ АНАЛИТИКИ",
         "classroom": "432*; ",
         "lecturer": "Форостянный Н.С."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр УЧ.И АН.(УПРАВ.УЧ.)",
         "classroom": "432*; ",
         "lecturer": "Гавриленко И.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр УЧ.И АН.(УПРАВ.УЧ.)",
         "classroom": "432*; ",
         "lecturer": "Гавриленко И.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ОРГ.ПР-ВА НА ПР.",
         "classroom": "437*; ",
         "lecturer": "Уманец С.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек МЕТ.ОПТ.В ЭКОНОМ",
         "classroom": "401*; ",
         "lecturer": "Дорофеева Л.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек БЖД",
         "classroom": "318; ",
         "lecturer": "Буторина М.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек БЖД",
         "classroom": "318; ",

@@ -1,215 +1,215 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр К. Р. О. 1 И.Я.",
         "classroom": "313*; ",
         "lecturer": "Быкова О.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр К. Р. О. 1 И.Я.",
         "classroom": "313*; ",
         "lecturer": "Быкова О.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ПРОФ.ОРИЕНТ.ПЕР.",
         "classroom": "317*; ",
         "lecturer": "Быкова О.В."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ПРОФ.ОРИЕНТ.ПЕР.",
         "classroom": "317*; ",
         "lecturer": "Быкова О.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лек ДИСКУРС",
         "classroom": "437*; ",
         "lecturer": "Гусева Л.Г."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "лек ДИСКУРС",
         "classroom": "437*; ",
         "lecturer": "Гусева Л.Г."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр ПЕРЕВОД СПЕЦ",
         "classroom": "318*; ",
         "lecturer": "Донченко К.В."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ПЕРЕВОД СПЕЦ",
         "classroom": "317*; ",
         "lecturer": "Донченко К.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр П.К. 2 И.Я.",
         "classroom": "316*; ",
         "lecturer": "Гончарова В.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр П.К. 2 И.Я.",
         "classroom": "316*; ",
         "lecturer": "Гончарова В.В."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "пр П.К. 2 И.Я.",
         "classroom": "309*; ",
         "lecturer": "Гончарова В.В."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр П.К. 2 И.Я.",
         "classroom": "309*; ",
         "lecturer": "Гончарова В.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ПЕРЕВОД СПЕЦ",
         "classroom": "422*; ",
         "lecturer": "Донченко К.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ПЕРЕВОД СПЕЦ",
         "classroom": "422*; ",
         "lecturer": "Донченко К.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр К. Р. О. 2 И.Я.",
         "classroom": "318*; ",
         "lecturer": "Патракова О.Н."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр К. Р. О. 2 И.Я.",
         "classroom": "317*; ",
         "lecturer": "Патракова О.Н."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ДИСКУРС",
         "classroom": "413*; ",
         "lecturer": "Гусева Л.Г."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр П.К. 2 И.Я.",
         "classroom": "312*; ",
         "lecturer": "Гончарова В.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр П.К. 2 И.Я.",
         "classroom": "312*; ",
         "lecturer": "Гончарова В.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "пр К. Р. О. 1 И.Я.",
         "classroom": "309*; ",
         "lecturer": "Быкова О.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр К. Р. О. 1 И.Я.",
         "classroom": "309*; ",
         "lecturer": "Быкова О.В."
     },
     {
-        "day": "Суббота",
-        "week_code": "1",
+        "day": 6,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр К. Р. О. 2 И.Я.",
         "classroom": "312*; ",
         "lecturer": "Патракова О.Н."
     },
     {
-        "day": "Суббота",
-        "week_code": "2",
+        "day": 6,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр К. Р. О. 2 И.Я.",
         "classroom": "312*; ",
         "lecturer": "Патракова О.Н."
     },
     {
-        "day": "Суббота",
-        "week_code": "1",
+        "day": 6,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ЧТ.ЛИТ.НА ИН.ЯЗ.",
         "classroom": "309*; ",
         "lecturer": "Кузнецова И.Т."
     },
     {
-        "day": "Суббота",
-        "week_code": "2",
+        "day": 6,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ЧТ.ЛИТ.НА ИН.ЯЗ.",
         "classroom": "310*; ",
         "lecturer": "Кузнецова И.Т."
     },
     {
-        "day": "Суббота",
-        "week_code": "1",
+        "day": 6,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ПРОФ.ОРИЕНТ.ПЕР.",
         "classroom": "309*; ",
         "lecturer": "Быкова О.В."
     },
     {
-        "day": "Суббота",
-        "week_code": "2",
+        "day": 6,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ПРОФ.ОРИЕНТ.ПЕР.",
         "classroom": "309*; ",

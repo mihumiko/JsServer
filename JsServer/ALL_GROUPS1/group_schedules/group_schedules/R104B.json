@@ -1,151 +1,151 @@
 [
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр СТРАТ.МЕНЕДЖМ",
         "classroom": "432*; ",
         "lecturer": "Балукова В.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек СТРАТ.МЕНЕДЖМ",
         "classroom": "437*; ",
         "lecturer": "Балукова В.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек СТРАТ.МЕНЕДЖМ",
         "classroom": "437*; ",
         "lecturer": "Балукова В.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек УПР. КАЧЕСТВОМ",
         "classroom": "404*; ",
         "lecturer": "Соловьева Н.Л."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек УПР. КАЧЕСТВОМ",
         "classroom": "404*; ",
         "lecturer": "Соловьева Н.Л."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "пр УПР. КАЧЕСТВОМ",
         "classroom": "ВЦ 282; ",
         "lecturer": "Войко У.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр КАДР.МАРКЕТИНГ",
         "classroom": "432*; ",
         "lecturer": "Войко У.А."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ПРАКТ.ПО КОМАНДООБР",
         "classroom": "405*; ",
         "lecturer": "Карпенко Д.А."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ПРАКТ.ПО КОМАНДООБР",
         "classroom": "405*; ",
         "lecturer": "Карпенко Д.А."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр ПРАКТ.ПО ПСИХОД",
         "classroom": "530*; ",
         "lecturer": "Карпенко Д.А."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр ПРАКТ.ПО ПСИХОД",
         "classroom": "530*; ",
         "lecturer": "Карпенко Д.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр ПРАКТ.ПО ПСИХОД",
         "classroom": "432*; ",
         "lecturer": "Карпенко Д.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр ПРАКТ.ПО ПСИХОД",
         "classroom": "432*; ",
         "lecturer": "Карпенко Д.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ПРАКТ.ПО КОМАНДООБР",
         "classroom": "405*; ",
         "lecturer": "Карпенко Д.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ПРАКТ.ПО КОМАНДООБР",
         "classroom": "405*; ",
         "lecturer": "Карпенко Д.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр КАДР.МАРКЕТИНГ",
         "classroom": "425*; ",
         "lecturer": "Войко У.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек КАДР.МАРКЕТИНГ",
         "classroom": "404*; ",
         "lecturer": "Карпенко Д.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "лек АНАЛ.ИНФ.СИСТ.",
         "classroom": "401*; ",
         "lecturer": "Башкатов А.С."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр АНАЛ.ИНФ.СИСТ.",
         "classroom": "432*; ",

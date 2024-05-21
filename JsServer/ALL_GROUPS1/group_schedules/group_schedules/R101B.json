@@ -1,119 +1,119 @@
 [
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "лек СТРАТ.МЕНЕДЖМ",
         "classroom": "437*; ",
         "lecturer": "Балукова В.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек СТРАТ.МЕНЕДЖМ",
         "classroom": "437*; ",
         "lecturer": "Балукова В.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр МАРКЕТИНГ ИННОВ.",
         "classroom": "436*; ",
         "lecturer": "Фомина А.П."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр СТРАТ.МЕНЕДЖМ",
         "classroom": "433*; ",
         "lecturer": "Балукова В.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "лек МАРКЕТИНГ ИННОВ.",
         "classroom": "403*; ",
         "lecturer": "Фомина А.П."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ФИН.МЕНЕДЖМЕНТ",
         "classroom": "404*; ",
         "lecturer": "Молдован А.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "лек ФИН.МЕНЕДЖМЕНТ",
         "classroom": "440*; ",
         "lecturer": "Молдован А.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "лек ФИН.МЕНЕДЖМЕНТ",
         "classroom": "440*; ",
         "lecturer": "Молдован А.А."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "лек АНАЛ.ИНФ.СИСТ.",
         "classroom": "401*; ",
         "lecturer": "Башкатов А.С."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр МАРКЕТИНГ ИННОВ.",
         "classroom": "437*; ",
         "lecturer": "Фомина А.П."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "лек ИНВЕСТ.АНАЛИЗ",
         "classroom": "436*; ",
         "lecturer": "Стешин А.И."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "16:45 Нечетная",
         "discipline": "пр ИНВЕСТ.АНАЛИЗ",
         "classroom": "432*; ",
         "lecturer": "Стешин А.И."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "16:45 Четная",
         "discipline": "пр ИНВЕСТ.АНАЛИЗ",
         "classroom": "413*; ",
         "lecturer": "Стешин А.И."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "18:30 Нечетная",
         "discipline": "пр АНАЛ.ИНФ.СИСТ.",
         "classroom": "530*; ",
         "lecturer": "Башкатов А.С."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "18:30 Четная",
         "discipline": "пр АНАЛ.ИНФ.СИСТ.",
         "classroom": "530*; ",

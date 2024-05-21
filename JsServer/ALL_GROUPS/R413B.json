@@ -1,199 +1,199 @@
 [
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "пр ОБЩ-ПОЛИТ.ИНСТ. И ПР.В СОВР.РОС",
         "classroom": "436*; ",
         "lecturer": "Черкасова Е.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр ОБЩ-ПОЛИТ.ИНСТ. И ПР.В СОВР.РОС",
         "classroom": "436*; ",
         "lecturer": "Черкасова Е.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "1",
+        "day": 1,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек ОБЩ-ПОЛИТ.ИНСТ. И ПР.В СОВР.РОС",
         "classroom": "440*; ",
         "lecturer": "Черкасова Е.А."
     },
     {
-        "day": "Понедельник",
-        "week_code": "2",
+        "day": 1,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек ОБЩ-ПОЛИТ.ИНСТ. И ПР.В СОВР.РОС",
         "classroom": "526*; ",
         "lecturer": "Черкасова Е.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лаб БЖД",
         "classroom": "384б; ",
         "lecturer": "Фиев К.П."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "пр БЖД",
         "classroom": "498; ",
         "lecturer": "Фиев К.П."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек СОЦИОЛОГИЯ РИСО",
         "classroom": "313; ",
         "lecturer": "Сурина В.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек СОЦИОЛОГИЯ РИСО",
         "classroom": "455; ",
         "lecturer": "Сурина В.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "пр СОЦИОЛОГИЯ РИСО",
         "classroom": "316; ",
         "lecturer": "Сурина В.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "пр СОЦИОЛОГИЯ РИСО",
         "classroom": "314; ",
         "lecturer": "Сурина В.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "1",
+        "day": 2,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ИНТЕГРИР.КОМ-ЦИИ",
         "classroom": "492; ",
         "lecturer": "Сурина В.А."
     },
     {
-        "day": "Вторник",
-        "week_code": "2",
+        "day": 2,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ИНТЕГРИР.КОМ-ЦИИ",
         "classroom": "455; ",
         "lecturer": "Сурина В.А."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лек КОМ. В ПОЛИТ.ДЕЯТ-ТИ",
         "classroom": "436*; ",
         "lecturer": "Селентьева Д.О."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "лек КОМ. В ПОЛИТ.ДЕЯТ-ТИ",
         "classroom": "436*; ",
         "lecturer": "Селентьева Д.О."
     },
     {
-        "day": "Среда",
-        "week_code": "1",
+        "day": 3,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "пр КОМ. В ПОЛИТ.ДЕЯТ-ТИ",
         "classroom": "436*; ",
         "lecturer": "Селентьева Д.О."
     },
     {
-        "day": "Среда",
-        "week_code": "2",
+        "day": 3,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр КОМ. В ПОЛИТ.ДЕЯТ-ТИ",
         "classroom": "402*; ",
         "lecturer": "Селентьева Д.О."
     },
     {
-        "day": "Четверг",
-        "week_code": "1",
+        "day": 4,
+        "week_code": 1,
         "time": "9:00 Нечетная",
         "discipline": "лек ГОС.ПОЛИТ. И УПР",
         "classroom": "436*; ",
         "lecturer": "Сорокина Е.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "9:00 Четная",
         "discipline": "лек ГОС.ПОЛИТ. И УПР",
         "classroom": "436*; ",
         "lecturer": "Сорокина Е.В."
     },
     {
-        "day": "Четверг",
-        "week_code": "2",
+        "day": 4,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "пр ГОС.ПОЛИТ. И УПР",
         "classroom": "440*; ",
         "lecturer": "Сорокина Е.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "10:50 Нечетная",
         "discipline": "лек БЖД",
         "classroom": "310; ",
         "lecturer": "Тюрина Н.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "10:50 Четная",
         "discipline": "лек БЖД",
         "classroom": "310; ",
         "lecturer": "Тюрина Н.В."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "12:40 Нечетная",
         "discipline": "лек ИНТЕГРИР.КОМ-ЦИИ",
         "classroom": "451; ",
         "lecturer": "Сурина В.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "12:40 Четная",
         "discipline": "лек ИНТЕГРИР.КОМ-ЦИИ",
         "classroom": "451; ",
         "lecturer": "Сурина В.А."
     },
     {
-        "day": "Пятница",
-        "week_code": "1",
+        "day": 5,
+        "week_code": 1,
         "time": "14:55 Нечетная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
     },
     {
-        "day": "Пятница",
-        "week_code": "2",
+        "day": 5,
+        "week_code": 2,
         "time": "14:55 Четная",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
