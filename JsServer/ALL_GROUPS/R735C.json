@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ОСН.ПЕРВ.ИН.ЯЗ.",
         "classroom": "153*; ",
         "lecturer": "Абсалямова И.А."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ОСН.ПЕРВ.ИН.ЯЗ.",
         "classroom": "153*; ",
         "lecturer": "Абсалямова И.А."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ФОНЕТИКА",
         "classroom": "313*; ",
         "lecturer": "Курочкина Н.А."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ФОНЕТИКА",
         "classroom": "313*; ",
         "lecturer": "Курочкина Н.А."
@@ -34,7 +34,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ИСТОРИЯ",
         "classroom": "404*; ",
         "lecturer": "Савинов М.А."
@@ -42,7 +42,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ИСТОРИЯ",
         "classroom": "402*; ",
         "lecturer": "Савинов М.А."
@@ -50,7 +50,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -58,7 +58,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ОСН. 2-ГО ИЯ",
         "classroom": "153*; ",
         "lecturer": "Навагина В.А."
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ОСН. 2-ГО ИЯ",
         "classroom": "153*; ",
         "lecturer": "Навагина В.А."
@@ -82,7 +82,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "404*; ",
         "lecturer": "Насс О.В."
@@ -90,7 +90,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "325*; ",
         "lecturer": "Насс О.В."
@@ -98,7 +98,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "218*; ",
         "lecturer": "Мамаев И.Д."
@@ -106,7 +106,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "218*; ",
         "lecturer": "Мамаев И.Д."
@@ -114,7 +114,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ПОНЯТ.АПП.МАТЕМ.",
         "classroom": "420*; ",
         "lecturer": "Селина Е.Г."
@@ -122,7 +122,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "лек ПОНЯТ.АПП.МАТЕМ.",
         "classroom": "214*; ",
         "lecturer": "Коротков Н.А."
@@ -130,7 +130,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ИСТОРИЯ",
         "classroom": "422*; ",
         "lecturer": "Савинов М.А."
@@ -138,7 +138,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ЗАРУБЕЖН. ЛИТ-РА",
         "classroom": "314*; ",
         "lecturer": "Тимофеева  С.П."
@@ -146,7 +146,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ОСН.ПЕРВ.ИН.ЯЗ.",
         "classroom": "153*; ",
         "lecturer": "Абсалямова И.А."
@@ -154,7 +154,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ОСН.ПЕРВ.ИН.ЯЗ.",
         "classroom": "153*; ",
         "lecturer": "Абсалямова И.А."
@@ -162,7 +162,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ОСН.ПЕРВ.ИН.ЯЗ.",
         "classroom": "153*; ",
         "lecturer": "Абсалямова И.А."
@@ -170,7 +170,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "лек ЗАРУБЕЖН. ЛИТ-РА",
         "classroom": "317*; ",
         "lecturer": "Тимофеева  С.П."
@@ -178,7 +178,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "лек ФИЛОСОФИЯ",
         "classroom": "402*; ",
         "lecturer": "Лысенко Е.М."
@@ -186,7 +186,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ФИЛОСОФИЯ",
         "classroom": "413*; ",
         "lecturer": "Лысенко Е.М."
@@ -194,7 +194,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ОСН. 2-ГО ИЯ",
         "classroom": "326* Я; ",
         "lecturer": "Навагина В.А."
@@ -202,7 +202,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр ОСН. 2-ГО ИЯ",
         "classroom": "326* Я; ",
         "lecturer": "Навагина В.А."
@@ -210,7 +210,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -218,7 +218,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -226,7 +226,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек Р.ЯЗ. И КУЛ.РЕЧИ",
         "classroom": "317*; ",
         "lecturer": "Градовцева Е.К."
@@ -234,7 +234,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр Р.ЯЗ. И КУЛ.РЕЧИ",
         "classroom": "326* Я; ",
         "lecturer": "Градовцева Е.К."

@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ОБЩ-ПОЛИТ.ИНСТ. И ПР.В СОВР.РОС",
         "classroom": "436*; ",
         "lecturer": "Черкасова Е.А."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр ОБЩ-ПОЛИТ.ИНСТ. И ПР.В СОВР.РОС",
         "classroom": "436*; ",
         "lecturer": "Черкасова Е.А."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ОБЩ-ПОЛИТ.ИНСТ. И ПР.В СОВР.РОС",
         "classroom": "440*; ",
         "lecturer": "Черкасова Е.А."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ОБЩ-ПОЛИТ.ИНСТ. И ПР.В СОВР.РОС",
         "classroom": "526*; ",
         "lecturer": "Черкасова Е.А."
@@ -34,7 +34,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "лаб БЖД",
         "classroom": "384б; ",
         "lecturer": "Фиев К.П."
@@ -42,7 +42,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр БЖД",
         "classroom": "498; ",
         "lecturer": "Фиев К.П."
@@ -50,7 +50,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек СОЦИОЛОГИЯ РИСО",
         "classroom": "313; ",
         "lecturer": "Сурина В.А."
@@ -58,7 +58,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек СОЦИОЛОГИЯ РИСО",
         "classroom": "455; ",
         "lecturer": "Сурина В.А."
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр СОЦИОЛОГИЯ РИСО",
         "classroom": "316; ",
         "lecturer": "Сурина В.А."
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр СОЦИОЛОГИЯ РИСО",
         "classroom": "314; ",
         "lecturer": "Сурина В.А."
@@ -82,7 +82,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ИНТЕГРИР.КОМ-ЦИИ",
         "classroom": "492; ",
         "lecturer": "Сурина В.А."
@@ -90,7 +90,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ИНТЕГРИР.КОМ-ЦИИ",
         "classroom": "455; ",
         "lecturer": "Сурина В.А."
@@ -98,7 +98,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "лек КОМ. В ПОЛИТ.ДЕЯТ-ТИ",
         "classroom": "436*; ",
         "lecturer": "Селентьева Д.О."
@@ -106,7 +106,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "лек КОМ. В ПОЛИТ.ДЕЯТ-ТИ",
         "classroom": "436*; ",
         "lecturer": "Селентьева Д.О."
@@ -114,7 +114,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр КОМ. В ПОЛИТ.ДЕЯТ-ТИ",
         "classroom": "436*; ",
         "lecturer": "Селентьева Д.О."
@@ -122,7 +122,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр КОМ. В ПОЛИТ.ДЕЯТ-ТИ",
         "classroom": "402*; ",
         "lecturer": "Селентьева Д.О."
@@ -130,7 +130,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "лек ГОС.ПОЛИТ. И УПР",
         "classroom": "436*; ",
         "lecturer": "Сорокина Е.В."
@@ -138,7 +138,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "лек ГОС.ПОЛИТ. И УПР",
         "classroom": "436*; ",
         "lecturer": "Сорокина Е.В."
@@ -146,7 +146,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ГОС.ПОЛИТ. И УПР",
         "classroom": "440*; ",
         "lecturer": "Сорокина Е.В."
@@ -154,7 +154,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек БЖД",
         "classroom": "310; ",
         "lecturer": "Тюрина Н.В."
@@ -162,7 +162,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек БЖД",
         "classroom": "310; ",
         "lecturer": "Тюрина Н.В."
@@ -170,7 +170,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ИНТЕГРИР.КОМ-ЦИИ",
         "classroom": "451; ",
         "lecturer": "Сурина В.А."
@@ -178,7 +178,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ИНТЕГРИР.КОМ-ЦИИ",
         "classroom": "451; ",
         "lecturer": "Сурина В.А."
@@ -186,7 +186,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -194,7 +194,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null

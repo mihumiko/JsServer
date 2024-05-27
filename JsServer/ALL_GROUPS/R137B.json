@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ИСТОРИЯ",
         "classroom": "418*; ",
         "lecturer": "Алексеева С.И."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ИСТОРИЯ",
         "classroom": "418*; ",
         "lecturer": "Алексеева С.И."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "252*; ",
         "lecturer": "Насс О.В."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "252*; ",
         "lecturer": "Насс О.В."
@@ -34,7 +34,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек МАКРОЭКОНОМИКА",
         "classroom": "436*; ",
         "lecturer": "Лукичев П.М."
@@ -42,7 +42,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек МАКРОЭКОНОМИКА",
         "classroom": "436*; ",
         "lecturer": "Лукичев П.М."
@@ -50,7 +50,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -58,7 +58,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ФИЛОСОФИЯ",
         "classroom": "498; ",
         "lecturer": "Лысенко Е.М."
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ФИЛОСОФИЯ",
         "classroom": "443; ",
         "lecturer": "Лысенко Е.М."
@@ -82,7 +82,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "ВЦ 281; ",
         "lecturer": "Ярошевская Е.Ю."
@@ -90,7 +90,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "ВЦ 281; ",
         "lecturer": "Ярошевская Е.Ю."
@@ -98,7 +98,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "304*; ",
         "lecturer": "Паньшина А.И."
@@ -106,7 +106,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "304*; ",
         "lecturer": "Паньшина А.И."
@@ -114,7 +114,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр МАКРОЭКОНОМИКА",
         "classroom": "432*; ",
         "lecturer": "Форостянный Н.С."
@@ -122,7 +122,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ОСНОВЫ ПРАВА",
         "classroom": "436*; ",
         "lecturer": "Хвостов А.Б."
@@ -130,7 +130,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ОСНОВЫ ПРАВА",
         "classroom": "507*а; ",
         "lecturer": "Хвостов А.Б."
@@ -138,7 +138,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лаб ЭКОЛОГИЯ",
         "classroom": "384а; ",
         "lecturer": "Фиев К.П."
@@ -146,7 +146,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр ЦИФРОВИЗ.ПОЛИТ.ВЗАИМОДЕЙСТВ",
         "classroom": "432*; ",
         "lecturer": "Форостянный Н.С."
@@ -154,7 +154,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лек ЭКОЛОГИЯ",
         "classroom": "374; ",
         "lecturer": "Курченко П.С."
@@ -162,7 +162,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ОСНОВЫ PR-ТЕХНОЛОГИЙ",
         "classroom": "530*; ",
         "lecturer": "Костюченко К.А."
@@ -170,7 +170,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ИСТОРИЯ",
         "classroom": "487; ",
         "lecturer": "Алексеева С.И."
@@ -178,7 +178,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "304*; ",
         "lecturer": "Паньшина А.И."
@@ -186,7 +186,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лек ОСНОВЫ PR-ТЕХНОЛОГИЙ",
         "classroom": "436*; ",
         "lecturer": "Крехалева О.С."
@@ -194,7 +194,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лек ОСН РОС ГОС",
         "classroom": "403*; ",
         "lecturer": "Хомелева Р.А."
@@ -202,7 +202,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -210,7 +210,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -218,7 +218,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ОСН РОС ГОС",
         "classroom": "498; ",
         "lecturer": "Касьянов Г.А."
@@ -226,7 +226,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ОСН РОС ГОС",
         "classroom": "487; ",
         "lecturer": "Касьянов Г.А."
@@ -234,7 +234,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр ОСН.ПРОТИВ.АНТИСОЦ.ПОВЕД",
         "classroom": "425*; ",
         "lecturer": "Форостянный Н.С."
@@ -242,7 +242,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ОСН.ПРОТИВ.АНТИСОЦ.ПОВЕД",
         "classroom": "425*; ",
         "lecturer": "Форостянный Н.С."
@@ -250,7 +250,7 @@
     {
         "day": 6,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "лек ОСН.ПРОТИВ.АНТИСОЦ.ПОВЕД",
         "classroom": "402*; ",
         "lecturer": "Солонько И.В."
@@ -258,7 +258,7 @@
     {
         "day": 6,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ЦИФРОВИЗ.ПОЛИТ.ВЗАИМОДЕЙСТВ",
         "classroom": "413*; ",
         "lecturer": "Миловзорова М.Н."

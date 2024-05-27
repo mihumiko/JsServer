@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "лек БЖД",
         "classroom": "310; ",
         "lecturer": "Кудаев А.В."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "лек БЖД",
         "classroom": "310; ",
         "lecturer": "Кудаев А.В."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лаб УСТР.И ФУНКЦ.КА",
         "classroom": "КТ; СК ИСС; ",
         "lecturer": "Семенов А.А."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лаб УСТР.И ФУНКЦ.КА",
         "classroom": "КТ; СК ИСС; ",
         "lecturer": "Семенов А.А."
@@ -34,7 +34,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр БЖД",
         "classroom": "484; ",
         "lecturer": "Дмитриева А.П."
@@ -42,7 +42,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лаб БЖД",
         "classroom": "384б; ",
         "lecturer": "Борцова С.С."
@@ -50,7 +50,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ЭНЕРГ. УСТ. ТТ",
         "classroom": "СК21а; ",
         "lecturer": "Савельев С.К."
@@ -58,7 +58,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ЭНЕРГ. УСТ. ТТ",
         "classroom": "СК21а; ",
         "lecturer": "Савельев С.К."
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ЭНЕРГ. УСТ. ТТ",
         "classroom": "СК21а; ",
         "lecturer": "Савельев С.К."
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ЭНЕРГ. УСТ. ТТ",
         "classroom": "СК21а; ",
         "lecturer": "Савельев С.К."
@@ -82,7 +82,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ПРОЕКТ С ПРИМ.АДД.Т",
         "classroom": "ВЦ 282; ",
         "lecturer": "Киршин А.Ю."
@@ -90,7 +90,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ПРОЕКТ С ПРИМ.АДД.Т",
         "classroom": "ВЦ 282; ",
         "lecturer": "Киршин А.Ю."
@@ -98,7 +98,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек УСТР.И ФУНКЦ.КА",
         "classroom": "СК ИСС; ",
         "lecturer": "Семенов А.А."
@@ -106,7 +106,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ДВИГАТЕЛИ ЛА",
         "classroom": "313а; ",
         "lecturer": "Кудров А.Н."
@@ -114,7 +114,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ДВИГАТЕЛИ ЛА",
         "classroom": "313а; ",
         "lecturer": "Кудров А.Н."
@@ -122,7 +122,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "лаб МЕХ.ДЕФ.ТВ.ТЕЛА",
         "classroom": "ВЦ 281; ",
         "lecturer": "Харитонов А.В."
@@ -130,7 +130,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр МЕХ.ДЕФ.ТВ.ТЕЛА",
         "classroom": "ВЦ 281; ",
         "lecturer": "Харитонов А.В."
@@ -138,7 +138,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек АДДИТИВ.ТЕХНОЛ",
         "classroom": "СК21а; ",
         "lecturer": "Чириков С.А."
@@ -146,7 +146,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек АДДИТИВ.ТЕХНОЛ",
         "classroom": "СК21а; ",
         "lecturer": "Чириков С.А."
@@ -154,7 +154,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ТЕОР. КОНСТР.",
         "classroom": "334; ",
         "lecturer": "Авферонок С.Э."
@@ -162,7 +162,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр АДДИТИВ.ТЕХНОЛ",
         "classroom": "СК21Б; ",
         "lecturer": "Падалка М.А."
@@ -170,7 +170,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ТЕОР. КОНСТР.",
         "classroom": "344; ",
         "lecturer": "Авферонок С.Э."
@@ -178,7 +178,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ТЕОР. КОНСТР.",
         "classroom": "344; ",
         "lecturer": "Авферонок С.Э."
@@ -186,7 +186,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лаб ДВИГАТЕЛИ ЛА",
         "classroom": "СК2; ",
         "lecturer": "Михайлов К.Н."
@@ -194,7 +194,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек МЕХ.ДЕФ.ТВ.ТЕЛА",
         "classroom": "429*; ",
         "lecturer": "Санников В.А."
@@ -202,7 +202,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек МЕХ.ДЕФ.ТВ.ТЕЛА",
         "classroom": "429*; ",
         "lecturer": "Санников В.А."
@@ -210,7 +210,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр ПРОЕКТ С ПРИМ.АДД.Т",
         "classroom": "ВЦ 282; ",
         "lecturer": "Киршин А.Ю."
@@ -218,7 +218,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ПРОЕКТ С ПРИМ.АДД.Т",
         "classroom": "ВЦ 282; ",
         "lecturer": "Киршин А.Ю."

@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "лек СИСТ.АТМ.ЗОНД.",
         "classroom": "219; ",
         "lecturer": "Лугиня В.С."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "лек СИСТ.АТМ.ЗОНД.",
         "classroom": "219; ",
         "lecturer": "Лугиня В.С."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек МЕТ.О-Ф.И ЛАЗ.ИЗМ.",
         "classroom": "324; ",
         "lecturer": "Погода А.П."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ОСН.КОНСТР.ОЭ ПРИБ.",
         "classroom": "324; ",
         "lecturer": "Швец А.С."
@@ -34,7 +34,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ОСНОВЫ ОПТИКИ",
         "classroom": "219; ",
         "lecturer": "Файда Я.В."
@@ -42,7 +42,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лаб СИСТ.АТМ.ЗОНД.",
         "classroom": "219а; ",
         "lecturer": "Файда Я.В."
@@ -50,7 +50,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ТЕПЛОПЕРЕДАЧА",
         "classroom": "324; ",
         "lecturer": "Киселев И.А."
@@ -58,7 +58,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ТЕПЛОПЕРЕДАЧА",
         "classroom": "324; ",
         "lecturer": "Киселев И.А."
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ТЕПЛОПЕРЕДАЧА",
         "classroom": "219; ",
         "lecturer": "Киселев И.А."
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лаб ТЕПЛОПЕРЕДАЧА",
         "classroom": "219а; ",
         "lecturer": "Киселев И.А."
@@ -82,7 +82,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лаб ПРИКЛАДН.ОПТИКА",
         "classroom": "218; ",
         "lecturer": "Петрова Ю.Ю."
@@ -90,7 +90,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лаб ПРИКЛАДН.ОПТИКА",
         "classroom": "218; ",
         "lecturer": "Петрова Ю.Ю."
@@ -98,7 +98,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "лаб ОСНОВЫ ОПТИКИ",
         "classroom": "280; ",
         "lecturer": "Петрова Ю.Ю."
@@ -106,7 +106,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ЛАЗ. ТЕХНОЛОГИЯ",
         "classroom": "325а; ",
         "lecturer": "Евдокимов И.М."
@@ -114,7 +114,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр МЕТ.О-Ф.И ЛАЗ.ИЗМ.",
         "classroom": "219; ",
         "lecturer": "Погода А.П."
@@ -122,7 +122,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ЛАЗ. ТЕХНОЛОГИЯ",
         "classroom": "325а; ",
         "lecturer": "Евдокимов И.М."
@@ -130,7 +130,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ЛАЗ. ТЕХНОЛОГИЯ",
         "classroom": "325а; ",
         "lecturer": "Евдокимов И.М."
@@ -138,7 +138,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ОСНОВЫ ОПТИКИ",
         "classroom": "324; ",
         "lecturer": "Коняев М.А."
@@ -146,7 +146,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ОСНОВЫ ОПТИКИ",
         "classroom": "324; ",
         "lecturer": "Коняев М.А."
@@ -154,7 +154,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лаб МЕТ.О-Ф.И ЛАЗ.ИЗМ.",
         "classroom": "Корп. К; ",
         "lecturer": "Погода А.П."
@@ -162,7 +162,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лаб МЕТ.О-Ф.И ЛАЗ.ИЗМ.",
         "classroom": "Корп. К; ",
         "lecturer": "Погода А.П."
@@ -170,7 +170,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "лаб ОСН.ЛАЗ.ТЕХНИКИ",
         "classroom": "Корп. К; ",
         "lecturer": "Попов  Е.Э."
@@ -178,7 +178,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "лек ОСН.ЛАЗ.ТЕХНИКИ",
         "classroom": "324; ",
         "lecturer": "Морозов А.В."
@@ -186,7 +186,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "лек ОСН.ЛАЗ.ТЕХНИКИ",
         "classroom": "324; ",
         "lecturer": "Морозов А.В."
@@ -194,7 +194,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ПРИКЛАДН.ОПТИКА",
         "classroom": "324; ",
         "lecturer": "Коняев М.А."
@@ -202,7 +202,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ПРИКЛАДН.ОПТИКА",
         "classroom": "324; ",
         "lecturer": "Коняев М.А."
@@ -210,7 +210,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лаб ЛАЗ. ТЕХНОЛОГИЯ",
         "classroom": "Корп. К; ",
         "lecturer": "Попов  Е.Э."
@@ -218,7 +218,7 @@
     {
         "day": 6,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "лаб ОСН.КОНСТР.ОЭ ПРИБ.",
         "classroom": "218; ",
         "lecturer": "Швец А.С."
@@ -226,7 +226,7 @@
     {
         "day": 6,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "лаб ОСН.КОНСТР.ОЭ ПРИБ.",
         "classroom": "218; ",
         "lecturer": "Швец А.С."
@@ -234,7 +234,7 @@
     {
         "day": 6,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ОСН.КОНСТР.ОЭ ПРИБ.",
         "classroom": "219; ",
         "lecturer": "Швец А.С."

@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "пр ТЕХН.ПР-ВА ВЫСТР",
         "classroom": "319; ",
         "lecturer": "Денисова М.В."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "пр ТЕХН.ПР-ВА ВЫСТР",
         "classroom": "319; ",
         "lecturer": "Денисова М.В."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "лек ТЕХН.ПР-ВА ВЫСТР",
         "classroom": "319; ",
         "lecturer": "Денисова М.В."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "20:05 Четная",
+        "time": "20:05",
         "discipline": "лек ТЕХН.ПР-ВА ВЫСТР",
         "classroom": "319; ",
         "lecturer": "Денисова М.В."
@@ -34,7 +34,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "лек ПЕРСП.ТЕХН.ХШТ.ПР.",
         "classroom": "108; ",
         "lecturer": "Расулов З.Н."
@@ -42,7 +42,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "пр МАТ.МОД.ПРОЦ.ОМД",
         "classroom": "320; ",
         "lecturer": "Олехвер А.И."
@@ -50,7 +50,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "лек ПЕРСП.ТЕХН.ХШТ.ПР.",
         "classroom": "108; ",
         "lecturer": "Расулов З.Н."
@@ -58,7 +58,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "20:05 Четная",
+        "time": "20:05",
         "discipline": "пр МАТ.МОД.ПРОЦ.ОМД",
         "classroom": "320; ",
         "lecturer": "Олехвер А.И."
@@ -66,7 +66,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "пр АЛГОРИТМ. И ПРОГР.",
         "classroom": "ВЦ 285; ",
         "lecturer": "Сидоренко Т.В."
@@ -74,7 +74,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "пр АЛГОРИТМ. И ПРОГР.",
         "classroom": "ВЦ 285; ",
         "lecturer": "Сидоренко Т.В."
@@ -82,7 +82,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "лек ОСН. ЗАКОНОДАТ.",
         "classroom": "319; ",
         "lecturer": "Нестеров Н.И."
@@ -90,7 +90,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "20:05 Четная",
+        "time": "20:05",
         "discipline": "лек ОСН. ЗАКОНОДАТ.",
         "classroom": "319; ",
         "lecturer": "Нестеров Н.И."
@@ -98,7 +98,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "лек СПЕЦ.ОБОРУД",
         "classroom": "108; ",
         "lecturer": "Лобов В.А."
@@ -106,7 +106,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "лек СПЕЦ.ОБОРУД",
         "classroom": "108; ",
         "lecturer": "Лобов В.А."
@@ -114,7 +114,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "пр НАУЧ. ИССЛ. РАБОТА",
         "classroom": "108; ",
         "lecturer": "Расулов З.Н."
@@ -122,7 +122,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "20:05 Четная",
+        "time": "20:05",
         "discipline": "пр СПЕЦ.ОБОРУД",
         "classroom": "108; ",
         "lecturer": "Лобов В.А."

@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ТАУ",
         "classroom": "ВЦ 280; ",
         "lecturer": "Арипова О.В."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр ТАУ",
         "classroom": "ВЦ 280; ",
         "lecturer": "Арипова О.В."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лаб БЖД",
         "classroom": "384б; ",
         "lecturer": "Тюрина Н.В."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр БЖД",
         "classroom": "484; ",
         "lecturer": "Тюрина Н.В."
@@ -34,7 +34,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ТАУ",
         "classroom": "344; ",
         "lecturer": "Арипова О.В."
@@ -42,7 +42,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ТАУ",
         "classroom": "344; ",
         "lecturer": "Арипова О.В."
@@ -50,7 +50,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ОСН.ИНЖ.ПРОЕКТ",
         "classroom": "334; ",
         "lecturer": "Сятчихин А.А."
@@ -58,7 +58,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ОСН.ИНЖ.ПРОЕКТ",
         "classroom": "334; ",
         "lecturer": "Сятчихин А.А."
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -82,7 +82,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -90,7 +90,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -98,7 +98,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -106,7 +106,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -114,7 +114,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -122,7 +122,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -130,7 +130,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ПРИКЛАДНЫЕ ИТ",
         "classroom": "ВЦ 285; ",
         "lecturer": "Ярошевская Е.Ю."
@@ -138,7 +138,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ПРИКЛАДНЫЕ ИТ",
         "classroom": "ВЦ 285; ",
         "lecturer": "Ярошевская Е.Ю."
@@ -146,7 +146,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ПРИКЛАДНЫЕ ИТ",
         "classroom": "ВЦ 285; ",
         "lecturer": "Ярошевская Е.Ю."
@@ -154,7 +154,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек СПЕЦ.ОРГ-ТЕХ СИСТ",
         "classroom": "СК21Б; ",
         "lecturer": "Охочинский М.Н."
@@ -162,7 +162,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек СПЕЦ.ОРГ-ТЕХ СИСТ",
         "classroom": "СК21Б; ",
         "lecturer": "Охочинский М.Н."
@@ -170,7 +170,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр МЕТ.ИССЛ.В МЕН.",
         "classroom": "425*; ",
         "lecturer": "Войко У.А."
@@ -178,7 +178,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр МЕТ.ИССЛ.В МЕН.",
         "classroom": "425*; ",
         "lecturer": "Войко У.А."
@@ -186,7 +186,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек БЖД",
         "classroom": "318; ",
         "lecturer": "Тюрина Н.В."
@@ -194,7 +194,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек БЖД",
         "classroom": "374; ",
         "lecturer": "Тюрина Н.В."
@@ -202,7 +202,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ИМПУЛЬСН. УСТР",
         "classroom": "СК-14; ",
         "lecturer": "Маслов Д.В."
@@ -210,7 +210,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ИМПУЛЬСН. УСТР",
         "classroom": "СК-14; ",
         "lecturer": "Маслов Д.В."
@@ -218,7 +218,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лаб ИМПУЛЬСН. УСТР",
         "classroom": "440; ",
         "lecturer": "Ялыч Е.С."
@@ -226,7 +226,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лаб ИМПУЛЬСН. УСТР",
         "classroom": "440; ",
         "lecturer": "Ялыч Е.С."
@@ -234,7 +234,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ИМПУЛЬСН. УСТР",
         "classroom": "СК-14; ",
         "lecturer": "Ялыч Е.С."
@@ -242,7 +242,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ОСН.ИНЖ.ПРОЕКТ",
         "classroom": "334; ",
         "lecturer": "Сятчихин А.А."
@@ -250,7 +250,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ОСН.ИНЖ.ПРОЕКТ",
         "classroom": "334; ",
         "lecturer": "Сятчихин А.А."
@@ -258,7 +258,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр МОДЕЛИ ОТС",
         "classroom": "ВЦ 373; ",
         "lecturer": "Савельев С.К."
@@ -266,7 +266,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр МОДЕЛИ ОТС",
         "classroom": "ВЦ 373; ",
         "lecturer": "Савельев С.К."
@@ -274,7 +274,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек МОДЕЛИ ОТС",
         "classroom": "344; ",
         "lecturer": "Савельев С.К."
@@ -282,7 +282,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек МОДЕЛИ ОТС",
         "classroom": "344; ",
         "lecturer": "Савельев С.К."
@@ -290,7 +290,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лек МЕТ.ИССЛ.В МЕН.",
         "classroom": "403*; ",
         "lecturer": "Шишкин А.А."

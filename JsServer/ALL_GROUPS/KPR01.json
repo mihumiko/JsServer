@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лаб НАДЕЖНОСТЬ",
         "classroom": "528*; ",
         "lecturer": "Страхов С.Ю."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лаб НАДЕЖНОСТЬ",
         "classroom": "528*; ",
         "lecturer": "Страхов С.Ю."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек НАДЕЖНОСТЬ",
         "classroom": "528*; ",
         "lecturer": "Страхов С.Ю."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек НАДЕЖНОСТЬ",
         "classroom": "528*; ",
         "lecturer": "Страхов С.Ю."
@@ -34,7 +34,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ДИНАМИКА МАШИН",
         "classroom": "456*; ",
         "lecturer": "Брытков Е.В."
@@ -42,7 +42,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ДИНАМИКА МАШИН",
         "classroom": "456*; ",
         "lecturer": "Брытков Е.В."
@@ -50,7 +50,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ПР.ГМ.И МАШ.ГИДР.",
         "classroom": "152*; ",
         "lecturer": "Воротынцев Б.Н."
@@ -58,7 +58,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ПР.ГМ.И МАШ.ГИДР.",
         "classroom": "152*; ",
         "lecturer": "Воротынцев Б.Н."
@@ -66,7 +66,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ПР.ГМ.И МАШ.ГИДР.",
         "classroom": "270*(фесто); ",
         "lecturer": "Стажков С.М."
@@ -74,7 +74,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лаб ДИНАМИКА МАШИН",
         "classroom": "528*; ",
         "lecturer": "Брытков Е.В."
@@ -82,7 +82,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ВСТР. СИСТ. КИД",
         "classroom": "411*; ",
         "lecturer": "Петрова Ю.Ю."
@@ -90,7 +90,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лек ДИНАМИКА МАШИН",
         "classroom": "528*; ",
         "lecturer": "Брытков Е.В."
@@ -98,7 +98,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лаб ВСТР. СИСТ. КИД",
         "classroom": "528*; ",
         "lecturer": "Петрова Ю.Ю."

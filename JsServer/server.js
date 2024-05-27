@@ -63,9 +63,9 @@ app.post('/edit', (req, res) => {
 	}
 	const body = req.body;
 	const id = body.id;
-	const path = `./ALL_GROUPS1/${id}.json`;
+	const path = `./ALL_GROUPS/${id}.json`;
 
-	fs.writeFileSync(path, JSON.stringify(body));
+	fs.writeFileSync(path, JSON.stringify(body.group));
 	res.status(200).send({ massege: 'Edited' });
 	console.log(body);
 });

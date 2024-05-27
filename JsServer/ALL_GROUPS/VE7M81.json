@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "лаб ТОСН.ВЫЧ.ГИДРОДИН.",
         "classroom": "452*; ",
         "lecturer": "Маламанов С.Ю."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "пр ТОСН.ВЫЧ.ГИДРОДИН.",
         "classroom": "453*; ",
         "lecturer": "Маламанов С.Ю."
@@ -18,7 +18,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "пр МЕХ. КОМПОЗ. МАТ",
         "classroom": "102*; ",
         "lecturer": "Брытков Е.В."
@@ -26,7 +26,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "пр МЕХ. КОМПОЗ. МАТ",
         "classroom": "102*; ",
         "lecturer": "Брытков Е.В."
@@ -34,7 +34,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "20:05 Четная",
+        "time": "20:05",
         "discipline": "лек МЕХ. КОМПОЗ. МАТ",
         "classroom": "102*; ",
         "lecturer": "Брытков Е.В."
@@ -42,7 +42,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "пр ИНФ. ТЕХНОЛОГИИ",
         "classroom": "218*; ",
         "lecturer": "Бухарин В.В."
@@ -50,7 +50,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "пр ИНФ. ТЕХНОЛОГИИ",
         "classroom": "218*; ",
         "lecturer": "Бухарин В.В."
@@ -58,7 +58,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "лек ИНФ. ТЕХНОЛОГИИ",
         "classroom": "216*; ",
         "lecturer": "Бухарин В.В."
@@ -66,7 +66,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "лаб ОПТИМ.ПРОЕКТИР",
         "classroom": "456*; ",
         "lecturer": "Кротов Ю.В."
@@ -74,7 +74,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "лаб СТРОИТ.МЕХ.МАШ",
         "classroom": "102*; ",
         "lecturer": "Титух И.Н."
@@ -82,7 +82,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "пр СТРОИТ.МЕХ.МАШ",
         "classroom": "102*; ",
         "lecturer": "Титух И.Н."
@@ -90,7 +90,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "20:05 Четная",
+        "time": "20:05",
         "discipline": "пр СТРОИТ.МЕХ.МАШ",
         "classroom": "102*; ",
         "lecturer": "Титух И.Н."

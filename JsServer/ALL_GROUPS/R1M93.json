@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ИСТ.И МЕТ.НАУКИ",
         "classroom": "413*; ",
         "lecturer": "Канатаев Д.В."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ИСТ.И МЕТ.НАУКИ",
         "classroom": "413*; ",
         "lecturer": "Канатаев Д.В."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр УПР.ПРОЕКТАМИ",
         "classroom": "405*; ",
         "lecturer": "Стешин А.И."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр УПР.ПРОЕКТАМИ",
         "classroom": "405*; ",
         "lecturer": "Стешин А.И."
@@ -34,7 +34,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр СТР.ПЛАН.МАРК.ДЕЯТ.",
         "classroom": "404*; ",
         "lecturer": "Шамина Л.К."
@@ -42,7 +42,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр СТР.ПЛАН.МАРК.ДЕЯТ.",
         "classroom": "411*; ",
         "lecturer": "Шамина Л.К."
@@ -50,7 +50,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр УПРАВ. РЕШЕНИЯ",
         "classroom": "405*; ",
         "lecturer": "Стешин А.И."
@@ -58,7 +58,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр УПРАВ. РЕШЕНИЯ",
         "classroom": "405*; ",
         "lecturer": "Стешин А.И."
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек РЕГИОН.ЭКОНОМ.",
         "classroom": "413*; ",
         "lecturer": "Дьяконова Л.И."
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек УПР.ПРОЕКТАМИ",
         "classroom": "405*; ",
         "lecturer": "Стешин А.И."
@@ -82,7 +82,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр РЕГИОН.ЭКОНОМ.",
         "classroom": "413*; ",
         "lecturer": "Дьяконова Л.И."
@@ -90,7 +90,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр РЕГИОН.ЭКОНОМ.",
         "classroom": "413*; ",
         "lecturer": "Дьяконова Л.И."
@@ -98,7 +98,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр ИН. ЯЗ",
         "classroom": "528*; ",
         "lecturer": "Невзорова Г.Д."
@@ -106,7 +106,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ИН. ЯЗ",
         "classroom": "528*; ",
         "lecturer": "Невзорова Г.Д."
@@ -114,7 +114,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек МЕТ. ИССЛЕД. В МЕН.",
         "classroom": "411*; ",
         "lecturer": "Шамина Л.К."
@@ -122,7 +122,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр МЕТ. ИССЛЕД. В МЕН.",
         "classroom": "411*; ",
         "lecturer": "Шамина Л.К."
@@ -130,7 +130,7 @@
     {
         "day": 6,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "лек ИННОВ. ОБР. ТЕХ.",
         "classroom": "405*; ",
         "lecturer": "Шматко А.Д."
@@ -138,7 +138,7 @@
     {
         "day": 6,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ИННОВ. ОБР. ТЕХ.",
         "classroom": "405*; ",
         "lecturer": "Шматко А.Д."

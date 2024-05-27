@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "лек ЭКОЛОГИЯ",
         "classroom": "484; ",
         "lecturer": "Васильев В.А."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "лек ЭКОНОМИКА",
         "classroom": "422*; ",
         "lecturer": "Григорьев М.Н."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "лаб ЭКОЛОГИЯ",
         "classroom": "384а; ",
         "lecturer": "Васильев В.А."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "20:05 Четная",
+        "time": "20:05",
         "discipline": "пр ЭКОНОМИКА",
         "classroom": "430*; ",
         "lecturer": "Григорьев М.Н."
@@ -34,7 +34,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "лек ВЫСШ. МАТЕМАТ",
         "classroom": "213*; ",
         "lecturer": "Тарасов А.А."
@@ -42,7 +42,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "пр ВЫСШ. МАТЕМАТ",
         "classroom": "213*; ",
         "lecturer": "Тарасов А.А."
@@ -50,7 +50,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "лек ТОЭ",
         "classroom": "360*; ",
         "lecturer": "Матвеев П.В."
@@ -58,7 +58,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "лек ТОЭ",
         "classroom": "360*; ",
         "lecturer": "Матвеев П.В."
@@ -66,7 +66,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "лаб ТОЭ",
         "classroom": "356*; ",
         "lecturer": "Лошицкий А.С."
@@ -74,7 +74,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "20:05 Четная",
+        "time": "20:05",
         "discipline": "пр ТОЭ",
         "classroom": "360*; ",
         "lecturer": "Матвеев П.В."
@@ -82,7 +82,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "274; ",
         "lecturer": "Романов С.Л."
@@ -90,7 +90,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "274; ",
         "lecturer": "Романов С.Л."
@@ -98,7 +98,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "пр ВЫЧ. МАТЕМАТИКА",
         "classroom": "448; ",
         "lecturer": "Марданов А.А."
@@ -106,7 +106,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "20:05 Четная",
+        "time": "20:05",
         "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "346; ",
         "lecturer": "Романов С.Л."
@@ -114,7 +114,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "326* Я; ",
         "lecturer": "Родионова Е.В."
@@ -122,7 +122,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "326* Я; ",
         "lecturer": "Родионова Е.В."

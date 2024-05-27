@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр П.К. 2 И.Я.",
         "classroom": "314*; ",
         "lecturer": "Краснова Н.В."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр П.К. 2 И.Я.",
         "classroom": "314*; ",
         "lecturer": "Краснова Н.В."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек БАЗЫ ДАННЫХ",
         "classroom": "313а; ",
         "lecturer": "Ярошевская Е.Ю."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ФИЛ.АН. ТЕКСТА",
         "classroom": "314*; ",
         "lecturer": "Матюшина Е.А."
@@ -34,7 +34,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр БАЗЫ ДАННЫХ",
         "classroom": "ВЦ 285; ",
         "lecturer": "Ярошевская Е.Ю."
@@ -42,7 +42,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр БАЗЫ ДАННЫХ",
         "classroom": "ВЦ 285; ",
         "lecturer": "Ярошевская Е.Ю."
@@ -50,7 +50,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр П. К. 1 ИН. ЯЗ.",
         "classroom": "304*; ",
         "lecturer": "Седых Л.В."
@@ -58,7 +58,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр П. К. 1 ИН. ЯЗ.",
         "classroom": "304*; ",
         "lecturer": "Седых Л.В."
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек БЖД",
         "classroom": "310; ",
         "lecturer": "Буторина М.В."
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек БЖД",
         "classroom": "310; ",
         "lecturer": "Буторина М.В."
@@ -82,7 +82,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр РАЗГОВОР.ПРАКТ",
         "classroom": "304*; ",
         "lecturer": "Ребикова Л.Д."
@@ -90,7 +90,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр РАЗГОВОР.ПРАКТ",
         "classroom": "304*; ",
         "lecturer": "Ребикова Л.Д."
@@ -98,7 +98,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ФИЛ.АН. ТЕКСТА",
         "classroom": "314*; ",
         "lecturer": "Матюшина Е.А."
@@ -106,7 +106,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ФИЛ.АН. ТЕКСТА",
         "classroom": "314*; ",
         "lecturer": "Матюшина Е.А."
@@ -114,7 +114,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр БЖД",
         "classroom": "484; ",
         "lecturer": "Шабарова А.В."
@@ -122,7 +122,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек СЕМИОТИКА",
         "classroom": "314*; ",
         "lecturer": "Николаева О.В."
@@ -130,7 +130,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр СЕМИОТИКА",
         "classroom": "304*; ",
         "lecturer": "Николаева О.В."
@@ -138,7 +138,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр П.К. 2 И.Я.",
         "classroom": "304*; ",
         "lecturer": "Краснова Н.В."
@@ -146,7 +146,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр П.К. 2 И.Я.",
         "classroom": "304*; ",
         "lecturer": "Краснова Н.В."
@@ -154,7 +154,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "лаб БЖД",
         "classroom": "384б; ",
         "lecturer": "Шабарова А.В."
@@ -162,7 +162,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр МЕЖКУЛЬТ.КОММУН.",
         "classroom": "317*; ",
         "lecturer": "Царегородцев Р.А."
@@ -170,7 +170,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек МЕЖКУЛЬТ.КОММУН.",
         "classroom": "401*; ",
         "lecturer": "Царегородцев Р.А."
@@ -178,7 +178,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек МЕЖКУЛЬТ.КОММУН.",
         "classroom": "437*; ",
         "lecturer": "Царегородцев Р.А."
@@ -186,7 +186,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек СТИЛИСТИКА",
         "classroom": "313*; ",
         "lecturer": "Абиева Н.А."
@@ -194,7 +194,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек СТИЛИСТИКА",
         "classroom": "314*; ",
         "lecturer": "Абиева Н.А."
@@ -202,7 +202,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр СТИЛИСТИКА",
         "classroom": "304*; ",
         "lecturer": "Абиева Н.А."
@@ -210,7 +210,7 @@
     {
         "day": 6,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр П. К. 1 ИН. ЯЗ.",
         "classroom": "304*; ",
         "lecturer": "Седых Л.В."
@@ -218,7 +218,7 @@
     {
         "day": 6,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр П. К. 1 ИН. ЯЗ.",
         "classroom": "304*; ",
         "lecturer": "Седых Л.В."
@@ -226,7 +226,7 @@
     {
         "day": 6,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр П. К. 1 ИН. ЯЗ.",
         "classroom": "304*; ",
         "lecturer": "Седых Л.В."
@@ -234,7 +234,7 @@
     {
         "day": 6,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр П. К. 1 ИН. ЯЗ.",
         "classroom": "304*; ",
         "lecturer": "Седых Л.В."

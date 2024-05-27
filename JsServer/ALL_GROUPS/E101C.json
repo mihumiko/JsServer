@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лаб ТЕХН.ПР-ВА СПАРО",
         "classroom": "Лаб.Е2-1; ",
         "lecturer": "Мартынович В.В."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лаб ТЕХН.ПР-ВА СПАРО",
         "classroom": "Лаб.Е2-1; ",
         "lecturer": "Мартынович В.В."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр ИТ В НАУКЕ И ТЕХ",
         "classroom": "ВЦ КЕ1; ",
         "lecturer": "Новиков И.А."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ИТ В НАУКЕ И ТЕХ",
         "classroom": "ВЦ КЕ1; ",
         "lecturer": "Новиков И.А."
@@ -34,7 +34,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лаб ОУ И КОНСТР. РАК",
         "classroom": "СК21; ",
         "lecturer": "Авферонок С.Э."
@@ -42,7 +42,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лаб ОУ И КОНСТР. РАК",
         "classroom": "СК21; ",
         "lecturer": "Авферонок С.Э."
@@ -50,7 +50,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ПРИБОРНЫЕ УСТР",
         "classroom": "СК-14; ",
         "lecturer": "Грецова Е.Б."
@@ -58,7 +58,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ПРИБОРНЫЕ УСТР",
         "classroom": "СК-14; ",
         "lecturer": "Грецова Е.Б."
@@ -66,7 +66,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лаб ПРИБОРНЫЕ УСТР",
         "classroom": "СК-14; ",
         "lecturer": "Перов Л.Д."
@@ -74,7 +74,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лаб ПРИБОРНЫЕ УСТР",
         "classroom": "СК-14; ",
         "lecturer": "Перов Л.Д."
@@ -82,7 +82,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек СТВОЛЫ И НАПР.УС",
         "classroom": "313а; ",
         "lecturer": "Зайцев А.С."
@@ -90,7 +90,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек СТВОЛЫ И НАПР.УС",
         "classroom": "313а; ",
         "lecturer": "Зайцев А.С."
@@ -98,7 +98,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лаб ДЕТАЛИ МАШИН",
         "classroom": "453*; ",
         "lecturer": "Кротов Ю.В."
@@ -106,7 +106,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ДЕТАЛИ МАШИН",
         "classroom": "453*; ",
         "lecturer": "Кротов Ю.В."
@@ -114,7 +114,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лек ЭФФ. И НАДЕЖН",
         "classroom": "455; ",
         "lecturer": "Любимов И.В."
@@ -122,7 +122,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лек ЭФФ. И НАДЕЖН",
         "classroom": "455; ",
         "lecturer": "Любимов И.В."
@@ -130,7 +130,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "лек ТЕХН.ПР-ВА СПАРО",
         "classroom": "СК3; ",
         "lecturer": "Федосов А.В."
@@ -138,7 +138,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лаб СТВОЛЫ И НАПР.УС",
         "classroom": "ВЦ КЕ1; ",
         "lecturer": "Егоров  В.В."
@@ -146,7 +146,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ФО УСТ.И ФУН.СПО",
         "classroom": "313; ",
         "lecturer": "Кудрявцев С.И."
@@ -154,7 +154,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ЭФФ. И НАДЕЖН",
         "classroom": "КАБ.Е1; ",
         "lecturer": "Мелехин А.А."
@@ -162,7 +162,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ОУ И КОНСТР. РАК",
         "classroom": "313а; ",
         "lecturer": "Авферонок С.Э."
@@ -170,7 +170,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лаб ФО УСТ.И ФУН.СПО",
         "classroom": "Мкаб.Е1; ",
         "lecturer": "Маилян Г.Э."
@@ -178,7 +178,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лаб ФО УСТ.И ФУН.СПО",
         "classroom": "Мкаб.Е1; ",
         "lecturer": "Маилян Г.Э."
@@ -186,7 +186,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "лек ДЕТАЛИ МАШИН",
         "classroom": "460*; ",
         "lecturer": "Кротов Ю.В."
@@ -194,7 +194,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "лек ДЕТАЛИ МАШИН",
         "classroom": "460*; ",
         "lecturer": "Кротов Ю.В."
@@ -202,7 +202,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ИТ В НАУКЕ И ТЕХ",
         "classroom": "ВЦ КЕ1; ",
         "lecturer": "Новиков И.А."
@@ -210,7 +210,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ИТ В НАУКЕ И ТЕХ",
         "classroom": "313; ",
         "lecturer": "Новиков И.А."
@@ -218,7 +218,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек СТВОЛЫ И НАПР.УС",
         "classroom": "477; ",
         "lecturer": "Зайцев А.С."

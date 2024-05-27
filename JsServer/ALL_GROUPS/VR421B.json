@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "лек СОЦИОЛОГИЯ",
         "classroom": "507*а; ",
         "lecturer": "Клюев А.А."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "пр МАРКЕТИНГ",
         "classroom": "425*; ",
         "lecturer": "Лученкова Т.С."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "пр СОЦИОЛОГИЯ",
         "classroom": "507*а; ",
         "lecturer": "Клюев А.А."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "20:05 Четная",
+        "time": "20:05",
         "discipline": "пр ТЕОР.МЕНЕДЖ.",
         "classroom": "425*; ",
         "lecturer": "Зареева Т.В."
@@ -34,7 +34,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "лек МАРКЕТИНГ",
         "classroom": "325*; ",
         "lecturer": "Сталькина У.М."
@@ -42,7 +42,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "лек ПСИХ-Я.ПРОФ.ДЕЯ-НИ",
         "classroom": "403*; ",
         "lecturer": "Лысенко Е.М."
@@ -50,7 +50,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "лек ТЕОР.МЕНЕДЖ.",
         "classroom": "425*; ",
         "lecturer": "Фомина А.П."
@@ -58,7 +58,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "20:05 Четная",
+        "time": "20:05",
         "discipline": "пр ПСИХ-Я.ПРОФ.ДЕЯ-НИ",
         "classroom": "425*; ",
         "lecturer": "Лысенко Е.М."
@@ -66,7 +66,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "лек ЭКОНОМ.ТРУДА",
         "classroom": "403*; ",
         "lecturer": "Вольф Е.В."
@@ -74,7 +74,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "лек ОСН.СИСТ.АНАЛИЗА",
         "classroom": "403*; ",
         "lecturer": "Таничев А.В."
@@ -82,7 +82,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "пр ЭКОНОМ.ТРУДА",
         "classroom": "432*; ",
         "lecturer": "Вольф Е.В."
@@ -90,7 +90,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "20:05 Четная",
+        "time": "20:05",
         "discipline": "пр ОСН.СИСТ.АНАЛИЗА",
         "classroom": "432*; ",
         "lecturer": "Таничев А.В."
@@ -98,7 +98,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "пр ОСНОВЫ ПРАВА",
         "classroom": "403*; ",
         "lecturer": "Хвостов А.Б."
@@ -106,7 +106,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "пр ПРЕДПРИНИМ.ПРАВО",
         "classroom": "413*; ",
         "lecturer": "Хвостов А.Б."
@@ -114,7 +114,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "лек ОСНОВЫ ПРАВА",
         "classroom": "403*; ",
         "lecturer": "Хвостов А.Б."
@@ -122,7 +122,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "20:05 Четная",
+        "time": "20:05",
         "discipline": "лек ПРЕДПРИНИМ.ПРАВО",
         "classroom": "413*; ",
         "lecturer": "Хвостов А.Б."
@@ -130,7 +130,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -138,7 +138,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -146,7 +146,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -154,7 +154,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "20:05 Четная",
+        "time": "20:05",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null

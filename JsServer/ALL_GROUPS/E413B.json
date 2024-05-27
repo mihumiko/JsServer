@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ОСН.ТЕПЛОТЕХНИК",
         "classroom": "438; ",
         "lecturer": "Герлиман Е.М."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ОСН.ТЕПЛОТЕХНИК",
         "classroom": "438; ",
         "lecturer": "Герлиман Е.М."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек КУЗН.-ШТ. ОБОРУД",
         "classroom": "319; ",
         "lecturer": "Лобов В.А."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек КУЗН.-ШТ. ОБОРУД",
         "classroom": "319; ",
         "lecturer": "Лобов В.А."
@@ -34,7 +34,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ТЕХН.ЛИСТ.ШТАМП",
         "classroom": "319; ",
         "lecturer": "Олехвер А.И."
@@ -42,7 +42,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ТЕХН.ЛИСТ.ШТАМП",
         "classroom": "319; ",
         "lecturer": "Олехвер А.И."
@@ -50,7 +50,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лек ОСН. АВТ. ПРОЕКТ",
         "classroom": "102; ",
         "lecturer": "Фанифатов А.О."
@@ -58,7 +58,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ТЕОР. ПЛАСТИЧН.",
         "classroom": "319; ",
         "lecturer": "Жукова А.В."
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лаб ТЕХН.ЛИСТ.ШТАМП",
         "classroom": "108; ",
         "lecturer": "Фоменко И.Ю."
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лаб ТЕХН.ЛИСТ.ШТАМП",
         "classroom": "108; ",
         "lecturer": "Фоменко И.Ю."
@@ -82,7 +82,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ДЕТАЛИ МАШИН",
         "classroom": "452*; ",
         "lecturer": "Беляев А.Н."
@@ -90,7 +90,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лаб ДЕТАЛИ МАШИН",
         "classroom": "452*; ",
         "lecturer": "Беляев А.Н."
@@ -98,7 +98,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек НАГРЕВ И НАГ.УСТ",
         "classroom": "478; ",
         "lecturer": "Киреев О.Л."
@@ -106,7 +106,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек НАГРЕВ И НАГ.УСТ",
         "classroom": "478; ",
         "lecturer": "Киреев О.Л."
@@ -114,7 +114,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр ОСН. АВТ. ПРОЕКТ",
         "classroom": "320; ",
         "lecturer": "Фролова Е.О."
@@ -122,7 +122,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ОСН. АВТ. ПРОЕКТ",
         "classroom": "320; ",
         "lecturer": "Фролова Е.О."
@@ -130,7 +130,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ДЕТАЛИ МАШИН",
         "classroom": "460*; ",
         "lecturer": "Кротов Ю.В."
@@ -138,7 +138,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ДЕТАЛИ МАШИН",
         "classroom": "460*; ",
         "lecturer": "Кротов Ю.В."
@@ -146,7 +146,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лаб ОСН.ТЕПЛОТЕХНИК",
         "classroom": "ТТЛ; ",
         "lecturer": "Герлиман Е.М."
@@ -154,7 +154,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лаб ОСН.ТЕПЛОТЕХНИК",
         "classroom": "ТТЛ; ",
         "lecturer": "Герлиман Е.М."
@@ -162,7 +162,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лек ТЕОР. ПЛАСТИЧН.",
         "classroom": "319; ",
         "lecturer": "Филин Д.С."
@@ -170,7 +170,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лек ТЕОР. ПЛАСТИЧН.",
         "classroom": "319; ",
         "lecturer": "Филин Д.С."
@@ -178,7 +178,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "пр ИНЖЕНЕР.РАСЧЕТ.",
         "classroom": "320; ",
         "lecturer": "Соболев И.А."
@@ -186,7 +186,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "пр ИНЖЕНЕР.РАСЧЕТ.",
         "classroom": "320; ",
         "lecturer": "Соболев И.А."

@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр К. Р. О. 1 И.Я.",
         "classroom": "326*а; ",
         "lecturer": "Торгашева Ю.Г."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр К. Р. О. 1 И.Я.",
         "classroom": "326*а; ",
         "lecturer": "Торгашева Ю.Г."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр К. Р. О. 2 И.Я.",
         "classroom": "310*; ",
         "lecturer": "Патракова О.Н."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр К. Р. О. 2 И.Я.",
         "classroom": "310*; ",
         "lecturer": "Патракова О.Н."
@@ -34,7 +34,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "лек ДИСКУРС",
         "classroom": "437*; ",
         "lecturer": "Гусева Л.Г."
@@ -42,7 +42,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "лек ДИСКУРС",
         "classroom": "437*; ",
         "lecturer": "Гусева Л.Г."
@@ -50,7 +50,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ПРОФ.ОРИЕНТ.ПЕР.",
         "classroom": "314*; ",
         "lecturer": "Мартяхина Е.П."
@@ -58,7 +58,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ПРОФ.ОРИЕНТ.ПЕР.",
         "classroom": "316*; ",
         "lecturer": "Мартяхина Е.П."
@@ -66,7 +66,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ПЕРЕВОД СПЕЦ",
         "classroom": "313*; ",
         "lecturer": "Канатаев Д.В."
@@ -74,7 +74,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр ПЕРЕВОД СПЕЦ",
         "classroom": "313*; ",
         "lecturer": "Канатаев Д.В."
@@ -82,7 +82,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ПЕРЕВОД СПЕЦ",
         "classroom": "318*; ",
         "lecturer": "Канатаев Д.В."
@@ -90,7 +90,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ПЕРЕВОД СПЕЦ",
         "classroom": "318*; ",
         "lecturer": "Канатаев Д.В."
@@ -98,7 +98,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр К. Р. О. 2 И.Я.",
         "classroom": "318*; ",
         "lecturer": "Патракова О.Н."
@@ -106,7 +106,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр К. Р. О. 2 И.Я.",
         "classroom": "318*; ",
         "lecturer": "Патракова О.Н."
@@ -114,7 +114,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр П.К. 2 И.Я.",
         "classroom": "314*; ",
         "lecturer": "Краснова Н.В."
@@ -122,7 +122,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр П.К. 2 И.Я.",
         "classroom": "316*; ",
         "lecturer": "Краснова Н.В."
@@ -130,7 +130,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ЧТ.ЛИТ.НА ИН.ЯЗ.",
         "classroom": "316*; ",
         "lecturer": "Быкова О.В."
@@ -138,7 +138,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр ЧТ.ЛИТ.НА ИН.ЯЗ.",
         "classroom": "316*; ",
         "lecturer": "Быкова О.В."
@@ -146,7 +146,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр К. Р. О. 1 И.Я.",
         "classroom": "317*; ",
         "lecturer": "Торгашева Ю.Г."
@@ -154,7 +154,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр К. Р. О. 1 И.Я.",
         "classroom": "326* Я; ",
         "lecturer": "Торгашева Ю.Г."
@@ -162,7 +162,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ПРОФ.ОРИЕНТ.ПЕР.",
         "classroom": "153*; ",
         "lecturer": "Мартяхина Е.П."
@@ -170,7 +170,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ПРОФ.ОРИЕНТ.ПЕР.",
         "classroom": "153*; ",
         "lecturer": "Мартяхина Е.П."
@@ -178,7 +178,7 @@
     {
         "day": 6,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр П.К. 2 И.Я.",
         "classroom": "311*; ",
         "lecturer": "Краснова Н.В."
@@ -186,7 +186,7 @@
     {
         "day": 6,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр П.К. 2 И.Я.",
         "classroom": "310*; ",
         "lecturer": "Краснова Н.В."
@@ -194,7 +194,7 @@
     {
         "day": 6,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр П.К. 2 И.Я.",
         "classroom": "310*; ",
         "lecturer": "Краснова Н.В."
@@ -202,7 +202,7 @@
     {
         "day": 6,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр П.К. 2 И.Я.",
         "classroom": "310*; ",
         "lecturer": "Краснова Н.В."
@@ -210,7 +210,7 @@
     {
         "day": 6,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ДИСКУРС",
         "classroom": "308*; ",
         "lecturer": "Гусева Л.Г."

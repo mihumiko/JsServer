@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ДОКУМ-Е УПР.ДЕЯТ",
         "classroom": "437*; ",
         "lecturer": "Баленко А.С."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ДОКУМ-Е УПР.ДЕЯТ",
         "classroom": "437*; ",
         "lecturer": "Баленко А.С."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ОСНОВЫ ЦИФР.ЭК",
         "classroom": "433*; ",
         "lecturer": "Ревис В.Е."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ОСНОВЫ ЦИФР.ЭК",
         "classroom": "432*; ",
         "lecturer": "Ревис В.Е."
@@ -34,7 +34,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ГОС.РЕГ.ЭКОН.",
         "classroom": "402*; ",
         "lecturer": "Молдован А.А."
@@ -42,7 +42,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ЭКОНОМ.ТРУДА",
         "classroom": "440*; ",
         "lecturer": "Вольф Е.В."
@@ -50,7 +50,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ИНСТИТ.ЭКОНОМ.",
         "classroom": "437*; ",
         "lecturer": "Трунин В.И."
@@ -58,7 +58,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ГОС.РЕГ.ЭКОН.",
         "classroom": "401*; ",
         "lecturer": "Молдован А.А."
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ТЕОР.МЕНЕДЖ.",
         "classroom": "433*; ",
         "lecturer": "Марусов Д.В."
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ТЕОР.МЕНЕДЖ.",
         "classroom": "433*; ",
         "lecturer": "Марусов Д.В."
@@ -82,7 +82,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр ОРГ.ПРЕДПР. ДЕЯТ",
         "classroom": "403*; ",
         "lecturer": "Муравьев А.В."
@@ -90,7 +90,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ОРГ.ПРЕДПР. ДЕЯТ",
         "classroom": "403*; ",
         "lecturer": "Муравьев А.В."
@@ -98,7 +98,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр МАРКЕТИНГ",
         "classroom": "446; ",
         "lecturer": "Сталькина У.М."
@@ -106,7 +106,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ОСН.СИСТ.АНАЛИЗА",
         "classroom": "493; ",
         "lecturer": "Чернусь Петр П."
@@ -114,7 +114,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек СОЦИОЛОГИЯ",
         "classroom": "401*; ",
         "lecturer": "Клюев А.А."
@@ -122,7 +122,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр ОРГ.ПРЕДПР. ДЕЯТ",
         "classroom": "436*; ",
         "lecturer": "Муравьев А.В."
@@ -130,7 +130,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ОРГ.ПРЕДПР. ДЕЯТ",
         "classroom": "430*; ",
         "lecturer": "Муравьев А.В."
@@ -138,7 +138,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "пр ИНСТИТ.ЭКОНОМ.",
         "classroom": "430*; ",
         "lecturer": "Форостянный Н.С."
@@ -146,7 +146,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ЭКОНОМ.ТРУДА",
         "classroom": "440*; ",
         "lecturer": "Вольф Е.В."
@@ -154,7 +154,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ЭКОНОМ.ТРУДА",
         "classroom": "440*; ",
         "lecturer": "Вольф Е.В."
@@ -162,7 +162,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -170,7 +170,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -178,7 +178,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр ДОКУМ-Е УПР.ДЕЯТ",
         "classroom": "530*; ",
         "lecturer": "Баленко А.С."
@@ -186,7 +186,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -194,7 +194,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -202,7 +202,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ТЕОР.МЕНЕДЖ.",
         "classroom": "404*; ",
         "lecturer": "Марневская И.В."
@@ -210,7 +210,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр СОЦИОЛОГИЯ",
         "classroom": "376; ",
         "lecturer": "Клюев А.А."
@@ -218,7 +218,7 @@
     {
         "day": 6,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр МАРКЕТИНГ",
         "classroom": "430*; ",
         "lecturer": "Сталькина У.М."
@@ -226,7 +226,7 @@
     {
         "day": 6,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ОСН.СИСТ.АНАЛИЗА",
         "classroom": "507*а; ",
         "lecturer": "Чернусь П.П."
@@ -234,7 +234,7 @@
     {
         "day": 6,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек МАРКЕТИНГ",
         "classroom": "401*; ",
         "lecturer": "Сталькина У.М."

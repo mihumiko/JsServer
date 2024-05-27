@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ТАУ",
         "classroom": "ВЦ 280; ",
         "lecturer": "Арипова О.В."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ТАУ",
         "classroom": "ВЦ 280; ",
         "lecturer": "Арипова О.В."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ТАУ",
         "classroom": "344; ",
         "lecturer": "Арипова О.В."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ТАУ",
         "classroom": "344; ",
         "lecturer": "Арипова О.В."
@@ -34,7 +34,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лаб УСТР.СВЧ И АНТ",
         "classroom": "428; ",
         "lecturer": "Флёров А.Н."
@@ -42,7 +42,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр УСТР.СВЧ И АНТ",
         "classroom": "423; ",
         "lecturer": "Флёрова А.А."
@@ -50,7 +50,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек УСТР.СВЧ И АНТ",
         "classroom": "434; ",
         "lecturer": "Флёрова А.А."
@@ -58,7 +58,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек УСТР.СВЧ И АНТ",
         "classroom": "434; ",
         "lecturer": "Флёрова А.А."
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ВНЕШ. БАЛЛИСТИКА",
         "classroom": "ВЦ КЕ1; ",
         "lecturer": "Мешков С.А."
@@ -74,7 +74,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "лек ВНЕШ. БАЛЛИСТИКА",
         "classroom": "КАБ.Е1; ",
         "lecturer": "Мешков С.А."
@@ -82,7 +82,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "лек ВНЕШ. БАЛЛИСТИКА",
         "classroom": "КАБ.Е1; ",
         "lecturer": "Мешков С.А."
@@ -90,7 +90,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лаб УСТР. И ФУНКЦ.ЛА",
         "classroom": "СК21; ",
         "lecturer": "Федоров  А.М."
@@ -98,7 +98,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лаб УСТР. И ФУНКЦ.ЛА",
         "classroom": "СК21; ",
         "lecturer": "Федоров  А.М."
@@ -106,7 +106,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек УСТР. И ФУНКЦ.ЛА",
         "classroom": "314; ",
         "lecturer": "Охочинский М.Н."
@@ -114,7 +114,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек УСТР. И ФУНКЦ.ЛА",
         "classroom": "314; ",
         "lecturer": "Охочинский М.Н."
@@ -122,7 +122,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ТП БРАВ ВМФ",
         "classroom": null,
         "lecturer": "Даниэль С.В."
@@ -130,7 +130,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр ТП БРАВ ВМФ",
         "classroom": null,
         "lecturer": "Даниэль С.В."
@@ -138,7 +138,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ЭКСП. БРАВ ВМФ",
         "classroom": null,
         "lecturer": "Даниэль С.В."
@@ -146,7 +146,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ТП БРАВ ВМФ",
         "classroom": null,
         "lecturer": "Даниэль С.В."
@@ -154,7 +154,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ЭКСП. БРАВ ВМФ",
         "classroom": null,
         "lecturer": "Даниэль С.В."
@@ -162,7 +162,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ФО УСТ.И ФУН.СПО",
         "classroom": "313а; ",
         "lecturer": "Кудрявцев С.И."
@@ -170,7 +170,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ФО УСТ.И ФУН.СПО",
         "classroom": "313а; ",
         "lecturer": "Кудрявцев С.И."
@@ -178,7 +178,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лаб ФО УСТ.И ФУН.СПО",
         "classroom": "СК1; ",
         "lecturer": "Новосельцев А.В."
@@ -186,7 +186,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лаб ФО УСТ.И ФУН.СПО",
         "classroom": "СК1; ",
         "lecturer": "Новосельцев А.В."

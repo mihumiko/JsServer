@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лаб ДЕТАЛИ МАШИН",
         "classroom": "452*; ",
         "lecturer": "Кротов Ю.В."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лаб ДЕТАЛИ МАШИН",
         "classroom": "452*; ",
         "lecturer": "Кротов Ю.В."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек МЕТ-РЕЖ. СТАНКИ",
         "classroom": "202*а(К.кл); ",
         "lecturer": "Александров  А.С."
@@ -26,7 +26,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр СТРОИТ.МЕХ.МАШ",
         "classroom": "453*; ",
         "lecturer": "Титух И.Н."
@@ -34,7 +34,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр СТРОИТ.МЕХ.МАШ",
         "classroom": "102*; ",
         "lecturer": "Титух И.Н."
@@ -42,7 +42,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр СТРОИТ.МЕХ.МАШ",
         "classroom": "102*; ",
         "lecturer": "Титух И.Н."
@@ -50,7 +50,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр УПРАВЛЕНИЕ В ТС",
         "classroom": "Лаб. 250; ",
         "lecturer": "Борисов С.В."
@@ -58,7 +58,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр УПРАВЛЕНИЕ В ТС",
         "classroom": "Лаб. 250; ",
         "lecturer": "Борисов С.В."
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лек УПРАВЛЕНИЕ В ТС",
         "classroom": "Лаб. 250; ",
         "lecturer": "Борисов С.В."
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лек УПРАВЛЕНИЕ В ТС",
         "classroom": "Лаб. 250; ",
         "lecturer": "Борисов С.В."
@@ -82,7 +82,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ЭФФЕКТ И НАДЕЖ СТС",
         "classroom": "КАБ.Е1; ",
         "lecturer": "Любимов И.В."
@@ -90,7 +90,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ЭФФЕКТ И НАДЕЖ СТС",
         "classroom": "КАБ.Е1; ",
         "lecturer": "Любимов И.В."
@@ -98,7 +98,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лек МИКРОЭЛ. СИСТ.",
         "classroom": "440; ",
         "lecturer": "Курицын А.Н."
@@ -106,7 +106,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лаб МИКРОЭЛ. СИСТ.",
         "classroom": "114; ",
         "lecturer": "Курицын А.Н."
@@ -114,7 +114,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "пр МИКРОЭЛ. СИСТ.",
         "classroom": "440; ",
         "lecturer": "Курицын А.Н."
@@ -122,7 +122,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек СТРОИТ.МЕХ.МАШ",
         "classroom": "492; ",
         "lecturer": "Титух И.Н."
@@ -130,7 +130,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лаб ЭФФЕКТ И НАДЕЖ СТС",
         "classroom": "КАБ.Е1; ",
         "lecturer": "Мелехин А.А."
@@ -138,7 +138,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ЭФФЕКТ И НАДЕЖ СТС",
         "classroom": "КАБ.Е1; ",
         "lecturer": "Мелехин А.А."
@@ -146,7 +146,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ЭФФЕКТ И НАДЕЖ СТС",
         "classroom": "КАБ.Е1; ",
         "lecturer": "Мелехин А.А."
@@ -154,7 +154,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр ДЕТАЛИ МАШИН",
         "classroom": "452*; ",
         "lecturer": "Ли В.А."
@@ -162,7 +162,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ДЕТАЛИ МАШИН",
         "classroom": "452*; ",
         "lecturer": "Ли В.А."

@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр ТЕОР.ПРИН.РЕШЕН",
         "classroom": "ВЦ 281; ",
         "lecturer": "Бурунова В.Ю."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лаб ДВИГАТЕЛИ ЛА",
         "classroom": "СК2; ",
         "lecturer": "Михайлов К.Н."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ТЕОР. КОНСТР.",
         "classroom": "334; ",
         "lecturer": "Сятчихин А.А."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ТЕОР. КОНСТР.",
         "classroom": "334; ",
         "lecturer": "Сятчихин А.А."
@@ -34,7 +34,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр СИНТЕЗ РАК. СИСТ",
         "classroom": "ВЦ 283; ",
         "lecturer": "Федоров  А.М."
@@ -42,7 +42,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр СИНТЕЗ РАК. СИСТ",
         "classroom": "ВЦ 283; ",
         "lecturer": "Федоров  А.М."
@@ -50,7 +50,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ДВИГАТЕЛИ ЛА",
         "classroom": "СК2; ",
         "lecturer": "Кудров А.Н."
@@ -58,7 +58,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ТЕОР. КОНСТР.",
         "classroom": "318; ",
         "lecturer": "Сятчихин А.А."
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лек СИНТЕЗ РАК. СИСТ",
         "classroom": "374; ",
         "lecturer": "Федоров  А.М."
@@ -74,7 +74,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ТП БРАВ ВМФ",
         "classroom": null,
         "lecturer": "Валов В.Ю."
@@ -82,7 +82,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр ТП БРАВ ВМФ",
         "classroom": null,
         "lecturer": "Валов В.Ю."
@@ -90,7 +90,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ЭКСП. БРАВ ВМФ",
         "classroom": null,
         "lecturer": "Валов В.Ю."
@@ -98,7 +98,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ТП БРАВ ВМФ",
         "classroom": null,
         "lecturer": "Валов В.Ю."
@@ -106,7 +106,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ЭКСП. БРАВ ВМФ",
         "classroom": null,
         "lecturer": "Валов В.Ю."
@@ -114,7 +114,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек СИСТ. И АГРЕГ.",
         "classroom": "313а; ",
         "lecturer": "Охочинский М.Н."
@@ -122,7 +122,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ТЕХНОЛОГИЯ ПР-ВА",
         "classroom": "474; ",
         "lecturer": "Галинская О.О."
@@ -130,7 +130,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ТЕХНОЛОГИЯ ПР-ВА",
         "classroom": "474; ",
         "lecturer": "Галинская О.О."
@@ -138,7 +138,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр ТЕХНОЛОГИЯ ПР-ВА",
         "classroom": "СК М2-2; ",
         "lecturer": "Галинская О.О."
@@ -146,7 +146,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лаб ТЕХНОЛОГИЯ ПР-ВА",
         "classroom": "СК М2-2; ",
         "lecturer": "Галинская О.О."
@@ -154,7 +154,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ТЕОР.ПРИН.РЕШЕН",
         "classroom": "344; ",
         "lecturer": "Гусева В.Н."
@@ -162,7 +162,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ТЕОР.ПРИН.РЕШЕН",
         "classroom": "344; ",
         "lecturer": "Гусева В.Н."
@@ -170,7 +170,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр СИСТ. И АГРЕГ.",
         "classroom": "ВЦ 281; ",
         "lecturer": "Падалка М.А."
@@ -178,7 +178,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр СИСТ. И АГРЕГ.",
         "classroom": "ВЦ 281; ",
         "lecturer": "Падалка М.А."

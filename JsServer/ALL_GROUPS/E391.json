@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "лаб ПР.МЕХ.СПЛОШ.СР",
         "classroom": "БЦ; ",
         "lecturer": "Филимон С.В."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "лаб ПР.МЕХ.СПЛОШ.СР",
         "classroom": "БЦ; ",
         "lecturer": "Филимон С.В."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лаб САПР ГИУ",
         "classroom": "БЦ; ",
         "lecturer": "Никулин Е.Н."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лаб САПР ГИУ",
         "classroom": "БЦ; ",
         "lecturer": "Никулин Е.Н."
@@ -34,7 +34,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр СПЕЦ. ГЛ. МАТ.",
         "classroom": "243; ",
         "lecturer": "Панченко А.В."
@@ -42,7 +42,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр СПЕЦ. ГЛ. МАТ.",
         "classroom": "243; ",
         "lecturer": "Панченко А.В."
@@ -50,7 +50,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ПР.СНАР.УТИЛ БП",
         "classroom": "243; ",
         "lecturer": "Филимон С.В."
@@ -58,7 +58,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ЭКОНОМИКА. ПРОМ",
         "classroom": "440*; ",
         "lecturer": "Киселев Ю.В."
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ЭКОНОМИКА. ПРОМ",
         "classroom": "440*; ",
         "lecturer": "Киселев Ю.В."
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ЭКОНОМИКА. ПРОМ",
         "classroom": "440*; ",
         "lecturer": "Киселев Ю.В."
@@ -82,7 +82,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ПР.СНАР.УТИЛ БП",
         "classroom": "ВЦ 284; ",
         "lecturer": "Филимон С.В."
@@ -90,7 +90,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ИНФ. ТЕХ. ПРОЕКТ.",
         "classroom": "БЦ; ",
         "lecturer": "Михайлов В.А."
@@ -98,7 +98,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр ИНФ. ТЕХ. ПРОЕКТ.",
         "classroom": "БЦ; ",
         "lecturer": "Михайлов В.А."
@@ -106,7 +106,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ПР.СНАР.УТИЛ БП",
         "classroom": "СК11; ",
         "lecturer": "Филимон С.В."
@@ -114,7 +114,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ПР.СНАР.УТИЛ БП",
         "classroom": "СК11; ",
         "lecturer": "Филимон С.В."
@@ -122,7 +122,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "лаб СПЕЦ. ГЛ. МАТ.",
         "classroom": "БЦ; ",
         "lecturer": "Панченко А.В."
@@ -130,7 +130,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "лаб СПЕЦ. ГЛ. МАТ.",
         "classroom": "БЦ; ",
         "lecturer": "Панченко А.В."
@@ -138,7 +138,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ПР.МЕХ.СПЛОШ.СР",
         "classroom": "СК11; ",
         "lecturer": "Филимон С.В."
@@ -146,7 +146,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ПР.МЕХ.СПЛОШ.СР",
         "classroom": "СК11; ",
         "lecturer": "Филимон С.В."
@@ -154,7 +154,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек САПР ГИУ",
         "classroom": "243; ",
         "lecturer": "Никулин Е.Н."
@@ -162,7 +162,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек САПР ГИУ",
         "classroom": "243; ",
         "lecturer": "Никулин Е.Н."
@@ -170,7 +170,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лаб МАТЕМ.МОД. ВООРУЖ.",
         "classroom": "БЦ; ",
         "lecturer": "Кэрт Б.Э."
@@ -178,7 +178,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лаб МАТЕМ.МОД. ВООРУЖ.",
         "classroom": "БЦ; ",
         "lecturer": "Кэрт Б.Э."
@@ -186,7 +186,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лек МАТЕМ.МОД. ВООРУЖ.",
         "classroom": "БЦ; ",
         "lecturer": "Кэрт Б.Э."
@@ -194,7 +194,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лек МАТЕМ.МОД. ВООРУЖ.",
         "classroom": "БЦ; ",
         "lecturer": "Кэрт Б.Э."
@@ -202,7 +202,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ОСН.МЕНЕДЖМЕНТ",
         "classroom": "433*; ",
         "lecturer": "Иванов К.В."
@@ -210,7 +210,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лек ИНФ. ТЕХ. ПРОЕКТ.",
         "classroom": "БЦ; ",
         "lecturer": "Павлов Я.О."
@@ -218,7 +218,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лек ИНФ. ТЕХ. ПРОЕКТ.",
         "classroom": "БЦ; ",
         "lecturer": "Павлов Я.О."
@@ -226,7 +226,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "пр ОСН.МЕНЕДЖМЕНТ",
         "classroom": "425*; ",
         "lecturer": "Иванов К.В."

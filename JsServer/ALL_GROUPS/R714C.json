@@ -2,7 +2,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр РАЗГОВОР.ПРАКТ",
         "classroom": "309*; ",
         "lecturer": "Дунаевская М.А."
@@ -10,7 +10,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр РАЗГОВОР.ПРАКТ",
         "classroom": "309*; ",
         "lecturer": "Дунаевская М.А."
@@ -18,7 +18,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек БЖД",
         "classroom": "310; ",
         "lecturer": "Буторина М.В."
@@ -26,7 +26,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек БЖД",
         "classroom": "310; ",
         "lecturer": "Буторина М.В."
@@ -34,7 +34,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ФИЛ.АН. ТЕКСТА",
         "classroom": "314*; ",
         "lecturer": "Петрова И.О."
@@ -42,7 +42,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр МЕЖКУЛЬТ.КОММУН.",
         "classroom": "318*; ",
         "lecturer": "Царегородцев Р.А."
@@ -50,7 +50,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр К. Р. О. 1 И.Я.",
         "classroom": "316*; ",
         "lecturer": "Твердохлебов С.Г."
@@ -58,7 +58,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр К. Р. О. 1 И.Я.",
         "classroom": "314*; ",
         "lecturer": "Твердохлебов С.Г."
@@ -66,7 +66,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр П.К. 2 И.Я.",
         "classroom": "317*; ",
         "lecturer": "Гончарова В.В."
@@ -74,7 +74,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр П.К. 2 И.Я.",
         "classroom": "316*; ",
         "lecturer": "Гончарова В.В."
@@ -82,7 +82,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр РАЗГОВОР.ПРАКТ",
         "classroom": "313*; ",
         "lecturer": "Дунаевская М.А."
@@ -90,7 +90,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр РАЗГОВОР.ПРАКТ",
         "classroom": "313*; ",
         "lecturer": "Дунаевская М.А."
@@ -98,7 +98,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лаб БЖД",
         "classroom": "384б; ",
         "lecturer": "Шабарова А.В."
@@ -106,7 +106,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр БЖД",
         "classroom": "486; ",
         "lecturer": "Шабарова А.В."
@@ -114,7 +114,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек МЕЖКУЛЬТ.КОММУН.",
         "classroom": "401*; ",
         "lecturer": "Царегородцев Р.А."
@@ -122,7 +122,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек МЕЖКУЛЬТ.КОММУН.",
         "classroom": "437*; ",
         "lecturer": "Царегородцев Р.А."
@@ -130,7 +130,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр П.К. 2 И.Я.",
         "classroom": "314*; ",
         "lecturer": "Гончарова В.В."
@@ -138,7 +138,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр П.К. 2 И.Я.",
         "classroom": "316*; ",
         "lecturer": "Гончарова В.В."
@@ -146,7 +146,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр П.К. 2 И.Я.",
         "classroom": "313*; ",
         "lecturer": "Гончарова В.В."
@@ -154,7 +154,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр П.К. 2 И.Я.",
         "classroom": "312*; ",
         "lecturer": "Гончарова В.В."
@@ -162,7 +162,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр К. Р. О. 1 И.Я.",
         "classroom": "316*; ",
         "lecturer": "Твердохлебов С.Г."
@@ -170,7 +170,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр К. Р. О. 1 И.Я.",
         "classroom": "314*; ",
         "lecturer": "Твердохлебов С.Г."
@@ -178,7 +178,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ФИЛ.АН. ТЕКСТА",
         "classroom": "310*; ",
         "lecturer": "Петрова И.О."
@@ -186,7 +186,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ФИЛ.АН. ТЕКСТА",
         "classroom": "436*; ",
         "lecturer": "Петрова И.О."
@@ -194,7 +194,7 @@
     {
         "day": 6,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ПЕР. 1-ГО ИН. ЯЗ.",
         "classroom": "308*; ",
         "lecturer": "Петрова И.О."
@@ -202,7 +202,7 @@
     {
         "day": 6,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр ПЕР. 1-ГО ИН. ЯЗ.",
         "classroom": "308*; ",
         "lecturer": "Петрова И.О."
@@ -210,7 +210,7 @@
     {
         "day": 6,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ПЕР. 1-ГО ИН. ЯЗ.",
         "classroom": "308*; ",
         "lecturer": "Петрова И.О."
@@ -218,7 +218,7 @@
     {
         "day": 6,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ПЕР. 1-ГО ИН. ЯЗ.",
         "classroom": "308*; ",
         "lecturer": "Петрова И.О."
@@ -226,7 +226,7 @@
     {
         "day": 6,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ПЕР. 1-ГО ИН. ЯЗ.",
         "classroom": "308*; ",
         "lecturer": "Петрова И.О."
@@ -234,7 +234,7 @@
     {
         "day": 6,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ПЕР. 1-ГО ИН. ЯЗ.",
         "classroom": "308*; ",
         "lecturer": "Петрова И.О."

@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -34,7 +34,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -42,7 +42,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -50,7 +50,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -58,7 +58,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ОСН.ФИЗ.ПРОЧН.",
         "classroom": "106*; ",
         "lecturer": "Крыжевич Г.Б."
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ТЕОР.УП.И ПЛАС.",
         "classroom": "453*; ",
         "lecturer": "Крыжевич Г.Б."
@@ -82,7 +82,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ТЕОР.УП.И ПЛАС.",
         "classroom": "460*; ",
         "lecturer": "Крыжевич Г.Б."
@@ -90,7 +90,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лаб ТЕОР.УП.И ПЛАС.",
         "classroom": "106*; ",
         "lecturer": "Крыжевич Г.Б."
@@ -98,7 +98,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр АВТОМАТИКА СПЕЦМАШ",
         "classroom": "ВЦ КЕ1; ",
         "lecturer": "Яковлев С.А."
@@ -106,7 +106,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лаб АВТОМАТИКА СПЕЦМАШ",
         "classroom": "ВЦ КЕ1; ",
         "lecturer": "Яковлев С.А."
@@ -114,7 +114,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лаб АВТОМАТИКА СПЕЦМАШ",
         "classroom": "ВЦ КЕ1; ",
         "lecturer": "Яковлев С.А."
@@ -122,7 +122,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ОСН.ИНЖ.РЕШЕНИЙ",
         "classroom": "445; ",
         "lecturer": "Новиков И.А."
@@ -130,7 +130,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ОСН.ИНЖ.РЕШЕНИЙ",
         "classroom": "313; ",
         "lecturer": "Новиков И.А."
@@ -138,7 +138,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ОСН.ИНЖ.РЕШЕНИЙ",
         "classroom": "КАБ.Е1; ",
         "lecturer": "Новиков И.А."
@@ -146,7 +146,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ОСН.ИНЖ.РЕШЕНИЙ",
         "classroom": "КАБ.Е1; ",
         "lecturer": "Новиков И.А."
@@ -154,7 +154,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ОСН.ФИЗ.ПРОЧН.",
         "classroom": "106*; ",
         "lecturer": "Крыжевич Г.Б."
@@ -162,7 +162,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лаб ОСН.ФИЗ.ПРОЧН.",
         "classroom": "106*; ",
         "lecturer": "Крыжевич Г.Б."
@@ -170,7 +170,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лек ДОЛГОВЕЧН.МАШИН",
         "classroom": "КАБ.Е1; ",
         "lecturer": "Любимов И.В."
@@ -178,7 +178,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лек ДОЛГОВЕЧН.МАШИН",
         "classroom": "КАБ.Е1; ",
         "lecturer": "Любимов И.В."
@@ -186,7 +186,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "пр ДОЛГОВЕЧН.МАШИН",
         "classroom": "КАБ.Е1; ",
         "lecturer": "Любимов И.В."
@@ -194,7 +194,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "лек АВТОМАТИКА СПЕЦМАШ",
         "classroom": "КАБ.Е1; ",
         "lecturer": "Цепелев В.С."

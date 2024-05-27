@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ИНФ-КОМ.УПР.КОМП-СЫ",
         "classroom": "115; ",
         "lecturer": "Карпов С.А."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ИНФ-КОМ.УПР.КОМП-СЫ",
         "classroom": "115; ",
         "lecturer": "Карпов С.А."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр МЕХАТРОНИКА",
         "classroom": "115; ",
         "lecturer": "Карпов С.А."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр МЕХАТРОНИКА",
         "classroom": "115; ",
         "lecturer": "Карпов С.А."
@@ -34,7 +34,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ПРОЕКТ.И МОД.ЭМС",
         "classroom": "115; ",
         "lecturer": "Смирнов А.П."
@@ -42,7 +42,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ПРОЕКТ.И МОД.ЭМС",
         "classroom": "115; ",
         "lecturer": "Смирнов А.П."
@@ -50,7 +50,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ПРОЕКТ.И МОД.ЭМС",
         "classroom": "251; ",
         "lecturer": "Романов И.В."
@@ -58,7 +58,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лаб ПРОЕКТ.И МОД.ЭМС",
         "classroom": "114; ",
         "lecturer": "Романов И.В."
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек МЕХАТРОНИКА",
         "classroom": "115; ",
         "lecturer": "Карпов С.А."
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек МЕХАТРОНИКА",
         "classroom": "115; ",
         "lecturer": "Карпов С.А."
@@ -82,7 +82,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лек ПР. И МОДЕЛ. РЭС",
         "classroom": "251; ",
         "lecturer": "Гурьев А.И."
@@ -90,7 +90,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лек ПР. И МОДЕЛ. РЭС",
         "classroom": "251; ",
         "lecturer": "Гурьев А.И."
@@ -98,7 +98,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ФИЗ.ОСН.БЛ.ЛОК",
         "classroom": "Лаб. 250; ",
         "lecturer": "Митюшов А.И."
@@ -106,7 +106,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ФИЗ.ОСН.БЛ.ЛОК",
         "classroom": "115; ",
         "lecturer": "Митюшов А.И."
@@ -114,7 +114,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ФИЗ.ОСН.БЛ.ЛОК",
         "classroom": "115; ",
         "lecturer": "Митюшов А.И."
@@ -122,7 +122,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ТАУ",
         "classroom": "251; ",
         "lecturer": "Романов И.В."
@@ -130,7 +130,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ТАУ",
         "classroom": "251; ",
         "lecturer": "Романов И.В."
@@ -138,7 +138,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лек ТАУ",
         "classroom": "251; ",
         "lecturer": "Романов И.В."
@@ -146,7 +146,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лек ТАУ",
         "classroom": "251; ",
         "lecturer": "Романов И.В."
@@ -154,7 +154,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ИНФ-КОМ.УПР.КОМП-СЫ",
         "classroom": "115; ",
         "lecturer": "Карпов С.А."
@@ -162,7 +162,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ИНФ-КОМ.УПР.КОМП-СЫ",
         "classroom": "115; ",
         "lecturer": "Карпов С.А."
@@ -170,7 +170,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лаб ФИЗ.ОСН.БЛ.ЛОК",
         "classroom": "251; ",
         "lecturer": "Перов Л.Д."
@@ -178,7 +178,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лаб МЕХАТРОНИКА",
         "classroom": "Лаб. 323; ",
         "lecturer": "Карпов С.А."
@@ -186,7 +186,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ПР. И МОДЕЛ. РЭС",
         "classroom": "Лаб. 250; ",
         "lecturer": "Гурьев А.И."
@@ -194,7 +194,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ПРОГР.И ОСН.АЛГ",
         "classroom": "Лаб. 323; ",
         "lecturer": "Чич С.В."
@@ -202,7 +202,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр ПРОГР.И ОСН.АЛГ",
         "classroom": "Лаб. 323; ",
         "lecturer": "Чич С.В."
@@ -210,7 +210,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ПРОГР.И ОСН.АЛГ",
         "classroom": "251; ",
         "lecturer": "Чич С.В."
@@ -218,7 +218,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ПРОГР.И ОСН.АЛГ",
         "classroom": "251; ",
         "lecturer": "Чич С.В."
@@ -226,7 +226,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ИНФ-КОМ.УПР.КОМП-СЫ",
         "classroom": "115; ",
         "lecturer": "Карпов С.А."
@@ -234,7 +234,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лаб ПР. И МОДЕЛ. РЭС",
         "classroom": "Лаб. 323; ",
         "lecturer": "Крылов  В.А."
