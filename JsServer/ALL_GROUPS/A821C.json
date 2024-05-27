@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лаб МЕТР,СТАНД,СЕРТ",
         "classroom": "к.Н2-4; ",
         "lecturer": "Стрельцов В.Г."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лаб ТЕРМОДИНАМИКА",
         "classroom": "ТМП-3; ТМП-4; ТМП-6; ",
         "lecturer": "Киршина А.А."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр МЕТР,СТАНД,СЕРТ",
         "classroom": "332; ",
         "lecturer": "Иванова О.Ю."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ОСН.СИСТ.АНАЛИЗА",
         "classroom": "492; ",
         "lecturer": "Митрофанов А.А."
@@ -34,7 +34,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек МЕТР,СТАНД,СЕРТ",
         "classroom": "372; ",
         "lecturer": "Иванова О.Ю."
@@ -42,7 +42,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек МЕТР,СТАНД,СЕРТ",
         "classroom": "372; ",
         "lecturer": "Иванова О.Ю."
@@ -50,7 +50,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лаб ТЕХН.КОНСТ.МАТ.",
         "classroom": "202*; ",
         "lecturer": "Шония К.Н."
@@ -58,7 +58,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лаб ТЕХН.КОНСТ.МАТ.",
         "classroom": "202*; ",
         "lecturer": "Шония К.Н."
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ТЕРМОДИНАМИКА",
         "classroom": "СК2а; ",
         "lecturer": "Савченко Г.Б."
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -82,7 +82,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -90,7 +90,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек СОПР.МАТЕРИАЛОВ",
         "classroom": "429*; ",
         "lecturer": "Красильников А.З."
@@ -98,7 +98,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек СОПР.МАТЕРИАЛОВ",
         "classroom": "429*; ",
         "lecturer": "Красильников А.З."
@@ -106,7 +106,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ТЕХН.КОНСТ.МАТ.",
         "classroom": "СК3; ",
         "lecturer": "Петров  В.М."
@@ -114,7 +114,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр СОПР.МАТЕРИАЛОВ",
         "classroom": "102*; ",
         "lecturer": "Красильников А.З."
@@ -122,7 +122,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр УНИРС",
         "classroom": "ТМП-2; ",
         "lecturer": "Саваровский А.А."
@@ -130,7 +130,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр УНИРС",
         "classroom": "ТМП-2; ",
         "lecturer": "Саваровский А.А."
@@ -138,7 +138,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ВЫСШ. МАТЕМАТ",
         "classroom": "492; ",
         "lecturer": "Гарынина С.В."
@@ -146,7 +146,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ВЫСШ. МАТЕМАТ",
         "classroom": "492; ",
         "lecturer": "Гарынина С.В."
@@ -154,7 +154,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ПРОЕКТИР. С ПРИМ.CAD",
         "classroom": "ВЦ 280; ",
         "lecturer": "Киршин А.Ю."
@@ -162,7 +162,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ПРОЕКТИР. С ПРИМ.CAD",
         "classroom": "ВЦ 280; ",
         "lecturer": "Киршин А.Ю."
@@ -170,7 +170,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр ПРОЕКТИР. С ПРИМ.CAD",
         "classroom": "ВЦ 285; ",
         "lecturer": "Киршин А.Ю."
@@ -178,7 +178,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ПРОЕКТИР. С ПРИМ.CAD",
         "classroom": "ВЦ 285; ",
         "lecturer": "Киршин А.Ю."
@@ -186,7 +186,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "лек ВЫСШ. МАТЕМАТ",
         "classroom": "493; ",
         "lecturer": "Брацлавский А.А."
@@ -194,7 +194,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "лек ВЫСШ. МАТЕМАТ",
         "classroom": "493; ",
         "lecturer": "Брацлавский А.А."
@@ -202,7 +202,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -210,7 +210,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -218,7 +218,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ТЕРМОДИНАМИКА",
         "classroom": "450; ",
         "lecturer": "Савченко Г.Б."
@@ -226,7 +226,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ТЕРМОДИНАМИКА",
         "classroom": "450; ",
         "lecturer": "Савченко Г.Б."
@@ -234,7 +234,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ОСН.СИСТ.АНАЛИЗА",
         "classroom": "450; ",
         "lecturer": "Кулаков А.Ю."
@@ -242,7 +242,7 @@
     {
         "day": 6,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "лек ЦИФР.ТЕХН.В ДВИГ.",
         "classroom": "434*; ",
         "lecturer": "Орлов О.В."
@@ -250,7 +250,7 @@
     {
         "day": 6,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "лек ЦИФР.ТЕХН.В ДВИГ.",
         "classroom": "434*; ",
         "lecturer": "Орлов О.В."
@@ -258,7 +258,7 @@
     {
         "day": 6,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ЦИФР.ТЕХН.В ДВИГ.",
         "classroom": "219*а; ",
         "lecturer": "Орлов О.В."
@@ -266,7 +266,7 @@
     {
         "day": 6,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лаб ЦИФР.ТЕХН.В ДВИГ.",
         "classroom": "257*; ",
         "lecturer": "Орлов О.В."

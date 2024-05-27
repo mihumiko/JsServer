@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр УПР.ПРОЕКТ.РАЗР. АС",
         "classroom": "484; ",
         "lecturer": "Смирнова М.С."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр УПР.ПРОЕКТ.РАЗР. АС",
         "classroom": "486; ",
         "lecturer": "Смирнова М.С."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр УПР. РИС. И СИСТ. АНАЛ.",
         "classroom": "325; ",
         "lecturer": "Смирнова М.С."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек УПР. РИС. И СИСТ. АНАЛ.",
         "classroom": "325; ",
         "lecturer": "Смирнова М.С."
@@ -34,7 +34,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лек МЕТ. НАУЧ. ИССЛЕД",
         "classroom": "526*; ",
         "lecturer": "Дрозд А.Л."
@@ -42,7 +42,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "пр МЕТ. НАУЧ. ИССЛЕД",
         "classroom": "403*; ",
         "lecturer": "Дрозд А.Л."
@@ -50,7 +50,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ГА П И А",
         "classroom": "ПП ОкП; ",
         "lecturer": "Махов В.И."
@@ -58,7 +58,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр ГА П И А",
         "classroom": "ПП ОкП; ",
         "lecturer": "Махов В.И."
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ПР.СР.И ОБР.РЕЗ. АИ",
         "classroom": "ПП ОкП; ",
         "lecturer": "Горелов А.А."
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ГА П И А",
         "classroom": "ПП ОкП; ",
         "lecturer": "Жуков В.Б."
@@ -82,7 +82,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ПР.СР.И ОБР.РЕЗ. АИ",
         "classroom": "ПП ОкП; ",
         "lecturer": "Горелов А.А."
@@ -90,7 +90,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ПР.СР.И ОБР.РЕЗ. АИ",
         "classroom": "ПП ОкП; ",
         "lecturer": "Горелов А.А."
@@ -98,7 +98,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "лек ВЫСШ. МАТ. В НИ",
         "classroom": "450; ",
         "lecturer": "Павлов Ю.В."
@@ -106,7 +106,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "лек ВЫСШ. МАТ. В НИ",
         "classroom": "450; ",
         "lecturer": "Павлов Ю.В."
@@ -114,7 +114,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "20:05 Четная",
+        "time": "20:05",
         "discipline": "пр ВЫСШ. МАТ. В НИ",
         "classroom": "492; ",
         "lecturer": "Павлов Ю.В."
@@ -122,7 +122,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "лек УПР.ПРОЕКТАМИ",
         "classroom": "331*; ",
         "lecturer": "Алёшкин Н.А."
@@ -130,7 +130,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "пр УПР.ПРОЕКТАМИ",
         "classroom": "331*; ",
         "lecturer": "Алёшкин Н.А."
@@ -138,7 +138,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "304*; ",
         "lecturer": "Логинова Н.К."
@@ -146,7 +146,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "304*; ",
         "lecturer": "Логинова Н.К."

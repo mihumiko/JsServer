@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек КОНСТ. ИЗ КОМПОЗИТ. МАТ.",
         "classroom": "СК ИСС; ",
         "lecturer": "Евстафьев В.А."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лек КОНСТ. ИЗ КОМПОЗИТ. МАТ.",
         "classroom": "ВЦ А3; ",
         "lecturer": "Бокучава П.Н."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лаб КОНСТ. ИЗ КОМПОЗИТ. МАТ.",
         "classroom": "ВЦ А3; ",
         "lecturer": "Бокучава П.Н."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "пр ОСН.УСТР-ВА ПУ",
         "classroom": "СК А4; ",
         "lecturer": "Красильников Р.В."
@@ -34,7 +34,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "пр ОСН.УСТР-ВА ПУ",
         "classroom": "СК А4; ",
         "lecturer": "Красильников Р.В."
@@ -42,7 +42,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "20:05 Четная",
+        "time": "20:05",
         "discipline": "лек ОСН.УСТР-ВА ПУ",
         "classroom": "СК А4; ",
         "lecturer": "Красильников Р.В."
@@ -50,7 +50,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр СИНТЕЗ РАК. СИСТ",
         "classroom": "334; ",
         "lecturer": "Федоров  А.М."
@@ -58,7 +58,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр ОЦЕН. ЭФФ. ИЗД. РКТ",
         "classroom": "СК21а; ",
         "lecturer": "Афанасьев К.А."
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ОЦЕН. ЭФФ. ИЗД. РКТ",
         "classroom": "СК21а; ",
         "lecturer": "Афанасьев К.А."
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "лек ОЦЕН. ЭФФ. ИЗД. РКТ",
         "classroom": "101; ",
         "lecturer": "Афанасьев К.А."
@@ -82,7 +82,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "лаб ОЦЕН. ЭФФ. ИЗД. РКТ",
         "classroom": "ВЦ 280; ",
         "lecturer": "Афанасьев К.А."
@@ -90,7 +90,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -98,7 +98,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -106,7 +106,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -114,7 +114,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -122,7 +122,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -130,7 +130,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -138,7 +138,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -146,7 +146,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -154,7 +154,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр СИНТЕЗ РАК. СИСТ",
         "classroom": "334; ",
         "lecturer": "Федоров  А.М."
@@ -162,7 +162,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр СИНТЕЗ РАК. СИСТ",
         "classroom": "334; ",
         "lecturer": "Федоров  А.М."
@@ -170,7 +170,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек СИНТЕЗ РАК. СИСТ",
         "classroom": "101; ",
         "lecturer": "Федоров  А.М."
@@ -178,7 +178,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек СИНТЕЗ РАК. СИСТ",
         "classroom": "СК21а; ",
         "lecturer": "Федоров  А.М."
@@ -186,7 +186,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек МЕН.РАЗР.И ИССЛ.",
         "classroom": "СК21а; ",
         "lecturer": "Чириков С.А."
@@ -194,7 +194,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр МЕН.РАЗР.И ИССЛ.",
         "classroom": "СК21а; ",
         "lecturer": "Чириков С.А."
@@ -202,7 +202,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр УНИРС",
         "classroom": "101; ",
         "lecturer": "Бурковецкий К.А."
@@ -210,7 +210,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр УНИРС",
         "classroom": "101; ",
         "lecturer": "Бурковецкий К.А."

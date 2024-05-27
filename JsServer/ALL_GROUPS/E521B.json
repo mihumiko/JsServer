@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "309*; ",
         "lecturer": "Панкратова С.А."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "309*; ",
         "lecturer": "Панкратова С.А."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ВЫСШ. МАТЕМАТ",
         "classroom": "376; ",
         "lecturer": "Барт Е.Л."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ВЫСШ. МАТЕМАТ",
         "classroom": "376; ",
         "lecturer": "Барт Е.Л."
@@ -34,7 +34,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр М-Б. ОСНОВЫ БЖД",
         "classroom": "486; ",
         "lecturer": "Храмов А.В."
@@ -42,7 +42,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр М-Б. ОСНОВЫ БЖД",
         "classroom": "498; ",
         "lecturer": "Храмов А.В."
@@ -50,7 +50,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "лек ВЫСШ. МАТЕМАТ",
         "classroom": "451; ",
         "lecturer": "Барт Е.Л."
@@ -58,7 +58,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "лек ВЫСШ. МАТЕМАТ",
         "classroom": "451; ",
         "lecturer": "Барт Е.Л."
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -82,7 +82,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ТЕОР. МЕХАНИКА",
         "classroom": "ВЦ 285; ",
         "lecturer": "Зимин Б.А."
@@ -90,7 +90,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ТЕОР. МЕХАНИКА",
         "classroom": "ВЦ 285; ",
         "lecturer": "Зимин Б.А."
@@ -98,7 +98,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ТЕРМОДИНАМИКА",
         "classroom": "310; ",
         "lecturer": "Саваровский А.А."
@@ -106,7 +106,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ТЕРМОДИНАМИКА",
         "classroom": "310; ",
         "lecturer": "Саваровский А.А."
@@ -114,7 +114,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ПРОМ.БЕЗ-ТЬ.ПП",
         "classroom": "486; ",
         "lecturer": "Васильев А.П."
@@ -122,7 +122,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ОСН.СИСТ.АНАЛ.",
         "classroom": "Мкаб.Е1; ",
         "lecturer": "Мелехин А.А."
@@ -130,7 +130,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ОСН.СИСТ.АНАЛ.",
         "classroom": "310; ",
         "lecturer": "Афанасьев А.С."
@@ -138,7 +138,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ПРОМ.БЕЗ-ТЬ.ПП",
         "classroom": "484; ",
         "lecturer": "Петров С.К."
@@ -146,7 +146,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -154,7 +154,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -162,7 +162,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр М-Б. ОСНОВЫ БЖД",
         "classroom": "486; ",
         "lecturer": "Храмов А.В."
@@ -170,7 +170,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лаб ТЕРМОДИНАМИКА",
         "classroom": "ТМП-3; ТМП-4; ТМП-6; ",
         "lecturer": "Ценёва С.Н."
@@ -178,7 +178,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ЭКОНОМИКА",
         "classroom": "432*; ",
         "lecturer": "Катаев С.Е."
@@ -186,7 +186,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ЭКОНОМИКА",
         "classroom": "440*; ",
         "lecturer": "Катаев С.Е."
@@ -194,7 +194,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ЭКОНОМИКА",
         "classroom": "440*; ",
         "lecturer": "Катаев С.Е."
@@ -202,7 +202,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ТЕОР. МЕХАНИКА",
         "classroom": "493; ",
         "lecturer": "Зимин Б.А."
@@ -210,7 +210,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ТЕОР. МЕХАНИКА",
         "classroom": "493; ",
         "lecturer": "Зимин Б.А."

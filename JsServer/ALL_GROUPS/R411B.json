@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ГОС.БЮДЖЕТ",
         "classroom": "403*; ",
         "lecturer": "Черненко В.А."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр ГОС.БЮДЖЕТ",
         "classroom": "403*; ",
         "lecturer": "Черненко В.А."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ЦЕНОВАЯ ПОЛ-КА",
         "classroom": "404*; ",
         "lecturer": "Черненко В.А."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ЦЕНОВАЯ ПОЛ-КА",
         "classroom": "440*; ",
         "lecturer": "Черненко В.А."
@@ -34,7 +34,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ЦЕНОВАЯ ПОЛ-КА",
         "classroom": "440*; ",
         "lecturer": "Черненко В.А."
@@ -42,7 +42,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ЦЕНОВАЯ ПОЛ-КА",
         "classroom": "440*; ",
         "lecturer": "Черненко В.А."
@@ -50,7 +50,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр НИР (ПЕРВИЧ.НАВЫКИ)",
         "classroom": "440*; ",
         "lecturer": "Сорокина Е.В."
@@ -58,7 +58,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр ОСН.БУХ.УЧ. И АУДИТА",
         "classroom": "413*; ",
         "lecturer": "Катаев С.Е."
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ОСН.БУХ.УЧ. И АУДИТА",
         "classroom": "402*; ",
         "lecturer": "Катаев С.Е."
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "лек ОСН.БУХ.УЧ. И АУДИТА",
         "classroom": "402*; ",
         "lecturer": "Катаев С.Е."
@@ -82,7 +82,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр СТРАХОВАНИЕ",
         "classroom": "430*; ",
         "lecturer": "Венедиктова С.К."
@@ -90,7 +90,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр СТРАХОВАНИЕ",
         "classroom": "436*; ",
         "lecturer": "Венедиктова С.К."
@@ -98,7 +98,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "пр СТРАХОВАНИЕ",
         "classroom": "436*; ",
         "lecturer": "Венедиктова С.К."
@@ -106,7 +106,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "пр СТРАХОВАНИЕ",
         "classroom": "436*; ",
         "lecturer": "Венедиктова С.К."
@@ -114,7 +114,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр БЖД",
         "classroom": "445; ",
         "lecturer": "Фиев К.П."
@@ -122,7 +122,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лаб БЖД",
         "classroom": "384б; ",
         "lecturer": "Фиев К.П."
@@ -130,7 +130,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ПРОГНОЗ. С-ЭК ПРОЦ.",
         "classroom": "437*; ",
         "lecturer": "Шиндина Ю.А."
@@ -138,7 +138,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ПРОГНОЗ. С-ЭК ПРОЦ.",
         "classroom": "404*; ",
         "lecturer": "Шиндина Ю.А."
@@ -146,7 +146,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ПРОГНОЗ. С-ЭК ПРОЦ.",
         "classroom": "433*; ",
         "lecturer": "Шиндина Ю.А."
@@ -154,7 +154,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ПРОГНОЗ. С-ЭК ПРОЦ.",
         "classroom": "420*; ",
         "lecturer": "Шиндина Ю.А."
@@ -162,7 +162,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ОРГ.ПР-ВА НА ПР.",
         "classroom": "440*; ",
         "lecturer": "Уманец С.А."
@@ -170,7 +170,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек БЖД",
         "classroom": "310; ",
         "lecturer": "Тюрина Н.В."
@@ -178,7 +178,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек БЖД",
         "classroom": "310; ",
         "lecturer": "Тюрина Н.В."
@@ -186,7 +186,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ОРГ.ПР-ВА НА ПР.",
         "classroom": "433*; ",
         "lecturer": "Уманец С.А."
@@ -194,7 +194,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ОРГ.ПР-ВА НА ПР.",
         "classroom": "404*; ",
         "lecturer": "Уманец С.А."
@@ -202,7 +202,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -210,7 +210,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -218,7 +218,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лек ГОС.БЮДЖЕТ",
         "classroom": "402*; ",
         "lecturer": "Черненко В.А."

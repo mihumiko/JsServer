@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "лек ТЕОРИЯ ЛМ",
         "classroom": "СК2а; ",
         "lecturer": "Рудяк М.Е."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "лек ТЕОРИЯ ЛМ",
         "classroom": "СК2а; ",
         "lecturer": "Рудяк М.Е."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ТЕОРИЯ ЛМ",
         "classroom": "СК2а; ",
         "lecturer": "Рудяк М.Е."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ТЕОРИЯ ЛМ",
         "classroom": "СК2а; ",
         "lecturer": "Рудяк М.Е."
@@ -34,7 +34,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ТЕОР.И КОНСТР.ВРД",
         "classroom": "ТМП-2; ",
         "lecturer": "Юнаков Л.П."
@@ -42,7 +42,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ТЕОР.И КОНСТР.ВРД",
         "classroom": "ТМП-2; ",
         "lecturer": "Юнаков Л.П."
@@ -50,7 +50,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ТЕОР.И КОНСТР.ВРД",
         "classroom": "ТМП-2; ",
         "lecturer": "Юнаков Л.П."
@@ -58,7 +58,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ОСН. МЕН. И МАРК",
         "classroom": "314; ",
         "lecturer": "Кондратьев Сергей А."
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ОСН. МЕН. И МАРК",
         "classroom": "492; ",
         "lecturer": "Кондратьев Сергей А."
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек СРЕДСТВА ИНЖ.РАСЧ.",
         "classroom": "ТМП-2; ",
         "lecturer": "Гашевский Е.М."
@@ -82,7 +82,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр АЭРОГАЗОДИНАМ",
         "classroom": "446; ",
         "lecturer": "Чернышов М.В."
@@ -90,7 +90,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр СРЕДСТВА ИНЖ.РАСЧ.",
         "classroom": "ауд.БК Климов; ",
         "lecturer": "Гашевский Е.М."
@@ -98,7 +98,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр СРЕДСТВА ИНЖ.РАСЧ.",
         "classroom": "ауд.БК Климов; ",
         "lecturer": "Гашевский Е.М."
@@ -106,7 +106,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ТЕОР.И КОНСТР.ВРД",
         "classroom": "ТМП-2; ",
         "lecturer": "Юнаков Л.П."
@@ -114,7 +114,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ТЕОР.И КОНСТР.ВРД",
         "classroom": "ТМП-2; ",
         "lecturer": "Юнаков Л.П."
@@ -122,7 +122,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лаб АЭРОГАЗОДИНАМ",
         "classroom": "лаб г/дин; ",
         "lecturer": "Федосенко Н.Б."
@@ -130,7 +130,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лаб АЭРОГАЗОДИНАМ",
         "classroom": "лаб г/дин; ",
         "lecturer": "Федосенко Н.Б."
@@ -138,7 +138,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ДЕТАЛИ МАШИН",
         "classroom": "452*; ",
         "lecturer": "Беляев А.Н."
@@ -146,7 +146,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ДЕТАЛИ МАШИН",
         "classroom": "452*; ",
         "lecturer": "Беляев А.Н."
@@ -154,7 +154,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лек ДЕТАЛИ МАШИН",
         "classroom": "460*; ",
         "lecturer": "Ли В.А."
@@ -162,7 +162,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -170,7 +170,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -178,7 +178,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -186,7 +186,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -194,7 +194,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -202,7 +202,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -210,7 +210,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -218,7 +218,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -226,7 +226,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек АЭРОГАЗОДИНАМ",
         "classroom": "438; ",
         "lecturer": "Чернышов М.В."
@@ -234,7 +234,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек АЭРОГАЗОДИНАМ",
         "classroom": "438; ",
         "lecturer": "Чернышов М.В."
@@ -242,7 +242,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр УНИРС",
         "classroom": "ТМП-2; ",
         "lecturer": "Саваровский А.А."
@@ -250,7 +250,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр УНИРС",
         "classroom": "ТМП-2; ",
         "lecturer": "Саваровский А.А."
@@ -258,7 +258,7 @@
     {
         "day": 6,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ХИМ.ТЕРМОДИНАМ",
         "classroom": "ТМП-2; ",
         "lecturer": "Боряев А.А."
@@ -266,7 +266,7 @@
     {
         "day": 6,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ХИМ.ТЕРМОДИНАМ",
         "classroom": "ТМП-2; ",
         "lecturer": "Боряев А.А."
@@ -274,7 +274,7 @@
     {
         "day": 6,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ХИМ.ТЕРМОДИНАМ",
         "classroom": "ТМП-2; ",
         "lecturer": "Боряев А.А."
@@ -282,7 +282,7 @@
     {
         "day": 6,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ХИМ.ТЕРМОДИНАМ",
         "classroom": "ТМП-2; ",
         "lecturer": "Боряев А.А."

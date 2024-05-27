@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ЗАЩ.В ЧРЕЗВ. СИТ",
         "classroom": "460*; ",
         "lecturer": "Храмов А.В."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ЗАЩ.В ЧРЕЗВ. СИТ",
         "classroom": "404*; ",
         "lecturer": "Храмов А.В."
@@ -18,7 +18,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр УПР.ПРОЕКТАМИ",
         "classroom": "526*; ",
         "lecturer": "Стешин А.И."
@@ -26,7 +26,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек УПР.ПРОЕКТАМИ",
         "classroom": "526*; ",
         "lecturer": "Стешин А.И."
@@ -34,7 +34,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лаб ЧРПЗМ",
         "classroom": "411*; ",
         "lecturer": "Брытков Е.В."
@@ -42,7 +42,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр CAD/CAE ТЕХНОЛОГИИ",
         "classroom": "411*; ",
         "lecturer": "Брытков Е.В."
@@ -50,7 +50,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр CAD/CAE ТЕХНОЛОГИИ",
         "classroom": "411*; ",
         "lecturer": "Брытков Е.В."
@@ -58,7 +58,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "530*; ",
         "lecturer": "Мигунова О.В."
@@ -66,7 +66,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "530*; ",
         "lecturer": "Мигунова О.В."
@@ -74,7 +74,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ЗАЩ.В ЧРЕЗВ. СИТ",
         "classroom": "413*; ",
         "lecturer": "Храмов А.В."
@@ -82,7 +82,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ИСТ,ФИЛ.И МЕТ.НАУК",
         "classroom": "526*; ",
         "lecturer": "Канатаев Д.В."
@@ -90,7 +90,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ИСТ,ФИЛ.И МЕТ.НАУК",
         "classroom": "526*; ",
         "lecturer": "Канатаев Д.В."
@@ -98,7 +98,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лаб ЧРПЗМ",
         "classroom": "411*; ",
         "lecturer": "Брытков Е.В."
@@ -106,7 +106,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лаб ЧРПЗМ",
         "classroom": "411*; ",
         "lecturer": "Брытков Е.В."

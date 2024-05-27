@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ПР.И МОД.ЭЛ. ВЗР.",
         "classroom": "440; ",
         "lecturer": "Ткаченко В.В."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ПР.И МОД.ЭЛ. ВЗР.",
         "classroom": "440; ",
         "lecturer": "Ткаченко В.В."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лаб ПР.И МОД.ЭЛ. ВЗР.",
         "classroom": "Лаб. 323; 440; ",
         "lecturer": "Ткаченко В.В."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ПР.И МОД.ЭЛ. ВЗР.",
         "classroom": "440; ",
         "lecturer": "Ткаченко В.В."
@@ -34,7 +34,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "пр ВМ. СИСТ. И СЕТИ",
         "classroom": "440; ",
         "lecturer": "Карпов С.А."
@@ -42,7 +42,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "пр ВМ. СИСТ. И СЕТИ",
         "classroom": "440; ",
         "lecturer": "Карпов С.А."
@@ -50,7 +50,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ЛС СПЕЦ. НАЗНАЧ",
         "classroom": "219а; ",
         "lecturer": "Губарев А.Д."
@@ -58,7 +58,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр ЛС СПЕЦ. НАЗНАЧ",
         "classroom": "219; ",
         "lecturer": "Губарев А.Д."
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лаб ЛС СПЕЦ. НАЗНАЧ",
         "classroom": "219а; ",
         "lecturer": "Губарев А.Д."
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "лек ПР.И М. Э-М. ВЗР.",
         "classroom": "440; ",
         "lecturer": "Тимербулатов Р.Р."
@@ -82,7 +82,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "лек ПР.И М. Э-М. ВЗР.",
         "classroom": "440; ",
         "lecturer": "Тимербулатов Р.Р."
@@ -90,7 +90,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "пр ПР.И М. Э-М. ВЗР.",
         "classroom": "440; ",
         "lecturer": "Тимербулатов Р.Р."
@@ -98,7 +98,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "20:05 Четная",
+        "time": "20:05",
         "discipline": "лаб ПР.И М. Э-М. ВЗР.",
         "classroom": "114; 440; ",
         "lecturer": "Тимербулатов Р.Р."
@@ -106,7 +106,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ЭФФ.И НАДЕЖН",
         "classroom": "115; ",
         "lecturer": "Архипова И.В."
@@ -114,7 +114,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр СПУТН.НАВИГ.СИСТ.",
         "classroom": "440; ",
         "lecturer": "Иванцевич Н.В."
@@ -122,7 +122,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек СПУТН.НАВИГ.СИСТ.",
         "classroom": "440; ",
         "lecturer": "Иванцевич Н.В."
@@ -130,7 +130,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек СПУТН.НАВИГ.СИСТ.",
         "classroom": "440; ",
         "lecturer": "Иванцевич Н.В."
@@ -138,7 +138,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ВМ. СИСТ. И СЕТИ",
         "classroom": "Лаб. 323; ",
         "lecturer": "Карпов С.А."
@@ -146,7 +146,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ВМ. СИСТ. И СЕТИ",
         "classroom": "Лаб. 323; ",
         "lecturer": "Карпов С.А."
@@ -154,7 +154,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек МЭМС ВЗР.",
         "classroom": "Лаб. 323; ",
         "lecturer": "Курицын А.Н."
@@ -162,7 +162,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек МЭМС ВЗР.",
         "classroom": "Лаб. 250; ",
         "lecturer": "Курицын А.Н."
@@ -170,7 +170,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр МЭМС ВЗР.",
         "classroom": "115; ",
         "lecturer": "Курицын А.Н."
@@ -178,7 +178,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лаб МЭМС ВЗР.",
         "classroom": "114; ",
         "lecturer": "Курицын А.Н."
@@ -186,7 +186,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "лек МЕТ.ИСП.ВЗР.",
         "classroom": "440; ",
         "lecturer": "Жилин В.Н."
@@ -194,7 +194,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "лек МЕТ.ИСП.ВЗР.",
         "classroom": "440; ",
         "lecturer": "Жилин В.Н."
@@ -202,7 +202,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "20:05 Четная",
+        "time": "20:05",
         "discipline": "пр МЕТ.ИСП.ВЗР.",
         "classroom": "115; ",
         "lecturer": "Жилин В.Н."
@@ -210,7 +210,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ОСН.МЕНЕДЖМЕНТ",
         "classroom": "433*; ",
         "lecturer": "Иванов К.В."
@@ -218,7 +218,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр ОСН.МЕНЕДЖМЕНТ",
         "classroom": "404*; ",
         "lecturer": "Иванов К.В."
@@ -226,7 +226,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лек ЭФФ.И НАДЕЖН",
         "classroom": "440; ",
         "lecturer": "Архипова И.В."
@@ -234,7 +234,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "лек ЭФФ.И НАДЕЖН",
         "classroom": "440; ",
         "lecturer": "Архипова И.В."

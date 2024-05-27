@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ТЕПЛ.ЗАЩ.ЛА",
         "classroom": "310; ",
         "lecturer": "Колычев А.В."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ТЕПЛ.ЗАЩ.ЛА",
         "classroom": "310; ",
         "lecturer": "Колычев А.В."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лек ИСПЫТАНИЯ РС",
         "classroom": "314; ",
         "lecturer": "Нестеров С.А."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лек ИСПЫТАНИЯ РС",
         "classroom": "314; ",
         "lecturer": "Нестеров С.А."
@@ -34,7 +34,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "пр ИСПЫТАНИЯ РС",
         "classroom": "101; ",
         "lecturer": "Нестеров С.А."
@@ -42,7 +42,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "пр ИСПЫТАНИЯ РС",
         "classroom": "101; ",
         "lecturer": "Нестеров С.А."
@@ -50,7 +50,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ЭКСПЛУАТАЦИЯ",
         "classroom": "101; ",
         "lecturer": "Бурковецкий К.А."
@@ -58,7 +58,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр КОЛ.МЕТ. ОЦ.ЭФФ",
         "classroom": "СК21а; ",
         "lecturer": "Сырцев А.Н."
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр КОЛ.МЕТ. ОЦ.ЭФФ",
         "classroom": "СК21Б; ",
         "lecturer": "Сырцев А.Н."
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лек КОЛ.МЕТ. ОЦ.ЭФФ",
         "classroom": "310; ",
         "lecturer": "Сырцев А.Н."
@@ -82,7 +82,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лек КОЛ.МЕТ. ОЦ.ЭФФ",
         "classroom": "313а; ",
         "lecturer": "Сырцев А.Н."
@@ -90,7 +90,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "лек ЭКСПЛУАТАЦИЯ",
         "classroom": "101; ",
         "lecturer": "Бурковецкий К.А."
@@ -98,7 +98,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "лек ЭКСПЛУАТАЦИЯ",
         "classroom": "101; ",
         "lecturer": "Бурковецкий К.А."
@@ -106,7 +106,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ТЕПЛ.ЗАЩ.ЛА",
         "classroom": "ВЦ 281; ",
         "lecturer": "Колычев А.В."
@@ -114,7 +114,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ТЕПЛ.ЗАЩ.ЛА",
         "classroom": "ВЦ 283; ",
         "lecturer": "Колычев А.В."
@@ -122,7 +122,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ОСН.БОЕВ.ПРИМ.РС",
         "classroom": "318; ",
         "lecturer": "Прядкин А.С."
@@ -130,7 +130,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ОСН.БОЕВ.ПРИМ.РС",
         "classroom": "318; ",
         "lecturer": "Прядкин А.С."
@@ -138,7 +138,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лек ПО САПР",
         "classroom": "316; ",
         "lecturer": "Сятчихин А.А."
@@ -146,7 +146,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ОСН.БОЕВ.ПРИМ.РС",
         "classroom": "344; ",
         "lecturer": "Прядкин А.С."
@@ -154,7 +154,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "лек ОЦЕНК.СОСТ.ЛА",
         "classroom": "313а; ",
         "lecturer": "Бородавкин В.А."
@@ -162,7 +162,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "пр ОЦЕНК.СОСТ.ЛА",
         "classroom": "ВЦ 283; ",
         "lecturer": "Зыков С.А."
@@ -170,7 +170,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр ПО САПР",
         "classroom": "334; ",
         "lecturer": "Демидов С.М."
@@ -178,7 +178,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ПО САПР",
         "classroom": "334; ",
         "lecturer": "Демидов С.М."

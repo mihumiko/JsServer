@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "пр ПРОГНОЗ. С-ЭК ПРОЦ.",
         "classroom": "404*; ",
         "lecturer": "Шиндина Ю.А."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "пр БЖД",
         "classroom": "484; ",
         "lecturer": "Храмов А.В."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "лек ПРОГНОЗ. С-ЭК ПРОЦ.",
         "classroom": "403*; ",
         "lecturer": "Шиндина Ю.А."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "20:05 Четная",
+        "time": "20:05",
         "discipline": "лек ОСН.БУХ.УЧ. И АУДИТА",
         "classroom": "507*а; ",
         "lecturer": "Катаев С.Е."
@@ -34,7 +34,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "лек БЖД",
         "classroom": "484; ",
         "lecturer": "Васильев В.А."
@@ -42,7 +42,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "лек БЖД",
         "classroom": "484; ",
         "lecturer": "Васильев В.А."
@@ -50,7 +50,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "пр ОСН.БУХ.УЧ. И АУДИТА",
         "classroom": "432*; ",
         "lecturer": "Кислицына С.В."
@@ -58,7 +58,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "лек УЧ.И АН.(ФИН.УЧ.)",
         "classroom": "430*; ",
         "lecturer": "Гавриленко И.В."
@@ -66,7 +66,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "пр УЧ.И АН.(ФИН.УЧ.)",
         "classroom": "530*; ",
         "lecturer": "Гавриленко И.В."
@@ -74,7 +74,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "лек СОЦ. ЭКОН. СТАТ.",
         "classroom": "425*; ",
         "lecturer": "Шишкин А.А."
@@ -82,7 +82,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "лек ОСНОВЫ ЦИФР.ЭК",
         "classroom": "425*; ",
         "lecturer": "Ревис В.Е."
@@ -90,7 +90,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "пр СОЦ. ЭКОН. СТАТ.",
         "classroom": "425*; ",
         "lecturer": "Шишкин А.А."
@@ -98,7 +98,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "20:05 Четная",
+        "time": "20:05",
         "discipline": "пр ОСНОВЫ ЦИФР.ЭК",
         "classroom": "530*; ",
         "lecturer": "Ревис В.Е."
@@ -106,7 +106,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "лаб БЖД",
         "classroom": "384б; ",
         "lecturer": "Васильев В.А."
@@ -114,7 +114,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "20:05 Четная",
+        "time": "20:05",
         "discipline": "лек ПРОГНОЗ. С-ЭК ПРОЦ.",
         "classroom": "507*а; ",
         "lecturer": "Шиндина Ю.А."

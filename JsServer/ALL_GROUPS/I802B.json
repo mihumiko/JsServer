@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -34,7 +34,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -42,7 +42,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -50,7 +50,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -58,7 +58,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -66,7 +66,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ОСН. АВТ.ПР.",
         "classroom": "269*(фесто); ",
         "lecturer": "Чернусь П.П."
@@ -74,7 +74,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ОСН. АВТ.ПР.",
         "classroom": "268*(фесто); ",
         "lecturer": "Чернусь П.П."
@@ -82,7 +82,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр НАДЕЖН. МС И РТС",
         "classroom": "267*(К.кл); ",
         "lecturer": "Чернусь Петр П."
@@ -90,7 +90,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек НАДЕЖН. МС И РТС",
         "classroom": "270*(фесто); ",
         "lecturer": "Чернусь Петр П."
@@ -98,7 +98,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек НАДЕЖН. МС И РТС",
         "classroom": "270*(фесто); ",
         "lecturer": "Чернусь Петр П."
@@ -106,7 +106,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр ПРИВОДЫ МИРТУ",
         "classroom": "268*(фесто); ",
         "lecturer": "Коротков Е.Б."
@@ -114,7 +114,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ПРИВОДЫ МИРТУ",
         "classroom": "268*(фесто); ",
         "lecturer": "Коротков Е.Б."
@@ -122,7 +122,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр АВТ.ПРОЕКТ.ТЕХ.ПРОЦ.",
         "classroom": "352; ",
         "lecturer": "Стрельцов В.Г."
@@ -130,7 +130,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр АВТ.ПРОЕКТ.ТЕХ.ПРОЦ.",
         "classroom": "352; ",
         "lecturer": "Стрельцов В.Г."
@@ -138,7 +138,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек МОДЕЛ. МЕХ. СИСТ.",
         "classroom": "270*(фесто); ",
         "lecturer": "Чернусь Петр П."
@@ -146,7 +146,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек МОДЕЛ. МЕХ. СИСТ.",
         "classroom": "270*(фесто); ",
         "lecturer": "Чернусь Петр П."
@@ -154,7 +154,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ОРГ. И УПР.НТР",
         "classroom": "270*(фесто); ",
         "lecturer": "Яковенко Н.Г."
@@ -162,7 +162,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ОРГ. И УПР.НТР",
         "classroom": "270*(фесто); ",
         "lecturer": "Яковенко Н.Г."
@@ -170,7 +170,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ОРГ. И УПР.НТР",
         "classroom": "155*; ",
         "lecturer": "Яковенко Н.Г."
@@ -178,7 +178,7 @@
     {
         "day": 6,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ОСН. АВТ.ПР.",
         "classroom": "268*(фесто); ",
         "lecturer": "Чернусь П.П."
@@ -186,7 +186,7 @@
     {
         "day": 6,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр ОСН. АВТ.ПР.",
         "classroom": "268*(фесто); ",
         "lecturer": "Чернусь П.П."
@@ -194,7 +194,7 @@
     {
         "day": 6,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ПРАКТ. ПО МОД.МС",
         "classroom": "267*(К.кл); ",
         "lecturer": "Чернусь Петр П."
@@ -202,7 +202,7 @@
     {
         "day": 6,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ПРАКТ. ПО МОД.МС",
         "classroom": "267*(К.кл); ",
         "lecturer": "Чернусь Петр П."
@@ -210,7 +210,7 @@
     {
         "day": 6,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр МОДЕЛ. МЕХ. СИСТ.",
         "classroom": "267*(К.кл); ",
         "lecturer": "Чернусь П.П."
@@ -218,7 +218,7 @@
     {
         "day": 6,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр МОДЕЛ. МЕХ. СИСТ.",
         "classroom": "267*(К.кл); ",
         "lecturer": "Чернусь П.П."

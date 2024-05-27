@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек МАТЕРИАЛОВ-Е И ТКМ",
         "classroom": "474; ",
         "lecturer": "Воробьева Г.А."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек МАТЕРИАЛОВ-Е И ТКМ",
         "classroom": "474; ",
         "lecturer": "Воробьева Г.А."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "310; ",
         "lecturer": "Вальштейн К.В."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "310; ",
         "lecturer": "Вальштейн К.В."
@@ -34,7 +34,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -42,7 +42,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -50,7 +50,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "ВЦ 371; ",
         "lecturer": "Землянская Е.Р."
@@ -58,7 +58,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "ВЦ 371; ",
         "lecturer": "Землянская Е.Р."
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ИНЖ.И КОМП. ГРАФ",
         "classroom": "503*; ",
         "lecturer": "Семенов В.А."
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр ИНЖ.И КОМП. ГРАФ",
         "classroom": "503*; ",
         "lecturer": "Семенов В.А."
@@ -82,7 +82,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ИСТОРИЯ",
         "classroom": "434*; ",
         "lecturer": "Савинов М.А."
@@ -90,7 +90,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ИСТОРИЯ",
         "classroom": "436*; ",
         "lecturer": "Савинов М.А."
@@ -98,7 +98,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ОСН РОС ГОС",
         "classroom": "436*; ",
         "lecturer": "Клюев А.А."
@@ -106,7 +106,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лаб ЭКОЛОГИЯ",
         "classroom": "384а; ",
         "lecturer": "Васильев А.П."
@@ -114,7 +114,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ИСТОРИЯ",
         "classroom": "490; ",
         "lecturer": "Савинов М.А."
@@ -122,7 +122,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ОСН РОС ГОС",
         "classroom": "487; ",
         "lecturer": "Клюев А.А."
@@ -130,7 +130,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ОСН РОС ГОС",
         "classroom": "487; ",
         "lecturer": "Клюев А.А."
@@ -138,7 +138,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -146,7 +146,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -154,7 +154,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лек ЭКОЛОГИЯ",
         "classroom": "374; ",
         "lecturer": "Курченко П.С."
@@ -162,7 +162,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ВЫСШ. МАТЕМАТ",
         "classroom": "477; ",
         "lecturer": "Мартынова Т.Е."
@@ -170,7 +170,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ВЫСШ. МАТЕМАТ",
         "classroom": "492; ",
         "lecturer": "Мартынова Т.Е."
@@ -178,7 +178,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ФИЗИКА",
         "classroom": "325*; ",
         "lecturer": "Князева Т.Н."
@@ -186,7 +186,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ФИЗИКА",
         "classroom": "434*; ",
         "lecturer": "Князева Т.Н."
@@ -194,7 +194,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лаб ФИЗИКА",
         "classroom": "323*; ",
         "lecturer": null
@@ -202,7 +202,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ФИЗИКА",
         "classroom": "328*; ",
         "lecturer": null
@@ -210,7 +210,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр КОНС.ТЕХН ПРАКТ.",
         "classroom": "532*; ",
         "lecturer": "Колыванов А.Ю."
@@ -218,7 +218,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ВЫСШ. МАТЕМАТ",
         "classroom": "418*; ",
         "lecturer": "Марданов А.А."
@@ -226,7 +226,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ВЫСШ. МАТЕМАТ",
         "classroom": "420*; ",
         "lecturer": "Марданов А.А."
@@ -234,7 +234,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "311*; ",
         "lecturer": "Донченко К.В."
@@ -242,7 +242,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "311*; ",
         "lecturer": "Донченко К.В."
@@ -250,7 +250,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лаб МАТЕРИАЛОВ-Е И ТКМ",
         "classroom": "473; ",
         "lecturer": "Ленина В.А."

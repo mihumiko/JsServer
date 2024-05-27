@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр МАТЕРИАЛ. И ПОКРЫТ. КА",
         "classroom": "390; ",
         "lecturer": "Калягин Л.И."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек МАТЕРИАЛ. И ПОКРЫТ. КА",
         "classroom": "390; ",
         "lecturer": "Калягин Л.И."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек МАТЕРИАЛ. И ПОКРЫТ. КА",
         "classroom": "390; ",
         "lecturer": "Калягин Л.И."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ПРОИЗВ-ВО  КА",
         "classroom": "СК М2-2; ",
         "lecturer": "Нилов А.С."
@@ -34,7 +34,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек КОНСТ. ИЗ КОМПОЗИТ. МАТ.",
         "classroom": "СК ИСС; ",
         "lecturer": "Евстафьев В.А."
@@ -42,7 +42,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр ПРОИЗВ-ВО  КА",
         "classroom": "СК М2-2; ",
         "lecturer": "Нилов А.С."
@@ -50,7 +50,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ПРОИЗВ-ВО  КА",
         "classroom": "СК М2-2; ",
         "lecturer": "Нилов А.С."
@@ -58,7 +58,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ПЛАН. И ОБРАБ. РЕЗ.",
         "classroom": "ВЦМ1; ",
         "lecturer": "Ходосов В.В."
@@ -66,7 +66,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ПЛАН. И ОБРАБ. РЕЗ.",
         "classroom": "ВЦМ1; ",
         "lecturer": "Ходосов В.В."
@@ -74,7 +74,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ПЛАН. И ОБРАБ. РЕЗ.",
         "classroom": "ВЦМ1; ",
         "lecturer": "Ходосов В.В."
@@ -82,7 +82,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр КОНСТ. ИЗ КОМПОЗИТ. МАТ.",
         "classroom": "ВЦ А3; ",
         "lecturer": "Бокучава П.Н."
@@ -90,7 +90,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр КОНСТ. ИЗ КОМПОЗИТ. МАТ.",
         "classroom": "ВЦ А3; ",
         "lecturer": "Бокучава П.Н."
@@ -98,7 +98,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр НАДЕЖНОСТЬ ИЗДЕЛ. РКТ",
         "classroom": "НТУ; ",
         "lecturer": "Бабук В.А."
@@ -106,7 +106,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "лек НАДЕЖНОСТЬ ИЗДЕЛ. РКТ",
         "classroom": "СКМ1; ",
         "lecturer": "Бабук В.А."
@@ -114,7 +114,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "пр НАДЕЖНОСТЬ ИЗДЕЛ. РКТ",
         "classroom": "НТУ; ",
         "lecturer": "Бабук В.А."
@@ -122,7 +122,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "пр АВТОМАТ. РЕШ. ЗАДАЧ. СТРОИТ. МЕХ.",
         "classroom": "ВЦ А3; ",
         "lecturer": "Климкин В.А."
@@ -130,7 +130,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "20:05 Четная",
+        "time": "20:05",
         "discipline": "пр АВТОМАТ. РЕШ. ЗАДАЧ. СТРОИТ. МЕХ.",
         "classroom": "ВЦ А3; ",
         "lecturer": "Климкин В.А."
@@ -138,7 +138,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр УНИРС",
         "classroom": null,
         "lecturer": null
@@ -146,7 +146,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр УНИРС",
         "classroom": null,
         "lecturer": null

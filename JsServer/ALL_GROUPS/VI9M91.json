@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "лек ВЫСШ. МАТ. В НИ",
         "classroom": "219*; ",
         "lecturer": "Вандеев В.П."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "лек ВЫСШ. МАТ. В НИ",
         "classroom": "219*; ",
         "lecturer": "Вандеев В.П."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "пр ВЫСШ. МАТ. В НИ",
         "classroom": "219*; ",
         "lecturer": "Вандеев В.П."
@@ -26,7 +26,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "лек УПР.ПРОЕКТАМИ",
         "classroom": "433*; ",
         "lecturer": "Шехова Н.В."
@@ -34,7 +34,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "лек МЕТ. НАУЧ. ИССЛЕД",
         "classroom": "422*; ",
         "lecturer": "Дрозд А.Л."
@@ -42,7 +42,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "пр УПР.ПРОЕКТАМИ",
         "classroom": "430*; ",
         "lecturer": "Бурмакин В.М."
@@ -50,7 +50,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "20:05 Четная",
+        "time": "20:05",
         "discipline": "пр МЕТ. НАУЧ. ИССЛЕД",
         "classroom": "507*а; ",
         "lecturer": "Дрозд А.Л."
@@ -58,7 +58,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "пр ОЗНАК.ПР-КА",
         "classroom": "277; ",
         "lecturer": "Мишина О.А."
@@ -66,7 +66,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "пр ПРОЕКТ.ЦС НА ПЛИС",
         "classroom": "277; ",
         "lecturer": "Гаврилов В.В."
@@ -74,7 +74,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "308*; ",
         "lecturer": "Канатаев Д.В."
@@ -82,7 +82,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "20:05 Четная",
+        "time": "20:05",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "308*; ",
         "lecturer": "Канатаев Д.В."
@@ -90,7 +90,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "пр ПРИКЛ.ЗАДАЧИ. ОУ",
         "classroom": "259; ",
         "lecturer": "Кабанов С.А."
@@ -98,7 +98,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "пр ПРИКЛ.ЗАДАЧИ. ОУ",
         "classroom": "259; ",
         "lecturer": "Кабанов С.А."
@@ -106,7 +106,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "лаб ПРОЕКТ.ЦС НА ПЛИС",
         "classroom": "277; ",
         "lecturer": "Гаврилов В.В."
@@ -114,7 +114,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "20:05 Четная",
+        "time": "20:05",
         "discipline": "лаб ПРОЕКТ.ЦС НА ПЛИС",
         "classroom": "277; ",
         "lecturer": "Гаврилов В.В."

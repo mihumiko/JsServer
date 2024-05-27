@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр БЕЗОП. МЕХ.И МАШ",
         "classroom": "487; ",
         "lecturer": "Петров С.К."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ЭЛ.БЕЗОПАСНОСТЬ",
         "classroom": "313а; ",
         "lecturer": "Матвеев П.В."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лек МЕТ. НАУЧ. ИССЛЕД",
         "classroom": "526*; ",
         "lecturer": "Дрозд А.Л."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "пр МЕТ. НАУЧ. ИССЛЕД",
         "classroom": "403*; ",
         "lecturer": "Дрозд А.Л."
@@ -34,7 +34,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ИНЖ. АКУСТ.",
         "classroom": "445; ",
         "lecturer": "Иванов Н.И."
@@ -42,7 +42,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр ИНЖ. АКУСТ.",
         "classroom": "484; ",
         "lecturer": "Олейников А.Ю."
@@ -50,7 +50,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ИНЖ. АКУСТ.",
         "classroom": "484; ",
         "lecturer": "Олейников А.Ю."
@@ -58,7 +58,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "лек ВЫСШ. МАТ. В НИ",
         "classroom": "450; ",
         "lecturer": "Павлов Ю.В."
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "лек ВЫСШ. МАТ. В НИ",
         "classroom": "450; ",
         "lecturer": "Павлов Ю.В."
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "20:05 Четная",
+        "time": "20:05",
         "discipline": "пр ВЫСШ. МАТ. В НИ",
         "classroom": "492; ",
         "lecturer": "Павлов Ю.В."
@@ -82,7 +82,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лек ОЦ.УСЛ.ТРУДА",
         "classroom": "376; ",
         "lecturer": "Куклин Д.А."
@@ -90,7 +90,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ОЦ.УСЛ.ТРУДА",
         "classroom": "376; ",
         "lecturer": "Куклин Д.А."
@@ -98,7 +98,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "308*; ",
         "lecturer": "Орлова Д.С."
@@ -106,7 +106,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "308*; ",
         "lecturer": "Орлова Д.С."
@@ -114,7 +114,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр ЗАЩ.В ЧРЕЗВ. СИТ",
         "classroom": "497; ",
         "lecturer": "Храмов А.В."
@@ -122,7 +122,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ЗАЩ.В ЧРЕЗВ. СИТ",
         "classroom": "318; ",
         "lecturer": "Храмов А.В."
@@ -130,7 +130,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "лек УПР.ПРОЕКТАМИ",
         "classroom": "331*; ",
         "lecturer": "Алёшкин Н.А."
@@ -138,7 +138,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "пр УПР.ПРОЕКТАМИ",
         "classroom": "331*; ",
         "lecturer": "Алёшкин Н.А."
@@ -146,7 +146,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лаб ВИБР.ТЕХНОЛ.СИСТ",
         "classroom": "112*; ",
         "lecturer": "Васильков Д.В."
@@ -154,7 +154,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "пр ВИБР.ТЕХНОЛ.СИСТ",
         "classroom": "202*а(К.кл); ",
         "lecturer": "Васильков Д.В."

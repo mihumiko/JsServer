@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр СИС.ТЕХН.ЗРЕНИЯ",
         "classroom": "280; ",
         "lecturer": "Баханов И.С."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр СИС.ТЕХН.ЗРЕНИЯ",
         "classroom": "280; ",
         "lecturer": "Баханов И.С."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ОПТ.ИЗМ.СИС-МЫ.",
         "classroom": "218; ",
         "lecturer": "Сергеев А.А."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр МЕТ.ЗАЩ.ИНФОРМ.",
         "classroom": "219а; ",
         "lecturer": "Петрова Ю.Ю."
@@ -34,7 +34,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лаб НАУЧ. ИССЛЕД. РАБ.",
         "classroom": null,
         "lecturer": null
@@ -42,7 +42,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лаб НАУЧ. ИССЛЕД. РАБ.",
         "classroom": null,
         "lecturer": null
@@ -50,7 +50,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лаб НАУЧ. ИССЛЕД. РАБ.",
         "classroom": null,
         "lecturer": null
@@ -58,7 +58,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лаб НАУЧ. ИССЛЕД. РАБ.",
         "classroom": null,
         "lecturer": null
@@ -66,7 +66,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "лек ОПТ.ИЗМ.СИС-МЫ.",
         "classroom": "219; ",
         "lecturer": "Сергеев А.А."
@@ -74,7 +74,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "лек ОПТ.ИЗМ.СИС-МЫ.",
         "classroom": "490; ",
         "lecturer": "Сергеев А.А."
@@ -82,7 +82,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек НАДЕЖНОСТЬ ЛС",
         "classroom": "219; ",
         "lecturer": "Губарев А.Д."
@@ -90,7 +90,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек НАДЕЖНОСТЬ ЛС",
         "classroom": "219; ",
         "lecturer": "Губарев А.Д."
@@ -98,7 +98,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр НАДЕЖНОСТЬ ЛС",
         "classroom": "325а; ",
         "lecturer": "Губарев А.Д."
@@ -106,7 +106,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "лек МЕТ.ЗАЩ.ИНФОРМ.",
         "classroom": "219а; ",
         "lecturer": "Петрова Ю.Ю."
@@ -114,7 +114,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "лек МЕТ.ЗАЩ.ИНФОРМ.",
         "classroom": "219а; ",
         "lecturer": "Петрова Ю.Ю."
@@ -122,7 +122,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек НЕЛИНЕЙН.ОПТИКА",
         "classroom": "219; ",
         "lecturer": "Погода А.П."
@@ -130,7 +130,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек НЕЛИНЕЙН.ОПТИКА",
         "classroom": "219; ",
         "lecturer": "Погода А.П."
@@ -138,7 +138,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр НЕЛИНЕЙН.ОПТИКА",
         "classroom": "280; ",
         "lecturer": "Погода А.П."
@@ -146,7 +146,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр МЕТ.ЗАЩ.ИНФОРМ.",
         "classroom": "219а; ",
         "lecturer": "Петрова Ю.Ю."
@@ -154,7 +154,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек СИС.ТЕХН.ЗРЕНИЯ",
         "classroom": "280; ",
         "lecturer": "Сухов Т.М."
@@ -162,7 +162,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек СИС.ТЕХН.ЗРЕНИЯ",
         "classroom": "280; ",
         "lecturer": "Сухов Т.М."

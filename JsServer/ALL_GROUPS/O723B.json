@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр КОМП.ПРАКТИКУМ",
         "classroom": "257*; ",
         "lecturer": "Мажайцев Е.А."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр КОМП.ПРАКТИКУМ",
         "classroom": "257*; ",
         "lecturer": "Мажайцев Е.А."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр КОМП.ПРАКТИКУМ",
         "classroom": "257*; ",
         "lecturer": "Мажайцев Е.А."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр СИСТЕМНОЕ ПО",
         "classroom": "258*; ",
         "lecturer": "Белов А.В."
@@ -34,7 +34,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ТОЭ",
         "classroom": "492; ",
         "lecturer": "Галайдин П.А."
@@ -42,7 +42,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ТОЭ",
         "classroom": "444; ",
         "lecturer": "Галайдин П.А."
@@ -50,7 +50,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -58,7 +58,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "312*; ",
         "lecturer": "Родионова Е.В."
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "312*; ",
         "lecturer": "Родионова Е.В."
@@ -82,7 +82,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "лаб ТОЭ",
         "classroom": "356*; 366*; ",
         "lecturer": "Галайдин П.А."
@@ -90,7 +90,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ТОЭ",
         "classroom": "325*; ",
         "lecturer": "Галайдин П.А."
@@ -98,7 +98,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ТОЭ",
         "classroom": "325*; ",
         "lecturer": "Галайдин П.А."
@@ -106,7 +106,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ПРАВОВЕДЕНИЕ",
         "classroom": "315; ",
         "lecturer": "Лебедев Г.В."
@@ -114,7 +114,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ОСН.СИСТ.АН.",
         "classroom": "315; ",
         "lecturer": "Мишина О.А."
@@ -122,7 +122,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ВЫСШ. МАТЕМАТ",
         "classroom": "213*; ",
         "lecturer": "Волченкова Н.М."
@@ -130,7 +130,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ВЫСШ. МАТЕМАТ",
         "classroom": "213*; ",
         "lecturer": "Волченкова Н.М."
@@ -138,7 +138,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ПРАВОВЕДЕНИЕ",
         "classroom": "484; ",
         "lecturer": "Лебедев Г.В."
@@ -146,7 +146,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ФИЗ.ОСН.МИКРОЭЛ",
         "classroom": "316; ",
         "lecturer": "Ярыгин Д.М."
@@ -154,7 +154,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ФИЗ.ОСН.МИКРОЭЛ",
         "classroom": "316; ",
         "lecturer": "Ярыгин Д.М."
@@ -162,7 +162,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -170,7 +170,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -178,7 +178,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "лек ФИЗИКА",
         "classroom": "331*; ",
         "lecturer": "Мозговая В.Г."
@@ -186,7 +186,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "лек ФИЗИКА",
         "classroom": "331*; ",
         "lecturer": "Мозговая В.Г."
@@ -194,7 +194,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ВЫСШ. МАТЕМАТ",
         "classroom": "331*; ",
         "lecturer": "Нестеров В.В."
@@ -202,7 +202,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ВЫСШ. МАТЕМАТ",
         "classroom": "331*; ",
         "lecturer": "Нестеров В.В."
@@ -210,7 +210,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек СИСТЕМНОЕ ПО",
         "classroom": "313а; ",
         "lecturer": "Верхолат А.М."
@@ -218,7 +218,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек СИСТЕМНОЕ ПО",
         "classroom": "313а; ",
         "lecturer": "Верхолат А.М."
@@ -226,7 +226,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ОСН.СИСТ.АН.",
         "classroom": "346; ",
         "lecturer": "Мишина О.А."
@@ -234,7 +234,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лаб ФИЗ.ОСН.МИКРОЭЛ",
         "classroom": "430; ",
         "lecturer": "Волкова М.В."

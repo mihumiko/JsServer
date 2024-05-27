@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ТАУ",
         "classroom": "270*(фесто); ",
         "lecturer": "Жуков Ю.А."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ТАУ",
         "classroom": "270*(фесто); ",
         "lecturer": "Жуков Ю.А."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек МЕХАН. РОБОТОВ",
         "classroom": "155*; ",
         "lecturer": "Жуков Ю.А."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ОСН.ТЕХ.МАШ. И ПР.",
         "classroom": "490; ",
         "lecturer": "Колыванов А.Ю."
@@ -34,7 +34,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ДМ И ОСН. КОНСТР",
         "classroom": "155*; ",
         "lecturer": "Осипов В.И."
@@ -42,7 +42,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ДМ И ОСН. КОНСТР",
         "classroom": "155*; ",
         "lecturer": "Осипов В.И."
@@ -50,7 +50,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр КОНС.ТЕХН ПРАКТ.",
         "classroom": "532*; ",
         "lecturer": "Колыванов А.Ю."
@@ -58,7 +58,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр КОНС.ТЕХН ПРАКТ.",
         "classroom": "532*; ",
         "lecturer": "Колыванов А.Ю."
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр ПРИВОДЫ МИРТУ",
         "classroom": "268*(фесто); ",
         "lecturer": "Мельников Р.В."
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ИНФ.БЕЗ. ЗАЩ.ИНФ",
         "classroom": "267*(К.кл); ",
         "lecturer": "Яковенко Н.Г."
@@ -82,7 +82,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ИНФ.БЕЗ. ЗАЩ.ИНФ",
         "classroom": "155*; ",
         "lecturer": "Яковенко Н.Г."
@@ -90,7 +90,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лаб БЖД",
         "classroom": "384б; ",
         "lecturer": "Храпко Н.Н."
@@ -98,7 +98,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ДМ И ОСН. КОНСТР",
         "classroom": "373*; ",
         "lecturer": "Осипов В.И."
@@ -106,7 +106,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ДМ И ОСН. КОНСТР",
         "classroom": "373*; ",
         "lecturer": "Осипов В.И."
@@ -114,7 +114,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр БЖД",
         "classroom": "486; ",
         "lecturer": "Кудаев А.В."
@@ -122,7 +122,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "лаб ОСН.ТЕХ.МАШ. И ПР.",
         "classroom": "352; ",
         "lecturer": "Колыванов А.Ю."
@@ -130,7 +130,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр МЕХАН. РОБОТОВ",
         "classroom": "371*; ",
         "lecturer": "Жуков Ю.А."
@@ -138,7 +138,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр МЕХАН. РОБОТОВ",
         "classroom": "371*; ",
         "lecturer": "Жуков Ю.А."
@@ -146,7 +146,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ТАУ",
         "classroom": "267*(К.кл); ",
         "lecturer": "Коробова И.Л."
@@ -154,7 +154,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ТАУ",
         "classroom": "267*(К.кл); ",
         "lecturer": "Коробова И.Л."
@@ -162,7 +162,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ОСН.ТЕХ.МАШ. И ПР.",
         "classroom": "372; ",
         "lecturer": "Кочетков  А.Н."
@@ -170,7 +170,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ОСН.ТЕХ.МАШ. И ПР.",
         "classroom": "332; ",
         "lecturer": "Кочетков  А.Н."
@@ -178,7 +178,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ПРИВОДЫ МИРТУ",
         "classroom": "270*(фесто); ",
         "lecturer": "Мельников Р.В."
@@ -186,7 +186,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ПРИВОДЫ МИРТУ",
         "classroom": "270*(фесто); ",
         "lecturer": "Мельников Р.В."
@@ -194,7 +194,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр СИЛ.ЭЛЕКТР.УСТР.",
         "classroom": "267*(К.кл); ",
         "lecturer": "Гончаров В.О."
@@ -202,7 +202,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -210,7 +210,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -218,7 +218,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -226,7 +226,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -234,7 +234,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -242,7 +242,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -250,7 +250,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -258,7 +258,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -266,7 +266,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "лаб ПРИВОДЫ МИРТУ",
         "classroom": "268*(фесто); ",
         "lecturer": "Ельчинский В.С."
@@ -274,7 +274,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек БЖД",
         "classroom": "315; ",
         "lecturer": "Кудаев А.В."
@@ -282,7 +282,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек БЖД",
         "classroom": "315; ",
         "lecturer": "Кудаев А.В."
@@ -290,7 +290,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек СИЛ.ЭЛЕКТР.УСТР.",
         "classroom": "155*; ",
         "lecturer": "Слободзян Н.С."
@@ -298,7 +298,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек СИЛ.ЭЛЕКТР.УСТР.",
         "classroom": "155*; ",
         "lecturer": "Слободзян Н.С."

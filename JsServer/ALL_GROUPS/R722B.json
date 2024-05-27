@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр РОСС.ЛИТЕРАТУРА",
         "classroom": "306*; ",
         "lecturer": "Аладышкина Л.В."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр РОСС.ЛИТЕРАТУРА",
         "classroom": "306*; ",
         "lecturer": "Аладышкина Л.В."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ГРАММ. ИН. ЯЗЫКА",
         "classroom": "312*; ",
         "lecturer": "Дунаевская М.А."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ГРАММ. ИН. ЯЗЫКА",
         "classroom": "312*; ",
         "lecturer": "Дунаевская М.А."
@@ -34,7 +34,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ИНОСТР.ЯЗЫК-II",
         "classroom": "304*; ",
         "lecturer": "Петрова И.О."
@@ -42,7 +42,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ИНОСТР.ЯЗЫК-II",
         "classroom": "304*; ",
         "lecturer": "Петрова И.О."
@@ -50,7 +50,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ОСН.СИСТ.АНАЛИЗА",
         "classroom": "526*; ",
         "lecturer": "Чернусь Петр П."
@@ -58,7 +58,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ОСН.КОР.И РЕД.ТЕК.",
         "classroom": "306*; ",
         "lecturer": "Алексеева И.Н."
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ЛЕКСИКОЛОГИЯ",
         "classroom": "326*а; ",
         "lecturer": "Родионова Е.В."
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ЛЕКСИКОЛОГИЯ",
         "classroom": "326*а; ",
         "lecturer": "Родионова Е.В."
@@ -82,7 +82,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -90,7 +90,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -98,7 +98,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ОСН.КОР.И РЕД.ТЕК.",
         "classroom": "326*а; ",
         "lecturer": "Аладышкина Л.В."
@@ -106,7 +106,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек РОСС.ЛИТЕРАТУРА",
         "classroom": "326*а; ",
         "lecturer": "Аладышкина Л.В."
@@ -114,7 +114,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек РОСС.ЛИТЕРАТУРА",
         "classroom": "326*а; ",
         "lecturer": "Аладышкина Л.В."
@@ -122,7 +122,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр ЛАТИНСКИЙ ЯЗЫК",
         "classroom": "306*; ",
         "lecturer": "Иголкина А.Г."
@@ -130,7 +130,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ЛАТИНСКИЙ ЯЗЫК",
         "classroom": "306*; ",
         "lecturer": "Иголкина А.Г."
@@ -138,7 +138,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр П. К. 1 ИН. ЯЗ.(КИТ)",
         "classroom": "304*; ",
         "lecturer": "Мигунова О.В."
@@ -146,7 +146,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр П. К. 1 ИН. ЯЗ.(КИТ)",
         "classroom": "304*; ",
         "lecturer": "Мигунова О.В."
@@ -154,7 +154,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -162,7 +162,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -170,7 +170,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ИНОСТР.ЯЗЫК-II",
         "classroom": "304*; ",
         "lecturer": "Петрова И.О."
@@ -178,7 +178,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ИНОСТР.ЯЗЫК-II",
         "classroom": "304*; ",
         "lecturer": "Петрова И.О."
@@ -186,7 +186,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр МАТЕМ.СТАТИСТ.",
         "classroom": "497; ",
         "lecturer": "Нестеров В.В."
@@ -194,7 +194,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр МАТЕМ.СТАТИСТ.",
         "classroom": "455; ",
         "lecturer": "Нестеров В.В."
@@ -202,7 +202,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр П. К. 1 ИН. ЯЗ.(КИТ)",
         "classroom": "313*; ",
         "lecturer": "Мигунова О.В."
@@ -210,7 +210,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр П. К. 1 ИН. ЯЗ.(КИТ)",
         "classroom": "313*; ",
         "lecturer": "Мигунова О.В."
@@ -218,7 +218,7 @@
     {
         "day": 6,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ОСН.СИСТ.АНАЛИЗА",
         "classroom": "418*; ",
         "lecturer": "Чернусь Петр П."
@@ -226,7 +226,7 @@
     {
         "day": 6,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр П. К. 1 ИН. ЯЗ.(КИТ)",
         "classroom": "306*; ",
         "lecturer": "Мигунова О.В."
@@ -234,7 +234,7 @@
     {
         "day": 6,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр П. К. 1 ИН. ЯЗ.(КИТ)",
         "classroom": "306*; ",
         "lecturer": "Мигунова О.В."

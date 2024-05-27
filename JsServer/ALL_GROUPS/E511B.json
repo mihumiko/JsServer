@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ПНЕВМОГИДР.СИС.",
         "classroom": "486; ",
         "lecturer": "Петров С.К."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ПНЕВМОГИДР.СИС.",
         "classroom": "487; ",
         "lecturer": "Петров С.К."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр УР-Я МАТ.ФИЗИКИ",
         "classroom": "ВЦ 283; ",
         "lecturer": "Лебедев М.О."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр УР-Я МАТ.ФИЗИКИ",
         "classroom": "ВЦ 283; ",
         "lecturer": "Лебедев М.О."
@@ -34,7 +34,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек УР-Я МАТ.ФИЗИКИ",
         "classroom": "453*; ",
         "lecturer": "Лебедев М.О."
@@ -42,7 +42,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек УР-Я МАТ.ФИЗИКИ",
         "classroom": "453*; ",
         "lecturer": "Лебедев М.О."
@@ -50,7 +50,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр ОСН.ВИБРОАКУСТ",
         "classroom": "ВЦ 283; ",
         "lecturer": "Упоров П.А."
@@ -58,7 +58,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ОСН.ВИБРОАКУСТ",
         "classroom": "ВЦ 283; ",
         "lecturer": "Упоров П.А."
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -82,7 +82,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -90,7 +90,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -98,7 +98,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -106,7 +106,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -114,7 +114,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -122,7 +122,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -130,7 +130,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "лек ТЕОР.УПР.ПЛАСТИЧН.И ПОЛЗУЧ.",
         "classroom": "498; ",
         "lecturer": "Маламанов С.Ю."
@@ -138,7 +138,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ОСН.ВИБРОАКУСТ",
         "classroom": "486; ",
         "lecturer": "Кирпичников В.Ю."
@@ -146,7 +146,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ОСН.ВИБРОАКУСТ",
         "classroom": "486; ",
         "lecturer": "Кирпичников В.Ю."
@@ -154,7 +154,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ДЕТАЛИ МАШИН",
         "classroom": "460*; ",
         "lecturer": "Кротов Ю.В."
@@ -162,7 +162,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ДЕТАЛИ МАШИН",
         "classroom": "460*; ",
         "lecturer": "Кротов Ю.В."
@@ -170,7 +170,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ПНЕВМОГИДР.СИС.",
         "classroom": "487; ",
         "lecturer": "Петров С.К."
@@ -178,7 +178,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек Ц.ТЕХ-И В АК.РАСЧ",
         "classroom": "484; ",
         "lecturer": "Матвеев П.В."
@@ -186,7 +186,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр ТЕОР.УПР.ПЛАСТИЧН.И ПОЛЗУЧ.",
         "classroom": "460*; ",
         "lecturer": "Маламанов С.Ю."
@@ -194,7 +194,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ТЕОР.УПР.ПЛАСТИЧН.И ПОЛЗУЧ.",
         "classroom": "460*; ",
         "lecturer": "Маламанов С.Ю."
@@ -202,7 +202,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "пр УСТОЙЧИВОСТЬ МС",
         "classroom": "ВЦ 283; ",
         "lecturer": "Филин А.Г."
@@ -210,7 +210,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "лек УСТОЙЧИВОСТЬ МС",
         "classroom": "460*; ",
         "lecturer": "Филин А.Г."
@@ -218,7 +218,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "лаб УСТОЙЧИВОСТЬ МС",
         "classroom": "ВЦ 281; ",
         "lecturer": "Филин А.Г."
@@ -226,7 +226,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек СТРОИТ.МЕХ.МАШ",
         "classroom": "492; ",
         "lecturer": "Титух И.Н."
@@ -234,7 +234,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр СТРОИТ.МЕХ.МАШ",
         "classroom": "102*; ",
         "lecturer": "Титух И.Н."
@@ -242,7 +242,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лаб СТРОИТ.МЕХ.МАШ",
         "classroom": "ВЦ 281; ",
         "lecturer": "Титух И.Н."
@@ -250,7 +250,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лаб СТРОИТ.МЕХ.МАШ",
         "classroom": "ВЦ 281; ",
         "lecturer": "Титух И.Н."
@@ -258,7 +258,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр Ц.ТЕХ-И В АК.РАСЧ",
         "classroom": "ВЦ 283; ",
         "lecturer": "Матвеев П.В."
@@ -266,7 +266,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр Ц.ТЕХ-И В АК.РАСЧ",
         "classroom": "ВЦ 283; ",
         "lecturer": "Матвеев П.В."
@@ -274,7 +274,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр Ц.ТЕХ-И В АК.РАСЧ",
         "classroom": "ВЦ 283; ",
         "lecturer": "Матвеев П.В."
@@ -282,7 +282,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ПНЕВМОГИДР.СИС.",
         "classroom": "448; ",
         "lecturer": "Петров С.К."

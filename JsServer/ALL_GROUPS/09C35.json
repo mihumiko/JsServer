@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр РУСС.ЯЗ.",
         "classroom": "467*; ",
         "lecturer": "Лучко Ю.М."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр РУСС.ЯЗ.",
         "classroom": "467*; ",
         "lecturer": "Лучко Ю.М."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ФИЗ.КУЛЬТ.",
         "classroom": null,
         "lecturer": "Тимофеев А.Д."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ФИЗ.КУЛЬТ.",
         "classroom": null,
         "lecturer": "Тимофеев А.Д."
@@ -34,7 +34,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ЛИТ-РА",
         "classroom": "429*; ",
         "lecturer": "Лучко Ю.М."
@@ -42,7 +42,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ЛИТ-РА",
         "classroom": "459*; ",
         "lecturer": "Лучко Ю.М."
@@ -50,7 +50,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лек ФИЗИКА",
         "classroom": "459*; ",
         "lecturer": "Косякина Н.А."
@@ -58,7 +58,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лек ФИЗИКА",
         "classroom": "459*; ",
         "lecturer": "Косякина Н.А."
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ОБЖ",
         "classroom": "430*; ",
         "lecturer": "Расчупкина Т.В."
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр ИН.ЯЗ.",
         "classroom": "469*; ",
         "lecturer": "Расчупкина Н.С."
@@ -82,7 +82,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лаб ИНФОРМАТИКА",
         "classroom": "468*; ",
         "lecturer": "Старостин И.Д."
@@ -90,7 +90,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лаб ИНФОРМАТИКА",
         "classroom": "468*; ",
         "lecturer": "Старостин И.Д."
@@ -98,7 +98,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ФИЗИКА",
         "classroom": "467*; ",
         "lecturer": "Косякина Н.А."
@@ -106,7 +106,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ФИЗИКА",
         "classroom": "467*; ",
         "lecturer": "Косякина Н.А."
@@ -114,7 +114,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ИСТОРИЯ",
         "classroom": "459*; ",
         "lecturer": "Сарычев Н.Д."
@@ -122,7 +122,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ИСТОРИЯ",
         "classroom": "459*; ",
         "lecturer": "Сарычев Н.Д."
@@ -130,7 +130,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ФИЗ.КУЛЬТ.",
         "classroom": null,
         "lecturer": "Тимофеев А.Д."
@@ -138,7 +138,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр ФИЗ.КУЛЬТ.",
         "classroom": null,
         "lecturer": "Тимофеев А.Д."
@@ -146,7 +146,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ИН.ЯЗ.",
         "classroom": "418*; ",
         "lecturer": "Расчупкина Н.С."
@@ -154,7 +154,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ИН.ЯЗ.",
         "classroom": "418*; ",
         "lecturer": "Расчупкина Н.С."
@@ -162,7 +162,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек МАТЕМАТИКА",
         "classroom": "459*; ",
         "lecturer": "Косякина Н.А."
@@ -170,7 +170,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек МАТЕМАТИКА",
         "classroom": "459*; ",
         "lecturer": "Косякина Н.А."
@@ -178,7 +178,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ОБЖ",
         "classroom": "459*; ",
         "lecturer": "Расчупкина Т.В."
@@ -186,7 +186,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "лек ИНФОРМАТИКА",
         "classroom": "459*; ",
         "lecturer": "Старостин И.Д."
@@ -194,7 +194,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "лек ИНФОРМАТИКА",
         "classroom": "459*; ",
         "lecturer": "Старостин И.Д."
@@ -202,7 +202,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр МАТЕМАТИКА",
         "classroom": "469*; ",
         "lecturer": "Косякина Н.А."
@@ -210,7 +210,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр МАТЕМАТИКА",
         "classroom": "469*; ",
         "lecturer": "Косякина Н.А."
@@ -218,7 +218,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ЛИТ-РА",
         "classroom": "467*; ",
         "lecturer": "Лучко Ю.М."
@@ -226,7 +226,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "лек МАТЕМАТИКА",
         "classroom": "459*; ",
         "lecturer": "Косякина Н.А."
@@ -234,7 +234,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек РУСС.ЯЗ.",
         "classroom": "459*; ",
         "lecturer": "Лучко Ю.М."
@@ -242,7 +242,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек РУСС.ЯЗ.",
         "classroom": "459*; ",
         "lecturer": "Лучко Ю.М."
@@ -250,7 +250,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ХИМИЯ",
         "classroom": "459*; ",
         "lecturer": "Фатина А.А."
@@ -258,7 +258,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ХИМИЯ",
         "classroom": "459*; ",
         "lecturer": "Фатина А.А."
@@ -266,7 +266,7 @@
     {
         "day": 6,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ИСТОРИЯ",
         "classroom": "469*; ",
         "lecturer": "Сарычев Н.Д."
@@ -274,7 +274,7 @@
     {
         "day": 6,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ИСТОРИЯ",
         "classroom": "469*; ",
         "lecturer": "Сарычев Н.Д."
@@ -282,7 +282,7 @@
     {
         "day": 6,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ГЕОГРАФИЯ",
         "classroom": "459*; ",
         "lecturer": "Казанина А.М."
@@ -290,7 +290,7 @@
     {
         "day": 6,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ГЕОГРАФИЯ",
         "classroom": "467*; ",
         "lecturer": "Казанина А.М."
@@ -298,7 +298,7 @@
     {
         "day": 6,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ХИМИЯ",
         "classroom": "430*; ",
         "lecturer": "Фатина А.А."

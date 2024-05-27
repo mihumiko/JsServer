@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -34,7 +34,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -42,7 +42,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -50,7 +50,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -58,7 +58,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ПРОЕКТИРОВ. ИС",
         "classroom": "277; ",
         "lecturer": "Смирнов Н.В."
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ПРОЕКТИРОВ. ИС",
         "classroom": "318; ",
         "lecturer": "Смирнов Н.В."
@@ -82,7 +82,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр ПРОЕКТИРОВ. ИС",
         "classroom": "ВЦ 371; ",
         "lecturer": "Смирнов Н.В."
@@ -90,7 +90,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лек НАДЕЖН. ИС",
         "classroom": "374; ",
         "lecturer": "Артюхова М.А."
@@ -98,7 +98,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ПРОГР.ОБЕС.СРВ",
         "classroom": "278; ",
         "lecturer": "Костин И.Д."
@@ -106,7 +106,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ПРОГР.ОБЕС.СРВ",
         "classroom": "278; ",
         "lecturer": "Костин И.Д."
@@ -114,7 +114,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лаб ОСН. ИСК. ИНТЕЛЛ",
         "classroom": "278; ",
         "lecturer": "Куликов Д.Б."
@@ -122,7 +122,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лаб ОСН. ИСК. ИНТЕЛЛ",
         "classroom": "278; ",
         "lecturer": "Куликов Д.Б."
@@ -130,7 +130,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ИНФ. ТЕХНОЛОГИИ",
         "classroom": "443; ",
         "lecturer": "Федоров С.Ф."
@@ -138,7 +138,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ИНФ. ТЕХНОЛОГИИ",
         "classroom": "451; ",
         "lecturer": "Федоров С.Ф."
@@ -146,7 +146,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лек ОСН. ИСК. ИНТЕЛЛ",
         "classroom": "310; ",
         "lecturer": "Толмачев С.Г."
@@ -154,7 +154,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лек ОСН. ИСК. ИНТЕЛЛ",
         "classroom": "310; ",
         "lecturer": "Толмачев С.Г."
@@ -162,7 +162,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "лек ПРОГР.ОБЕС.СРВ",
         "classroom": "315; ",
         "lecturer": "Карасев А.А."
@@ -170,7 +170,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "лек ПРОГР.ОБЕС.СРВ",
         "classroom": "315; ",
         "lecturer": "Карасев А.А."
@@ -178,7 +178,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр НИР",
         "classroom": "278; ",
         "lecturer": "Курилова Е.А."
@@ -186,7 +186,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр НИР",
         "classroom": "274; ",
         "lecturer": "Курилова Е.А."
@@ -194,7 +194,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр НАДЕЖН. ИС",
         "classroom": "274; ",
         "lecturer": "Артюхова М.А."
@@ -202,7 +202,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр НАДЕЖН. ИС",
         "classroom": "274; ",
         "lecturer": "Артюхова М.А."
@@ -210,7 +210,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "пр ИНФ. ТЕХНОЛОГИИ",
         "classroom": "259; ",
         "lecturer": "Федоров С.Ф."
@@ -218,7 +218,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "пр ИНФ. ТЕХНОЛОГИИ",
         "classroom": "259; ",
         "lecturer": "Федоров С.Ф."

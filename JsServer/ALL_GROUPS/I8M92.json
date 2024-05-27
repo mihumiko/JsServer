@@ -2,7 +2,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ПРОЕКТ.СИСТ.ПРИВ.",
         "classroom": "156* (Maxon); ",
         "lecturer": "Мельников Р.В."
@@ -10,7 +10,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ПРОЕКТ.СИСТ.ПРИВ.",
         "classroom": "156* (Maxon); ",
         "lecturer": "Мельников Р.В."
@@ -18,7 +18,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "530*; ",
         "lecturer": "Мигунова О.В."
@@ -26,7 +26,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "530*; ",
         "lecturer": "Мигунова О.В."
@@ -34,7 +34,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек УПР.ПРОЕКТАМИ",
         "classroom": "526*; ",
         "lecturer": "Стешин А.И."
@@ -42,7 +42,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр УПР.ПРОЕКТАМИ",
         "classroom": "526*; ",
         "lecturer": "Стешин А.И."
@@ -50,7 +50,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ЭМ И МЕХАТР.СИСТ",
         "classroom": "530*; ",
         "lecturer": "Чернусь Петр П."
@@ -58,7 +58,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лаб ЭМ И МЕХАТР.СИСТ",
         "classroom": "411*; ",
         "lecturer": "Чернусь Петр П."
@@ -66,7 +66,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лаб ЭМ И МЕХАТР.СИСТ",
         "classroom": "411*; ",
         "lecturer": "Чернусь Петр П."
@@ -74,7 +74,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр СОВРЕМ. МУ РТ",
         "classroom": "268*(фесто); ",
         "lecturer": "Жуков Ю.А."
@@ -82,7 +82,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр СОВРЕМ. МУ РТ",
         "classroom": "268*(фесто); ",
         "lecturer": "Жуков Ю.А."
@@ -90,7 +90,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ИСТ,ФИЛ.И МЕТ.НАУК",
         "classroom": "526*; ",
         "lecturer": "Канатаев Д.В."
@@ -98,7 +98,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ИСТ,ФИЛ.И МЕТ.НАУК",
         "classroom": "526*; ",
         "lecturer": "Канатаев Д.В."
@@ -106,7 +106,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр СОВРЕМ. МУ РТ",
         "classroom": "268*(фесто); ",
         "lecturer": "Жуков Ю.А."
@@ -114,7 +114,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр СОВРЕМ. МУ РТ",
         "classroom": "268*(фесто); ",
         "lecturer": "Жуков Ю.А."
@@ -122,7 +122,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ПРОЕКТ.СИСТ.ПРИВ.",
         "classroom": "156* (Maxon); ",
         "lecturer": "Мельников Р.В."
@@ -130,7 +130,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ПРОЕКТ.СИСТ.ПРИВ.",
         "classroom": "156* (Maxon); ",
         "lecturer": "Мельников Р.В."

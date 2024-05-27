@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ИНОСТР.ЯЗЫК-II",
         "classroom": "318*; ",
         "lecturer": "Патракова О.Н."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ИНОСТР.ЯЗЫК-II",
         "classroom": "318*; ",
         "lecturer": "Патракова О.Н."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ГРАММ. ИН. ЯЗЫКА",
         "classroom": "312*; ",
         "lecturer": "Дунаевская М.А."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ГРАММ. ИН. ЯЗЫКА",
         "classroom": "312*; ",
         "lecturer": "Дунаевская М.А."
@@ -34,7 +34,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр ЛАТИНСКИЙ ЯЗЫК",
         "classroom": "311*; ",
         "lecturer": "Иголкина А.Г."
@@ -42,7 +42,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ЛАТИНСКИЙ ЯЗЫК",
         "classroom": "311*; ",
         "lecturer": "Иголкина А.Г."
@@ -50,7 +50,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ОСН.СИСТ.АНАЛИЗА",
         "classroom": "526*; ",
         "lecturer": "Чернусь Петр П."
@@ -58,7 +58,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ЛЕКСИКОЛОГИЯ",
         "classroom": "326*а; ",
         "lecturer": "Родионова Е.В."
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ЛЕКСИКОЛОГИЯ",
         "classroom": "326*а; ",
         "lecturer": "Родионова Е.В."
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -82,7 +82,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -90,7 +90,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр П. К. 1 ИН. ЯЗ.",
         "classroom": "313*; ",
         "lecturer": "Алексеева Т.Н."
@@ -98,7 +98,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр П. К. 1 ИН. ЯЗ.",
         "classroom": "313*; ",
         "lecturer": "Алексеева Т.Н."
@@ -106,7 +106,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ОСН.КОР.И РЕД.ТЕК.",
         "classroom": "326*а; ",
         "lecturer": "Аладышкина Л.В."
@@ -114,7 +114,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек РОСС.ЛИТЕРАТУРА",
         "classroom": "326*а; ",
         "lecturer": "Аладышкина Л.В."
@@ -122,7 +122,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек РОСС.ЛИТЕРАТУРА",
         "classroom": "326*а; ",
         "lecturer": "Аладышкина Л.В."
@@ -130,7 +130,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр ИНОСТР.ЯЗЫК-II",
         "classroom": "318*; ",
         "lecturer": "Патракова О.Н."
@@ -138,7 +138,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ИНОСТР.ЯЗЫК-II",
         "classroom": "318*; ",
         "lecturer": "Патракова О.Н."
@@ -146,7 +146,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр РОСС.ЛИТЕРАТУРА",
         "classroom": "318*; ",
         "lecturer": "Аладышкина Л.В."
@@ -154,7 +154,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр РОСС.ЛИТЕРАТУРА",
         "classroom": "318*; ",
         "lecturer": "Аладышкина Л.В."
@@ -162,7 +162,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -170,7 +170,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -178,7 +178,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр МАТЕМ.СТАТИСТ.",
         "classroom": "488; ",
         "lecturer": "Тарасов А.А."
@@ -186,7 +186,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр МАТЕМ.СТАТИСТ.",
         "classroom": "456; ",
         "lecturer": "Тарасов А.А."
@@ -194,7 +194,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр П. К. 1 ИН. ЯЗ.",
         "classroom": "312*; ",
         "lecturer": "Алексеева Т.Н."
@@ -202,7 +202,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр П. К. 1 ИН. ЯЗ.",
         "classroom": "313*; ",
         "lecturer": "Алексеева Т.Н."
@@ -210,7 +210,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ОСН.КОР.И РЕД.ТЕК.",
         "classroom": "314*; ",
         "lecturer": "Алексеева И.Н."
@@ -218,7 +218,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ОСН.СИСТ.АНАЛИЗА",
         "classroom": "413*; ",
         "lecturer": "Чернусь П.П."
@@ -226,7 +226,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр П. К. 1 ИН. ЯЗ.",
         "classroom": "318*; ",
         "lecturer": "Алексеева Т.Н."
@@ -234,7 +234,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр П. К. 1 ИН. ЯЗ.",
         "classroom": "316*; ",
         "lecturer": "Алексеева Т.Н."

@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "лек МАТЕРИАЛОВ-Е И ТКМ",
         "classroom": "474; ",
         "lecturer": "Андрюшкин А.Ю."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "лаб МАТЕРИАЛОВ-Е И ТКМ",
         "classroom": "474; ",
         "lecturer": "Андрюшкин А.Ю."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "20:05 Четная",
+        "time": "20:05",
         "discipline": "лек ФИЗИКА",
         "classroom": "338г*; ",
         "lecturer": "Комарова О.С."
@@ -26,7 +26,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "лек ВЫСШ. МАТЕМАТ",
         "classroom": "474; ",
         "lecturer": "Брацлавский А.А."
@@ -34,7 +34,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "лек ВЫСШ. МАТЕМАТ",
         "classroom": "474; ",
         "lecturer": "Брацлавский А.А."
@@ -42,7 +42,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "20:05 Четная",
+        "time": "20:05",
         "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "256*; ",
         "lecturer": "Едигарева Ю.О."
@@ -50,7 +50,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "пр ИСТОРИЯ",
         "classroom": "507*а; ",
         "lecturer": "Попова В.В."
@@ -58,7 +58,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "лаб ФИЗИКА",
         "classroom": "323*; ",
         "lecturer": "Белова Д.Д."
@@ -66,7 +66,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "20:05 Четная",
+        "time": "20:05",
         "discipline": "пр ФИЗИКА",
         "classroom": "328*; ",
         "lecturer": "Белова Д.Д."
@@ -74,7 +74,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "лек ИСТОРИЯ",
         "classroom": "420*; ",
         "lecturer": "Попова В.В."
@@ -82,7 +82,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "пр ВЫСШ. МАТЕМАТ",
         "classroom": "213*; ",
         "lecturer": "Леонтьев В.А."
@@ -90,7 +90,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "20:05 Четная",
+        "time": "20:05",
         "discipline": "пр ВЫСШ. МАТЕМАТ",
         "classroom": "213*; ",
         "lecturer": "Леонтьев В.А."
@@ -98,7 +98,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "308*; ",
         "lecturer": "Мартынова А.А."
@@ -106,7 +106,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "308*; ",
         "lecturer": "Мартынова А.А."
@@ -114,7 +114,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "325*; ",
         "lecturer": "Григорьева Т.А."

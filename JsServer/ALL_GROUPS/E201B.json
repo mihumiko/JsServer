@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -34,7 +34,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -42,7 +42,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -50,7 +50,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -58,7 +58,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лаб ВИБР.ТЕХНОЛ.СИСТ",
         "classroom": "Лаб.Е2-1; ",
         "lecturer": "Кижняев Ю.И."
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ВИБР.ТЕХНОЛ.СИСТ",
         "classroom": "СК3; ",
         "lecturer": "Кижняев Ю.И."
@@ -82,7 +82,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ВИБР.ТЕХНОЛ.СИСТ",
         "classroom": "290; ",
         "lecturer": "Кижняев Ю.И."
@@ -90,7 +90,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ВИБР.ТЕХНОЛ.СИСТ",
         "classroom": "290; ",
         "lecturer": "Кижняев Ю.И."
@@ -98,7 +98,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ГИДРОПНЕВМОАВТ",
         "classroom": "268*(фесто); ",
         "lecturer": "Морозов  М.В."
@@ -106,7 +106,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ГИДРОПНЕВМОАВТ",
         "classroom": "268*(фесто); ",
         "lecturer": "Морозов  М.В."
@@ -114,7 +114,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лаб ГИДРОПНЕВМОАВТ",
         "classroom": "269*(фесто); ",
         "lecturer": "Морозов  М.В."
@@ -122,7 +122,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лаб ГИДРОПНЕВМОАВТ",
         "classroom": "269*(фесто); ",
         "lecturer": "Морозов  М.В."
@@ -130,7 +130,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр КОМП.ПР.СП.ИНСТР.",
         "classroom": "202*а(К.кл); ",
         "lecturer": "Александров  А.С."
@@ -138,7 +138,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр КОМП.ПР.СП.ИНСТР.",
         "classroom": "202*а(К.кл); ",
         "lecturer": "Александров  А.С."
@@ -146,7 +146,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр КОМП.ПР.СП.ИНСТР.",
         "classroom": "202*а(К.кл); ",
         "lecturer": "Александров  А.С."
@@ -154,7 +154,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр КОМП.ПР.СП.ИНСТР.",
         "classroom": "202*а(К.кл); ",
         "lecturer": "Александров  А.С."
@@ -162,7 +162,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "лек ТЕХН.ПР-ВА СПАРО",
         "classroom": "СК3; ",
         "lecturer": "Федосов А.В."
@@ -170,7 +170,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ТЕХН.ПР-ВА СПАРО",
         "classroom": "СК3; ",
         "lecturer": "Федосов А.В."
@@ -178,7 +178,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ТЕХН.ПР-ВА СПАРО",
         "classroom": "СК3; ",
         "lecturer": "Федосов А.В."
@@ -186,7 +186,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек СБ,ИС,РЕМ.СПАРО",
         "classroom": "СК3; ",
         "lecturer": "Федосов А.В."
@@ -194,7 +194,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лаб ТЕХН.ПР-ВА СПАРО",
         "classroom": "Лаб.Е2-1; ",
         "lecturer": "Серов С.Л."
@@ -202,7 +202,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лаб СБ,ИС,РЕМ.СПАРО",
         "classroom": "Лаб.Е2-1; ",
         "lecturer": "Серов С.Л."
@@ -210,7 +210,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лаб ТЕХН.ПР-ВА СПАРО",
         "classroom": "Лаб.Е2-1; ",
         "lecturer": "Серов С.Л."
@@ -218,7 +218,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр СБ,ИС,РЕМ.СПАРО",
         "classroom": "112*; ",
         "lecturer": "Федосов А.В."
@@ -226,7 +226,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр СБ,ИС,РЕМ.СПАРО",
         "classroom": "112*; ",
         "lecturer": "Федосов А.В."
@@ -234,7 +234,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр СБ,ИС,РЕМ.СПАРО",
         "classroom": "112*; ",
         "lecturer": "Федосов А.В."

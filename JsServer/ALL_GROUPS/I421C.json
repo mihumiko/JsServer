@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лаб ЭЛ-ТЕХ И ЭЛЕКТР",
         "classroom": "356*; 357*; ",
         "lecturer": "Баленко Н.А."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лаб ФИЗИКА",
         "classroom": "322*; ",
         "lecturer": null
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "326* Я; ",
         "lecturer": "Паньшина А.И."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "326* Я; ",
         "lecturer": "Паньшина А.И."
@@ -34,7 +34,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ФИЗИКА",
         "classroom": "338г*; ",
         "lecturer": null
@@ -42,7 +42,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр КОМП.ТЕХНОЛОГИИ",
         "classroom": "430; ",
         "lecturer": "Пушнякова Е.В."
@@ -50,7 +50,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр КОМП.ТЕХНОЛОГИИ",
         "classroom": "430; ",
         "lecturer": "Пушнякова Е.В."
@@ -58,7 +58,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек РТЦ И СИГНАЛЫ",
         "classroom": "315; ",
         "lecturer": "Рогожин В.А."
@@ -82,7 +82,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек РТЦ И СИГНАЛЫ",
         "classroom": "315; ",
         "lecturer": "Рогожин В.А."
@@ -90,7 +90,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лек ВЫСШ. МАТЕМАТ",
         "classroom": "493; ",
         "lecturer": "Марданов А.А."
@@ -98,7 +98,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лек ВЫСШ. МАТЕМАТ",
         "classroom": "493; ",
         "lecturer": "Марданов А.А."
@@ -106,7 +106,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "лек ТЕРМОДИНАМИКА",
         "classroom": "324; ",
         "lecturer": "Савин А.В."
@@ -114,7 +114,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "лек ТЕРМОДИНАМИКА",
         "classroom": "324; ",
         "lecturer": "Савин А.В."
@@ -122,7 +122,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ТЕРМОДИНАМИКА",
         "classroom": "219; ",
         "lecturer": "Савин А.В."
@@ -130,7 +130,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ОСН.СИСТ.АНАЛИЗА",
         "classroom": "374; ",
         "lecturer": "Евсеев В.И."
@@ -138,7 +138,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр РТЦ И СИГНАЛЫ",
         "classroom": "430; ",
         "lecturer": "Ярыгин Д.М."
@@ -146,7 +146,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лаб ЭЛ. МИКРОЭЛ. ПРИБ",
         "classroom": "423а; ",
         "lecturer": "Колачев И.О."
@@ -154,7 +154,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ОСН.СИСТ.АНАЛИЗА",
         "classroom": "434; ",
         "lecturer": "Евсеев В.И."
@@ -162,7 +162,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ЭЛ. МИКРОЭЛ. ПРИБ",
         "classroom": "315; ",
         "lecturer": "Флёров А.Н."
@@ -170,7 +170,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ЭЛ. МИКРОЭЛ. ПРИБ",
         "classroom": "315; ",
         "lecturer": "Флёров А.Н."
@@ -178,7 +178,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -186,7 +186,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ЭК ПО ФК И СПОРТУ",
         "classroom": null,
         "lecturer": null
@@ -194,7 +194,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ЭЛ-ТЕХ И ЭЛЕКТР",
         "classroom": "401*; ",
         "lecturer": "Баленко Н.А."
@@ -202,7 +202,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ЭЛ-ТЕХ И ЭЛЕКТР",
         "classroom": "401*; ",
         "lecturer": "Баленко Н.А."
@@ -210,7 +210,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ВЫСШ. МАТЕМАТ",
         "classroom": "455; ",
         "lecturer": "Пономарев  С.Ю."
@@ -218,7 +218,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ВЫСШ. МАТЕМАТ",
         "classroom": "497; ",
         "lecturer": "Пономарев  С.Ю."
@@ -226,7 +226,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ФИЗИКА",
         "classroom": "331*; ",
         "lecturer": "Котова Л.В."
@@ -234,7 +234,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ФИЗИКА",
         "classroom": "331*; ",
         "lecturer": "Котова Л.В."

@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "лаб КОНСТРУКЦ.ВЗРЫВ",
         "classroom": "СК-14; ",
         "lecturer": "Ялыч Е.С."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "лаб КОНСТРУКЦ.ВЗРЫВ",
         "classroom": "СК-14; ",
         "lecturer": "Ялыч Е.С."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ТЕОР. ЭНЕРГ. МАТ",
         "classroom": "243; ",
         "lecturer": "Генкин Ю.В."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ТЕОР. ЭНЕРГ. МАТ",
         "classroom": "243; ",
         "lecturer": "Генкин Ю.В."
@@ -34,7 +34,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лаб ТЕОР. ЭНЕРГ. МАТ",
         "classroom": "243; ",
         "lecturer": "Генкин Ю.В."
@@ -42,7 +42,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лаб ТЕОР. ЭНЕРГ. МАТ",
         "classroom": "243; ",
         "lecturer": "Генкин Ю.В."
@@ -50,7 +50,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ДЕТАЛИ МАШИН",
         "classroom": "456*; ",
         "lecturer": "Герасимов И.М."
@@ -58,7 +58,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лаб ДЕТАЛИ МАШИН",
         "classroom": "456*; ",
         "lecturer": "Герасимов И.М."
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -82,7 +82,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -90,7 +90,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -98,7 +98,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -106,7 +106,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -114,7 +114,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -122,7 +122,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -130,7 +130,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек КОНСТРУКЦ.ВЗРЫВ",
         "classroom": "СК-14; ",
         "lecturer": "Маслов Д.В."
@@ -138,7 +138,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек КОНСТРУКЦ.ВЗРЫВ",
         "classroom": "СК-14; ",
         "lecturer": "Маслов Д.В."
@@ -146,7 +146,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ТЕХ.СИСТ. ЗАЩИТЫ",
         "classroom": "СК11; ",
         "lecturer": "Москвин С.В."
@@ -154,7 +154,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ТЕХ.СИСТ. ЗАЩИТЫ",
         "classroom": "СК11; ",
         "lecturer": "Москвин С.В."
@@ -162,7 +162,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лек ТЕХ.СИСТ. ЗАЩИТЫ",
         "classroom": "243; ",
         "lecturer": "Москвин С.В."
@@ -170,7 +170,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лек ТЕХ.СИСТ. ЗАЩИТЫ",
         "classroom": "243; ",
         "lecturer": "Москвин С.В."
@@ -178,7 +178,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "лек КОНСТРУКЦИЯ АСП",
         "classroom": "СК11; ",
         "lecturer": "Москвин С.В."
@@ -186,7 +186,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лаб УСТР. БОЕПРИПАСОВ",
         "classroom": "СК11; ",
         "lecturer": "Панченко А.В."
@@ -194,7 +194,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лаб УСТР. БОЕПРИПАСОВ",
         "classroom": "СК11; ",
         "lecturer": "Панченко А.В."
@@ -202,7 +202,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ОСН.БАЛ.И АЭРОД.СП",
         "classroom": "СК11; ",
         "lecturer": "Павлов Я.О."
@@ -210,7 +210,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ОСН.БАЛ.И АЭРОД.СП",
         "classroom": "СК11; ",
         "lecturer": "Павлов Я.О."
@@ -218,7 +218,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лек УСТР. БОЕПРИПАСОВ",
         "classroom": "СК11; ",
         "lecturer": "Павлов Я.О."
@@ -226,7 +226,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лек УСТР. БОЕПРИПАСОВ",
         "classroom": "СК11; ",
         "lecturer": "Павлов Я.О."
@@ -234,7 +234,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "пр ОСН.БАЛ.И АЭРОД.СП",
         "classroom": "БЦ; ",
         "lecturer": "Павлов Я.О."
@@ -242,7 +242,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "пр ОСН.БАЛ.И АЭРОД.СП",
         "classroom": "БЦ; ",
         "lecturer": "Павлов Я.О."
@@ -250,7 +250,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ДЕТАЛИ МАШИН",
         "classroom": "460*; ",
         "lecturer": "Кротов Ю.В."
@@ -258,7 +258,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ДЕТАЛИ МАШИН",
         "classroom": "460*; ",
         "lecturer": "Кротов Ю.В."
@@ -266,7 +266,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ЭКСПУАТ. И ИСПЫТ.",
         "classroom": "СК11; ",
         "lecturer": "Москвин С.В."
@@ -274,7 +274,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ЭКСПУАТ. И ИСПЫТ.",
         "classroom": "СК11; ",
         "lecturer": "Москвин С.В."
@@ -282,7 +282,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лаб ЭКСПУАТ. И ИСПЫТ.",
         "classroom": "СК11; ",
         "lecturer": "Москвин С.В."
@@ -290,7 +290,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лаб ЭКСПУАТ. И ИСПЫТ.",
         "classroom": "СК11; ",
         "lecturer": "Москвин С.В."
@@ -298,7 +298,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр КОНСТРУКЦИЯ АСП",
         "classroom": "СК11; ",
         "lecturer": "Москвин С.В."
@@ -306,7 +306,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр КОНСТРУКЦИЯ АСП",
         "classroom": "СК11; ",
         "lecturer": "Москвин С.В."

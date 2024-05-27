@@ -2,7 +2,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "ВЦ 281; ",
         "lecturer": "Удовиченко А.С."
@@ -10,7 +10,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "пр ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "ВЦ 281; ",
         "lecturer": "Удовиченко А.С."
@@ -18,7 +18,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "252*; ",
         "lecturer": "Удовиченко А.С."
@@ -26,7 +26,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "20:05 Четная",
+        "time": "20:05",
         "discipline": "лек ИНФ.ТЕХН. И ПРОГР.",
         "classroom": "252*; ",
         "lecturer": "Удовиченко А.С."
@@ -34,7 +34,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "лек МАТЕМАТИКА 2",
         "classroom": "434*; ",
         "lecturer": "Леонтьев В.А."
@@ -42,7 +42,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "лек КОРП.СОЦ.ОТВ.",
         "classroom": "425*; ",
         "lecturer": "Иванов К.В."
@@ -50,7 +50,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "пр МАТЕМАТИКА 2",
         "classroom": "219*; ",
         "lecturer": "Леонтьев В.А."
@@ -58,7 +58,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "20:05 Четная",
+        "time": "20:05",
         "discipline": "пр КОРП.СОЦ.ОТВ.",
         "classroom": "425*; ",
         "lecturer": "Иванов К.В."
@@ -66,7 +66,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "пр МИКРОЭКОНОМИКА",
         "classroom": "413*; ",
         "lecturer": "Есипов А.В."
@@ -74,7 +74,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "пр ИСТОРИЯ",
         "classroom": "507*а; ",
         "lecturer": "Савинов М.А."
@@ -82,7 +82,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "20:05 Нечетная",
+        "time": "20:05",
         "discipline": "лек МИКРОЭКОНОМИКА",
         "classroom": "413*; ",
         "lecturer": "Есипов А.В."
@@ -90,7 +90,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "20:05 Четная",
+        "time": "20:05",
         "discipline": "лек ИСТОРИЯ",
         "classroom": "434*; ",
         "lecturer": "Попова В.В."
@@ -98,7 +98,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "304*; ",
         "lecturer": "Мартяхина Е.П."
@@ -106,7 +106,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "пр ИН. ЯЗ.",
         "classroom": "304*; ",
         "lecturer": "Мартяхина Е.П."

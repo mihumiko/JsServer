@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "лек БЖД",
         "classroom": "374; ",
         "lecturer": "Тюрина Н.В."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "лек БЖД",
         "classroom": "374; ",
         "lecturer": "Тюрина Н.В."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ДЕТАЛИ МАШИН",
         "classroom": "460*; ",
         "lecturer": "Ли В.А."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ДЕТАЛИ МАШИН",
         "classroom": "460*; ",
         "lecturer": "Ли В.А."
@@ -34,7 +34,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ГИДРОСИСТ.И МАШ",
         "classroom": "375; ",
         "lecturer": "Андреев О.В."
@@ -42,7 +42,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ГИДРОСИСТ.И МАШ",
         "classroom": "375; ",
         "lecturer": "Андреев О.В."
@@ -50,7 +50,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лаб ЧИСЛ.МЕТ.ПРОЕКТ",
         "classroom": "ДК; ",
         "lecturer": "Синильщиков В.Б."
@@ -58,7 +58,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лаб ГИДРОСИСТ.И МАШ",
         "classroom": "110; ",
         "lecturer": "Андреев О.В."
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -82,7 +82,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -90,7 +90,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -98,7 +98,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -106,7 +106,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -114,7 +114,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -122,7 +122,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -130,7 +130,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лаб БЖД",
         "classroom": "384б; ",
         "lecturer": "Фиев К.П."
@@ -138,7 +138,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лаб ДЕТАЛИ МАШИН",
         "classroom": "452*; ",
         "lecturer": "Беляев А.Н."
@@ -146,7 +146,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лаб ОСН.ПР-Я Р И РКК",
         "classroom": "СК А4; САПР; ",
         "lecturer": "Жеребин А.И."
@@ -154,7 +154,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лаб ОСН.ПР-Я Р И РКК",
         "classroom": "СК А4; САПР; ",
         "lecturer": "Жеребин А.И."
@@ -162,7 +162,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр БЖД",
         "classroom": "484; ",
         "lecturer": "Васильева В.К."
@@ -170,7 +170,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ИНЖ. ПАКЕТЫ ПП",
         "classroom": "ВЦ 285; ",
         "lecturer": "Дудин С.М."
@@ -178,7 +178,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лаб ИНЖ. ПАКЕТЫ ПП",
         "classroom": "ВЦ 285; ",
         "lecturer": "Дудин С.М."
@@ -186,7 +186,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ОСН.ПР-Я Р И РКК",
         "classroom": "САПР; ",
         "lecturer": "Иванов П.К."
@@ -194,7 +194,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ОСН.ПР-Я Р И РКК",
         "classroom": "САПР; ",
         "lecturer": "Иванов П.К."
@@ -202,7 +202,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ЧИСЛ.МЕТ.ПРОЕКТ",
         "classroom": "375; ",
         "lecturer": "Мелихов К.В."
@@ -210,7 +210,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ЧИСЛ.МЕТ.ПРОЕКТ",
         "classroom": "375; ",
         "lecturer": "Мелихов К.В."
@@ -218,7 +218,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр ПРОГ. В ML",
         "classroom": "СК А4; ",
         "lecturer": "Гагарский С.В."
@@ -226,7 +226,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр ПРОГ. В ML",
         "classroom": "СК А4; ",
         "lecturer": "Гагарский С.В."
@@ -234,7 +234,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек МЕХ.ЖИДК.И ГАЗА",
         "classroom": "КАБ.10; ",
         "lecturer": "Шалимов В.П."
@@ -242,7 +242,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек МЕХ.ЖИДК.И ГАЗА",
         "classroom": "КАБ.10; ",
         "lecturer": "Шалимов В.П."
@@ -250,7 +250,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лаб МЕХ.ЖИДК.И ГАЗА",
         "classroom": "лаб г/дин; ",
         "lecturer": "Шалимов В.П."
@@ -258,7 +258,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лаб МЕХ.ЖИДК.И ГАЗА",
         "classroom": "лаб г/дин; ",
         "lecturer": "Шалимов В.П."

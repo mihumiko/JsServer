@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ТЕОР.И ПР.КАМ.СГОР.ГТУ",
         "classroom": "ТМП-3; ",
         "lecturer": "Побелянский А.В."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр ТЕОР.И ПР.КАМ.СГОР.ГТУ",
         "classroom": "ТМП-3; ",
         "lecturer": "Побелянский А.В."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек НАДЕЖН.ТЕХН.СИСТ.",
         "classroom": "325; ",
         "lecturer": "Русина А.А."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек НАДЕЖН.ТЕХН.СИСТ.",
         "classroom": "325; ",
         "lecturer": "Русина А.А."
@@ -34,7 +34,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр НАДЕЖН.ТЕХН.СИСТ.",
         "classroom": "325; ",
         "lecturer": "Русина А.А."
@@ -42,7 +42,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ИСПЫТ.И ДИАГН.ГТУ",
         "classroom": "445; ",
         "lecturer": "Тарасов В.Н."
@@ -50,7 +50,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ИСПЫТ.И ДИАГН.ГТУ",
         "classroom": "444; ",
         "lecturer": "Тарасов В.Н."
@@ -58,7 +58,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лек ТЕОР.И ПР.КАМ.СГОР.ГТУ",
         "classroom": "498; ",
         "lecturer": "Юнаков Л.П."
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лек ТЕОР.И ПР.КАМ.СГОР.ГТУ",
         "classroom": "498; ",
         "lecturer": "Юнаков Л.П."
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "18:30 Нечетная",
+        "time": "18:30",
         "discipline": "пр ИСПЫТ.И ДИАГН.ГТУ",
         "classroom": "ТМП-2; ",
         "lecturer": "Каровецкий А.А."
@@ -82,7 +82,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "18:30 Четная",
+        "time": "18:30",
         "discipline": "пр ТЕПЛООБМ.ОБОРУД.",
         "classroom": "ТМП-2; ",
         "lecturer": "Локтев Ю.В."
@@ -90,7 +90,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "20:05 Четная",
+        "time": "20:05",
         "discipline": "лек ТЕПЛООБМ.ОБОРУД.",
         "classroom": "ТМП-2; ",
         "lecturer": "Локтева С.С."
@@ -98,7 +98,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -106,7 +106,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -114,7 +114,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -122,7 +122,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -130,7 +130,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -138,7 +138,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -146,7 +146,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -154,7 +154,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -162,7 +162,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "лек АВТОМ.И РЕГ.ТЕПЛ.МАШ.",
         "classroom": "325; ",
         "lecturer": "Русина А.А."
@@ -170,7 +170,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "лек АВТОМ.И РЕГ.ТЕПЛ.МАШ.",
         "classroom": "325; ",
         "lecturer": "Русина А.А."
@@ -178,7 +178,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр АВТОМ.И РЕГ.ТЕПЛ.МАШ.",
         "classroom": "325; ",
         "lecturer": "Русина А.А."
@@ -186,7 +186,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ОСН.МЕНЕДЖМЕНТ",
         "classroom": "422*; ",
         "lecturer": "Иванова Т.Д."
@@ -194,7 +194,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ОСН.МЕНЕДЖМЕНТ",
         "classroom": "433*; ",
         "lecturer": "Иванова Т.Д."
@@ -202,7 +202,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ОСН. ММ ВТП В ГТУ",
         "classroom": "СК2а; ",
         "lecturer": "Мустейкис А.И."
@@ -210,7 +210,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр НАУЧ-ИСС. РАБ.",
         "classroom": "ТМП-3; ",
         "lecturer": "Ярошенко Н.Т."
@@ -218,7 +218,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр НАУЧ-ИСС. РАБ.",
         "classroom": "ТМП-3; ",
         "lecturer": "Ярошенко Н.Т."
@@ -226,7 +226,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ОСН. ММ ВТП В ГТУ",
         "classroom": "ауд.БК Климов; ",
         "lecturer": "Мустейкис А.И."
@@ -234,7 +234,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ОСН. ММ ВТП В ГТУ",
         "classroom": "ауд.БК Климов; ",
         "lecturer": "Мустейкис А.И."

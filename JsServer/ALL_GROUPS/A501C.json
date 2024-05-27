@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр УНИРС",
         "classroom": "КАБ.10; ",
         "lecturer": "Махонин И.О."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ОЦ.СОСТ.И ПАР.ЛА",
         "classroom": "КАБ.10; ",
         "lecturer": "Алексеева К.С."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ПРОГР.ОБЕС.СРВ",
         "classroom": "277; ",
         "lecturer": "Костин И.Д."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек МЕТ. УПР.ЛА  И КА",
         "classroom": "КАБ.10; ",
         "lecturer": "Толпегин О.А."
@@ -34,7 +34,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек МЕТ. УПР.ЛА  И КА",
         "classroom": "КАБ.10; ",
         "lecturer": "Толпегин О.А."
@@ -42,7 +42,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ОЦ.СОСТ.И ПАР.ЛА",
         "classroom": "КАБ.10; ",
         "lecturer": "Алексеева К.С."
@@ -50,7 +50,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ОЦ.СОСТ.И ПАР.ЛА",
         "classroom": "КАБ.2; ",
         "lecturer": "Алексеева К.С."
@@ -58,7 +58,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лаб УСТР.И ФУНКЦ.КА",
         "classroom": "КТ; СК ИСС; ",
         "lecturer": "Дидковский Д.А."
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ТАУ ДИСК. СИСТ. ЛА",
         "classroom": "277; ",
         "lecturer": "Курилова Е.А."
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек УСТР.И ФУНКЦ.КА",
         "classroom": "КТ; СК ИСС; ",
         "lecturer": "Дидковский Д.А."
@@ -82,7 +82,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек УСТР.И ФУНКЦ.КА",
         "classroom": "КТ; СК ИСС; ",
         "lecturer": "Дидковский Д.А."
@@ -90,7 +90,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек ПРОГР.ОБЕС.СРВ",
         "classroom": "346; ",
         "lecturer": "Романов С.Л."
@@ -98,7 +98,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ПРОГР.ОБЕС.СРВ",
         "classroom": "259; ",
         "lecturer": "Романов С.Л."
@@ -106,7 +106,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -114,7 +114,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -122,7 +122,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -130,7 +130,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -138,7 +138,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -146,7 +146,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -154,7 +154,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -162,7 +162,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "пр ДОП. ПОДГОТОВКА",
         "classroom": null,
         "lecturer": null
@@ -170,7 +170,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр УНИРС",
         "classroom": "КАБ.2; ",
         "lecturer": "Махонин И.О."
@@ -178,7 +178,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр УНИРС",
         "classroom": "КАБ.2; ",
         "lecturer": "Махонин И.О."
@@ -186,7 +186,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр МЕТ. УПР.ЛА  И КА",
         "classroom": "ВЦ 282; ",
         "lecturer": "Сизова А.А."
@@ -194,7 +194,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ТЕОР.ПОЛЕТА КА",
         "classroom": "ВЦ 282; ",
         "lecturer": "Сизова А.А."
@@ -202,7 +202,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ТЕОР.ПОЛЕТА КА",
         "classroom": "КАБ.2; ",
         "lecturer": "Сизова А.А."
@@ -210,7 +210,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ТЕОР.ПОЛЕТА КА",
         "classroom": "КАБ.2; ",
         "lecturer": "Сизова А.А."
@@ -218,7 +218,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр СТОХ.МОД.БАЛ.БПЛА",
         "classroom": "ВЦ 284; ",
         "lecturer": "Лемешонок Т.Ю."
@@ -226,7 +226,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр СТОХ.МОД.БАЛ.БПЛА",
         "classroom": "ВЦ 284; ",
         "lecturer": "Лемешонок Т.Ю."
@@ -234,7 +234,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек СТОХ.МОД.БАЛ.БПЛА",
         "classroom": "КАБ.2; ",
         "lecturer": "Лемешонок Т.Ю."
@@ -242,7 +242,7 @@
     {
         "day": 6,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "лек ТАУ ДИСК. СИСТ. ЛА",
         "classroom": "КАБ.2; ",
         "lecturer": "Петрова И.Л."
@@ -250,7 +250,7 @@
     {
         "day": 6,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "лек ТАУ ДИСК. СИСТ. ЛА",
         "classroom": "КАБ.2; ",
         "lecturer": "Петрова И.Л."
@@ -258,7 +258,7 @@
     {
         "day": 6,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ЭКСПЕРИМ.БАЛЛИСТ.",
         "classroom": "КАБ.2; ",
         "lecturer": "Теляков Р.Ф."
@@ -266,7 +266,7 @@
     {
         "day": 6,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр ЭКСПЕРИМ.БАЛЛИСТ.",
         "classroom": "КАБ.2; ",
         "lecturer": "Теляков Р.Ф."
@@ -274,7 +274,7 @@
     {
         "day": 6,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ИНФ.БЕЗОПАСНОСТЬ",
         "classroom": "КАБ.10; ",
         "lecturer": "Рютин Б.В."
@@ -282,7 +282,7 @@
     {
         "day": 6,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ИНФ.БЕЗОПАСНОСТЬ",
         "classroom": "КАБ.10; ",
         "lecturer": "Рютин Б.В."
@@ -290,7 +290,7 @@
     {
         "day": 6,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "пр ИНФ.БЕЗОПАСНОСТЬ",
         "classroom": "КАБ.2; ",
         "lecturer": "Рютин Б.В."
@@ -298,7 +298,7 @@
     {
         "day": 6,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек ЭКСПЕРИМ.БАЛЛИСТ.",
         "classroom": "КАБ.2; ",
         "lecturer": "Теляков Р.Ф."

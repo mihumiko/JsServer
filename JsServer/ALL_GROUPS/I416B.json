@@ -2,7 +2,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр ТЕОР.УПРАВЛЕНИЯ",
         "classroom": "346; ",
         "lecturer": "Митин Ф.В."
@@ -10,7 +10,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр БЖД",
         "classroom": "477; ",
         "lecturer": "Кудаев А.В."
@@ -18,7 +18,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лаб БЖД",
         "classroom": "384б; ",
         "lecturer": "Васильева В.К."
@@ -26,7 +26,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек МИКРОПР. УСТР-ВА",
         "classroom": "324; ",
         "lecturer": "Сотникова Н.В."
@@ -34,7 +34,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек МИКРОПР. УСТР-ВА",
         "classroom": "324; ",
         "lecturer": "Сотникова Н.В."
@@ -42,7 +42,7 @@
     {
         "day": 1,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "пр МЕТ.КРОСС.ТРАНСЛ.",
         "classroom": "260*; ",
         "lecturer": "Шимкун В.В."
@@ -50,7 +50,7 @@
     {
         "day": 1,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "пр МЕТ.КРОСС.ТРАНСЛ.",
         "classroom": "260*; ",
         "lecturer": "Шимкун В.В."
@@ -58,7 +58,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "пр МИКРОПР. УСТР-ВА",
         "classroom": "423; ",
         "lecturer": "Пономарев С.Д."
@@ -66,7 +66,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр МИКРОПР. УСТР-ВА",
         "classroom": "434; ",
         "lecturer": "Пономарев С.Д."
@@ -74,7 +74,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лек ТЕОР.УПРАВЛЕНИЯ",
         "classroom": "315; ",
         "lecturer": "Митин Ф.В."
@@ -82,7 +82,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "лек ТЕОР.УПРАВЛЕНИЯ",
         "classroom": "315; ",
         "lecturer": "Митин Ф.В."
@@ -90,7 +90,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек БЖД",
         "classroom": "314; ",
         "lecturer": "Кудаев А.В."
@@ -98,7 +98,7 @@
     {
         "day": 2,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек БЖД",
         "classroom": "314; ",
         "lecturer": "Кудаев А.В."
@@ -106,7 +106,7 @@
     {
         "day": 2,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лек МЕТ.КРОСС.ТРАНСЛ.",
         "classroom": "313а; ",
         "lecturer": "Зимина Д.В."
@@ -114,7 +114,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "пр БАЗЫ ДАННЫХ",
         "classroom": "218*; ",
         "lecturer": "Мажайцев Е.А."
@@ -122,7 +122,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "9:00 Четная",
+        "time": "9:00",
         "discipline": "пр БАЗЫ ДАННЫХ",
         "classroom": "218*; ",
         "lecturer": "Мажайцев Е.А."
@@ -130,7 +130,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ПРЕДСТ.ЗНАН.В ИС",
         "classroom": "346; ",
         "lecturer": "Готин С.В."
@@ -138,7 +138,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ПРЕДСТ.ЗНАН.В ИС",
         "classroom": "346; ",
         "lecturer": "Готин С.В."
@@ -146,7 +146,7 @@
     {
         "day": 3,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "лаб ТЕОР.УПРАВЛЕНИЯ",
         "classroom": "277; ",
         "lecturer": "Кострыгин Д.Г."
@@ -154,7 +154,7 @@
     {
         "day": 3,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ИЗМ.ИНФ.СИСТЕМЫ",
         "classroom": "425; ",
         "lecturer": "Певишев С.А."
@@ -162,7 +162,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "пр УСТР.ФОРМ.СИГН",
         "classroom": "434; ",
         "lecturer": "Кочин Л.Б."
@@ -170,7 +170,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "12:40 Нечетная",
+        "time": "12:40",
         "discipline": "пр ПРЕДСТ.ЗНАН.В ИС",
         "classroom": "278; ",
         "lecturer": "Рохлин Н.С."
@@ -178,7 +178,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "12:40 Четная",
+        "time": "12:40",
         "discipline": "пр ПРЕДСТ.ЗНАН.В ИС",
         "classroom": "278; ",
         "lecturer": "Рохлин Н.С."
@@ -186,7 +186,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "14:55 Нечетная",
+        "time": "14:55",
         "discipline": "лек УСТР.ФОРМ.СИГН",
         "classroom": "313а; ",
         "lecturer": "Кочин Л.Б."
@@ -194,7 +194,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "14:55 Четная",
+        "time": "14:55",
         "discipline": "лек УСТР.ФОРМ.СИГН",
         "classroom": "434; ",
         "lecturer": "Кочин Л.Б."
@@ -202,7 +202,7 @@
     {
         "day": 4,
         "week_code": 1,
-        "time": "16:45 Нечетная",
+        "time": "16:45",
         "discipline": "лек БАЗЫ ДАННЫХ",
         "classroom": "313а; ",
         "lecturer": "Верхолат А.М."
@@ -210,7 +210,7 @@
     {
         "day": 4,
         "week_code": 2,
-        "time": "16:45 Четная",
+        "time": "16:45",
         "discipline": "лек БАЗЫ ДАННЫХ",
         "classroom": "313а; ",
         "lecturer": "Верхолат А.М."
@@ -218,7 +218,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "9:00 Нечетная",
+        "time": "9:00",
         "discipline": "лаб ИЗМ.ИНФ.СИСТЕМЫ",
         "classroom": "430; ",
         "lecturer": "Коноплёв Ю.В."
@@ -226,7 +226,7 @@
     {
         "day": 5,
         "week_code": 1,
-        "time": "10:50 Нечетная",
+        "time": "10:50",
         "discipline": "лек ИЗМ.ИНФ.СИСТЕМЫ",
         "classroom": "434; ",
         "lecturer": "Певишев С.А."
@@ -234,7 +234,7 @@
     {
         "day": 5,
         "week_code": 2,
-        "time": "10:50 Четная",
+        "time": "10:50",
         "discipline": "лек ИЗМ.ИНФ.СИСТЕМЫ",
         "classroom": "434; ",
         "lecturer": "Певишев С.А."
